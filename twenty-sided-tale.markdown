@@ -7258,8 +7258,8 @@ plunges down into the churning sea below. On the southern side of the
 building are a few stone steps that, if you were to decend them, would
 drop you down the cliff into the ocean.
 
-> I don’t know if anyone thought about this or figured it out, but
-> just so this doesn’t sound like gibberish:
+> I don't know if anyone thought about this or figured it out, but
+> just so this doesn't sound like gibberish:
 >
 > The idea is that a hundred years ago this place was still in use.
 > These stone steps led down to a wooden scaffold which held a set of
@@ -7285,11 +7285,11 @@ building. The hatch is locked.
 
 Eomer tosses him a rope. Skeeve ties one end to the iron handle of the
 hatch, and throws the rest back down so the others can climb up. Eomer
-and Thu’fir come up, and Eomer picks the lock.
+and Thu'fir come up, and Eomer picks the lock.
 
 All of this is a bit confusing. It seems like there is a lot of
 security here, all of which can be easily circumvented with a bit of
-rope. What’s the use of having a magical front door if someone can
+rope. What's the use of having a magical front door if someone can
 enter through a mundane, non-magical hatch in the roof?
 
 > The idea is that this place was build to repel invaders, not
@@ -7304,15 +7304,15 @@ perhaps very near airtight. From what little daylight makes it in
 through the hatch, he can see that he is at the top of a rickety
 wooden staircase leading down to floor level. This room is either a
 small library or a large study. Bookshelves line the outer wall.
-Taking a light, he goes down alone and explores the room. He’s careful
+Taking a light, he goes down alone and explores the room. He's careful
 to remain silent, and keep his eyes open for traps. This place was
 made by wizards, and there is no telling what sorts of surprises they
 left for intruders.
 
 In the middle of the room is a statue with a couple of valuables
-(gear) placed upon it. He doesn’t even bother checking for traps –
+(gear) placed upon it. He doesn't even bother checking for traps –
 this is exactly the sort of thing a wizard would put there to lure a
-thief. He gives the statue a lot of room. He’s not here to rob the
+thief. He gives the statue a lot of room. He's not here to rob the
 place.
 
 There are a couple of tables here, but no chairs. Two doors lead to
@@ -7340,16 +7340,16 @@ Skeeve looks at the front door. He looks at the fancy red rope.
 Pondering this, he figures that if he pulls down on the rope it will
 open the door, and let Garret and Endo in.
 
-> Dan (Skeeve): I’m going to pull the rope.
+> Dan (Skeeve): I'm going to pull the rope.
 >
-> Pat (Eomer): No you’re not.
+> Pat (Eomer): No you're not.
 >
-> Dan: No, I’m tired of this sneaking around. It’s obvious this rope
+> Dan: No, I'm tired of this sneaking around. It's obvious this rope
 > opens the door.
 >
-> Pat (Eomer): Don’t!
+> Pat (Eomer): Don't!
 >
-> Dan: What’s the worst that can happen? I pull the rope.
+> Dan: What's the worst that can happen? I pull the rope.
 
 Skeeve pulls the rope. The door does not move, but from the tower
 above they can hear the booming sound of a large bell ringing.
@@ -7379,7 +7379,7 @@ He uses it and lets Endo and Garret inside.
 > The thinking here is that the tower-guy would have also seen the
 > visitors. If the visitors use some sort of magic to charm the door
 > guard, but neglect to do so for the unseen fellow in the tower, then
-> they will be thwarted, since they guy at the door doesn’t have the
+> they will be thwarted, since they guy at the door doesn't have the
 > power to open it.
 
 Back in the library, the rest of the party is still exploring. The
@@ -7392,3 +7392,241 @@ unspoiled since then.
 
 It is getting dark. They prepare a modest meal sleep on the bare
 floor.
+
+## Session 12
+
+> Here we are at a pivotal session in the campaign. We played for five
+> hours, and the notes I have cover less than a paragraph. Sigh. I
+> REALLY wish I had the audio of these sessions.
+
+The party awakens in the Mages archives. They spend some time going
+through the library, and find some books of use. They learn the
+location of the shaft dug by the dwarves who imprisoned Fiore. They
+decide this is an interesting find. The site is less than a day from
+here. It is finally decided that they will go there in search of
+clues.
+
+They want to be able to get back into the archives without breaking in
+again, so they leave Garret and Endo behind. The party sets out for
+the mountain.
+
+They head due north for most of the day, and then turn west and travel
+along the base of the southern cliff. They are looking for the clues
+and signs that indicate the entrance to the prison of fiore. Night
+comes and they are obliged to stop, or risk blundering by the entrance
+in the dark.
+
+Morning comes and they begin again. At mid-day Thordek finds some
+subtle hints, some indications of long-past excavations. Moving on, he
+spots more such signs, which leads them to a heap of loose rocks –
+nearly gravel – piled against the side of the mountain. Into the cliff
+face they can see the faded carving of a number of Dwarven runes.
+Thordek can't make any sense of them, until Skeeve points out that
+they are only seeing half of the runes, the bottom half of the letters
+is hidden beneath the dusty rocks. They clear away the rocks and sort
+out what the runes say. Skeeve reads them. Nothing happens.
+
+Thordek reads them, and there is a rumbling sound. A semicircle
+crevice appears over the heap of rocks.
+
+Then they realize that what they have been looking at is a round door
+built into the face of the cliff with the opening words carved into
+the center. The rocks were piled here, or fell from the face of the
+mountain, and covered the lower half of the door.
+
+The door is no longer working right, most likely due to the debris
+stacks against it. It cracks, then splits, then tumbles inward.
+
+Behind the door is a tunnel, reaching into the heart of the mountain.
+Thordek examines the tunnel work and observes that this was not a
+proper Dwarven mining tunnel. This was dug carelessly and in great
+haste. The work is rough and ugly to his eyes. They venture inward.
+Enoch leads, holding his enchanted mace above his head to provide them
+with a steady white light.
+
+The tunnel branches off from time to time. Some tunnels are partly
+flooded, which makes progress problematic.
+
+> Let's skip the maze. The upshot here was that the tunnel would often
+> fork off. The players eventually figure out that the Dwarves who dug
+> this were trying to dig in a straight line, but were sometimes
+> thwarted by rotten rock, flooding, and cave-ins, and were thus
+> obliged to back up and route around the bad spot.
+>
+> In the end, they realized that when they came to a fork they should
+> take the branching path, and not the one directly ahead.
+>
+> There were also some critters in here to fight. Can you believe I
+> can't remember what they were?
+
+The tunnel continues forward and slightly downwards for what seems
+like miles. At last they come to an open chamber, illuminated with a
+faint green glow. In the center of the room is a steel box of obvious
+Dwarven make, and a little smaller than the height of a Dwarf. Skeeve
+can see that the box is bathed in magic.
+
+Even here, deep in the sunless underground, the floor is thick with
+soft grass. Vines climb up the walls of the chamber. The pools of
+water in the room have lillypads floating in them.
+
+Around the room is a not insignificant haul of treasure. Dwarven
+weapons and armor, slightly worn and tarnished by their long years in
+this cave, are in neat stacks around the room. Thordek notes a shirt
+of fine chain spread out on the floor. A shield rests neatly atop of
+it, and a hammer is laid accross its breast. These stacks are not
+heaped here without purpose. These are most likely memorials to the
+Dwarves who perished in the making of this tunnel.
+
+There are also heaps of other treasure in the room. There are very old
+gold coins here, minted by some long-dead kingdom. There are also
+rough bits of (they assume) valuable ore or rough gems, most likely
+broken loose and piled here in this chamber. It is unclear why the
+Dwarves, who waged such war for control of the mountain and its
+riches, would then leave so much behind.
+
+> This was never explained to the players, but the idea is that Fiore
+> put a curse on the treasure of the mountain. The Dwarves were brave
+> in the face of this, but also wanted to dodge their punishment if
+> they could. They sort of hoped that the curse would only apply to
+> the stuff in this room where the curse was imposed, and that by
+> leaving this stuff behind they would then be free to loot the rest
+> of the mountain with impunity.
+>
+> Obviously that didn't work.
+
+Eomer warns everyone not to touch the treasure.
+
+> They played this through in-character. It was funny to dangle all
+> this loot in front of them and to see if they would bite.
+>
+> The way the curse works is to change your perceptions of other
+> people who also have taken from the mountain. It makes you jealous
+> and distrusting of them. In time this leads to hatred and paranoia.
+> Now, I can't impose that sort of business onto the characters. If
+> they had lifted the treasure, I couldn't MAKE them hate each other
+> or the various NPCs in the game. The players understood that the
+> curse bred conflict between people who took the riches of the
+> mountain, but they also understood in a metagame sense that this
+> sort of thing couldn't apply to them.
+>
+> One of my brothers asked me point-blank at one point, "so what would
+> happen if we took some of it?" Of course, I couldn't give that away
+> just yet, but I can explain it now:
+>
+> If they had taken the treasure, then the other NPCs would begin to
+> hate them. They would take a huge (probably insurmountable) penalty
+> to diplomacy and other charisma-based interactions. Bluffing would
+> be impossible and people would imagine them to be liars even when
+> they were being truthful. This is particularly true of the leaders
+> they would meet. The more powerful an individual was, the more he
+> would hate our heroes.
+>
+> I have to hand it to the players. They didn't know what (if any)
+> consequences there would be, but they didn't touch the treasure when
+> they saw it. There was a lot of stuff here, and they could have made
+> themselves rich if they had taken the time to haul it all out.
+
+Enoch lowers his mace and the white light winks out.
+
+The box is covered in many cruel Dwarven runes, which seem to be
+giving off the light they are seeing. It is sealed shut and wrapped in
+many chains and locks. The runes are magical, but neither Skeeve or
+Thordek can make any sense of them. Whatever magic was used in the
+making of this thing, it is well beyond any of them.
+
+They gather around the box in the dim green light of the cave. So what
+now?
+
+Then they hear a whisper. The voice sends chills through them. It is a
+feminine voice, barely audible, coming from the box. It is the voice
+of Fiore.
+
+The players hear the voice of Fiore. It is a very quiet (they can't
+even tell if it is truly audible or simply in their minds) but it is
+also potent. It is a cold, feminine voice.
+
+> What or who is Fiore? Is "she" really the spirit of a mountain? The
+> spirit of a people who were genocided long ago? A demigod who abides
+> within a mountain? Some ancient ghost or spirit?
+>
+>
+> This was left for the players (and, by extension, the readers) to
+> ponder.
+>
+> The conversation with her went on for a while. The players worked
+> out that yes, this really is the Fiore of old. Yes, she was
+> imprisoned by the Dwarves. Yes, she created the curse. Yes, this box
+> is a prison for her spirit which blocks all of her supernatural
+> power. Her power only extends far enough to fill this room with
+> grass (which she sort of can't help, actually) and allow her to
+> "speak" to anyone within a few feet of the box.
+>
+> Finally, Fiore asks if they have come to free her. The players were
+> just looking for answers, really. They are not sure what to do. Then
+> one of them (Eomer or Skeeve) asks if the box could contain the
+> spirit of Mordan.
+>
+> Fiore thinks it can. The players never question this, which I would
+> have if I were in their shoes. I'd expect an imprisoned being of
+> incredible power to be willing to give me just about any story to
+> get me to open the box.
+
+They deliberate for a while, but the solution seems too perfect to
+really consider walking away. They agree to free Fiore.
+
+She thanks them. However, she warns them that they should be quick.
+Once she is out she is going to kick everyone off of the mountain.
+Once she is released, they should run. For their lives.
+
+They agree. Eomer picks the locks. The lid is pulled back, and a
+brilliant light floods out. The ground begins to shake.
+
+Skeeve pitches the Orb of Mordan into the box and they quickly lock it
+shut once again. Then they make a mad dash for the surface. As they
+run, they can feel the tunnel collapsing behind them.
+
+They charge out of the broken stone doorway into the late afternoon
+light. The ground is shaking violently and a gargantuan column of
+black soot is shooting out of the mountain. The invaders that have
+made their homes and fortunes on the slopes of Fiore for the past few
+centuries are going to leave, or die.
+
+They head south as quickly as possible. It is snowing ash. They are
+tired but they press on, not wanting to rest at the foot of the
+mountain in its fury. After dark the mountain subsides. Ash fills the
+air. Enoch's light can barely penetrate the black fog. They do their
+best to hold a direct southward course desipte their lack of bearings.
+
+> If I had been more diligent I would have Googled around and found
+> out how far volcanic ash can spread, how deep it gets, and how long
+> it hangs around once the mountain settles down. I wanted to create a
+> situation where the mountain itself was perilous to approach, but I
+> didn’t want to go Pompei on them. The island itself should be fine
+> once they dust everything off.
+
+By morning they draw near the sea and find they are at last escaping
+the cloud. They have been awake and on the move for over twenty-four
+hours by now. They are coated in ash, bruised, and weary.
+
+Summoning the last of their strength, they press on until they reach
+the Mages Archives. Once there, they collapse and sleep for the next
+two days. Endo and Garret prepare them a cooked meal in the kitchen.
+Once they have cleaned up and eaten, they meet in the library to plan
+their next move.
+
+Mordan’s Orb is imprisoned in a magic-proof box which was strong
+enough to hold a being as mighty as Fiore. That box in now buried in
+the unreachable depths of the mountain, and they alone know where it
+is. This is probably an even better prison than his former one,
+although they still need to see to the difficult job of getting him
+into it. They still need to defeat Mordan one last time. If he is
+struck down now, his spirit will reform within the box, and he will be
+trapped forever.
+
+The curse of the mountain is also lifted. Everyone wonders what effect
+this will have on the Queen and her minions.
+
+And what effect will the mountain’s erruption have on everyone?
+
+They have many questions, but they are a two day’s journey from the
+answers. First things first. They rest.
