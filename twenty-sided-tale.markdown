@@ -3804,3 +3804,365 @@ as if the devil himself pursued them. They are tired. They have had
 only a few hours of sleep over the last few days, but they want to put
 some distance between themselves and the city before they can consider
 rest.
+
+## Session 6
+
+### 9th of Last Summer, 1501dy (Night)
+
+Everyone is very tired. Eomer most of all. They left the city of
+Crossway about a half an hour ago and have been riding south at a
+steady pace since then. At last they halt and discuss their next move.
+
+Eomer wants to split the party up, sending Enoch and Skeeve back north
+to the library in Breakshore while the rest of them head south and
+locate Endo. Beck doesn't like this plan. There is a heated debate.
+
+> I really advised them against this. In-game it made sense, although
+> out-of-game it would split our time and make the game a great deal
+> less fun. It would confuse me trying to keep track of dates & events
+> for two seperate concurrent groups. Over a day or two this wouldn't
+> be a problem, but they were talking about parting ways and meeting
+> back at this spot in two weeks (in-game time). That was going to
+> span multiple sessions and cause all sorts of headaches.
+>
+> This is one of those situations where reasoning had to give way for
+> the sake of keeping the game fun & manageable.
+
+They decide to stay together for now and ride south to the next town.
+They recall that Noreeno said they would find Endo in one of the towns
+between the rivers. This means there are four towns where he may be
+found. Perhaps they can learn a bit more and then have a better idea
+of what they should do next. They review the map...
+
+![](images/map_mar_tesaro.gif)
+
+...and decide to head for the town marked "Dockhouse". A little after
+midnight they have to ride over an arching bridge, taking them into
+Central Mar Tesaro.
+
+### 10th of Last Summer, 1501dy
+
+At about 2:30 am they come to Dockhouse. The entire "town" is a
+collection of four buildings. Down by the lakeshore there is a
+Dockhouse where a large ferry sits quietly in the water. There are two
+other houses and some stables. The entire population of the town is
+doubtless less than two dozen. The town seems to exists simply to care
+for the ferry.
+
+An Alidian solder is here. He has left off most of the standard
+uniform and is only wearing the red and white shirt. He is standing by
+the well, holding a lantern. He looks relaxed. This town obviously
+sees little in the way of excitment. The guard hails them as they
+approach and examines their travel papers. Once he's satisfied, they
+learn that the basement of the largest house serves as a flophouse
+where they may spend the night. There is also a small stable available
+for the horses. They drop a few coins to secure the services they
+need, and then head to bed.
+
+The flophouse is a crowded room with hard, military-style cots along
+the wall. There are beds for eight, although they are the only ones
+here tonight. The place is dusty and shabby. They tumble into the beds
+and begin to sleep. However, Skeeve decides to stay up an hour and
+work on his orb. He studies, but is very tired and has a rough time of
+it. Nevertheless, he does meet with some success and learns more about
+ownership.
+
+![](images/orb_o2.gif)
+
+They sleep all night and well into the morning. By noon they are up
+and wondering what to do next. They elect to spend the day here so
+that Enoch and Skeeve can study some more. The others spend the day
+outside. They feel safe in this quiet, out-of-the-way little town.
+Eomer suggests that they make an effort to move around in secret,
+traveling by night and sleeping by day. The others agree. In the
+meantime, Skeeve has some more success with his studies:
+
+![](images/orb_o3.gif)
+
+Night falls. As Enoch and Skeeve complete their studies they hear
+yelling outside. The party dashes outside.
+
+In the center of town they see a hideous beast looks like an undead
+human. However, instead of moving zombie-like, it seems to move with
+inhuman speed and grace. The eyes give off a dim red light. It is
+dressed in flowing black rags. The body is dried out and wiry, but
+isn't falling apart. It looks tough and hard. As the run from the
+basement into the moonlight, they see the beast is throttling the
+guard. Eomer concludes that it is after Skeeve. He orders that Enoch
+and Skeeve make for the stables and try to escape while the rest of
+the party deals with it. It is fast, but they doubt it can keep0 up
+with a horse.
+
+The creature tosses the body of the guard to one side and heads
+directly for Skeeve. It moves to cut off his escape. The battle is
+joined.
+
+Their blades flash in the moonlight as they fight. It is terrifyingly
+fast, but they overcome it with their numbers and fell the beast.
+Skeeve suggests they break its head to make sure it doesn't rise
+again. Enoch decides to check on the guard and see if there is any way
+to help him. To his surprise, the guard is on his feet, walking
+towards him.
+
+"Need help? You ok?", Enoch asks.
+
+The guard doesn't respond. He is pale and silent as he makes his way
+over to Enoch.
+
+Thu'fir rolls his eyes. He can see where this is going, and he knows
+its going to end badly.
+
+Enoch tries again to address the guard but is attacked. He is clearly
+undead. Thu'fir dispatches him easily.
+
+The Dock wardend emerge from their homes to see the aftermath. There
+is a very akward conversation as they explain why Thu'fir was killing
+the town guard. Things are tense for a few minutes until everything is
+explained.
+
+The party realizes that Mordan must know where they are. They are
+placing this village in danger by staying. They decide to leave now.
+It is only an hour or so after sunset, and they should be able to
+cover some distance tonight if they depart quickly. The townspeople
+make it more or less clear that the party has worn out their welcome.
+They understand why their friend was killed, but there seem to be some
+hard feelings that would be best healed by distance.
+
+They head north, out of town. Tal Podere seems to be the next closest
+town, so they head in that direction...
+
+### 11th of Last Summer, 1501dy (Midnight)
+
+They travel west, heading for the town of Tal Podere. As morning draws
+near, they pass a number of the Queen's elite guards walking along the
+road in the opposite direction.
+
+They have never seen the guards from this close. The helmets completly
+cover their heads, giving them no way to see out. Each helmet has the
+symbol of the Alidian army stamped on the front, where the wearer's
+face would be:
+
+![](images/flag.gif)
+
+Clearly the helmets are magical, although perhaps the men that wear
+them are magical as well. They never seem to get tired or need rest.
+
+The party has discussed these soldiers before. Noreeno implied that
+these soldiers somehow communicated with the Queen. The soldiers
+themselves seem a bit mindless. They never speak. How does she control
+them? Telepathy? Mind control? That have no idea. However, there does
+seem to be some connection. Perhaps they can use these soldiers to
+communicate with the Queen and let her know about Mordan.
+
+Eomer yells at them to stop. They ignore him. He gets down from his
+horse and stands in their path as they march. The leader reaches for
+his sword. Eomer holds up his hands in a peaceful gesture, which is
+ignored. He holds his ground and tries to engage the soldier in
+conversation. The sword is drawn. Eomer backs out of its way. The
+sword returns to his side.
+
+Eomer gives up and simply jogs alongside them (they march very fast)
+as he talks. He tells them that Mordan is free and that Noreeno seems
+to be some sort of betrayer. He relates the important points of the
+last few days. The solders never acknowledge him in any way.
+
+Shrugging, he returns to the others. He's done what he could to let
+the Queen know. They have no idea if it worked or not.
+
+They reach the city in late morning. Tal Podere is a medium city, less
+than half the size of crossway. The buildings are low and made of
+wood. There is very little stonework here in town. Most of the
+buildings are built along a single street, which is wide and filled
+with ruts. (To modern eyes, this town would look vaguely old-west –
+Shamus) It has a wide open area around the well in the center of town.
+The gates are manned by conventional guards; no elite guards are to be
+seen.
+
+They are pulled over at the gate, and their papers are inspected. Once
+everything is settled, the enter the city.
+
+They are sent to the Magistrate. Magistrate K'dar Stonefist is a wise
+old Dwarf. Once the party has gethered before him, he informs them
+that he has a notice from Magistrate Noreeno, warning him that five
+outsiders had killed a number of his soldiers and stolen some horses.
+Noreeno also suggested in his letter that these men were Lormanites,
+and that they should be killed on sight.
+
+The party is furious. There seems to be no end to Noreeno's trechery.
+
+Stonefist seems unsurprised. He then demands they give an account of
+themselves. Eomer relates the events of the past few days. The
+magistrate doesn't seem to doubt his story at all. Once complete,
+Stonefist reveals that Noreeno has been distrusted for a long time
+among the other town leaders.
+
+Eomer asks him about the soldiers they found traveling north.
+Stonefist explains that they left here yesterday. He doesn't control
+them directly, of course. They obey the mysterious will of the Queen
+from afar. As the Magistrate, he can sometimes get the elite guards to
+obey simple orders, but mostly they come and go according to her will.
+He expects she is moving troops around, and that they will get more
+elite guards soon; she never leaves the town without her own guards
+for long.
+
+Stonefist pronounces them innocent of any wrongdoing, and invites them
+to make themselves at home in his town. They party bids him good-day
+and retires to the inn. Later in the day, a note is delivered to
+Thordek that invites him back to the magistrate's office.
+
+Thordek visits K'dar Stonefist in his office. The two Dwarves begin by
+speaking of Dwarven things: Where they are from and who they are
+related to. They discuss stonework and family trees for some time
+before K'dar turns the conversation to business.
+
+> This conversation was held in private, away from the other players.
+> Rather than give a detailed account of the talk, I'll just sum up
+> here. I'd also ask that if any of the players are reading this,
+> please skip it.
+>
+> The upshot of the convsersation is that K'dar thinks Thordek is a
+> fellow spy, helping to plan the invasion of the island. It seems
+> that the Dwarves have been living here for years, and that they are
+> planning something big soon. K'dar thought perhaps that Thordek
+> would bring new news, and was disappointed to find that Thordek was
+> not privy to the coming war. He assures Thordek that the time is
+> coming when the Dwarves will reclaim Khelberg.
+
+Back at the inn, Skeeve studies the orb and learns the following:
+
+![](images/orb_g2.gif)
+
+That afternoon, the party members are summoned back to the
+Magistrate's office to attend a town council that has been called.
+Many of the town leaders have gathered here, and Stonefist wants
+everyone to hear what Eomer told him earlier.
+
+K'dar does not trust the cleric magic and zone of truth. Noreeno used
+it often and it seemed to be a tool to mislead. K'dar prefers they
+speak plainly of their business. He will trust the words of another
+dwarf.
+
+Once the story of Noreeno is finished, the town leaders comment. It
+seems the name of Mordan is mostly legend, and much of his history has
+been forgotten. He has become a story to scare children at night, and
+much of his tale has been twisted. Some tales remember him as a
+Vampire King, and others as a man who was half-dragon, or half-devil,
+or any other of a number of variants on the tale.
+
+K'dar has not trusted Noreeno in months. Noreeno has been claiming the
+resistance has been harassing his borders, taking food and supplies.
+Over the past few months, he has constantly requested more food, man,
+and supplies. A month ago, K'dar sent one of his own men to visit the
+city under the guise of a merchant courrier. He reported the city was
+secure, and the soldiers he had amassed were guarding the city and not
+searching the countryside for Lormanites.
+
+Noreeno has been moving troops around in odd ways. He sends back some
+divisions saying they "lack dicipline". The men are fine and fit.
+K'dar suspects their loyalties are not as flexible enough to suit
+Noreeno.
+
+Eomer tells him that Noreeno killed their four elite soldiers.
+Stonefist is not surprised and mentions that same night his four gate
+soldiers left.
+
+At this point a town guard stepps into the room and informs the
+Magistrate that a set of four new elite solders have just arrived and
+are now guarding the gates of the city.
+
+Eomer immediately leaves.
+
+Outside, it is sunset. The four new royal soldiers have taken their
+place at the north side of town. The uniform of the elite soldiers is
+simple: They wear the metal helmets and black pants. They are
+bare-chested and carry a single broadsword at their side. Eomer draws
+near to the guards and sees that one of them has tatoos on his chest.
+It is Endo.
+
+Eomer waves at him but gets no response.
+
+He goes back into the meeting, where the town members are still
+arguing about the veracity of the various legends of Mordan. Eomer
+whispers to the group that he has found Endo.
+
+They decide to talk to the magistrate after everyone leaves. Thordek
+will do the talking.
+
+The meeting ends and everyone heads home. Thordek asks the magistrate
+for help in recovering their friend.
+
+K'dar replies, "It is treason for me to harm these guards. However, I
+can command the soldiers to do simple things. If you like, I can order
+him to patrol north of the city. Perhaps you can catch him alone. You
+can do as you will then. I doubt he will be missed in the confusion
+with Noreeno. Don't tell me anymore about it. Agreed?"
+
+They retire to the inn. The casters go study. Fifteen minutes later
+there is much yelling and shouting. Eomer sees the guards attacking a
+creature trying to slink into town. K'dar comes out and checks on
+things and sees that all is well.
+
+Skeeve and Enoch continue to study. Skeeve learns what happens when
+the sphere is destroyed.
+
+![](images/orb_e2.gif)
+
+This at least explains why nobody has destroyed the orb. He also
+learns that Mordan will appear back at the orb, slightly weaker with
+each death.
+
+![](images/orb_g3.gif)
+
+Enoch works on the book, but doesn't manage to translate a new chapter.
+
+### 12th of Last Summer, 1501dy
+
+Morning comes and the party continues in their habit of sleeping during the day.
+
+Enoch heads to the library to check and see if there is anything of
+use. He does find some language books that help. He then studies while
+he waits.
+
+Skeeve studies the orb and learns the following:
+
+![](images/orb_e3.gif)
+
+The day passes and evening comes Just as the sun is setting K'dar
+marches out to Endo and tells him to go look for another creature like
+last night. He marches northward at a steady pace.
+
+Beck, Thu'fir, Eomer, and Thordek follow at a discrete distance. They
+follow him into the dark woods north of town. Once clear of the ears
+of outlying farms, Eomer attempts to sneak up behind him and knock him
+out. Endo turns and attacks. His movements seem stiff and slow. He's
+using the sword and not his hands. Apparently he is just a simple
+puppet when under the control of the Queen and not able to make use of
+martial arts. This makes the fight a lot easier. The party pile onto
+him in a frantic meele of elbows and knees. Thu'fir manages to pull
+off the helmet and Endo instantly falls limp. They wake him.
+
+He wakes, panicked that he can't see.
+
+Eomer comforts him, "It's night Endo, give your eyes time to adjust."
+
+"No. I cannot see.", Endo insists.
+
+Enoch brings his glowing mace near. Endo lifts his head to reveal that
+his eyes have been sewn shut. "Where is the prince?", Endo demands.
+
+Despite his blindness, he doesn't seem to have lost his dedication to
+whatever task he was on. He then says he feels sick and starts
+throwing up. Eomer gives him his fighting staff. Endo attempts to put
+it on his back, but his things are all gone. Eomer takes the knee pads
+and elbow parts of the armor and puts them in his pack. They lead Endo
+back into town with Thu'fir's cloak over him.
+
+They sneak him into the inn. Having just attacked an elite guard, they
+don't want to be seen strolling back into town with him. They bring
+him up to Enoch's room, where Enoch uses his powers to cure Endo's
+blindness.
+
+Endo still looks terrible, however. He looks like he's lost a bit of
+weight. Since he was all muscle before, this is a bad thing. He is
+tired and shaking. They let him sleep. The account of his travels will
+have to wait until morning.
