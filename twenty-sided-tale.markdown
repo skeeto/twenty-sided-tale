@@ -8470,7 +8470,8 @@ recordings. I can't believe I lost them.
 
 Still, step 1 is getting the band back together.
 
-**Do you ever "cheat" by faking dice rolls to help or hinder the players?**
+**Do you ever "cheat" by faking dice rolls to help or hinder the
+players?**
 
 I don't roll the dice, get a 1, but then just pretend I got a 15.
 Still, there are all sorts of ways the DM can nudge things without
