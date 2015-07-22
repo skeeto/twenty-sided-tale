@@ -918,7 +918,7 @@ rope netting and recover the sail. Eomer is blown off as he reaches
 and misses. He falls into a wet coil of ropes on the deck.
 
 > Although, even the most nimble of characters can still have a bad
-> roll once (or twice) in a while....
+> roll once (or twice) in a while...
 
 Eomer is still conscious after the fall but is hurt. He gets back to
 his feet and attempts to climb back up. He climbs back up but nearly
@@ -2843,7 +2843,7 @@ Mercenary? Spy?"
 "No."
 
 "I didn't think so. I just had to ask, you understand. Just routine.
-Next question...."
+Next question..."
 
 "Okay."
 
@@ -3793,7 +3793,7 @@ to leave.
 
 He shakes his head, "No more adventures, boys. I got myself a job
 hauling goods around for a shop and I start tomorrow, I need some
-sleep...."
+sleep..."
 
 Skeeve cuts him off and explains that he has to leave, and the city is
 no longer safe for him. They relate a few of the events that have
