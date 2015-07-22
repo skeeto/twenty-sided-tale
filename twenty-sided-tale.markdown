@@ -3051,3 +3051,709 @@ him. He learns the following:
 Eomer returns to the Inn. They have a free day to spend in town, and
 then they must head off to Vale Calma to meet with Magistrate Noreeno
 and find out what job he has for them...
+
+## Session 5
+
+### 7th of Last Summer, 1501dy (Late Afternoon)
+
+Enoch heads back to the Inn. He plans to spend the evening translating
+another chapter of the old book they found. This takes about five
+hours, at the end of which he has successfully translated the
+following:
+
+<div class="document">
+**Part III: Spirit of Fiore**
+
+*The previous section records the tale of Thul Marblade, how he
+exterminated a supposedly idyllic race of mountain Elves and claimed
+Khelberg as his own. This section attempts to gather together the
+different accounts of Marblade's rule and form a single coherent tale.
+The varying stories (mostly oral, as a rule) conflict in many ways but
+all have a few common threads. Most importantly, the actions of the
+"Spirit of the Mountain" are, in different accounts, attributed to
+various gods and deities. Nevertheless, the underlying theme of
+punishment and curse is present in all variants of the tale.*
+
+*It is recorded here for those curious about ancient myths and
+folklore. The reader should not view this as a work of history.*
+
+– Chronicler Norvus
+
+Thul Marblade took the Elven lands of Mt. Fiore, destroyed the Elves
+that dwelt therein, and renamed it Khelberg. Once all was under his
+dominion, he sought the depths of the mountain.
+
+Yet the Spirit of the Mountain, sometimes called Fiore, did not forget
+the Elves, and greatly lamented their loss. So furious was the spirit
+of Fiore that it decided that none of the plunderers would have the
+wealth they sought. So it was that the mountain resisted the Dwarves,
+and fought against them as they dug.
+
+The Dwarves found that each new shaft led only to trouble or death.
+Some caved in or flooded, others gave way suddenly, dropping the
+diggers into bottomless black holes. Still others issued forth molten
+rock which flowed from the holes like blood, filling them in and
+killing many miners.
+
+Despite their masterful skills at digging and the making of mines, the
+Dwarves were defeated at every attempt. Many perished, and they were
+dismayed, saying that they should leave the mountain be and seek
+treasure where it may be less plentiful yet more easily obtained. They
+grew to fear the mountain, and dared not walk on the slopes at night
+when the land was restless and treacherous.
+
+But Marblade was stubborn and would not turn away. He perceived the
+Spirit and sought to contain it. He sent word to the many Dwarf-clans,
+calling for the greatest wielders of magic and those with the
+knowledge of the arcane, that they should come to Mt. Khelberg and aid
+him in his war against Fiore. In exchange he offered all the gems that
+the Dwarves had managed to wrest from the mines. Many answered his
+call.
+
+They met at the slopes of Khel Toten to gather their power together,
+and bind the Spirit of the Mountain. Using both strength and sorcery,
+both pick axe and spell-book, they drove a single deep shaft into the
+heart of the mountain. The battle was terrible and numerous Dwarves
+were killed in the making of it, but at last Marblade arrived in the
+lowest depths of the Earth, and there he cast the great binding-spell
+to forever contain Fiore.
+
+Even as he did, the Spirit in turn cast one final curse: A voice came
+from the Earth saying, "Even as you have cursed this land, so now will
+the land curse you. All who dwell here are doomed to constant war. All
+who attack the mountain are doomed to also defend it. Foes will come
+from around the world to plunder this place, and those who gather my
+riches will only live to see them scattered."
+
+With that, Fiore was bound and silenced. The Dwarves sealed the tunnel
+they had dug, and called it a tomb, for many had fallen in the making
+of it.
+</div>
+
+While Enoch is doing this, the rest of the party heads for the tavern.
+Eomer spends the evening chatting with the locals. He wants to know
+what they will find at Vale Calma. His skill at adopting accents and
+his general charm gets people to drop their guard and reveal a bit
+more than the average outsider might glean, although he still doesn't
+learn a great deal. It seems this area is covered in old ruins and is
+the site of many old battles. The townies are a bit superstitious and
+don't like talking about the dead. However, Eomer does learn that
+probably heroes or champions from old wars are buried there. Perhaps a
+destroyed town? Stories conflict. It seems that the island of Mar
+Tesaro has seen a great deal of war over the centuries and the map has
+changed a lot. Towns have risen, some were destroyed, and everyone
+seems to have a different take on the old stories and legends.
+
+Beck arrives much later in the evening and the rest of the party tell
+him about the job they have with Magistrate Noreeno. After he gets a
+few mugs into him, Beck opens up to them, and makes a little speech.
+
+"Fellas, I'm glad we could travel together over the past week, but
+it's time we parted ways. I've been in my share of scrapes over the
+years, and I like to think I can take care of myself, but you guys are
+something else. You seem to have a taste for danger. I just can't keep
+up with you. I'm just a simple old sailor and travelling with you will
+be the death of me. "
+
+He then reminds them that he lost just about everyone he knew when the
+ship went down. All he has left is a pregnant girl back in Bayhaven,
+and his whole goal is to raise enough money to get back there and
+settle down with her. He struggles a bit more, and then takes off his
+hat, "You know I'm proud and I don't like asking for things. This is a
+bit hard for me. But if you fellas would like to donte a few coins to
+help out I'd appreciate it. I'm not asking' for me, I'm asking' for
+Talla and the baby."
+
+Skeeve and Eomer make no comment, but Thordek drops 150g into Beck's
+hat. Thu'fir gives 200g, and finally Enoch the Cleric gives an
+astounding 700g to him. Beck is moved by this. He thanks them. He
+tells them his plan is to get some conventional job in town and see if
+he can earn some travel papers in some other way. He'll then travel
+south and leave the island on his own. It might take him longer this
+way, but it will be safer and he has Talla and the baby to think of
+now.
+
+> Like I mentioned in previous sessions, Beck is an NPC that travels
+> with the party. Last week Dan (Skeeve) was responsible for splitting
+> some loot and said, "there is no way I'm giving money to the NPC".
+> This showed me that they didn't think of Beck as a character. He was
+> "just an NPC" to them. They often forgot he was even with them. They
+> just didn't care. This exit was a way to gracefully break from the
+> party.
+>
+> I always get antsy when I send them out without an NPC, since I
+> don't have an in-game voice to use if they are about to do something
+> really, really dangerous or stupid. This was even more true during
+> previous campaigns when the players were new to the game. The NPC
+> could be a sort of hint-dispensing member of the party, reminding
+> them about facts they might not recall or suggesting they run if
+> they get in over theor heads. When all else fails and they get into
+> a REALLY bad spot, he might sacrifice himself to save them. This
+> only works if they care about the NPC, value his advice and treat
+> him as a companion. The system fails if they ignore or despise his
+> advice, or if they just see him as a pawn they can sacrifice at
+> need. So, I'm pulling Beck from the party for now.
+>
+> Eric (Thu'fir), Joe (Thordek), and Bogan (Enoch) really surprised me
+> with their generosity. I think they DID care about Beck. This was a
+> significant percent of their cash, for all of them.
+
+They finish their drinks and head off for bed at the Inn.
+
+### 8th of Last Summer, 1501dy
+
+They party begins the day by getting ready for their trip tomorrow.
+Skeeve now has a membership to the mage's guild, which means he can
+shop at some of the more exclusive places in town. He buys some
+potions. He purchases a potion of healing, which he presents to
+Thordek as thanks for saving his life a few days earlier. Thordek is
+grateful, although Skeeve's begrudging manner does little to improve
+Elven / Dwarven relations.
+
+Thordek picks up his new banded mail and sells off the old. Eomer gets
+himself some various useful tools.
+
+Skeeve find a place with various maps for sale, and buys a map of the
+entire island:
+
+![](images/map_mar_tesaro.gif)
+
+Enoch spends the day in his room, translating the book. He has a
+little success and translates the following:
+
+<div class="document">
+**Part IV: The First Uprising**
+
+*While other stories in this volume are little more than folklore, the
+following is very probably a true account. The events outlined here
+are supported by various other trustworthy documents. (See also:
+"Reign of King Oemar Vol III" and "The First Uprising of Khelberg")*
+
+– Chronicler Norvus
+
+The Dwarven King Marblade began a great dig within the gem-filled
+mountain of Khelberg. Several shafts were dug and many heaps of
+treasure brought into the world. Yet in the forty-second year of his
+reign over Khelberg, Elves came from out of the east. Some came from
+Dunlock and some from more distant lands. They swept through the
+country and drove the Dwarves away. The Dwarves were slow to
+relinquish their prize, and most were wiped out. The few who escaped
+were scattered and weakened, and would not return to Khelberg in their
+lifetimes.
+
+The Elves claimed the mountain, saying it was the rightful property of
+their people, and just reparations for the crimes against their slain
+kin. Yet they kept the name Khelberg, and sought to continue the
+plunder begun by the Dwarves. They hired many Humans and Halflings as
+diggers, and sent them into the Dwarven mines. While these new races
+had less skill at such work than those that first created the mines,
+they were eager and learned much as they examined the Dwarven
+handiwork. In several years' time, the mountain flowed with gems and
+precious metal such as had never been seen by mortals. The Elves
+became among the richest in the world, and their empire grew.
+
+They expanded the number of mines, until the face of the mountain
+looked like a great hive. The mountain slopes became gray and lifeless
+as the trees and grass were stripped away to make room for more
+digging.
+
+More workers of varying races were brought to the mines. Some were
+Orcish or Goblin slaves, who were sent to do the most dangerous or
+back-breaking labor. Others were Elves who were guilty of some crime
+according to Elven law, and had been sentenced to work within the
+mountain as punishment. Some were also of Halfling and Gnomish kind,
+although their numbers were always few. Of all the workers, humans
+were both the most numerous and useful. They were intelligent and
+strong, and did not hate the underworld as the Elves and Gnomes do.
+They came closest to the skill of the Dwarves in mine-work, and ever
+they strove greedily for the richest loads.
+
+Yet less than a single generation later, the workers began to resent
+their place in the world. They noticed that the work was theirs, while
+the riches were not. A Human rose from among the workers and led them
+in rebellion. Lorman was his name, and he was both a cunning general
+and a powerful wizard. They overthrew their Elven employers, slaying
+many Elves and at last taking the land as their own. During this time,
+many Orcs and Goblins escaped and fled north where they would later
+multiply and grow strong.
+
+The war was long and bloody, and many lives were lost on both sides.
+When at last the battle ended, Lorman was crowned their king. Once
+again the Elves had been banished from the mountain.
+</div>
+
+That afternoon they regroup. Enoch shows the others what he's
+translated. Then they discuss their plans for the upcoming job. None
+of them really trust Noreeno. They were instructed to meet Noreeno at
+dawn tomorrow. They would like a bit more information going in.
+
+Vale Calma is about three hours away on foot. They decide that Eomer
+will leave at midnight, which will bring him to the valley at around
+3am. He will go and spy out the meeting site ahead of time to see if
+Noreeno is planning some sort of ambush. The others will leave later,
+and will arrive at dawn according to the agreement.
+
+Since they will be getting up very early, they head right to bed to
+get what rest they can.
+
+### 9th of Last Summer, 1501dy
+
+In the early hours of the morning Eomer arrives at the field where
+they are to meet Noreeno at dawn. It is empty. He conceals himself in
+the bushes at the edge of the field and waits.
+
+After a while he hears some noises in the distance. It could be
+voices. He moves on carefully, proceeding further into the valley.
+
+Just over a small hill he sees men working. They have a team of four
+horses and are pulling a massive stone slab. There is shouting and
+cursing as they struggle with the horses and the ropes that tie them
+to the stone. As the slab moves, Eomer can see that it is really a
+lid, covering a long-sealed tomb. Noreeno stands by, overseeing the
+operation. Eomer remains well hidden beyond the reach of their
+torchlight.
+
+At last the lid is removed, and some of the men set to taking care of
+the horses. They remove the pulling harnesses and saddle them for
+riding. Other men descend the steps. The sounds of metal striking
+stone can be heard. It is unclear what they might be doing.
+
+The soldiers regroup. All of this has taken a couple of hours, and now
+dawn is near. The men ride out, past Eomer (who is still hiding)
+towards the meeting field.
+
+As dawn comes the other members of the party arrive in the field to
+meet Noreeno and his men. Eomer sneaks up behind him and then joins
+his friends.
+
+### 9th of Last Summer, 1501dy (Early Morning)
+
+The party stands with Noreeno and his men in the grassy fields of Vale
+Calma.
+
+They explain that Beck will not be joining them, and that he has moved
+on. Noreeno explains that he knows, Beck visited him earlier today and
+appealed to him for travel papers. They will come to some other
+arrangement.
+
+Once everyone is satisfied, Noreeno relates the details of the job he
+has for them, "Do not speak of this job in town. The people are very
+superstitious. If they found you have been here disturbing the tombs
+they will not be happy. Furthermore, I won't be able to keep my end of
+the bargain if you get people riled up. Keep this secret and we can
+both get what we want. I need you to seek the deepest chamber and find
+a sphere inside. I don't know what it looks like, but I'm sure you'll
+know it when you see it. I want you to get it and bring it back. Any
+other loot you find is yours to leave or keep as you choose."
+
+Noreeno then brings out a necklace, affixed with a large gem. When
+worn, it seems to give off a warm glow. He explains that the gem gives
+off light according to the sun. At night, it gives no light. During
+the day it glows yellow, at sundown it glows red, etc. He explains, "I
+will give you this necklace that will glow while the sun is up. You
+must go in during the day. If evening comes, and you are still inside,
+I beg to to come back out and rest. DO NOT rest inside. Do not linger
+inside at night. If night draws near, escape to the surface and try
+again after the next sunrise. This is a tomb, after all. I don't know
+what you'll find inside. I have no map and no advice to give. I'm sure
+its dangerous, but I'm sure you figured that out already."
+
+The details thus revealed, he asks the party, "So, are we agreed?"
+
+They confer together. They do not trust him, but they also want the
+travel papers and they want the information on where they can find
+their friend Endo.
+
+Skeeve negotiates for the soldiers tents and food rations so they have
+everything they need for a camp. Noreeno has his men drop their tents
+and food where they stand, letting the party claim whatever they find
+useful. They can come out here and make camp at night if they feel the
+need.
+
+Satisfied, at last the party agrees to do the job.
+
+Noreeno seems satisfied. He moves onto how they will meet when the
+deal is through, "I can't personally wait for you here. I do have a
+city to run. I will be back at sundown to meet you. If you are not
+here, I will come back at sundown the next day, and the day after. If
+I don't see you after three sundowns I'll assume you perished and we
+will have to put the lid back on the tomb to keep anything from
+escaping. This is not personal, please don't be offended. I have a
+city to protect and we can't leave this thing open forever."
+
+The party agrees that this is reasonable.
+
+Noreeno bids them good-bye, "I'll be back with your payment at
+sundown. You bring me what I want, and I'll bring you the items we
+agreed on. Good luck."
+
+Everybody prepares to go in. As Noreeno rides off to town, they make
+their way over to the ruins.
+
+A set of smooth stone steps goes down into the earth. There is a
+massive slab of stone to one side, which clearly went over the steps,
+but has now been pulled off. The exacting stonework reveal this place
+to be of expert craftsmanship. Perhaps it is of Dwarven make, or
+simply a very skilled stone-wright. Even after many centuries, the
+gaps between the stones is so slight that the walls are most certainly
+water tight, and there is a good chance the place could be airtight as
+well. The door at the base of the steps is fifteen feet wide and six
+feet high. It looks like a slab of solid stone. There are many
+writings and symbols all around and the door way has a huge lock in
+the center and many chisel marks all around. They cannot see which way
+the door opens. From here it looks like a solid stone wall. There is
+an ornate fixture in the center of this door. It is made from finely
+crafted metal, and surrounds a round hole about the width of a hand.
+This seems to be some sort of keyhole.
+
+After Eomer attempts to pick the lock a handle suddenly comes out of
+the wall. The handle is very ornate. It is made from finely crafted
+metal, laced with intricate patterns of gold and silver. A lone
+gemstone is inset into one end. Eomer pulls the handle and the 15 foot
+door suddenly drops into the floor with a giant "Boom!" The way is now
+open.
+
+The top edge of the door is now flush with the floor. There is no
+handle or any thing they might grasp, even if they could lift such a
+weight. They observe that there is no way to seal the tomb now that it
+is open.
+
+Stale air flows from the dark chamber beyond. It is obvious the party
+will be the first to venture inside since it was sealed. They decide
+to hold onto the elaborately ornate handle. Eomer turns to everyone
+and reminds them, "Don't touch nothing!" Thordek says he is not
+leaving here with nothing so Eomer gives him the handle.
+
+Open stone room. Even the slightest footstep seems to travel down the
+corridors and come back to them as a dreary echo. Aside from the tiny
+amount of daylight that reaches in from the open door to the south,
+the place is utterly dark. There are four holes in the for, one in
+each corner of the room. There is a stack of metal torch-poles leaning
+in the south-east corner. There are open corridors to the east and
+west, and another massive stone slab doorway to the north.
+
+They light some of the torches in the room.
+
+This is a strange sort of tomb. There are no family markers or names
+engraved anywhere. There are no internment chambers to be seen. The
+walls don't have any markings as one might expect in a typical burial
+chamber.
+
+The stone door ahead is a featureless, smooth stone slab. Definitely
+undisturbed.
+
+> I think we need to skip ahead here. This was a fascinating adventure
+> for everyone, but the next hour or so of action doesn't translate
+> well here. They moved through the tomb slowly, encountering various
+> puzzles and traps. This was a lot of fun at the time, but I imagine
+> reading a play-by-play of each puzzle and all of their experiments
+> would be quite dull.
+>
+> To sum up, most of the puzzles involved difficult stone doors that
+> required groups of people to work together in order to open them.
+> They passed a number of coffins, standing upright, which were held
+> shut by many chains, binding them to the walls. They elected not to
+> mess with these.
+
+Afternoon arrives and the party has overcome a number of complex doors
+and traps. They find themselves in a large chamber with a curved north
+wall, covered in runes and various Human, Dwarven, and Elven names.
+Among the names they spot the name "Forwinol", the last name of their
+friend and ally Sagemaster Teerin Forwinol. They know he is quite old,
+and wonder if he was involved in the building of this place.
+
+They proceed deeper. Hours pass and they overcome more strange locking
+mechanisms.
+
+At last they come to a great chamber. It has a long walkway of
+polished stone, like marble, leading from the door to the western side
+of the room. Pillars line the north and south walls. The room is
+unnaturally cold. The air is stagnant.
+
+On the far western side of the hall is a raised Dias of pure white
+stone, which holds a single black coffin. It is chained shut with many
+(magical) chains and padlocks. It is on a tilted surface, leaning back
+at a forty-five degree angle. In the center of the lid is a single
+stone sphere, about the size of a grapefruit. It radiates both good
+and evil. It pulses with magical energy. This is clearly their goal.
+
+Several trays of gold coins are arranged around the Dias. A few gems
+are scattered in with them as well. Thordek dumps these items into his
+pack.
+
+Skeeve and Eomer approach the coffin. Everyone else stands back.
+Skeeve explains that he suspects that the magical sphere probably
+keeps the chains locked. They all suspect that taking the sphere will
+open all of the coffins they have passed. They talk about what kind of
+dangers they might face.
+
+From their view, the tomb is divided into two areas. There are the
+outer chambers, which are just a few rooms. Then there is the inner
+chambers, which is everything else. Between these two sections is a
+single massive door that they can open and shut.
+
+Their plan is that the entire party will wait near the door. Skeeve
+will stand away from the coffin, at a distance, and use his magic to
+quickly pull the sphere away and over to where he is standing, and
+then they will all dash for the entrance. Once they reach the outer
+chamber, they will shut the large door and hopefully seal these dozens
+of coffins inside once again. There are only three coffins in the
+outer chamber. Once the door is shut, they will visit the side-chamber
+with these coffins and see if they are open and, if so, what is in
+them.
+
+They get into positions. They count to three, and Skeeve uses his
+magic. Skeeve finds his magic does not affect the sphere. Reluctantly,
+he walks over and grasps the sphere. It pulls free. Suddenly the
+chains break free and drop to the floor, just as they feared. They
+don't even wait to see what happens, they just dash. As they run away,
+they hear a great echo throughout the chamber, the sound of someone
+drawing in a deep breath. There is a pause and the breath is let out
+once again, like a great sigh. They keep running.
+
+They pass many coffins on their way out. As they feared, the locks
+have fallen off, and the chains now hang freely from the walls. The
+coffins remain closed, but they are no longer locked shut.
+
+They reach the outer chamber and – after some messing around with
+switches – manage to close the door again. Before they leave, they
+visit the side chamber and examine the three remaining coffins.
+
+The chains have indeed fallen off. They take positions around the
+coffin. Everyone gets ready.
+
+Thu'fir pulls the lid away. The coffin is empty. The move onto the
+next one. Again the lid is pulled away, only this time the coffin is
+occupied.
+
+![](images/grave_walker.jpg)
+
+The creature moves with inhuman speed and grace. It darts among them
+during the battle. While clearly undead, it is not a shambling,
+rotting zombie. Instead of a flimsy corpse, the thing is tough and
+hard. A dim red light comes from deep within the eye sockets.
+
+The party was well-prepared, and they manage to bring the beast down
+after a short battle.
+
+The next coffin has another. In this battle, Enoch gets stabbed by the
+cold, piercing claws and finds himself unable to move. Thu'fir brings
+his massive sword down and cleaves the thing in two. They take a deep
+breath. What were these things? They were too meaty to be skeletons,
+and much too fast to be zombies. They have never faced anything like
+this.
+
+The mystery will have to wait. They escape to the surface and find
+themselves in the warm glow of late afternoon. All is quiet behind
+them, and the door to the inner chambers has remained closed. Enoch
+consecrates the area around the entrance, hoping that will prevent or
+impede anything that might follow. He then sees to the wounded and
+heals their injuries.
+
+Evening is coming. Noreeno will probably arrive in an hour or so,
+assuming he keeps his end of the deal.
+
+Eomer is concerned that Noreeno will betray them. Now that they have
+the sphere, Noreeno could simply have his soldiers kill the party and
+take it. Eomer suggests that they claim they don't yet have the item.
+Once Noreeno leaves, they can slip into town and meet him in public
+the next day, where they can be sure he won't try to double-cross
+them.
+
+Enoch points out that his cleric may use Zone of Truth again. This
+would prevent them from lying about recovering the sphere. They
+discuss this at length. Eventually, Eomer devises the following:
+
+*Skeeve and Thordek will go back inside with the sphere and stand in
+one of the outer chambers. When Noreeno asks where the sphere is,
+Eomer will be able to (truthfully) reply that it is still inside. He
+will also be able to say that the others are inside. Since he won't
+know what chamber they are in, he can also say he doesn't know **where
+they are**. This will hopefully be misleading enough to satisfy
+Noreeno and persuade him to leave.*
+
+During this conversation, Skeeve has been studying the sphere. He has
+more bad news for the party. He has discovered what this sphere is.
+
+TODO
+
+This is the phylactery of a Lich named Mordan. It is (for some reason)
+infused with both good and evil magic. The object has an owner. To
+learn more about how this works, he will need to study the object in
+depth.
+
+They party is shocked. What have they just done? It seems they have
+somehow freed or awoken a Lich. Does Noreeno even know what this thing
+is?
+
+They have an hour until Noreeno arrives. Skeeve spends this hour
+studying the orb, examining the runes and trying to learn its spells
+and mysteries. He learns the following:
+
+![](images/orb_o1.gif)
+
+> This is another mini-game I've come up with. Similar to Enoch's
+> book, this object can be studied for information and XP. Each
+> successful roll will reveal another useful fact in the desired area
+> of study. The "magic cards" are a bunch of little cards I printed
+> out on card stock and hand to him whenever he wins one of these.
+>
+> It's a nice little reward. Better than just handing him a piece of
+> paper with two sentences printed on it, at any rate.
+
+They no longer want to turn this orb over to Noreeno. This is much
+bigger and more dangerous than they imagined.
+
+They get into their agreed positions, and wait.
+
+### 9th of Last Summer, 1501dy (Near Sunset)
+
+At last, as the sun drops to the horizon and sunset approaches,
+Noreeno arrives. He and a force of ten soldiers arrive at the opposite
+side of the field. The soldiers stop and dismount. Noreeno and his
+cleric ride out alone to meet Eomer, Enoch, and Thu'fir.
+
+As they feared, Galman the cleric casts Zone of Truth over the meeting
+place. None of them may speak any lies now. There is a pause as
+Noreeno looks to the east, towards the tomb. After a pause he seems
+satisfied, "Good, I can tell you have released Mordan. Well done."
+
+They pepper him with questions. *How do you know Mordan is free? What
+are you doing this for? Why did you want him freed?* Noreeno finally
+holds up a hand and answers, "I do not intend to reveal my true goal
+and nature to you, but I will tell you that this is the culmination of
+a plan begun by others, over a century ago. It wasn't until now, with
+the confusion of the war, a populace that has mostly forgotten what
+was buried here, being in a place of power close to Mordan's prison,
+and the right group of outsiders who were willing to do this. Many
+long years of careful planning have led to this moment."
+
+Eomer informs him they they will not give him the Orb. Noreeno laughs,
+"Oh! I don't want it. All I wanted was for you to free Mordan. You can
+deal with the orb yourself." He smiles. Eomer is boiling with rage.
+
+The party is enraged and horrified as this. Noreeno is calm, and
+continues, "I realize you are upset. I want to warn you: At sundown
+Mordan will emerge from his prison. I assure you, you don't want to be
+here when he does. He will be seeking you. Yes. He will be hunting for
+all of you now. I'm sorry for the way things turned out, but I do
+intend to keep my part of the bargain."
+
+He produces five sets of travel papers and holds them up, "Here are
+the papers, as promised. I will give you your papers, and what's more,
+I'll give you three horses to ride out of here. But only if you agree
+to leave quietly. If you want to make a scene or unpleasantness, then
+I warn you: The battle would simply delay you, keeping you here until
+Mordan emerges. You don't want that."
+
+> The players were delighted (at the plot twist) and enraged (at
+> Noreeno). They couldn't fight him and all of his soldiers, and even
+> if they somehow won, it would just mean they would find themselves
+> spent and injured when the Lich emerges. They realized they were
+> more or less screwed at this point and couldn't do anything but let
+> Noreeno have his way.
+
+They are silent for several moments. "What about Endo?", Eomer demands
+at last.
+
+Noreeno nods, "Your companion, as I said, was captured and taken
+south. However, my spies report that he was not sent to work in the
+mines, but instead was turned into on of the Queen's special guard.
+You remember the soldiers with the faceless helmets, with no eye
+holes? Well, he is one of them now. He will probably notbe in the
+capital city of Fol Theron, but instead will be in on of the smaller
+towns between there and here. You'll have to look for him. "
+
+The party listens carefully as Noreeno explains, "Few know this, but
+the soldiers are controlled through the helmets. You can't see it, but
+below the bottom edge of the helmet, just under the chin, is a leather
+strap holding the helmet in place. Cut it and pull off the helmet, and
+your friend will be freed."
+
+The sun is setting soon, but Eomer can't resist one more question,
+"What about the travel papers? How do the soldiers always know they
+are fake?"
+
+Noreeno smiles, "Because we ask them. Even if the forgery is a
+complete success and is good enough to fool the soldiers, we simply
+ask the person holding the papers. You know how fond I am of Zone of
+Truth. Those that have fakes are arrested and never get the chance to
+explain how they were caught. Up until now the forgers have always
+assumed they were doing something wrong, or missing some hidden
+detail. The truth is, the only way someone can use a fake is if they
+don't **know** it's a fake."
+
+All of them want to know what cause they just served, and who Noreeno
+is working for. He answers, "There are two powers you have seen. To
+the north are the now-defeated Lormanites. To the south are the
+Alidians. You have just aided a third power. A rising power. You may
+learn more soon, but now is not the time."
+
+Noreeno looks at the setting sun, "It's time to go gentlemen. If you
+agree to leave quietly you can have the travel papers and the horses.
+What do you say?"
+
+They cannot lie in the zone of truth. They cannot hope to beat Noreeno
+and his men. They cannot linger here or they will have to face the
+Lich. Angry and beaten, they agree to leave in peace. Before they go,
+Eomer makes Noreeno a promise, "Someday, I **will** kill you."
+
+"Fair enough", Noreeno smiles, "But not today."
+
+They take the horses and flee. As they ride away from the crypt, Enoch
+can see a dark aura of evil engulfing the site. They head south, back
+to Crossway. As they ride they discuss their next move. They don't
+want to to linger in Crossway. They have no idea what Mordan the Lich
+will do when he comes out, or what Noreeno is really doing. Eomer
+suggests that perhaps this third force is the cause of the mountain
+itself? Of Fiore? They have only just read the account of the conquest
+of the mountain the day before. The book warned that the tale was
+merely folklore, but they all suspect there is more to it than just a
+legend.
+
+They want to ask help of Sagemaster, but they can't reach him.
+
+Eomer points out that Noreeno is obviously an enemy of Queen Alidia.
+They have heard that she is cold and ruthless, but she might still be
+an ally against the Lich. Eomer proposes they head to town and find
+one of her special guards and tell him what has happened. Since she
+seems to connect with them through magic, she ought to know quickly.
+
+As they ride south, they decide they need to rescue Beck from the
+town. It is probably no longer safe in Crossway. During the ride,
+Skeeve studies the Orb some more. He learns:
+
+![](images/orb_k1.gif)
+
+This doesn't help him very much, but he does gain some knowledge
+that will help him in future study attempts.
+
+> I won't get into all of the rules of this little mini-game. This
+> basically means all future study rolls get +1.
+
+They arrive in Crossway. It is well past dark now. They ride to the
+south gate to find the special guards, but find only evidence of
+battle. The royal guards are gone. They have either fled the city or
+have been slain by men loyal to Noreeno. The Queen no longer has any
+royal guards here in Crossway. Could she know already? They are even
+more convinced that some sort of power struggle is going on, and they
+must get Beck out of the city as soon as possible.
+
+Beck is not in the tavern as they suspected. Instead, they find him at
+the Inn. He answers the door in his skivvies, obviously already in
+bed. He squints in the torchlight as they try to explain that he needs
+to leave.
+
+He shakes his head, "No more adventures, boys. I got myself a job
+hauling goods around for a shop and I start tomorrow, I need some
+sleep...."
+
+Skeeve cuts him off and explains that he has to leave, and the city is
+no longer safe for him. They relate a few of the events that have
+happened. Convinced, Beck runs inside to get ready to travel.
+
+The six of them get on their three horses and ride south out of town
+as if the devil himself pursued them. They are tired. They have had
+only a few hours of sleep over the last few days, but they want to put
+some distance between themselves and the city before they can consider
+rest.
