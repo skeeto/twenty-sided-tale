@@ -44,6 +44,14 @@ h3 {
     font-weight: bold;
 }
 
+i, em {
+    font-style: italic;
+}
+
+b, strong {
+    font-weight: bold;
+}
+
 body > p {
     margin-bottom: 1em;
 }
@@ -70,7 +78,6 @@ pre {
 
 .document {
     margin: 0 2em 1em 2em;
-    font-style: italic;
     text-align: left;
 }
 

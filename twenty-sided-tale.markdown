@@ -1215,3 +1215,654 @@ along well with other races.
 
 Mar Talos has benefitted over the last 100 years with him as the
 leader. The island is strong, prosperous and secure.
+
+## Session 2, Part 1
+
+### 2nd of Last Summer, 1501dy (late morning)
+
+Skeeve and Enoch have a conversation with the head priest. Apparently
+Alidian solders now roam the land, which is under martial law.
+Anticipating that perhaps resistance forces might take to the hills
+and strike at them from the wilderness, the Alidians have decreed that
+nobody is allowed in the countryside, or even outside of town. To
+travel abroad openly, they will need travel papers. He suggests such a
+thing might be obtained in the town of Crossway to the south, either
+by appealing to the local magistrate and pleading their case, or
+(perhaps) through forgery.
+
+Skeeve thanks the man for his time, and the two turn their attention
+to the piles of dusty books in the library. There seems to be far more
+than one would expect in a town this small. Books fill every shelf,
+cover every desk, and are piled in various corners of the room.
+
+Most of the books are mundane histories or geneologies. There are also
+books of heroic deeds. These are books written in flattering terms
+about various nobles, and usually commissioned by the noble in
+question. As a nobleman gets old, he will usually hire someone to
+write a greatly exaggerated version of his life, and have it added to
+the local library. The books have no value to anyone, except that the
+nobles generally pay vast sums of money to have them written. The
+church makes quite a bit from this practice, and so these books are
+kept in the library alongside more serious works in order to encourage
+the practice. There are an awful lot of these sorts of books here.
+
+There is also a book of maps. In it, Skeeve finds a handy map of the
+surrounding area:
+
+![Northern Mar Tesaro](images/map_upper_mar_tesaro.gif)
+
+Skeeve borrows a nearby stand and spends a few hours making a copy of
+the map for himself. He also asks one of the scribes handy about the
+overflow of books. The scribe explains that over a year ago (before
+Crossway fell to the Alidians) the people of Crossway sent their books
+north to Woodhurst for safekeeping. When Crossway fell, the people of
+Woodhurst sent their books here. So, this town has rather a lot of
+books from other areas.
+
+One of the books catches Enoch's eye. It seems to be a book written in
+an archaic form of common, (with bits of other old languages added,
+seemingly at random) which makes it very hard to decipher. This would
+seem to suggest that the book is quite old, although from the
+condition of the book it seems to be new, perhaps less than a decade
+old. This is sometimes the case when old, tattered books are copied,
+but it is customary to note the purpose and origin of the original
+work when doing so. This book has no such markings. Indeed, this book
+is not signed or dated at all. And finally, every other page has been
+left blank, as if the author expected someone to translate this work.
+
+Enoch asks the scribe about this and he explains that the book has
+floated from place to place for some time. Various scholars have taken
+a crack at the old text, but none of them have been able to
+successfully translate it. He adds that Chronicler Rhillos in the city
+of Fol Thron (somewhere south, he doesn't explain further) has offered
+a reward – a bounty, if you will – for anyone who can figure out what
+the book is all about.
+
+Enoch notices that some of the old text seems to be an old form of
+common from Dunlock, his homeland. He gives it a try. A few hours
+later, he has managed to translate the following:
+
+
+<div class="document">
+**Part I: The Mountain Elves**
+
+*Editor's Note: What follows is not a proper history, but instead a
+collection of tales and folklore from the inhabitants of Mar Tesoro.
+These have passed on through the generations, doubtless with many
+changes and alterations. The story usually varies greatly depending on
+the geographical location and race of the storyteller. The most common
+elements of the differing accounts are gathered here to form a single
+tale. It is recorded here for archival and reference, not for any
+supposed historical value. Indeed, many portions of the following are
+highly unlikely and should be viewed with utmost skepticism.*
+
+- Chronicler Norvus
+
+In the earliest days of Mar Tesoro, the southern lands were inhabited
+by a peaceful clan of mountain Elves. They were gentle and kind, slow
+to quarrel and preferred music and wine above swordplay and bloodshed.
+They lived on the slopes of the great mountain, which they named Mt.
+Fiore, which means "the place of flowers".
+
+The mountain was tall and green in those days, and was fair to behold
+even in the cold of winter. Fairer still it was in the warm months,
+when the slender trees would bloom large flowers and clothe the
+mountain in white and gold. The tall peaks caught the spring rain and
+made the lands below rich and fertile.
+
+Few others visited the lands. Only a few Gnomes and fewer humans had
+walked the slopes, and no Dwarf had even set eyes to the mountain in
+those days.
+
+But Dwarf-King Thul Marblade came at last to the shores of Mar Tesoro.
+He came to the Elven chieftain Ellas Morad, and asked for leave to
+climb the mountain. "For", said he, "it is the way of all Dwarves to
+seek the mountains and learn their ways."
+
+Morad gave him permission to walk the slopes, and the Dwarf departed
+at once. With him were many strong but grim Dwarves of his kind. As
+they ascended, a powerful greed came over them, for they saw that the
+stone of the mountain was filled with both silver and gold in plenty,
+as well as many fair gems and rare stones. Never in all the Earth had
+any Dwarf seen such abundant riches, and they marveled that such
+wealth had lain undisturbed for so long.
+
+Thul Marblade climbed to the pinnacle of the tallest peak, and there
+he spoke to his kin, "Brothers, here lies the greatest of all
+mountains of the Earth. Behold how rich it is with treasure, how bold
+and strong its rock, and how kingly its shape! Surely we must build
+here a mine, or we are no Dwarves at all."
+
+His company agreed, and they departed from the mountain.
+</div>
+
+Enoch shows the scribe his work, and the scribe suggests he take the
+book with him. He requests that he show it to the scholars in Fol
+Thron once he completes the task.
+
+> This is a little sidequest / minigame I have for Enoch. I've set it
+> up so that the more he translates, the easier it gets. He earns a
+> little XP for doing so. Anytime he has 8 free hours and a stable,
+> well-lit place he can attempt to translate the next section. There
+> is a special "alphabet" novelty dice to go along with this.
+>
+> This is also a fun way to convey information / disinformation,
+> history, and lore without reading it to the group myself. I just
+> hand out this text (which is printed in a nice faux-medeval style of
+> caligraphy) and they players can read it at their leisure.
+
+### Session 2, Part 2
+
+While Enoch translates the text at the library, the Eomer and Thu'fir
+gather at the blacksmith's shop. Upon learning that the party had lost
+many of their basic supplies in the shipwreck, he suggests they help
+him with a problem he's having.
+
+Before the city fell, he had stored away a cache of weapons, armor,
+and other provisions in the case of invasion. When the attack came, it
+happened a bit quicker than he anticipated, and he didn't have time to
+reach the supplies or distribute them. Worse, soldiers came and siezed
+his house and have been living there ever since. The supplies are
+hidden in a secret room in the basement, but he can't hope to sneak
+past the guards to reach them.
+
+The blacksmith suggests that the party try to sneak in and retrieve
+the items. If they do so, they can keep some of the stash for
+themselves. The only requirement is that they not kill any guards. If
+they do, the soldiers will simply retailiate by coming into town and
+killing people in order to exact revenge.
+
+Eomer asks about what unforms the northerners used. It turns out they
+didn't have proper fancy uniforms like the Alidians, but instead wore
+simple black sashes around their waist or arms.
+
+Thu'fir asks what they have been fighting about. The blacksmith
+explains that the war was over territory. Apparently there is a
+valuable mountain here called Mount Khelberg. It seems to be a rich
+source of both gems and gold. The blacksmith explains that the
+mountain is the birthright of his people: King Lorman (their leader)
+is the great great great (etc) grandson of the first foreman of the
+miners. He dug the first shafts and the land should be his. This is
+why they attacked the Alidians.
+
+Finally Eomer get back to the subect of the supplies they need to
+steal.
+
+Gereg draws a quick map of his house.
+
+> In our session we use a poster-sized dry-erase tabletop battle grid.
+> I can draw dungeons or whatever on it as we go, and then use it as a
+> battlegrid when the time comes for combat. When Gereg the smith drew
+> his map for the players, I just drew it on the grid. After the
+> session I forgot to take a picture before erasing it. So, I created
+> a rough copy on graph paper to post here on the site. Otherwise, the
+> following text would just be too hard to follow.
+
+
+![A crude drawing of the layout of Gereg's house.](images/map_house.jpg)
+
+There is a front door on the house that faces west, towards the town.
+Behind the house is a storm door that leads into the cellar. There is
+a secret door in the cellar that conceals the goods in question.
+Unfortunately, the door is barred from the inside, so they can't just
+pick the lock to get in. Someone will have to sneak in the front door.
+
+Right behind the house, about ten feet from the rear door, is the
+woods. Gereg suggests leaving the heavy items there in the woods where
+he can recover them later.
+
+By this time the sun is going down. Eomer goes east through the woods
+to the backsmith's shop, which is a ten-minute walk. Everyone else
+gathers at the tavern and waits with a glass of ale. (Skeeve has Tea,
+Enoch abstains.)
+
+Eomer watches the building as the sun sets. It looks like there is a
+circle of tents in front of the house, and a number of guards are
+gathered there, talking. He sneaks up to the back of the house and
+peeks through the rear window with his mirror.
+
+> DM mistake. Looking back, would Eomer still have his mirror? They
+> lost their backpacks in the shipwreck, and spent an awful night
+> being beaten against the rocks off the coast. Assuming he even had
+> it with him (and not in his pack) would the mirror have survived the
+> harsh treatment? Since I didn't challenge him on this, then I guess
+> so….
+
+A soldier is inside, working on something. Eomer can hear the banging
+of pots. This room is clearly the kitchen. After watching the place a
+bit longer, he returns to town.
+
+They discuss their plans. Thu'fir suggests that instead of sneaking in
+the front door, they could just pull off the hinges. They worry that
+perhaps this would be too noisy. Enoch points out that he could create
+a zone of silence. This magic power of his will deaden all noise in a
+20-foot radius.
+
+They agree on this. Skeeve decides to stay at the tavern. He realizes
+they have no place to stay for the night. The soldiers tooks several
+houses, and the displaced families have filled the small inn.
+
+Beck cuts in, suggesting they go in fighting. He's clearly drunk.
+Thu'fir buys him another drink, and gives the bartender enough money
+to keep them coming all night. They slip out and leave Beck to his
+ale.
+
+> The guys made it clear they wanted to leave Beck (an NPC party
+> member) behind. I don't know why, but I didn't want to force the
+> character on them. So, I decided he got drunk instead. Looking back,
+> this makes sense. He was first mate on Ocean's Majesty for a long
+> time. Most of his firends had been killed when the ship sank, and he
+> hadn't really taken time to deal with this yet. A good evening
+> drinking goodbye to his lost mates was probably about right for him.
+
+Eomer, Thu'fir, Enoch, and Thodek sneak through the woods to Gereg's
+house. Enoch and Thodek stop well short of the house, not wanting to
+make a lot of noise in their heavy armor. Eomer moves forward silently
+and looks around.
+
+Juding from the light, there is a campfire in front of the house. He
+listens carefully and determines that two guards are having a
+conversation. Using the mirror, he peeks in the window, but it is dark
+and quiet inside. He gives the signal, and Enoch casts silence on the
+door. Eomer takes the hinges off and Thu'fir takes the beam off. The
+beam falls soundlessly down the steps within the zone of silence.
+
+Eomer sneaks in and goes to the secret door, which is a pegboard of
+tools. He moves one of the tools and finds it makes a very slight
+sound. The door is just outside of the silenced area! So, he needs to
+open a door which is covered in hanging metal tools, and he must do so
+without making any noise. He takes a deep breath…
+
+…the door opens silently. He signals to Thu'fir, who is at the bottom
+of the steps looking in, letting him know where the edge of the zone
+is. They begin moving boxes. There are seven boxes of varying sizes,
+plus a sack and some other loose goods. Thordek and Enoch help move
+goods from the house into the woods, just on the edge of the zone.
+There are seven crates, a sack, a book, a lantern, and a longbow.
+
+> Can you spot the DM mistake?
+>
+> It's nighttime. Dark. They are in a basement. How can they see what
+> they are doing? Eomer, Enoch, and Thu'fir are all human, and should
+> be feeling around in the dark at this point. I never noticed these
+> sort of errors until I went back and reviewed our sessions.
+
+The goods unloaded, they realize that Eomer needs to stay inside when
+they put the door back on. If they want to hide all traces of their
+work, then he needs to place the bar on the door again, which can only
+be done once it's in place and closed.
+
+Enoch casts silence again, since he guesses that the five-minute
+duration is nearly up. They replace the door, attach the hinges, and
+Eomer places the bar on the door again. While this is happening, the
+members outside see a group of five guards head off towards town,
+carrying a torch. They conclude they can't do anything about this now.
+They have to wait for Eomer.
+
+Eomer, still inside, must sneak upstairs, out the front door, around
+the house, and meet them in back. He makes it upstairs and to the
+front door without difficulty.
+
+Just before he leaves the house he pauses. He goes around into the
+kitchen and checks it out. He finds lots of dry goods. He also finds a
+sack of iron rations. He opens one, pisses on it, and then carefully
+re-wraps it and places it back in the sack.
+
+He slips out the front door and rejoins the party out back.
+
+While this was going on, Thu'fir had gone through the crates,
+suspicious of the smith's story and wanting to make sure the story
+they had been told was true. He found the following:
+
+* 3 bucklers
+* 3 tindertwigs
+* Very large bundle of arrows
+* Several longswords wrapped in blankets
+* 30 iron rations
+* Another map
+* A purse of gold.
+* A very ornate horn
+* A pile of blankets
+* 3 iron skullcaps
+* 10 sets of heavy boots
+* 10 empty water skins
+* breastplate
+* Longbow
+* lantern
+* map case
+* several backpacks
+
+They take enough backpacks, blankets and waterskins to supply the
+party. They take enough food to supply themselves for two days, and
+they take the horn. They leave everything else hidden in the bushes.
+
+## Session 2, Part 3
+
+The party sneaks back into town, on the way seeing a number of
+soldiers leaving, heading back towards the house. They are rolling a
+large barrel. They crouch down and consider taking these guys out.
+Eomer points out they could kill these guys and hide the bodies in the
+woods or dump them in the ocean. Enoch responds that even if the
+bodies are never recovered, the Alidians will still assume the townies
+are responsible, and take revenge on them anyway.
+
+The party goes to the tavern. Beck is passed out at the bar. The
+bartender is red-faced and wearing a large bruise on the side of his
+face. They realize the soldiers must have come here and taken some
+ale. They wake Beck.
+
+His head snaps up, "Alright! Let's go get those guys." He doesn't
+realize they have already finished.
+
+They lead him out of town to where Skeve has made camp. Skeeve
+examines the horn and identifies its magic properties. Apparently if
+you blow the horn it will stun anyone caught in front of it. The horn
+will be unnaturally loud, as well, perhaps even reaching miles away.
+
+Thu'fir goes to the blacksmith and lets him know how things went. He
+shows him the horn. The blacksmith tells him the owner of the horn
+died several days ago, killed by Alidian soldiers. Thu'fir gives him
+fifty gold for it anyway. They look over Thu'fir's map and Gereg
+explains that if they want to avoid the road, then there are two ways
+they can travel south.
+
+![Northern Mar Tesaro](images/map_upper_mar_tesaro.gif)
+
+"The first way is that you could head west, cross the bridge, and then
+head south through Upper Bolwood. The woods are dense and unyielding,
+and some travelers tell tales of Ettins prowling on the edge of the
+woods from time to time. If you come through the woods you should find
+yourselves in the village of Woodhurst.
+
+"The other way you could go is to head due south over Tinderward. This
+would be much faster by my count, but it would take you over flat open
+grasslands where you have no hope of hiding. If you encounter the
+enemy soldiers, you'll be discovered for sure. Furthermore, you would
+have to pass over the Weather Hills, which are home to a nasty and
+devious tribe of Goblins."
+
+Thu'fir examines the map before he replies, "Which way would you say
+is the most dangerous?"
+
+Gereg shruggs, "Beats me. I always take the road."
+
+In any case, Gereg has no idea which way Endo went. Thu'fir thanks the
+blacksmith and returns to the party where they debate over what path
+they should take. There is much discussion about which path would be
+better. They argue about which way Endo might have gone, and if he
+would want them to follow him. Eventually they decide on the south
+way, over Tinderward. They sleep.
+
+### 3rd of Last Summer, 1501dy
+
+At dawn they set out. Beck awakens but doesn't seem to be too hung
+over. He doesn't say anything about the night before.
+
+## Session 2, Part 4
+
+They move south, passing several small farms and into the open
+grasslands. Eomer leads them at a strenuous pace. As the day wears on,
+Thu'fir notices that several back birds have been circling them for
+most of the day. The birds are too distant to be identified, but their
+dark outlines can be seen clearly against the blue sky of late summer.
+
+The birds are too distant for them to do anything about it. The day
+passes as the hills to the south draw near.
+
+As the sun drops low they see the outline of Joland Village ahead.
+They wonder what to do about this. Is the town occupied? Certainly
+they shouldn't just march into town together. Eomer puts on the "good"
+Alidian uniform they own (the other one is bloody and slashed) and
+walks into town alone, while the others hide in the grass outside of
+town.
+
+Dusk settles as he enters town. The little village is very quiet.
+Angry eyes peer out at him from the homes, but nobody speaks. A old
+man is sitting on the stoop in front of the blacksmith shop. He's
+rocking back on his chair, looking thoughtful. He has a hard, creased
+face and a bushy white mustache.
+
+At last he looks at the uniform and greats Eomer, "You lost, friend?"
+
+Eomer is evasive, but as they talk his ruse about being in the army
+wears thin. He is alone and speaking with the wrong accent to be an
+Alidian.
+
+Finally the man asks him, "You're not an Alidian, are you?"
+
+Eomer doesn't need the disguise anymore, "No, I'm not."
+
+The man cheers up at this and introduces himself as Polan. He is the
+closest thing the town has to a leader. He asks how the towns to the
+north are doing. It's clear he doesn't have any idea the north has
+lost. When Eomer tells him that Fort Bolland and Breakshore are taken,
+the man concludes that the war is over. He looks sad.
+
+He asks if Eomer knows anything about missing children. He doesn't.
+Polan tells his story:
+
+"About four days ago one of the little ones, a kid about seven years
+old, disappeared from the fields just north of town. Two days later,
+other kids were picking hardberries at the bushes over yonder", He
+points to an area west of the town, "and the kids say a man jumped out
+of the bushes and took one of them and carried the little girl off.
+Now, the soldiers took all our weapons when they took this town. That
+don't matter much ‘cuz they also took all the young men and women
+capable of using weapons. All we have left are the sick, the old, and
+the children."
+
+Eomer asks where the parents are. Polan explains that the mothers are
+here in town, but the fathers were taken south weeks ago.
+
+Eomer gets up and calls the other party members into town. It's
+obvious the enemy sodiers left this town to its fate ages ago and
+aren't likely to come back any time soon.
+
+He explains the situation as the evening closes in. By the time he's
+finished the tale, it's dark out.
+
+Thordek and Eomer want to go right now and look for the kids.
+
+Skeeve is not so sure, "Look, we don't even know if the children are
+still alive."
+
+Beck shruggs, "Sure, but the guy who took them is, and we can at least
+fix that."
+
+A debate ensues. Skeeve is sensitive to the plight of the villagers,
+but doesn't want to get dragged into helping everyone they meet on the
+way. He reminds them that they are chasing Endo, who left over a day
+ahead of them, riding horseback.
+
+Enoch insists he will go and look for the kids, even if he has to do
+it alone.
+
+> This was a lengthy, in-character debate. Dan did a good job of
+> playing his character here. He's neutral, and he's playing it that
+> way. It would be easy to just take every quest handed to you by an
+> NPC, but I like how he picked his reasons and argued his case.
+
+Thus overruled and outnumbered, Skeeve agrees to go along, but
+suggests they wait until morning.
+
+Eomer and others protest, wanting to begin now. Polan suggests that
+trying to track someone in the dark, even with the aid of magical
+light, is foolish.
+
+The party relents and checks into the inn.
+
+> I really have to watch these guys. After "jogging" for 12 straight
+> hours they want to go off into the woods at night. They don't
+> recognize the physical limitations of their characters, and would go
+> without food or sleep for days just because they're "in a hurry" if
+> I let them. If I remind them they are tired, they roll their eyes
+> like I'm being unreasonable by sugesting they might be a bit
+> tuckered out and in need of rest after more or less running a
+> marathon.
+>
+> I need a better way to give them a sense of fatigue. These guys are
+> heroes, not gods.
+
+## Session 2, Part 5
+
+### 4th of Last Summer, 1501dy
+
+At morning they gather and interview a few people. They learn that the
+children saw a man in a robe with a beard. That is the extent of what
+they can recall.
+
+The party walks to the fields in the north and looks for clues. They
+find nothing. They go to the hardberry bushes and look for clues.
+
+![This is the special "DM" map I made for this quest. The players did
+ not see it of course, but this will help readers to follow along. I
+ hope.](images/map_tracking.gif)
+
+They are at the base of a hill, facing west. The bushes are at the
+foot of the hill. Assuming the kidnpper went west, he must have gone
+around the hill to the northwest or southwest. The hill is steep
+enough that it would be impossible for an encumbered human to walk up
+it without leaving some fairly obvious marks.
+
+Thordek searches. Upon further investigation, he sees an opening in
+the center of the bush. It looks as though someone hid themselves in
+the deep parts of the bush and then leaped out, breaking many small
+branches in the process. The hollowed-out space is barely big enough
+for a man. Assuming this hole is related to the missing children, then
+what they seek must be man-sized or smaller.
+
+Thu'fir also searches. He finds a small basket in the deep part of the
+bush. It is partly filled and looks to have been dropped (not hidden)
+suddenly.
+
+Thordek and several party members go northwest, and Thu'fir leads the
+rest southwest.
+
+They come to a point where the southern slope is less steep and it is
+possible to walk down. From here they can continue to follow the ridge
+around the hill (heading west) or go south into the valley, towards
+the river.
+
+There are no visible prints to be seen on the slope going down.
+Thu'fir's knowledge of wilderness lore tells him that even a child
+walking alone could no descend the soft grassy slope without leaving
+some hint. They continue west.
+
+Both groups reunite at the other side of the hill, which is now east
+of them. They are on the edge of a watery glade. The water is still
+and filled with reeds. Insects drone nearby in the early morning sun.
+If someone passed throughthe water they would be hard to follow. The
+party decides to go around the glade to the south.
+
+Eomer does a careful search and finds a hardberry along the way
+leading southwest. It sits alone in the grass. They do not grow
+anywhere near wet areas, so this berry must have come from elsewhere.
+This is the first clue they have seen in some time that suggests they
+are on the right track.
+
+All the party is now together. As they progress west, the area becomes
+thicker and many drooping plants grab at them and hinder movement.
+Jaggers poke them from among the thick weeds. They emerge in a very
+small clearing, and see that they are at the southern edge of the
+glade. They have clearly found themselves on a path. They can follow
+the path west, or south towards the river. To the north is the boggy
+water.
+
+Thordek searches and finds several strands of light blond hair caught
+on a jagger bush. They hang at about eye level for a human, (which is
+above Thodek's head, since he's a Dwarf) hinting that they either came
+from an adult or from a child being carried.
+
+They continue. The path is plain and easy to follow. It heads west and
+then north, tracing the edge of the glade. They come to a group of
+large dreary willow trees. Their long branches reach down and touch
+the edge of the water. They look out across the bog, where east of
+them is the hill where they began their search.
+
+Many large insects and a few butterflies are moving about here. They
+can hear the chirping of many other insects.
+
+The path turns west from here. The path ahead becomes rocky and begins
+to climb upward. On either side, tall trees lean inward over the path,
+forming a great green canopy overhead. Foul black birds caw at them
+from above as they pass.
+
+They discuss the birds. Are these related to the birds that watched
+them crossing the plains yesterday? None of them seem to have enough
+knowledge of the wild to tell. They move on.
+
+A small cliff rises in front of them. The wall is a rough tumble of
+huge boulders about 20ft high. There is no longer any path visible,
+but from here they can go north or south along the cliff wall, or
+climb it.
+
+Eomer searches and notices some moss has been disturbed on the rocky
+ground to the south. A small patch has been scraped away, which may
+indicate someone has walked here in the last few days. They decide to
+go south.
+
+Suddenly Thordek bids the party to halt. He has spotted a tripwire
+across the path. Eomer examines it, finding that it leads to a pile of
+large rocks that look out-of-place atop the cliff-like slope. It's
+easy for them to figure out that the wire probably causes a torrent of
+falling rocks to spill accross the path. Instead of disabling it, they
+simply step over the tripwire and move on.
+
+After a few minutes the cliff gives way and they come to an open area.
+They walk over the green field for several minutes. Ahead, they see a
+wide stone ruin. It was once tall, but weather and age have thrown the
+stones down and they now lay in a broad heap. All that remains is a
+ring of stone making the outer wall of where the structure once stood.
+Broad steps lead up to what was once the inside of the building. The
+"interior" floor is covered in scattered stones.
+
+Thordek studies what remains of the stonework. He determines the
+building was made perhaps 200 years ago. It is not of Dwarven make,
+and is most probably of Human design. Given the configuration of
+blocks, he guesses that the building was probably a church or temple.
+It was not a fortified structure, at any rate.
+
+Walking around the structure, they find two sets of cold stone steps
+leading down into the basement.
+
+## Grey Moor
+
+![](images/map_grey_moor.gif)
+
+Grey Moor was the site of our very first campaign. At level one, the
+players stepped off the boat in the city of Bayhaven. By the time they
+were done they had walked all over the island many times, broken an
+evil curse that was killing the crops and draining the land of life,
+and then joined in a battle to prevent a single greedy nobleman for
+siezing control of the Island. Along the way they teamed up with Eomer
+and Endo and attained level 3.
+
+Grey Moor is about 90% human, 5% halfling, and 5% "everyone else".
+Dwarves are known to live in the mountains but their number is not
+known so they are not included in this total. Elves are very uncommon
+and usually never leave Bayhaven. The whole island is seen as rather
+bumpkin-ish to the other islands.
+
+The area north of the mountains is uninhabited. The coast this mostly
+low rocky cliffs or very steep slopes. In other places, the coastal
+area is shallow and rocky. This means that for a majority of the
+island it was difficult or impossible to bring in large ships safely.
+
+Bayhaven was the only good port for ships capable of inter-island
+travel. The others couldn't support much more than small fishing
+vessels. It is also the biggest and most sophisticated city.
+
+The town of Stackroot is home to a modest but profitable gemstone
+mine. About a third of the population is Halfling. The Halflings work
+the mine, while the humans handle the governing of the city and
+growing of crops.
+
+A little infomation on the city of Bridgehold and Highstone Monastery
+can be gleaned from Endo's backstory.
+
+The other cities are just tiny little farming villages and not worth
+mentioning here.
+
+At the end of our first campaign, the players had founded a new city,
+knocked a nobleman out of power, and established the council of Grey
+Moor.
