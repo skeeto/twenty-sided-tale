@@ -7601,7 +7601,7 @@ best to hold a direct southward course desipte their lack of bearings.
 > out how far volcanic ash can spread, how deep it gets, and how long
 > it hangs around once the mountain settles down. I wanted to create a
 > situation where the mountain itself was perilous to approach, but I
-> didn’t want to go Pompei on them. The island itself should be fine
+> didn't want to go Pompei on them. The island itself should be fine
 > once they dust everything off.
 
 By morning they draw near the sea and find they are at last escaping
@@ -7614,7 +7614,7 @@ two days. Endo and Garret prepare them a cooked meal in the kitchen.
 Once they have cleaned up and eaten, they meet in the library to plan
 their next move.
 
-Mordan’s Orb is imprisoned in a magic-proof box which was strong
+Mordan's Orb is imprisoned in a magic-proof box which was strong
 enough to hold a being as mighty as Fiore. That box in now buried in
 the unreachable depths of the mountain, and they alone know where it
 is. This is probably an even better prison than his former one,
@@ -7626,7 +7626,256 @@ trapped forever.
 The curse of the mountain is also lifted. Everyone wonders what effect
 this will have on the Queen and her minions.
 
-And what effect will the mountain’s erruption have on everyone?
+And what effect will the mountain's erruption have on everyone?
 
-They have many questions, but they are a two day’s journey from the
+They have many questions, but they are a two day's journey from the
 answers. First things first. They rest.
+
+## Session 13
+
+The party spends four days in the Mages Archives. They take a generous
+and well-deserved rest. There are many challenges ahead, but they
+sense the tide has turned.
+
+At last they depart, heading west towards Washport. They re-seal the
+Mages Archives before they leave. As far as Eomer is concerned they
+own the place now, so they may as well start taking care of it.
+
+The great cloud of ash has dissipated and been blown out to sea, but
+the ground is still black with it. The wind has tossed it about,
+leaving greay dust in every opening and on every surface. The mountain
+is still slightly smouldering in the distance, warning the inhabitants
+of the land against challenging its slopes once more.
+
+Two days later they arrive in Washport. Everyone is on edge. The
+guards are jumpy. At first they assume that this is due to the
+mountain exploding. Then they learn that things have changed in the
+two weeks they were wandering in the East. The Black Army of Mordan
+swept south some days ago. Here in Washport there are many Halfling
+farmers from Hillstead. They fled the city as the Grave Walkers
+decended on them in the night. To their knowledge, everything north of
+the river is lost.
+
+The Queen has sent her forces out to hold the bridge. Each night
+Mordan sends grave walkers at them, and the fighting at the bridge
+continues until shortly before dawn.
+
+![](images/map_mar_tesaro.gif)
+
+> Geeze. Let's have another look at the map, shall we?
+>
+> The players just left the Mages Archives, which was on the far
+> south-east tip of the island. Then they returned west to Washport.
+>
+> Mordan has been in the town of Crossway, building his power.
+> Crossway is on the North side of the island, just at the southern
+> tip of Lower Bolwood. Confused? Great.
+>
+> Now Mordan has come south and taken the town of Hillstead. He kept
+> going but was stopped by the Alidian army at the bridge, where they
+> are now fighting. (In retrospect, I should have given that bridge a
+> name. The river has a name, although I note that I neglected to put
+> it on the map. The bridge is large, wide, and made of stone. This is
+> a major piece of infrastructure around here, and it makes sense that
+> a thing like that would get its own name.)
+>
+> The Queen herself is in Fol Thron, just north of Lake Emlin.
+>
+> But wait! There's more! See Lake Emlin? That open area just west of
+> the lake is where...
+
+The Dwarves of Dunlock arrived! At first the people saw the army and
+thought reinforcements had arrived to aid in the battle against
+Mordan. Then the Dwarves set up some siege engines and began to pummel
+Fol Thron. The gossip in town is that the Dwarves saw this whole war
+(er, both wars, against the North and then against Mordan) as their
+chance to recapture Fol Thron at last. Dwarves have such a gift for
+holding grudges.
+
+The Dwarves have somehow made landfall south of the city and have
+struck while the army was engaged at The Bridge. The Alidians, already
+tired from the war with the Lormanites, are now forced to fight on two
+fronts.
+
+The walls of Fol Thron have been breached. Nobody here in Washport is
+sure who controls the capital city now.
+
+> Whew. An awful lot going on, isn't there?
+
+The party doesn't waste time here is town. At daybreak they reclaim
+their horses and ride with speed to the Dwarven encampment.
+
+> Not the move I was expecting! But a good one.
+
+They stop at the edge of the camp and Thordek acts as the leader of
+the party for the purpose of the conversation. They are less likely to
+get perforated by Dwarven crossbows if everyone thinks the party is
+under the leadership of a Dwarf.
+
+While not given audience with the General (who is very busy right now)
+Thordek is given an audience with his second in command. He is taken
+alone to the commander's tent while the rest of the party waits at the
+edge of the Dwarven encompment.
+
+To help smooth the conversation along, Thordek pretends to be excited
+about this new conquest of the island by his people. In truth, he is
+sad that there must be more pointless bloodshed over a mountain which
+nobody can truly posess. He is otherwise honest with the commander
+about his comings and goings on the island, and reveals that he has
+met with Queen Alidia herself. This impresses the commander, and he
+gets what news he can of the state of the island before their arrival.
+Thordek then reveals that Mordan is free. Thordek does not tell of the
+secret chamber of Fiore, now (hopefully) to be Mordan's prison. (The
+party has already agreed that they will never tell this secret, lest
+some idiot followers of the Lich try to free him again.)
+
+The Dwarves did not know he was free again. They have struck now
+simply because they expected that the Queen would be weak after her
+war in the north. They calculated that with her forces engaged in the
+north, they should be able to make landfall to the south and take the
+city by surprise. They very nearly did take the city. The walls were
+breached, and the Dwarves entered the city, but then reinforcements
+arrived from the north and pushed them back. Now that they know the
+city is all that stands between themselves and Mordan, they are not so
+keen to take it.
+
+Thordek learns that the Dwarves are also fighting in the south, trying
+to take the city of Telwin Port. The Dwarves just want control of the
+harbor, and they need some food. One of their own ships had a bulk of
+their foodstores on it, and it was somehow burned into the sea.
+
+> This was a long conversation and I can't remember most of it. The
+> ship was burned because of some magic Mordan was using to try to
+> isolate the island. In truth, this stuff is in my notes but I don't
+> even know if the dialog in-game covered it. The upshot here is that
+> the Dwarves only have a couple of days of food left and they need to
+> get their hands on some or they will quickly turn from being
+> invaders into conquered slaves.
+
+Thordek tries to negotiate to go in and rescue their friend Beck in
+Telwin Port, but that is asking too much. The city is under siege.
+Even if the Dwarves let the party in, the defenders of the city would
+most likely try to kill them on sight. The commander promises that if
+the city surrenders or Beck is taken prisoner, that he will be spared.
+
+Thordek returns to the rest of the party and gives them the news.
+
+The party rides away from the Dwarf camp, and heads around the
+southern side of Lake Emlin. By nightfall they reach Della Minera,
+where they freed the slaves a couple of weeks earlier. To the north is
+now a huge area of tents and soldiers. The last shreds of the Alidian
+army are here, defending the bridge nightly against attack.
+
+They rest here for the night and then head to Fol Thron.
+
+They head for the Citadel, but as they pass by the Mages Guild they
+see the place is surrounded by a crowd. Skeeve stops to see what is
+going on. The place is surrounded by town guards, who are keeping
+everyone at a distance.
+
+Skeeve asks a nearby guard what is going on. The guard begins to
+explain, but is cut off by a thunderous BOOM from the tower above.
+Another town guard comes sailing out of one of the second-story
+windows and lands with a thud nearby. Black smoke pours from the
+window.
+
+Enoch heals the still-smouldering guard, while Skeeve has the nearby
+captain explain.
+
+It seems that they located a secret chamber within the Mages Guild
+tower which was being used as a meeting place for some of Mordan's
+followers, or the members of his cult, or whatever they are. They
+arrested these members, (who were mostly wizards) and are questioning
+the other guild members, trying to get a feel for how big this secret
+group is, who the members are, and how they remained hidden for so
+long. This has put the guild out of business for a couple of days, and
+has only added to the chaos of the two-headed invasion they are
+facing.
+
+His men are now trying to search the place, which tough going because
+the place is filled with traps. Without the help of a trusted wizard
+they are running into problems like the one everyone just witnessed.
+
+Skeeve offers to help out. As a member of the party who is
+(apparently) serving the Queen, as a newcomer to the island, and as
+someone who was already grilled under Zone of Truth a few weeks
+earlier, he is above suspicion. The captain takes him to the second
+floor, where there is a group of very nervous guards trying to search
+the room without getting crushed, incinerated, poisoned, or blown to
+bits. Skeeve has them clear out and goes to work.
+
+> This was a slapdash sidequest I came up with on the spot. Pat (who
+> plays Eomer, the party spokesman) was absent, and it seemed like not
+> having him around would really mess up the meeting they were about
+> to have with the Queen.
+>
+> Skeeve stopped at the Mages Guild and got dragged into a situation
+> where someone had found a secret chamber in the guildhall. It was
+> filled with magical traps of various kinds. Skeeve went in, dealt
+> with the problem, solved some puzzles, and in return got a load of
+> new books.
+>
+> One of these books contained THE SECRET TO CURING THE TORMENTING
+> BLINDNESS OF THE QUEEN.
+>
+> Now, all of this was due to a screw-up on my part. This book should
+> have been at the Mages Archives on the southeast tip of the island.
+> A secret chamber here in the guildhall really doesn't make a lot of
+> sense, but this was a book I intended for them to find if they
+> reached the Archives. They earned it, and I wanted them to have the
+> chance to cure the queen if they chose to do so.
+>
+> The cure would take away her near-immortality, but would end her
+> blindness and her suffering. She could go back to living a
+> quasi-normal life.
+>
+> This was a crucial plot / quest item, and I managed to forget it.
+> Sigh. It happens. I patched over it.
+>
+> Also, I neglected to detail some of the other books they found at
+> the mages archives.
+>
+> They found a rather difficult book by Songmage Forwinol. It details
+> the magic he added to Mordan's Phylactery in order to trap him. It
+> details the steps needed to place the orb onto a container in order
+> to turn it into a trap for the Lich. The orb magic is quite beyond
+> Skeeve, but the trapping proceedure is easily understood. Using the
+> book as a guide, they could return to Mordan's tomb and (assuming
+> they could get in and reach his original prison) affix it to his
+> coffin once more. This book is no longer needed (since they used
+> Fiore's prison instead) so I neglected to mention it in Session 12.
+>
+> So, in the Mages Archives they found:
+>
+> * Directions on how to re-set the trap in Mordan's tomb. (Assuming
+>   they could ever reach it, and it hasn't been destroyed.)
+>
+> * Hints on how to find the entrance to Fiore's prison.
+>
+> * A couple of spells for Skeeve.
+>
+> * If Enoch hadn't finished the Book of Norvus by now (or if he had
+>   skipped that sidequest altogether) then the key history they needed
+>   would have been provided here. The only thing is that he wouldn't
+>   have gotten the fun of decoding it himself, not to mention the XP.
+>   The history was available at the archives, although they already
+>   knew it.
+>
+> * ~~The cure for the queen's blindness.~~ Oops.
+>
+> So, they went all that way and found books they didn't need, books
+> they never used, spells that were useless to everyone but Skeeve,
+> and a book I forgot to give them. I remember them feeling a little
+> cheated when they finally found the place and all it really had that
+> interested them was a HINT of how to find Fiore. Ah well.
+
+Skeeve takes Eomer (who is an NPC right now, remember) into the tower
+and they puzzle their way through the various traps. Once complete,
+they search the place. They are supposed to tell the guards when they
+are done, but Skeeve wants a look at the spoils first. He finds a book
+which details the cure to the Queen's curse. This is too valuable to
+pass up, so he grabs it.
+
+They then head downstairs and report that their work is complete. They
+are paid for their trouble, and then head for the Citadel. They plan
+to meet with the Queen this time.
