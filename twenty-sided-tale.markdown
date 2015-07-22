@@ -7879,3 +7879,111 @@ pass up, so he grabs it.
 They then head downstairs and report that their work is complete. They
 are paid for their trouble, and then head for the Citadel. They plan
 to meet with the Queen this time.
+
+## Session 14
+
+Having sorted out the problems at the Mages Guild and recovered some
+interesting books, they proceed to the Citadel. Endo takes Garret to
+an inn, where the boy can hopefully keep a low profile. It is unlikely
+that anyone will recognize him, but the Queen has many powers of
+perception and it seems like pushing their luck to get him too close
+to her. As the last remaining prince of the Lormanites, he would most
+likely be put to death before he could get any ideas about following
+in his father’s footsteps / seeking revenge / attempting to reclaim
+his throne. The Lormans have been a tenacious family over the last few
+centuries, and the Queen would most likely not pass on the chance to
+extinguish his bloodline forever.
+
+The entire party is granted entry to meet with the Queen. They are all
+allowed in at once, which is unexpected. They report to the Queen that
+Fiore is free and the curse is lifted, but it is obvious she had
+figured this out. The mountain blew its top a week ago, and nobody
+could have missed that. If it weren’t for the two-headed invasion of
+the city this event would be the talk of the town. They do not tell
+her where the Archives are, or where the Orb is buried.
+
+She explains that her mines collapsed and an avalanche covered many of
+the old ways in. The mountain is sealed now, and nobody will dare to
+set foot on it.
+
+She offers them a new task: To go to the Dwarves and offer them a
+truce. She is prepared to offer them control of the mountain in
+exchange for their aid in repelling Mordan. The mountain, being pissed
+off and errupting, is not the prize it was just a few weeks before.
+But the Dwarves came to claim it, and it’s all she has to bargain
+with.
+
+They reveal to the Queen the Dwarven food shortage. This might be an
+even better bargaining chip than the mountain. She could probably
+simply wait for their hungry bellies to prompt their surrender, but
+Mordan’s attack from the north and her own thinning forces do not
+afford her this luxury. She adds that she will give the Dwarves the
+provisions they need if they aid her.
+
+They agree to this task and depart. A detachment of soldiers is sent
+along with the party, under their command. There are enough men to
+demonstarted that they come in the name of the Queen, but few enough
+that the Dwarves won’t mistake the group for a halfhearted
+counterattack.
+
+They ride south under a flag of truce and meet with the Dwarven
+general. Thordek puts her offer on the table. There is some
+negotiation.
+
+> They wanted the Citadel too. How much food? What are the terms? How
+> do we know we can trust her? How did Mordan get loose? Blah blah
+> blah.
+>
+>
+> Thordek did well here. He’s a fighter and it’s not like he has much
+> in the way of Charisma or diplomacy, but this was more about
+> roleplaying than rollplaying so that didn’t hurt him.
+>
+> This Dwarven general was a funny (odd) fellow and we had a lot of
+> fun with this conversation as two Dwarves hammering out the details
+> of the agreement. You can’t have this kind of fun with raw
+> hack-n-slash players, and I am once again grateful that I have such
+> good gaming buddies.
+
+The Dwarves agree to pull up stakes, take down their siege machinery,
+and head north. A lot of their forces are concentrated in the south at
+Telwin Port, and it will take three days to regroup and mobilize.
+Thordek thanks him, and the group departs.
+
+They return to the city, report the results of the parlay to Fulan at
+the citadel, and rest for the night. The next morning they leave the
+town heading east. They head to the bridge to give aid to the
+crumbling forces holding that last choke-point between Mordan and the
+lands of the south.
+
+> This was a great battle. The players were backed by Alidian soldiers
+> and catapults, and I was going to throw handfuls of Grave Walkers at
+> them until everyone had gotten their fill of combat. It had been a
+> long stretch since we’d had a battle and we were due.
+>
+> Sadly, this was just perfect for fireballs, but Dan wasn’t there
+> that week so I was running his character. Now, this would have been
+> his moment to shine, but Skeeve was an NPC this week and so I wanted
+> the other players to take center stage. So Skeeve hung back and
+> peppered the bad guys with magic missles and the tanks (Thordek and
+> Thu’fir) stood in the middle of the bridge and gave the enemy a
+> rightous beating.
+>
+> Behind these two were some archers. Back on the southern shore they
+> had catapults which shot huge loads of burning coals at massed
+> groups of enemies. Enoch directed the catapults when he wasn’t
+> healing. This gave him the fun of tossing “fireballs” around.
+>
+> Of course, I had to adjust XP to reflect the fact that they were not
+> fighting alone, so this wasn’t the huge XP jackpot it might seem to
+> be. Still, it was pretty thrilling.
+
+They hold the bridge for several hours. Midnight passes. Then suddenly
+the grave walkers retreat. This comes as a surprise to everyone. They
+usually keep up the assult until almost dawn. The soldiers brace
+themselves, expecting that this is the calm before an even bigger
+storm, but their fears prove unfounded. Mordan does not strike again
+that night. His forces were numerous, why would he signal the retreat?
+
+Dawn comes and everyone rests. The puzzle will have to wait until
+tomorrow.
