@@ -5274,9 +5274,9 @@ Having completed this work, Enoch goes to sleep for the night...
 ### 17th of Last Summer (Evening)
 
 At the same time Enoch is visiting the Archives, Skeeve visits the
-Mage’s Guild.
+Mage's Guild.
 
-The Fol Thron branch of the Mage’s Guild is a simple spire of brown
+The Fol Thron branch of the Mage's Guild is a simple spire of brown
 stone, crowned with what looks like an observatory. In any other
 setting it would look tall and impressivle, although it looks
 diminutive in the presence of the great Citadel.
@@ -5284,7 +5284,7 @@ diminutive in the presence of the great Citadel.
 The building is closed to all non-members, save for a few runners,
 (young boys who loiter in the vestibule and wait for the chance to
 deliver messages or goods around the city in exchange for a few
-coppers) so Skeeve’s membership is examined carefully before he is
+coppers) so Skeeve's membership is examined carefully before he is
 allowed to enter.
 
 The interior is ornate and comfortable. The floor is covered in fine
@@ -5296,7 +5296,7 @@ leads up from this room as well, although Skeeve does not see where it
 leads.
 
 He meets a few of the local wizards. They seem to work here in the
-city, although Skeeve doesn’t learn who employs them or why. Skeeve
+city, although Skeeve doesn't learn who employs them or why. Skeeve
 stands by the window and listens in on some local politics. It seems
 several of the senior members of this guild office are excited about
 the recently-won war. They are looking into opening up a new Guildhall
@@ -5305,9 +5305,863 @@ seems to center on what sites would be most suitable for this, and who
 would be in charge of it.
 
 Skeeve meets a few prominent members and makes polite conversation,
-but doesn’t learn anything of real value. He doesn’t mention the orb
+but doesn't learn anything of real value. He doesn't mention the orb
 or Mordan.
 
 Having learned little, he bids the other wizards good-night and heads
-back to the inn. Enoch shares the most recent chapters that he’s
+back to the inn. Enoch shares the most recent chapters that he's
 translated, which they ponder for a while before going to bed.
+
+## Session 8
+
+### 18th of Last Summer
+
+Enoch begins the day by finishing work on the Book of Norvus. With the
+aid of the books on load from the Archives, he is able to make short
+work of the final two chapters:
+
+<div class="document">
+**Part XII: The Fall of Myran Allidia**
+
+Mistress Myran Allidia was the sole ruler of Khelberg. With the other
+members of the triumvirate defeated, she now became Queen Allidia. Her
+blindness made her fearful and filled her with a lust for vengeance.
+Her injury pained her at all times, no no healer could undo the damage
+she had suffered. She came to hate and despise all Humans for Lorman's
+betrayal.
+
+The injury dealt her by Lorman had both stolen her sight and
+disfigured her. She became reclusive, and ordered that the windows of
+the tower be shut and no lights lit inside. The Citadel was ever dark,
+for she believed that all of her servants should share in her
+blindness.
+
+Until this time she did not have great renown with magic, but once
+blinded she pursued magic both night and day, rarely sleeping or
+stopping to eat. The years of her rule grew long and she became as
+strong as many of the great sorcerers of old.
+
+Queen Allidia had been gentle and beautiful to behold when the
+triumvirate was formed, but the long years of scheming, battles, pain,
+and arcane studies had left her dark and twisted. Her appearance was
+almost that of a Dark Elf, though she would kill any who stated so
+openly in her presence.
+
+She became a skilled seer, and probed the minds of her subjects, wary
+of traitors or spies. And so she is, even to this very day.
+</div>
+
+<div class="document">
+**Part XIII: The Truth Revealed**
+
+*Few of the scribes of Mer Tesoro have the wit to translate this work
+as I have written it, and fewer still would bother to translate a work
+of history that could be read more plainly elsewhere. Therefore you
+the reader are both a scholar, and an outsider not yet tainted by the
+curse of this land.*
+
+*Under the rule of the Sightless Queen it is heresy to proclaim that
+the curse of Fiore is anything other than a fool's tale. Although I
+made it sound like mere folklore at the start, it should be plain to
+any that have read thus far that the curse is real. In all the long
+years of war and bloodshed, no leader has ever sought to share the
+mines, none has ever known peace, and none has been willing to let the
+mines lay idle long. What else other than curse can explain such
+madness? What else besides the curse could explain how an entire
+nation of people could become so full of lust for gold that they would
+poison their own farmlands in the mining of it? Why did people not
+flee the lands when war came, even when their defeat was sure? What
+would make even the gentle Elves stand and fight to the death over
+mere treasure?*
+
+*I implore you, the reader: Do not take any of the treasure of Khelberg
+for yourself. If you have any, throw it away. Do not spend it! Do not
+bring the curse down on your own head, or you will be doomed to
+forever desire the riches of Khelberg and the blood of those who
+gather it.*
+
+*I have hope that it is possible to break the curse, and in my long
+years of secret study I have found many clues as to how such a deed
+might be done, although much knowledge has been lost or hidden beyond
+my reach.*
+
+*The spirit of Fiore was bound by Dwarven magics deep below the
+mountain. If that work could be undone, perhaps it could be freed
+again? If Fiore were freed, would it not lift also the curse on the
+land itself?*
+
+*But how to free it? Where is Fiore imprisoned, and can such a place
+still be reached? If so, what would one do to break the spell? Perhaps
+books existed with the answers long ago, but if so they were lost or
+destroyed during the rule of the Lich King. There may be some hope,
+though. To the southeast of the mountains was once the Magus Archives.
+Many books were kept there and many secrets hidden from the eyes of
+Mordan. The Wizards that kept the place were slain in the battle
+against the Lich King, and the location of the archives are now lost.
+But there is a slim hope that if they could be found again, perhaps
+some hint of the Dwarven spell could be learned.*
+
+*The Magus Archives were built soon after the inception of the Guild of
+Mages itself. I have sent secret messengers to Dunlock to speak with
+the Council of Masters, and although their books do record that the
+Archives on Mar Tesoro existed, they do not have the location.*
+
+*Since the Archives were constructed by Wizards, it would be foolish to
+go charging blindly into the wilderness in search of the site. The
+Wizards doubtless concealed the site, or at the very least sealed it
+with magic. It has never been their way to leave knowledge unguarded.*
+
+*I have done what I am able, but I am no hero. In translating this long
+and difficult work, you the reader have proved yourself to be both
+learned and patient. I beg you to act on this knowledge, to break the
+curse of so many long centuries. I warn you again, do not corrupt
+yourself with the treasures of Khelberg, or you will join the others
+in the cycle of violence and betrayal. Use what strength and craft you
+have to end this misery.*
+
+*With all hope,*
+
+*Chronicler Norvus*
+</div>
+
+With the book complete, Enoch returns to the Archives for his reward.
+
+### 18th of Last Summer (Morning)
+
+While Enoch works to translate the remainder of the book, Skeeve
+returns to the Mage's Guild to see if he can learn more.
+
+The Mage's Guild is much as it was the evening before. A different set
+of wizards seems to be about at this time of day. Skeeve takes his
+place among them and slowly joins the conversation. When the time
+seems right, he off-handedly poses the question, "Gentlemen, whom do
+you believe to be the gratests of all wizards?"
+
+A few of the older fellows roll their eyes and move on. Apparently
+they see this an a subject good only for endless idle debate. A few of
+the younger ones get into the spirit of the thing, and toss out a few
+quick suggestions. One of the youngest, more likely an apprentice than
+practicing wizard, suggests, "Dravis Lorman!"
+
+Since their country just anihilated the Lormanites and killed King
+Dravis in the war, this is a very humorous suggestion and the
+conversation stopps while they have a laugh at Lorman's expense.
+
+At last the debate resumes. Many names are put fourth and mentally
+pitted against each other, until at last someone suggests Lucan
+Forwinol. At the mention of this name Skeeve chimes in, "I completely
+agree! You know, it's funny you should bring him up. I'm doing some
+historical research and... well... is he still around?"
+
+They are amused by the question, "Of couse not", says one, "he died
+over a century ago."
+
+Another adds, "Yes. Over a hundred years since he died, and his son
+hasn't seemed to have found the same skill that his father posessed.
+Don't get me wrong, Teerin is a fine wizard by all accounts and a
+credit to the people of Mar Talos, but the might of his father is not
+in him."
+
+Skeeve then poses another question, "Do you think Teerin could defeat
+the Lich King the way his father did?"
+
+This question is considered carefully. The conversation takes off on a
+tangent as they debate about the sorts of magic Teerin has studied and
+the sorts that were required to defeat Mordan. Unlike the people to
+the north, these man have not confused or forgotten the old stories,
+and are well aware of the threat that Mordan once posessed. The
+conversation circles around until they come back to the main point.
+The consensus is that it is unlikely Teerin would be capable of
+defeating Mordan. His father was only just barely capable of it, and
+Teerin isn't as strong as his father.
+
+At this point Skeeve notices that the circle of people involved in
+this conversation has been dwindling as people have moved over to the
+steps to investigate a rather excited conversation happening over
+there. Skeeve follows, and has he approaches a circle of chattering
+scholars and magic users gathered at the foot of the stairs he hears
+snatches of the debate they're having over weather patterns. The
+observatory is mentioned. It seems something unusual has been spotted
+in the sky.
+
+Skeeve cuts through the crowd and heads directly up the stairs to see
+for himself.
+
+Skeeve circles around as he ascends the spiral stairs. With each
+revolution he passes another doorway leading to the next floor of the
+building. He sees a room willed with mirrors, tinted glass, bent glass
+lenses, and freestanding prisims the size of a man. For just an
+instant as he passes the doorway he can see morning sunlight warped
+and and scatted about the room. The next floor is a library. Another
+orbit and he passes a doorway into some sort of packed storage area.
+
+Skeeve at last finds himself at the top of the stairway and in the
+observatory. It is a circular room with open windows on all sides that
+takes up the entire top floor of the tower. On the north side of the
+room, several people of various races have gathered around the
+telescope. The elves peer out the window studying the horizon, while
+the humans jockey for position to be the next to use the telescope.
+
+A debate is going on between a very fussy old human and a young elf.
+
+The young elf says defensively, "I was just up here getting some
+morning air when I saw it."
+
+The human, an old man with a squashed pointed cap, is peering out the
+window, "What did you hope to see out of the telescope at this hour?
+It's daytime."
+
+The young elf gestures with exasperation out this window, "I wasn't
+using the telescope. I was just looking out the window!"
+
+The old man squints unhappily, "Well I don't see anything..."
+
+To which the elf cries, "Look through the telescope!"
+
+Skeeve squints out the window and, with his elven eyes, can just
+barely make out a black cloud to the north. It is very low. The rest
+of the sky is blue, with a few puffs of white strewn about. The dark
+cloud does not look like weather. It is a dark haze that seems to
+cling to the earth.
+
+There is an argument going on about what they are seeing. Someone
+suggests a forest fire. That idea is dismissed: Smoke would be rising
+up and dissapating, not gathering like a lot stormcloud over a single
+location.
+
+### 18th of Last Summer (Morning)
+
+While Skeeve is at the Mage's Guild, Enoch visits the Archives to show
+them the completed book.
+
+Councilman Relnar looks over the completed work. Clearly disappointed
+he states, "Well, a deal is a deal. Here is the promised reward." He
+hands Enoch 5,000g. This is quite a sum for such a job.
+
+Enoch offers him the book. Relnar looks down like Enoch is offering
+him the cookbook of a cannibalistic shaman, "I don't have any use for
+it. You may keep it."
+
+* * *
+
+While Enoch is at the Archives, Thordek finds a blacksmith that deals
+in custom-crafted weapons. He negotiates for a new hammer, one with
+his family crest on the face. The blacksmith tries to up-sell him with
+a number of useless options like silver trim, gold inlay, fancy types
+of wood for the shaft, exotic leathers for the handle, and so on. All
+of these would make the weapon more ornate and less practical. The
+Dwarf isn't having any of it. At length the smith realizes that this
+is a hammer for crunching foes, not hanging over the hearth, and so he
+relents. Since all of the parts of the weapon are stock, only the head
+needs to be custom-crafted. They agree on a price, and Thordek is told
+his weapon will be done by tomorrow afternoon.
+
+While this is going on, Thu'fir goes shopping and purchases a few
+healing potions, and a net
+
+* * *
+
+Above the square where his comrades are engaging in commerce, Skeeve
+is standing in the observatory, examining the black cloud to the
+north. He realizes something: This is one of the tallest buildings in
+town (aside from the windowless Citadel) and yet only an elf could
+spot the cloud without the aid of a telescope. Since the city isn't
+awash in telescope-bearing citizens with a penchant for watching the
+daytime horizon, it seems safe to conclude that the group of wizards
+in this room are the only people in town who know of this.
+
+Skeeve suspects the cloud is Mordan's doing. He feels he must speak to
+the queen. Below, he can see the bridge to the citadel is guarded and
+the gates are closed. He turns to the young elf, "How would someone go
+about talking to the Queen?"
+
+Several people stiffen at that. They attempt to explain the This Just
+Is Not Done. You don't ask to see the Queen. Skeeve insists. Someone
+suggests going to the office of city affairs and petitioning an
+official there.
+
+The office in question is just a few doors over. He heads over and
+sees what can be done. Many commoners are standing in long lines,
+waiting to talk to an official for various reasons. This place seems
+to be a point where inhabitants from all over Mar Tesoro can come and
+appeal to the government. Most people seem to be here so that they can
+have an official arbiter resolve a civil dispute. Others are here to
+lodge complaints of one form or another. Skeeve makes some subtle
+inquiries. He doesn't want to mention Mordan, so he's having a hard
+time convincing people he has some valid reason to be taken seriously,
+much less have his case brought before a high-ranking official.
+
+There doesn't seem to be any line that leads to the Queen. In
+desperation, he simply locates the office of the highest city official
+he can find, and gets in the appropriate line.
+
+Skeeve stands there for a while. He gathers some gossip on how the
+city works, but can't figure out who to see about getting a meeting
+with the queen. Finally he gets bored and frustrated. He walks to the
+front of the line and says to someone, "Can I cut in? It's very
+important!"
+
+"Not for all the gold in Khelberg. Piss off."
+
+Skeeve protests, "I think someone might be trying to kill the Queen!"
+
+> Let's skip ahead here. This was very humorous, but pointless and a
+> bit long. Here is the short version:
+>
+> When Skeeve mentions killing the queen, it was sort of the
+> equivalent of saying, "Hijack a bomb", to airport security. People
+> around him gasp. Guards show up. He is dragged off. He knew this and
+> anticipated this result, but figured it was the fastest way to get
+> his story to the right people.
+>
+> What follows is several hours of being bounced around from one
+> office to another and answering the same questions a dozen times.
+> The clumsy stupidity of the system allowed for some hilarious
+> conversations that would nevertheless be hopelessly dull and unfunny
+> to the reader.
+>
+> This drags on for a while, and eventually Skeeve is placed under
+> house arrest at the inn. The party meets him at his room and he
+> explains what's been going on.
+>
+> The officials come back, and decide they want to question the entire
+> party. They were then dragged though the levels of city officials.
+> In the end, the party gave an account of their work for Noreeno and
+> how the Lich got free. They show the phylactery (the orb). One city
+> official decides he needs to call in some of the Mages the city
+> keeps on retainer, so the orb can be destroyed. Then the party has
+> to spend a bunch of time explaining why this is a Really Bad Idea.
+>
+> This really did drag on for quite some time. Looking back, I think
+> the guys were pretty patient with this.
+
+As evening falls, the Office of City Affairs closes for the evening,
+and the party is released. However, their travel papers are taken away
+and they are told not to leave the city.
+
+### 18th of Last Summer (Late Afternoon)
+
+The party has spent most of the day dealing with various city
+officials, trying to get someone to hear their case and alert the
+queen to the danger in the north. Thordek seeks out the Embassy and
+meets with the Dwarven diplomat. Perhaps his kin have some sway here.
+
+He is welcomed as a brother, and they spend some time talking about
+smithing and mining. At length, the Dwarf lowers his voice, "So
+brother, any news?"
+
+Thordek realizes that the he must be talking about the coming invasion
+the dwarves have been planning.
+
+He answers, "Unfortunately, I seem to be the only one who doesn't know
+about this."
+
+"So no news?"
+
+"No news", Thordek informs him.
+
+He is exasperated, "I thought for sure, with the war! It seemed like
+the ideal time to strike. Her forces were to the north, fighting the
+Lormanites. It was the time to make our move. Why did we not act?"
+
+Thordek concludes there is no help to be had here, and returns to the
+inn, where he finds a detachment of soldiers and a robed man in the
+lobby, waiting to speak to the party. Once they are all assembled, the
+robed man introduces himself as General Tarvin, one of only a a small
+handful of people who get direct orders from the queen.
+
+The party is encouraged that they are finally getting to talk to
+someone of importance. They had given up at the public affairs office
+for the day, concluding the entire matter to be a dead end and a waste
+of time. They were at a loss as to how to proceed from here, and now
+one of her generals has come to see them.
+
+The General is a severe human with long dark hair, a deeply creased
+face, and an aloof manner. He is dressed in red robes and carries a
+long staff.
+
+He is secretive. He speaks of their business in roundabout ways, as if
+he expects the lobby of the inn to be packed with spies. He insists he
+must speak to the party soon, and asks them to meet him on the south
+end of town in an hour.
+
+They are perplexed by this. Doesn't this general have some sort of
+office or headquarters at the city center? Why meet on the ragged edge
+of town? Why meet at night? Thu'fir asks about this.
+
+Tarvin assures him, "All will become clear when we meet there."
+
+The party discusses this and, with some hesitation, agrees to meet
+with the general.
+
+### 18th of Last Summer (Night)
+
+The address given by general Tarvin is well on the south side of Fol
+Thron. It is after dark as the party navigates the increasingly narrow
+and filthy streets, making their way to the appointed meeting place.
+They pass a number a barracks that house the portions of the Queen's
+army that are currently in town and asleep. At length they come to a
+series of walled-in areas. Some seem to be drilling grounds (judging
+by the deep ruts of perfectly aligned footprints) while others are
+storage areas. There are very few lights in this part of town, and the
+darkness hampers there search for the right place.
+
+They find general Tarvin and a force of six soldiers inside one of
+these walled areas. The soldiers stand in a crisp formation line
+behind him, facing forward, unmoving. The general and his men are in
+more or less the center of the field of packed dirt (in the center)
+and trampled grass (at the edges). Unlike other adjacent areas, this
+one is empty. There are no crates of war material, no archery targets,
+no shanty buildings, and no siege machines. The walls encompass an
+area of fifty meters. If the general suddenly decides to play some
+sort of sporting event, they will have plenty of room. They note that
+the surrounding stone wall is only five feet high, which is climbable
+to all but the short and encumbered Thordek (who could be pulled over
+by taller folks in a pinch). So they won't be trapped, although
+scaling the wall in a fight might be tricky. They lament one more time
+that Eomer could not come with them.
+
+> Pat had to work late, and thus missed the first half of this
+> session. Instead of Eomer simply hanging around the inn or tavern
+> for no reason, I had him go into the city on business of his own and
+> not come back.
+
+Thu'fir rolls open the heavy black-iron gate and they enter. On the
+way here they have been talking about what an odd and unlikely meeting
+place this is. Perhaps the general believes the city to be so infested
+with spies that they must meet in this remote part of the city.
+Perhaps he is hiding is business from the queen. Perhaps he just wants
+a quiet place to dispatch them.
+
+They cross the field and greet him. Tarvis smiles thinly in the dim
+moonlight. He welcomes them, and then begins reciting what sounds like
+a practiced speech, "Gentlemen, I know you are strangers in our land,
+and that this business is far beyond you. I apologize for the poor
+treatment given to you by our city today. I would like to make things
+right. I would also like to see the orb in safer hands. There is no
+need for you to face the armies of Mordan, and we are eager to see the
+orb in a more secure location. All you need to do is give me the orb,
+and you can go on your way", he holds out his hand to receive the orb
+as he says this.
+
+The party is a bit shocked at this. They have been looking for a way
+to unload the orb, but now that they are faced with someone who wants
+it, they are suspicious.
+
+"Come now, give it here", Tarvis says when they fail to respond.
+
+The party gathers together and begins whispering among themselves.
+They obviously don't trust this guy. They don't know what his angle
+is, but they don't want to go along with him, for no other reason than
+this whole setup feels fishy. Skeeve at last stammers, "I understand
+that you feel that this orb is not safe with me, but I assure you that
+Mordan will not find us for the time being. I have..."
+
+Tarvis cuts him off, "What do you care what happens to the orb? This
+island is not your concern. Just surrender the orb and I will give you
+safe passage south where you can leave this island, and you need never
+worry about this again."
+
+Thu'fir jumps in, "Why do you wish to have the orb? Wouldn't you
+rather we gave it directly to the Queen?"
+
+Skeeve can see this last question has angered Tarvis, so he tries to
+smooth it out, "It's not that we don't trust you, it's that we don't
+know you. And it seems it would be wiser that we should..."
+
+Tarvis extends his arm further and speaks menacingly, "Give. Me. The.
+Orb."
+
+The party can see where this is going. He's not going to let them
+leave without the orb and they have decided not to let him have it.
+This saves them a lot of agonizing. This is going to turn into a fight
+sooner or later, so instead of puzzling over the general and his
+motives, they simply prepare (being as subtle as possible) for the
+inevitable. A smile comes over Thu'fir's face. As a blade lord, he is
+eager to mix it up with a wizard. Thordek whispers to Skeeve, "I don't
+wanna give it up. I got yer back."
+
+There is a long pause. At last Tarvis makes a gesture towards someone
+or something behind them, and they hear the heavy iron gate roll shut.
+His voice lowers, "I tire of debating with you. You are placing my
+entire island at risk with this nonsense. This will be the last time
+that I ask."
+
+Skeeve argues, "By giving you the orb we would be placing the island
+at even greater risk. You are not of..."
+
+Tarvis is unable to hide his rage. His businesslike demeanor has been
+eroding as they spoke, and he is now openly threatening, "You are
+weak! Give me the orb!"
+
+Thu'fir is sick of debate. He sees that battle is coming and doesn't
+want to give the general the chance to strike first. He blows his horn
+at the general and his men. They are all knocked back a step and
+slightly stunned. The others surround the general and unleash their
+weapons on him. Thordek, seeing that the general is surrounded, leaps
+over to the the row of soldiers and attacks the one in the middle. He
+lets out a battle-cry and swings his mighty hammer. Perhaps his palms
+are sweaty, or perhaps the weight of the new hammer is unfamiliar to
+him. At any rate, he loses his balance and his grip on the handle, and
+manages to fling his weapon away, over the heads of the enemy.
+
+> Joe (Thordek) rolled two ones in a row with his d20 for a critical
+> failure. This is only a 1 in 400 chance. Too bad it was the first
+> time he was getting to use his new hammer.
+
+This annoys Skeeve to no end. He was preparing to unload a fireball on
+the tight group of men, and now Thordek is in the middle of that
+group, unarmed, and on his ass. Skeeve lobs the fireball over their
+heads and at a point behind them. The moonlit arena is suddenly bathed
+in a brilliant orange glow and a few of the soldiers are set alight.
+
+The battle is short. Their quick actions at the start of the fight
+ensured that the enemy never had the chance to mount a serious
+offensive. The general is cut down and most of the men die in flames.
+The smell of burning clothes and flesh fills the battlefield.
+
+They find few clues and little else of use on their fallen foes. The
+general does have one telling item: A golden ring that is used to
+conceal one's evil nature. So Tarvis served evil, whatever his
+intentions were. While removing his ring, they discover a tattoo on
+the back of his arm:
+
+![](images/mordan_symbol.gif)
+
+They step back and look around. The sounds of Thu'fir's horn call and
+the ensuing battle were most likely audible for quite some distance.
+They are now standing over the slain body of a general and the smoking
+remains of six soldiers. Black smoke rises from the battlefield,
+hanging over their heads for all to see. The town watch would have to
+be blind, deaf, and unable to smell burning flesh in order for this to
+go unnoticed.
+
+As they expected, a number of city watchmen are heading their way as
+they emerge from the gate. The guards look a little nervous. They
+demand the party stand forward and explain themselves. They try to
+sound menacing, but its clear they are ready to piss themselves. These
+simple men are not used to all-out combat within the city walls and
+can see they are outclassed.
+
+The party makes a good show of "surrendering" to the guards, without
+actually giving up their weapons. The guards seem to be quite relieved
+when they see they are not going to be roasted on the spot. The party
+explains what has happened. They are brought (still armed) back to the
+local guardhouse and make a statement under Zone of Truth.
+
+The watchmen listen to their tale and ponder it for a bit. It does
+seem strange to find General Tarvis (they are easily able to identify
+his body) holding a meeting with outsiders at night in this part of
+town. With the general unable to give his side of the story, the
+guards are more than happy to let them return to the inn while the
+city watch launches an investigation.
+
+### 19th of Last Summer (Morning)
+
+In the morning, Skeeve wakes up and heads over to the observatory at
+the top of the Mage's Guild. The black cloud still clings to the
+northern horizon. It is a bit larger today, and can be seen by the
+humans without the aid of the telescope. The town is buzzing with news
+of this. Commoners look nervously into the sky.
+
+Back at the inn, the others are surprised to see Eomer is back. He was
+nowhere to be found yesterday, and they spend some time telling him
+about the black cloud and the fight with the general the night before.
+Eomer reveals that he spent all of the previous day looking for
+Norvus.
+
+A group of officials arrives at the inn to meet with the party. The
+officials inform them that they have been summoned to meet with the
+Queen! They do not need to go right away. Instead, they are to present
+themselves at the front gate of the Citadel when ready and they will
+be granted entry. Once there, they will be instructed further.
+
+> A few posts ago I mentioned that I rarely transcribe entire
+> conversations. This is one of those times. The conversation with the
+> city official took about ten minutes of back-and-forth dialog. Very
+> little of it moved the plot forward. The city official was a
+> throwaway character who they will not meet again, so there is no
+> reason to spend time developing his personality. No plot secrets
+> were revealed. In the end, the conversation just didn't move the
+> story forward, so I just distilled the entire conversation into the
+> one-paragraph summary you see above.
+
+> It does make the story seem a bit flat when I do this, but when
+> turning a five-hour session into a narritive, you have to take
+> whatever shortcuts you can find.
+
+They decide to tie up some other loose ends before heading for the
+Citadel.
+
+Eomer wants to see if he can find Chronicler Norvus. Yesterday, while
+his companions were busy getting arrested and getting into a fight
+with General Tarvis, he was working his way through the underside of
+the city, looking for traces of the exile. After a lot of
+information-gathering, bribing, eavesdropping, and brawling, he's
+managed to get the name and address of someone who might know where
+Norvus is.
+
+He's now on the southern side of town, far from the city center. The
+dark spires of the Citadel in the distance peer at him over the
+ramshackle houses and smelly taverns that make up this part of the
+city. He follows the narrow, meandering streets to his destination. As
+he stands outside of the tiny squat house of uneven wood, he wonders
+how anyone in this part of town could have the slighest idea of where
+to find someone like Norvus, who was a wealthy nobleman until a few
+months ago. It's hard to imagine he'd be living here.
+
+Eomer knocks on the door. After a few moments, a barrel-shaped woman
+pulles the door open and eyes him with suspicion. Her proportions are
+such that if she were just a bit shorter she could be mistaken for a
+dwarf. She's wearing tattered apron and seems to be dusted with a coat
+of flour.
+
+This place is seeming less and less likely, but Eomer has to follow
+through at this point, "Excuse me ma'am... is Levim here?"
+
+She nods wearily, as if expecting this. She draws in a deep breath and
+then lets loose with an unexpected cry that shakes the tiny house,
+"LEVIM!"
+
+A young boy, barefoot and shirtless, dashes into the room. Before he
+can say anything his mother explains, "You've a guest. But don't be
+takin' all day. You've got a delivery te make." With she she waddles
+back into the kitchen. The smell of freshly baked bread covers the
+more pungent odors for a few moments.
+
+The boy turns his gaze over to Eomer, "Sir?"
+
+"I'm looking for a man named Norvus."
+
+The boy scratches his nose and looks at him warily, "Are you a guard?"
+
+Eomer raises an eyebrow. He looks about as much like a guard as he
+does an orc, "Do I look like a guard to you?"
+
+"I'm not supposed to take you there if you're a guard."
+
+Eomer nods, "I'm not a guard."
+
+The boy grins, "Okay. I'll take you there." With that, he takes a
+basket of bread from the table and hangs it over one arm, "Let's go."
+
+He leads Eomer further south, closer to the city walls. The boy takes
+every concievable shortcut, crawling over fences and cutting through
+yards in a way that only a child can do without embarassment. They cut
+through a small pig farm and find themselves back on the street
+proper. They followthis until it ends at a massive wooden gate, which
+has been nailed shut. This was obviously a side entrance to the city
+in lighter days, and has now been permanantly closed. However, the
+ground in front of the door seems a little well-worn, suggesting that
+the gate still sees some use somehow.
+
+The boy pushes on the bottom of the door. The huge timbers that make
+up the door have come loose and can swing forward a bit, creating a
+gap that is easily useable by a ten-year-old, but is a bit tight for
+Eomer. By the time Eomer has wiggled through, he can see the boy is
+following a well-traveled dirt path up the side of a hill. Eomer jogs
+after him.
+
+A twenty minute walk takes him to the top of the hill where a modest
+farmhouse is waiting for them. While this was clearly a full-fledged
+farm in days past, the fields have been fallow for many years. The
+barn stands empty. There is no livestock to be seen. The house is
+clean and tidy. A single thread of smoke rises from the chimney.
+
+Eomer and Levim stroll up to the door way and knock.
+
+"Mister Norvus?", Levim calls out.
+
+A voice from inside answers, "Ah yes. Come in boy!"
+
+"Um. Okay", the kid looks at Eomer and then back at the door. He can
+sense that he's missing some element of protocol by taking a stranger
+into someone else's house uninvited, but he doesn't really know how
+this should be done. With a shrug he pushes the door open and enters.
+Eomer follows.
+
+The inside is just as neat as the exterior. The two of them pass
+through the entry room and into the kitchen where a man in a white
+robe is looking out the window. He turns to greet Levim, and is
+alarmed when his eyes fall on Eomer. He eyes dart around, looking for
+weapons within arms' reach. He grabs a bread knife and holds it
+between them, "Stand back!"
+
+### 19th of Last Summer (Morning)
+
+Chronicler Norvus is a human, fiftyish, with a neatly trimmed moustache and a full head of short brown hair. He is tall and narrow, and dressed in expensive robes that look odd in this rustic setting. It looks even more odd because he's waving a bread knife around, trying to look threatening.
+
+Eomer is unfazed by the haphazard threat, "I read your book", he says,
+matter-of-factly.
+
+The look on Norvus' face shifts from alarm to confusion, "You
+translated the book? Remarkable!"
+
+He then lifts a loaf of bread out of Levim's basket and cuts it with
+the knife he's holding. One hand plunges into the robe and emerges
+with a few copper coins, which he deposits into the boy's hand. Levim,
+thus paid, scurries out without a word.
+
+Norvus is wearing a sly grin, "You know there's a reward if you show
+them the book at the archives."
+
+"I will."
+
+Norvus is a bit more cautious now, "Good, good. I hope you enjoyed
+the... stories."
+
+"Yeah."
+
+Now Norvus is annoyed. Why has this man gone to so much trouble to
+track him down if he doesn't have anything to say? He frowns, "So
+you've come here to make fun of me? Perhaps you want me to sign the
+book for you?"
+
+Eomer shakes his head, "You made reference to the Mage's Archives..."
+
+"Ah! So that's what you're after. Well, come in here", and with that
+he takes his bread and moves into the dinning room to enjoy his meal.
+"So you're looking for the Mage's Archives? You don't look like a
+wizard. You a wizard hunter so something?"
+
+"No."
+
+Norvus looks dismayed, "Then what are you doing here young man?"
+
+"Like I said, I'm looking for the Mage..."
+
+"Yes. Well, I have no idea where it is. In my studies I tried to
+locate it, but I was unsuccessful. "
+
+"What did you find?"
+
+Norvus takes another bite of buttered bread, "Some interesting things,
+actually. While I was traveling in the north, gathering... folklore
+for my book, I was in Fort Bolland (this was before the war of couse)
+and they let me into the library. I was granted entry under the
+pretense of gathering folklore, but when I got the chance I snuck into
+their private library, which is closed to outsiders. I didn't get a
+lot of time in there, just a glimpse. There were indeed references to
+the Mage's Archives. I planned on going back at a later time, and
+seeing if I could learn more, but then the war came. It was a safe bet
+that the Lormanite army wouldn't welcome a fussy old man visiting
+their capital city just so he can read their books. After the city
+fell, I returned to see that the building – the library I mean – had
+been burned to the ground. I can only assume those books are lost
+forever. Nevertheless, I believe the Lormanites may still know where
+the Archives can be found."
+
+He pauses to butter another slab of freshly-baked bread before he
+continues, "It may have been on their half of the island. Perhaps they
+still have access to it. Perhaps that is why their magic is so
+strong." He reflects for a moment, "Although... it wasn't very strong
+this time around. Perhaps it isn't on their side of the island."
+
+Eomer asks, "Would the prince know?"
+
+Norvus shrugs, "I suppose he might have. Of course, I've heard the
+entire Lorman family was wiped out when Fort Bolland fell."
+
+Eomer nods without commenting on the prince. "Would Sagemaster Teerin
+know where to find the Mage's Archives?"
+
+"Oooh. Interesting", Norvus says thoughtfully.
+
+> Yeah. Good question. As the DM, I hadn't considered this. Took me a
+> few seconds to decide if he would or not.
+>
+> In fact, a lot of this conversation was unexpected. I thought that
+> Enoch, who translated the book, was the most likely party member to
+> talk to Norvus if any of them did. I thought perhaps they would all
+> come and see him. I never guessed Eomer would go alone.
+
+Norvus continues, "It's hard to say. His relationship with the guild
+has always been a bit strained. He's never approved of their
+morality-neutral outlook. He's certainly one of the world's strongest
+users of magic, and he does deal with the guild from time to time. But
+would they tell him the location of their secret library on Mar
+Tesaro? Would he be able to divine the location on his own? I don't
+know."
+
+Then Eomer changes the subject, "Why were you exiled?"
+
+"Well, at the time I advocated the position that the folklore in my
+book is true."
+
+"Why didn't they kill you?"
+
+Norvus looks sly, "Because I'm a harmless old man and because I
+recanted."
+
+"That doesn't sound like Queen Alidia, though", Eomer observes.
+
+Norvus sighs, "She's not completely heartless, you know."
+
+"How many people get in to see her?"
+
+"Oh, nobody. Nobody."
+
+"Was there anyone else that believed the way you do?"
+
+"No. At least, nobody of any influence on Mar Tesaro. Which is why I
+wrote the book. I was hoping someone outside of the Alidians would see
+the story. I think the story speaks for itself for those not clouded
+by the curse."
+
+Eomer asks, "This curse... thing. With the mountain. Why do you
+believe it, when nobody else does?"
+
+"It's pure conjecture, but I would guess that it's because I've never
+taken any of the riches of Khelberg. I've never profited from the
+mining here. So, I don't think the curse is affecting my judgement."
+
+Eomer raises an eyebrow. This seems strange that Norvus could live
+here all these years and not take any money.
+
+Norvus explains, "My family is quite wealthy. I have lived on my own
+reserves since arriving, so I've never taken part in the curse. Once
+someone takes the riches of the mountain, the curse is on them."
+
+Eomer ponders this, "Even second hand? Like if some farmer sells his
+food to someone who has gold or whatever from the mountain..."
+
+Norvus looks grim, "I don't know how it works. Some people – like the
+leaders, for example – are obsessed, greedy, and often paranoid. They
+become enraged if you even suggest that the legends are true. Others
+are annoyed at the stories. Others simply laugh. I don't understand it
+myself."
+
+Eomer thinks about this for a moment, "So you're saying that the
+people under the curse don't believe it, but people not under the
+curse do?"
+
+Norvus sighs, "I don't know if I would think of it that way. Try this:
+People under the curse are driven to acquire more treasure from the
+mountain, right? We know this to be true. We also know that they hate
+and distrust others that try to do the same. This breeds conflict and
+war, which is the whole point of the curse."
+
+"Okay", says Eomer, nodding carefully.
+
+"So, their own actions seem perfectly reasonable to themselves, but an
+outsider can see they are being irrational, or at least taking their
+greed to an extreme. Someone under the curse won't believe in it,
+because it doesn't make sense to them. They don't feel like they are
+being unreasonable. They don't feel cursed."
+
+Eomer nods, "I think I get it." Then he changes the subject again,
+"Have you seen the sky?"
+
+"What? Yes. Why?"
+
+It turns out that years of sitting in the dark writing books have
+taken their toll on Norvus' eyesight. He can't see the dark cloud to
+the north, so Eomer describes it. He tells Norvus that Mordan is free.
+
+There is a long silence. Sun streams in through the small windows of
+the farmhouse. The moring is slipping away. It will be midday soon.
+The fire in Norvus' hearth has gone out and the spent wood sits
+smouldering under his forgotten teakettle.
+
+At last Norvus nods, as if coming to a decision, "I guess I'd better
+pack."
