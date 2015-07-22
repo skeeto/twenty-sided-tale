@@ -100,7 +100,7 @@ ol li {
 }
 
 blockquote {
-    border: 1px dashed dimgray;
+    border: 1px dotted dimgray;
     padding: 0 1em;
     margin-bottom: 1em;
     background: BlanchedAlmond;
