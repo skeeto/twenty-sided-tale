@@ -30,17 +30,16 @@ the Fighter, Thu'fir the Blade Lord, and Enoch the Cleric.
 
 The campaigns I run are usually a bit more low-key and realistic than
 your average D&D story. So, likely as not you'll see Orcs, Goblins,
-and Zombies, but I doubt we'll have stuff like gelatenous cubes,
+and Zombies, but I doubt we'll have stuff like gelatinous cubes,
 mimics, or dimensional grabbers. Towns are filled with commoners, not
 extraplaner travelers. You won't see any talking swords in my world,
 and dragons are very, very rare. True magic users are about as rare as
-celebreties or pro atheletes in our world. Commoners are aware of
+celebrities or pro athletes in our world. Commoners are aware of
 magic and deal with it from time to time, but they don't see it every
 day. This is just a style thing. I find the world easier to visualize
 if it looks a bit more like our world. I have a hard time imagining
 how warfare and commerce would work if a good portion of the populace
-could teleport or fly around on pet hippographs. This rule change is
-the sort of thing I'm talking about.
+could teleport or fly around on pet hippogryphs.
 
 I'm writing this campaign because I'd like to see other people doing
 this sort of thing. Perhaps it will catch on? I'd love to read the
@@ -50,9 +49,9 @@ I'd be glad to add you to the links.
 
 ## Mar Tesaro
 
-Mar Tesoro is the setting of our current campaign. It is a large
+Mar Tesaro is the setting of our current campaign. It is a large
 island (It would take a little better than a week to walk from the
-north shore to the south) that is inhabited by two seperate groups:
+north shore to the south) that is inhabited by two separate groups:
 The Northerners (also called "Lormanites"), and the Alidians.
 
 ![](images/map_mar_tesaro.gif)
@@ -99,7 +98,7 @@ that at the time of our story it was the custom for select monks to
 become "guardians" of the town. As part of their guardianship, they
 take a vow of silence and also a vow never to strike (or even
 threaten) a resident of the town. After seven years, their
-guardianship would end (along with their vows of silence and pacifisim
+guardianship would end (along with their vows of silence and pacifism
 toward the members of the town) and it was more or less expected that
 they would leave the monastery to seek their fortune elsewhere, or
 stay and become teachers.
@@ -126,8 +125,8 @@ As his guardianship drew to a close, the player characters came into
 town on their quest. Enoch the cleric encountered Endo on the road and
 offered him healing, which Endo silently refused.
 
-There was a counsil at the monastery about the problems that players
-faced, and the curse on the land. During the counsil, Endo was
+There was a council at the monastery about the problems that players
+faced, and the curse on the land. During the council, Endo was
 released from his seven-year vow and a new guardian was sworn in. Endo
 spoke for the first time in seven years (his voice is very raspy) to
 thank his teacher, and then left without hearing the rest of the
@@ -158,14 +157,14 @@ with the party as a guide through the mountains.
 > Weapon movie. I thought the reference was obscure enough that I
 > could get away with it. Once I introduced him, the players had a
 > laugh at my expense and explained what "Endo" means. They made jokes
-> about his friends "Hawiaian Gold" and "Ganji". Sigh.
+> about his friends "Hawaiian Gold" and "Ganji". Sigh.
 >
 > Just don't get the impression this guy is some sort of stoner.
 >
 > As a stoic monk Endo almost never speaks unless he has something
 > important to say, which is perfect for an NPC. I use him to feed the
 > players info if they forget something critical, or as a way to give
-> some backstory without introducing "random nameless peasent #5″ to
+> some backstory without introducing "random nameless peasant #5″ to
 > do the talking for me.
 
 
@@ -178,7 +177,7 @@ with the party as a guide through the mountains.
 | Class: Rogue
 | Played By: Pat
 
-Eomier Abrin DeCauste was born to a soldier, Claudius. While he was
+Eomer Abrin DeCauste was born to a soldier, Claudius. While he was
 not afforded luxury, he was not deprived either. By means of his
 father he was taught at the only established school on the island,
 which in those times was almost always a church, and this school was
@@ -196,8 +195,8 @@ wine. Idolization of Ubrin and his friends was assured.
 tribe of orc on the island. Afterwards he declared Grey Moor a free
 island, that no man should ever rule it. None but those who sought to
 take from others should be turned away from its shores. Like everyone
-else, Eomier was astounded that one could be so selfless as to give up
-an entire island after conquering it almost single handedly. While
+else, Eomer was astounded that one could be so selfless as to give up
+an entire island after conquering it almost single-handedly. While
 many stories circulated as to why Ubrin had such an acute distaste for
 monarchies or established governments, none were ever proven, and no
 one really thought it that important.
@@ -212,7 +211,7 @@ no man should have dominion over another. Aaron lived many years and
 saw Bayhaven grow from fledgling town to a city that drew trade ships.
 It was during this time that so many races came to settle in Grey
 Moor. Despite the usual tensions that exist whenever dwarf, human and
-Halfling live in such close proximity, Greymoor and its (lack of)
+halfling live in such close proximity, Greymoor and its (lack of)
 politics kept these disagreements to a minimum.
 
 It is during Aaron's tenure that the first mention of the Monks of the
@@ -249,32 +248,32 @@ other ports, this was the first time that such a thing had been done
 on Greymoor. Without knowledge or intent, Aaron created a government.
 The office of the protector passed to his son, Reginald."
 
-During childhood the fact did not escape Eomier that while there were
+During childhood the fact did not escape Eomer that while there were
 more than a few thousand families in Bayhaven, there were less than a
 hundred students. This troubled him greatly, and he sought answers.
 The head master (and head priest as it was) Tenril at first seemed
 annoyed that a boy would question such things, and took it as an
-accusation. He rebuked Eomier, and his father was less than pleased.
+accusation. He rebuked Eomer, and his father was less than pleased.
 For 7 years he kept his silence.
 
 By age 11 he was the top student, and his father had advanced to rank
 of Lieutenant and personal advisor to Reginald the Protector. One day,
 while walking home from school, as he passed the keep he saw his
 father and his men taking a young man, not many years older than
-Eomier, up to the keep. He looked like he had been roughed up quite a
+Eomer, up to the keep. He looked like he had been roughed up quite a
 bit, and the number of guards escorting him suggested whatever his
-offense had been, this was a very dangerous man. Eomier asked his
+offense had been, this was a very dangerous man. Eomer asked his
 father what the man had done. The man had been caught stealing, and
 his punishment would be imprisonment for 2 years, or banishment to the
 north. This was basically a death sentence, since no one had come back
 from the north in 20 years. He was told of how there would ALWAYS be
 people who will take advantage of others if not kept at bay. And that
-is what the office of the protector, and in turn Eomier's father, did.
+is what the office of the protector, and in turn Eomer's father, did.
 There were always thieves who would pray on the innocent if not dealt
 with, and dealt with harshly. This is what Ubrin did, and what he had
-envisioned for Grey Moor. Eomier accepted this.
+envisioned for Grey Moor. Eomer accepted this.
 
-Days later while again walking home from school Eomier was accosted by
+Days later while again walking home from school Eomer was accosted by
 several older boys. He did not recognize them and they were much
 bigger than him. He did what most boys would do, he ran. Fleeing
 through the streets he turned a corner, ducked into a shop and
@@ -289,7 +288,7 @@ seem. He stood there, frozen, scared and out of breath.
 
 "You don't even know why they're chasing you, do you?"
 
-Eomier shook his head, he had no idea. Eldon informed him that his
+Eomer shook his head, he had no idea. Eldon informed him that his
 father had become quite well known as Reginald's lap dog, making more
 than a few enemies. It was the first time he first heard the other
 side life on Grey Moor, away from the keep and the school. He heard of
@@ -298,7 +297,7 @@ few things off a ship without paying the tariff first. He had always
 paid before; he simply needed to sell the goods first to pay the tax.
 Instead he was beaten, jailed, and his goods claimed. The story of an
 entire ships crew banished to the North for a mere casket of wine.
-Eomier refused to believe it, and left the shop and ran home.
+Eomer refused to believe it, and left the shop and ran home.
 
 By age 14 he was done with school, and it was time to do what was
 expected of him and follow in his fathers footsteps. His first
@@ -324,7 +323,7 @@ be more thoughtful of his duty. Troubled by what had happened, he
 sought advice from an unlikely source: The shopkeeper.
 
 Eldon was all too eager to fill his ears with stories such as the one
-he had seen. And soon Eomier was starting to question exactly who was
+he had seen. And soon Eomer was starting to question exactly who was
 oppressing who? Who was the thief? Was he really defending the people?
 He struggled with his own ideals and began to see not just the world
 he had been shown, but what was hidden behind strong doors and clean
@@ -346,7 +345,7 @@ found work smuggling goods from the north to escape what was now a
 ridiculous tax. With every trip back to Bayhaven, a new wing had been
 added to the keep. It resembled a castle more than anything, and the
 flags of "The Office of the Protector" flew as a King's would.
-Eomier's contempt grew every trip.
+Eomer's contempt grew every trip.
 
 ## Lucian
 
@@ -379,7 +378,7 @@ Skeeve is also a rustic "farmboy" among Elves, and self-taught himself
 magic instead of being an apprentice or joining a guild.
 
 Dan is also pretty outspoken, impulsive, and foul-mouthed. He tends to
-blurt out outragous things, to which I reply, "Did you say that in
+blurt out outrageous things, to which I reply, "Did you say that in
 character?" He'll often reply, "Um. Sure."
 
 So what we ended up with was a very brash Wizard with a penchant for
@@ -394,7 +393,7 @@ shooting off his mouth and dropping the F-bomb.
 | Class: Barbarian
 | Played By: Joe (Retired)
 
-Yoeg's father Keroning (a full orc, and an outcast among his people)
+Yoeg's father, Keroning (a full orc, and an outcast among his people),
 rescued Yoeg's human mother from bandits (possibly rapists). They
 lived in the hills in secret and had a son. Some humans found out
 about the grotesque union and attacked the house. They slew his father
@@ -404,7 +403,7 @@ Years later (during our first campaign) a Paladin came to Grey Moor,
 looking for the Half-Orc. The paladin was large, well-armed, and had
 several stout people in his party. Fearing him, the party fled north.
 
-He finally caught up with the party in the town of stackroot. The
+He finally caught up with the party in the town of Stackroot. The
 paladin revealed that his father was one of the people who attacked
 Yoeg's house and killed his parents. Keroning had killed his father,
 and the paladin was here to dispense justice and rid the world of the
@@ -419,7 +418,7 @@ produced a massive axe, saying he planned on killing the abomination
 The fought, and Yoeg killed the paladin. He then took his father's axe
 as his own.
 
-At the end of our first compaign, Yoeg remained in Grey Moor.
+At the end of our first campaign, Yoeg remained in Grey Moor.
 
 ## Thordek
 
@@ -431,18 +430,18 @@ At the end of our first compaign, Yoeg remained in Grey Moor.
 | Played By: Joe
 
 Thordek came from a stout family of miners. He worked as a digger in a
-family mine for many decades until he was offered a position as forman
+family mine for many decades until he was offered a position as foreman
 in a distant mine. This was his chance to lead the dig, design the
 shafts, and be the first to see the secrets the ground had to offer.
-He took the job and travelled a great distance to his new home and dig
+He took the job and traveled a great distance to his new home and dig
 site. When he arrived, all were dead. They had been slain weeks
-earlier. With no owner and no crew there was no job for him. Thodek
+earlier. With no owner and no crew there was no job for him. Thordek
 left and began to wander the country, seeking work.
 
 He had a number of adventures before coming to Golgotha in northern
 Dunlock.
 
-> Thodek was an NPC in our second campaign. As the campaign drew to a
+> Thordek was an NPC in our second campaign. As the campaign drew to a
 > close, Joe (the DM) decided he'd rather try a different character,
 > as opposed to playing Yoeg again. He wanted to play a Dwarf, so
 > using the already-established character Thordek made sense.
@@ -495,10 +494,10 @@ Our "world map" consists of the following:
 * The Tunderlands are inhabited, but the players have never been
   there. This land is open for future adventures.
 
-In our first campain the players went to Grey Moor and broke an evil
+In our first campaign the players went to Grey Moor and broke an evil
 curse that was killing the crops and draining the land of life, and
 then joined in a battle to prevent a single greedy nobleman for
-siezing control of the Island. Along the way they teamed up with Eomer
+seizing control of the Island. Along the way they teamed up with Eomer
 and Endo and attained level 3. The Elves of Mar Talos joined in the
 battle to keep the island free. This brought our first campaign to an
 end.
@@ -507,7 +506,7 @@ At this point one of the players (Joe) became the DM, and I joined the
 game as a normal player using Endo. Joe's character stayed on Grey
 Moor, and the rest of us sailed to Golgotha in northern Dunlock. The
 party battled an army of the undead, saved the land, and made level 5.
-I became the DM again, keeping Endo as an NPC that travelled with the
+I became the DM again, keeping Endo as an NPC that traveled with the
 party. The party sailed for Mar Talos, but got shipwrecked on Mar
 Tesaro, which our third campaign is now taking place.
 
@@ -561,7 +560,7 @@ To Enoch, Servant of Pelor,
 Trusted friend, word may reach your ears of the troubles in Grey Moor.
 The Council of Bayhaven has sent word to many allies in search of aid,
 and I expect they will contact you as well. I request that you and
-your friends come see me in Talosport before visiting the counsil. I
+your friends come see me in Talosport before visiting the council. I
 realize this will be an inconvenience to you, and I do not make such a
 request lightly. I do promise that what you hear will be to your
 advantage. I do not wish to hinder you from acting on events as you
@@ -654,7 +653,7 @@ a much grander elven ship, but it was sunk in the battle of Bayhaven.
 He'd been forced to take this position on a human crew and he resents
 it. Half of the cargo hold is his, and he is free to use this ship
 until he can make enough to buy his own. He does this by stacking it
-to the rafters with weapons for sale at Mar Tesoro.
+to the rafters with weapons for sale at Mar Tesaro.
 
 Nobert then goes on to explain that Beck used to be first mate, losing
 the title to Inorem when the Captain offered to help Inorem get funds
@@ -695,7 +694,7 @@ loser will get all the money and go back to Bayhaven to marry Talla.
 
 Inorem quickly steps in trying to settle it, pointing out that "This
 is most certainly not how civilized people settle arguments and
-certainly not on my.. erm.. this ship."
+certainly not on my... erm... this ship."
 
 The captain however waves him aside with a brisk, "Go ahead, go ahead,
 lets see the outcome. This should be a good show."
@@ -738,17 +737,17 @@ attendant, a young sailor who tries continually to make sense of the
 old man's mumblings, hoping for a hint at what the weather will be in
 the coming days. After some time and a bit of halting conversation
 with the sailor Enoch surmises that Crolman had once been a cleric but
-has now lost all his powers except for a gift of prophecizing the
+has now lost all his powers except for a gift of prophesying the
 weather, which Crolman foretells in fits and starts amidst numerous
-comments on food and achy joints. While Enoch listenes, Crolman
+comments on food and achy joints. While Enoch listens, Crolman
 suggests that he is hungry, thirsty, uncomfortable, and that the
 weather will be fine for the next two days.
 
 While Enoch visits the old cleric, Thordek looks for Beck. He finds
 him in the carpentry shop of the ship, practicing his sword fighting.
 Thordek watches as Beck's sword slices through the air, looking as if
-it was drawing an elaborate picture inthe air as it flashes and
-swirles, cutting and slicing.
+it was drawing an elaborate picture in the air as it flashes and
+swirls, cutting and slicing.
 
 Skeeve decides to go practice his flying.
 
@@ -764,7 +763,7 @@ mostly about food but quite happily tossing in random, cryptic
 comments regarding the weather, and in all appearances quite
 disturbed. The sailor attending him is listening carefully to each
 word he says, attempting to get a straightforward answer out of him,
-so intently that he rather absentmidedly gets his food and drink and
+so intently that he rather absentmindedly gets his food and drink and
 sets them down before him. Crolman, in his own little world, is quite
 oblivious to him. Crolman sits in his usual spot feeling around on the
 table before him obviously looking for his food, "Hungry!?
@@ -773,7 +772,7 @@ table before him obviously looking for his food, "Hungry!?
 Crolman mumbles, "They won't like us. Not gonna be happy. Not our
 friends."
 
-"Hungry!?" Crolman exclaimes as he feels around for his food. "Gonna
+"Hungry!?" Crolman exclaims as he feels around for his food. "Gonna
 rain. Big storm. The ocean's gonna fall on our heads. Two days off, "
 Crolman continues, still feeling around for his food, " Watch the
 sail. Tie it fast. Don't let it come loose!"
@@ -875,8 +874,8 @@ captain explains that the more they aim INTO the wind, the safer they
 are. The sails are tied up and everyone else is sent below.
 
 Skeeve begins offering random spells he can do. None of them are "make
-the storm go away", so the captain sends him belowdecks with the rest.
-Thordek and Thu'fir have no trouble keeping the ship on course.
+the storm go away", so the captain sends him below-decks with the
+rest. Thordek and Thu'fir have no trouble keeping the ship on course.
 
 Night falls. Inorem stands just inside the door and runs the damage
 control operation. At first he sets the men to bilge, but it is a lost
@@ -927,7 +926,7 @@ The ship is listing heavily as the wind shoves the vessel around. Not
 wanting to waste any more time, Eomer and Beck draw their swords and
 cut the sail free.
 
-They climb down and get belowdecks again. Inorem stands by, furious
+They climb down and get below-decks again. Inorem stands by, furious
 that the sail has been cut.
 
 A wave wash over the ship. Thordek losses his grip and is knocked over
@@ -947,21 +946,21 @@ When all recover, they see that the captain is gone.
 They draw their swords and start to fight as they fall down to the
 quarterdeck. With them gone, Thordek, Thu'fir, and Eomer are free to
 choose who they will obey. Should they abandon the captain, or risk
-the entire ship by trying to come about? Cutting accross the wind will
-be very dangrous.
+the entire ship by trying to come about? Cutting across the wind will
+be very dangerous.
 
 > Yes, Eomer is mysteriously on deck again, even though he went in.
 > This is one of those moments where the DM lost track and slipped up.
 > I guess he came back outside for some reason?
 
 They choose to go back for the captain and begin trying to turn about.
-As the ship turns accross the wind, they loose control of the wheel
+As the ship turns across the wind, they loose control of the wheel
 and the ship turns sideways. Eomer and Thu'fir try to regain course.
 Waves wash over the deck. Thordek looses his footing and slides away,
 ramming into the railing.
 
 A flash of lightning reveals the two combatants on the Forecastle
-Deck. Beck has run Irnoem through. He pushes the elf off of his sword
+Deck. Beck has run Inorem through. He pushes the elf off of his sword
 and into the sea.
 
 Thordek grabs the banister and tries to work his way down to the
@@ -1081,11 +1080,11 @@ sphere to travel around him in a tight circle, setting the brush on
 fire. Thus surrounded, the sphere rolls onto the wizard and he
 perished in flames.
 
-As the last soldier fell, Eomer cries out, "Isn't anyone everglad to
+As the last soldier fell, Eomer cries out, "Isn't anyone ever glad to
 see us?!?!?!"
 
 The party retreats for a few minutes, as the fire spreads. Eventually
-it burns itself out on the soaked vegitation and leaves a smouldering
+it burns itself out on the soaked vegetation and leaves a smoldering
 hole in the woods. The smell of burning skin and hair surrounds them.
 The party scavenges for usable items amongst the dead.
 
@@ -1120,7 +1119,7 @@ At 1 am the party sets out on the road. They follow it to Breakshore.
 ![The village of Breakshore](images/breakshore.gif)
 
 The city is a medium-sized village along the coast. There are no ships
-in the port, which means they will not be escaping the isand soon.
+in the port, which means they will not be escaping the island soon.
 
 Enoch and Skeeve go into town and head for the church. The church is
 overflowing with books. They speak to the head priest who explains the
@@ -1207,7 +1206,7 @@ prefers to watch and let things play out instead of getting involved,
 even when he has the power to intervene. He loves peace, and gets
 along well with other races.
 
-Mar Talos has benefitted over the last 100 years with him as the
+Mar Talos has benefited over the last 100 years with him as the
 leader. The island is strong, prosperous and secure.
 
 ## Session 2
@@ -1229,7 +1228,7 @@ to the piles of dusty books in the library. There seems to be far more
 than one would expect in a town this small. Books fill every shelf,
 cover every desk, and are piled in various corners of the room.
 
-Most of the books are mundane histories or geneologies. There are also
+Most of the books are mundane histories or genealogies. There are also
 books of heroic deeds. These are books written in flattering terms
 about various nobles, and usually commissioned by the noble in
 question. As a nobleman gets old, he will usually hire someone to
@@ -1281,7 +1280,7 @@ later, he has managed to translate the following:
 **Part I: The Mountain Elves**
 
 *Editor's Note: What follows is not a proper history, but instead a
-collection of tales and folklore from the inhabitants of Mar Tesoro.
+collection of tales and folklore from the inhabitants of Mar Tesaro.
 These have passed on through the generations, doubtless with many
 changes and alterations. The story usually varies greatly depending on
 the geographical location and race of the storyteller. The most common
@@ -1292,7 +1291,7 @@ highly unlikely and should be viewed with utmost skepticism.*
 
 - Chronicler Norvus
 
-In the earliest days of Mar Tesoro, the southern lands were inhabited
+In the earliest days of Mar Tesaro, the southern lands were inhabited
 by a peaceful clan of mountain Elves. They were gentle and kind, slow
 to quarrel and preferred music and wine above swordplay and bloodshed.
 They lived on the slopes of the great mountain, which they named Mt.
@@ -1308,7 +1307,7 @@ Few others visited the lands. Only a few Gnomes and fewer humans had
 walked the slopes, and no Dwarf had even set eyes to the mountain in
 those days.
 
-But Dwarf-King Thul Marblade came at last to the shores of Mar Tesoro.
+But Dwarf-King Thul Marblade came at last to the shores of Mar Tesaro.
 He came to the Elven chieftain Ellas Morad, and asked for leave to
 climb the mountain. "For", said he, "it is the way of all Dwarves to
 seek the mountains and learn their ways."
@@ -1342,8 +1341,8 @@ Thron once he completes the task.
 >
 > This is also a fun way to convey information / disinformation,
 > history, and lore without reading it to the group myself. I just
-> hand out this text (which is printed in a nice faux-medeval style of
-> caligraphy) and they players can read it at their leisure.
+> hand out this text (which is printed in a nice faux-medieval style
+> of calligraphy) and they players can read it at their leisure.
 
 While Enoch translates the text at the library, the Eomer and Thu'fir
 gather at the blacksmith's shop. Upon learning that the party had lost
@@ -1353,7 +1352,7 @@ him with a problem he's having.
 Before the city fell, he had stored away a cache of weapons, armor,
 and other provisions in the case of invasion. When the attack came, it
 happened a bit quicker than he anticipated, and he didn't have time to
-reach the supplies or distribute them. Worse, soldiers came and siezed
+reach the supplies or distribute them. Worse, soldiers came and seized
 his house and have been living there ever since. The supplies are
 hidden in a secret room in the basement, but he can't hope to sneak
 past the guards to reach them.
@@ -1361,10 +1360,10 @@ past the guards to reach them.
 The blacksmith suggests that the party try to sneak in and retrieve
 the items. If they do so, they can keep some of the stash for
 themselves. The only requirement is that they not kill any guards. If
-they do, the soldiers will simply retailiate by coming into town and
+they do, the soldiers will simply retaliate by coming into town and
 killing people in order to exact revenge.
 
-Eomer asks about what unforms the northerners used. It turns out they
+Eomer asks about what uniforms the northerners used. It turns out they
 didn't have proper fancy uniforms like the Alidians, but instead wore
 simple black sashes around their waist or arms.
 
@@ -1377,7 +1376,7 @@ is the great great great (etc) grandson of the first foreman of the
 miners. He dug the first shafts and the land should be his. This is
 why they attacked the Alidians.
 
-Finally Eomer get back to the subect of the supplies they need to
+Finally Eomer get back to the subject of the supplies they need to
 steal.
 
 Gereg draws a quick map of his house.
@@ -1404,7 +1403,7 @@ woods. Gereg suggests leaving the heavy items there in the woods where
 he can recover them later.
 
 By this time the sun is going down. Eomer goes east through the woods
-to the backsmith's shop, which is a ten-minute walk. Everyone else
+to the blacksmith's shop, which is a ten-minute walk. Everyone else
 gathers at the tavern and waits with a glass of ale. (Skeeve has Tea,
 Enoch abstains.)
 
@@ -1431,7 +1430,7 @@ a zone of silence. This magic power of his will deaden all noise in a
 20-foot radius.
 
 They agree on this. Skeeve decides to stay at the tavern. He realizes
-they have no place to stay for the night. The soldiers tooks several
+they have no place to stay for the night. The soldiers took several
 houses, and the displaced families have filled the small inn.
 
 Beck cuts in, suggesting they go in fighting. He's clearly drunk.
@@ -1443,16 +1442,16 @@ ale.
 > member) behind. I don't know why, but I didn't want to force the
 > character on them. So, I decided he got drunk instead. Looking back,
 > this makes sense. He was first mate on Ocean's Majesty for a long
-> time. Most of his firends had been killed when the ship sank, and he
+> time. Most of his friends had been killed when the ship sank, and he
 > hadn't really taken time to deal with this yet. A good evening
 > drinking goodbye to his lost mates was probably about right for him.
 
-Eomer, Thu'fir, Enoch, and Thodek sneak through the woods to Gereg's
-house. Enoch and Thodek stop well short of the house, not wanting to
+Eomer, Thu'fir, Enoch, and Thordek sneak through the woods to Gereg's
+house. Enoch and Thordek stop well short of the house, not wanting to
 make a lot of noise in their heavy armor. Eomer moves forward silently
 and looks around.
 
-Juding from the light, there is a campfire in front of the house. He
+Jutting from the light, there is a campfire in front of the house. He
 listens carefully and determines that two guards are having a
 conversation. Using the mirror, he peeks in the window, but it is dark
 and quiet inside. He gives the signal, and Enoch casts silence on the
@@ -1545,7 +1544,7 @@ ale. They wake Beck.
 His head snaps up, "Alright! Let's go get those guys." He doesn't
 realize they have already finished.
 
-They lead him out of town to where Skeve has made camp. Skeeve
+They lead him out of town to where Skeeve has made camp. Skeeve
 examines the horn and identifies its magic properties. Apparently if
 you blow the horn it will stun anyone caught in front of it. The horn
 will be unnaturally loud, as well, perhaps even reaching miles away.
@@ -1575,7 +1574,7 @@ devious tribe of Goblins."
 Thu'fir examines the map before he replies, "Which way would you say
 is the most dangerous?"
 
-Gereg shruggs, "Beats me. I always take the road."
+Gereg shrugs, "Beats me. I always take the road."
 
 In any case, Gereg has no idea which way Endo went. Thu'fir thanks the
 blacksmith and returns to the party where they debate over what path
@@ -1636,7 +1635,7 @@ other kids were picking hardberries at the bushes over yonder", He
 points to an area west of the town, "and the kids say a man jumped out
 of the bushes and took one of them and carried the little girl off.
 Now, the soldiers took all our weapons when they took this town. That
-don't matter much ‘cuz they also took all the young men and women
+don't matter much 'cuz they also took all the young men and women
 capable of using weapons. All we have left are the sick, the old, and
 the children."
 
@@ -1644,7 +1643,7 @@ Eomer asks where the parents are. Polan explains that the mothers are
 here in town, but the fathers were taken south weeks ago.
 
 Eomer gets up and calls the other party members into town. It's
-obvious the enemy sodiers left this town to its fate ages ago and
+obvious the enemy soldiers left this town to its fate ages ago and
 aren't likely to come back any time soon.
 
 He explains the situation as the evening closes in. By the time he's
@@ -1655,7 +1654,7 @@ Thordek and Eomer want to go right now and look for the kids.
 Skeeve is not so sure, "Look, we don't even know if the children are
 still alive."
 
-Beck shruggs, "Sure, but the guy who took them is, and we can at least
+Beck shrugs, "Sure, but the guy who took them is, and we can at least
 fix that."
 
 A debate ensues. Skeeve is sensitive to the plight of the villagers,
@@ -1685,7 +1684,7 @@ The party relents and checks into the inn.
 > recognize the physical limitations of their characters, and would go
 > without food or sleep for days just because they're "in a hurry" if
 > I let them. If I remind them they are tired, they roll their eyes
-> like I'm being unreasonable by sugesting they might be a bit
+> like I'm being unreasonable by suggesting they might be a bit
 > tuckered out and in need of rest after more or less running a
 > marathon.
 >
@@ -1706,7 +1705,7 @@ find nothing. They go to the hardberry bushes and look for clues.
  hope.](images/map_tracking.gif)
 
 They are at the base of a hill, facing west. The bushes are at the
-foot of the hill. Assuming the kidnpper went west, he must have gone
+foot of the hill. Assuming the kidnapper went west, he must have gone
 around the hill to the northwest or southwest. The hill is steep
 enough that it would be impossible for an encumbered human to walk up
 it without leaving some fairly obvious marks.
@@ -1738,7 +1737,7 @@ some hint. They continue west.
 Both groups reunite at the other side of the hill, which is now east
 of them. They are on the edge of a watery glade. The water is still
 and filled with reeds. Insects drone nearby in the early morning sun.
-If someone passed throughthe water they would be hard to follow. The
+If someone passed through the water they would be hard to follow. The
 party decides to go around the glade to the south.
 
 Eomer does a careful search and finds a hardberry along the way
@@ -1757,7 +1756,7 @@ water.
 
 Thordek searches and finds several strands of light blond hair caught
 on a jagger bush. They hang at about eye level for a human, (which is
-above Thodek's head, since he's a Dwarf) hinting that they either came
+above Thordek's head, since he's a Dwarf) hinting that they either came
 from an adult or from a child being carried.
 
 They continue. The path is plain and easy to follow. It heads west and
@@ -1792,7 +1791,7 @@ Suddenly Thordek bids the party to halt. He has spotted a tripwire
 across the path. Eomer examines it, finding that it leads to a pile of
 large rocks that look out-of-place atop the cliff-like slope. It's
 easy for them to figure out that the wire probably causes a torrent of
-falling rocks to spill accross the path. Instead of disabling it, they
+falling rocks to spill across the path. Instead of disabling it, they
 simply step over the tripwire and move on.
 
 After a few minutes the cliff gives way and they come to an open area.
@@ -1821,7 +1820,7 @@ players stepped off the boat in the city of Bayhaven. By the time they
 were done they had walked all over the island many times, broken an
 evil curse that was killing the crops and draining the land of life,
 and then joined in a battle to prevent a single greedy nobleman for
-siezing control of the Island. Along the way they teamed up with Eomer
+seizing control of the Island. Along the way they teamed up with Eomer
 and Endo and attained level 3.
 
 Grey Moor is about 90% human, 5% halfling, and 5% "everyone else".
@@ -1840,11 +1839,11 @@ travel. The others couldn't support much more than small fishing
 vessels. It is also the biggest and most sophisticated city.
 
 The town of Stackroot is home to a modest but profitable gemstone
-mine. About a third of the population is Halfling. The Halflings work
+mine. About a third of the population is Halfling. The halflings work
 the mine, while the humans handle the governing of the city and
 growing of crops.
 
-A little infomation on the city of Bridgehold and Highstone Monastery
+A little information on the city of Bridgehold and Highstone Monastery
 can be gleaned from Endo's backstory.
 
 The other cities are just tiny little farming villages and not worth
@@ -2121,7 +2120,7 @@ members make the jump, and then Beck fails. The trap springs, the door
 opens, and he falls.
 
 They are confused by this. Wasn't this the second time it was touched?
-Thodek points out that the centipede would have been the first thing
+Thordek points out that the centipede would have been the first thing
 to cross it, making Beck the third.
 
 They levitate him up and Enoch heals him. They lament once again that
@@ -2153,7 +2152,7 @@ This room is empty, save for a small wooden chest in the northwest
 corner. Thordek walks over to it. The brash Dwarf attempts to open the
 chest. Fine powder explodes from the chest, covering everything in the
 room. Thordek manages to hold his breath, thus saving him from
-breathing in any of the foul grey dust. He dashes from the room
+breathing in any of the foul gray dust. He dashes from the room
 looking like a floured dumpling.
 
 Eomer rebukes him for being so reckless.
@@ -2252,7 +2251,7 @@ up.
 The battle with the wizard begins. The wizard casts magic missile at
 the them. Eomer and Skeeve fight him. Thu'fir picks up one of the kids
 and runs from the room with him. Skeeve has been seriously wounded by
-the magic missles, but summons his strength and casts lightning on the
+the magic missiles, but summons his strength and casts lightning on the
 wizard. The wizard is thrown back, badly injured. He responds by
 hitting Skeeve with an acid attack. The acid splashes all over him,
 and he passes out.
@@ -2306,7 +2305,7 @@ massive blade.
 > tried to do all three at once.
 >
 > The result was that a very ordinary battle turned out to be almost
-> too tough for them, and Skeeve was very neary killed.
+> too tough for them, and Skeeve was very nearly killed.
 
 Thordek looks around. He searches some of the rooms they haven't
 checked. One room is piled high with old rotting furniture. Many old
@@ -2330,13 +2329,13 @@ heals Skeeve.
 Once rested, they take an inventory of the items recovered. Several
 Alidian rank insignia are on the table in the main hall, stripped of
 their silver and gold trim. The silver & gold are in a separate pile,
-along with bits removed from jewelery and teeth. Thordek takes these
+along with bits removed from jewelry and teeth. Thordek takes these
 items to sell and divide the proceeds later.
 
 Skeeve finds a mage's guild certificate of membership made out to
 "Conjurer Vormoth", good until 1505dy. Skeeve takes this. Being a
 self-taught wizard, he has never heard of the guild, but figures that
-being able to pass himslelf off as a member may come in handy.
+being able to pass himself off as a member may come in handy.
 
 Thu'fir finds the wizards staff and gives it to Skeeve. Amongst the
 other things until Skeeve can take a look at everything. Everyone
@@ -2366,7 +2365,7 @@ everyone, and they decide to return to town.
 
 It is early morning. The group is ready to leave the dungeon and is debating whether to wake the kids now or in town. Eomer doesn't want to carry the children, but Skeeve doesn't want to deal with frightened, crying children. They decide to take them back to town first, then wake them. Thordek considers taking the powder in a skull then decides against it.
 
-> Joe (Thodek) is a pack-rat and will take anything that isn't nailed
+> Joe (Thordek) is a pack-rat and will take anything that isn't nailed
 > down. I don't mind, but this was ridiculous. It was an inverted
 > skull being used as a bowl to hold about a half-cup of very fine
 > white powder. Nobody even knew what it was. There was just no sense
@@ -2388,7 +2387,7 @@ It is early morning. The group is ready to leave the dungeon and is debating whe
 > enough magic to beat the Alidians.
 >
 > I don't even want to think about how the conversation would go if
-> Thodek had brought a bleached human skull to a shop owner and tried
+> Thordek had brought a bleached human skull to a shop owner and tried
 > to sell it.
 
 They head back to town, with Beck and Thordek carrying the kids.
@@ -2566,7 +2565,7 @@ all goes well.
 
 Enoch and Thordek enter together. They develop a cover story where
 Enoch is a traveling healer and Thordek is his bodyguard. Eomer and
-Beck will also enter together. The other two will follow seperately.
+Beck will also enter together. The other two will follow separately.
 
 This city is a hub of activity. The north side of the city is the
 housing district. Narrow, winding streets snake between the rows of
@@ -2584,7 +2583,7 @@ Eomer and Beck work their way through the masses, which, as they get
 closer to the square, seem to be pushing away from the market toward
 the outlying houses . The market is beginning to empty as the people
 start heading towards home. Eomer finds that the keep where they are
-all heading to is covered with Ailidian soldiers. This is their base
+all heading to is covered with Alidian soldiers. This is their base
 of power in the city, and the party has agreed to make it their
 meeting point! He waits for the rest outside the market rather than
 head to the keep.
@@ -2663,7 +2662,7 @@ Enoch spends the evening working on translating his book. He manages
 to translate the next section.
 
 <div class="document">
-**Part II: The Conquest of Mar Tesoro**
+**Part II: The Conquest of Mar Tesaro**
 
 *Here the story of Thul Marblade continues. Several aspects of this
  tale are plainly ridiculous, while others simply stretch the
@@ -2708,10 +2707,10 @@ the gentle Elves could make no contest against them.
 
 Then the Dwarves roamed throughout the land, and killed every Elf they
 could find. They hunted them like animals, killing even the youngest,
-until not a single Elf drew breath in the land of Mar Tesoro. Their
+until not a single Elf drew breath in the land of Mar Tesaro. Their
 bodies were thrown down the southern slope into the great chasm, which
 is now called Bohrung Khel Toten, or "The Chasm of the Dead", in the
-common tongue. And so were the fair mountain elves of Mar Tesoro
+common tongue. And so were the fair mountain elves of Mar Tesaro
 forever wiped from the face of the Earth.
 
 Then Thul Marblade took for himself the mountain, and they renamed it
@@ -2877,7 +2876,7 @@ you didn't provoke them?"
 "Of course not." At this point Noreeno has Skeeve tell about the
 fight, how it started, and where it happened. He seems satisfied once
 he's heard it. "This is not a big deal. Let's just continue with the
-questions. How many people are you travelling with?"
+questions. How many people are you traveling with?"
 
 Skeeve doesn't want to tell him, but he can't lie and doesn't want to
 refuse to answer, "Six."
@@ -2950,7 +2949,7 @@ Skeeve tries to convince them that the group should go see Noreeno
 quickly. They head to the keep, leaving Beck to sleep.
 
 They return to Noreeno's office. Noreeno introduces himself, and then
-explains the Zone of Truth again. Glamn casts it, and Noreeno begins
+explains the Zone of Truth again. Galman casts it, and Noreeno begins
 his questions. He gets their names, makes sure they are not working
 for the Lormanites, and gets some background.
 
@@ -3152,7 +3151,7 @@ few mugs into him, Beck opens up to them, and makes a little speech.
 it's time we parted ways. I've been in my share of scrapes over the
 years, and I like to think I can take care of myself, but you guys are
 something else. You seem to have a taste for danger. I just can't keep
-up with you. I'm just a simple old sailor and travelling with you will
+up with you. I'm just a simple old sailor and traveling with you will
 be the death of me. "
 
 He then reminds them that he lost just about everyone he knew when the
@@ -3160,7 +3159,7 @@ ship went down. All he has left is a pregnant girl back in Bayhaven,
 and his whole goal is to raise enough money to get back there and
 settle down with her. He struggles a bit more, and then takes off his
 hat, "You know I'm proud and I don't like asking for things. This is a
-bit hard for me. But if you fellas would like to donte a few coins to
+bit hard for me. But if you fellas would like to donate a few coins to
 help out I'd appreciate it. I'm not asking' for me, I'm asking' for
 Talla and the baby."
 
@@ -3187,7 +3186,7 @@ now.
 > previous campaigns when the players were new to the game. The NPC
 > could be a sort of hint-dispensing member of the party, reminding
 > them about facts they might not recall or suggesting they run if
-> they get in over theor heads. When all else fails and they get into
+> they get in over their heads. When all else fails and they get into
 > a REALLY bad spot, he might sacrifice himself to save them. This
 > only works if they care about the NPC, value his advice and treat
 > him as a companion. The system fails if they ignore or despise his
@@ -3586,7 +3585,7 @@ Lawful Evil characters may not use or study this item.
 
 This object is the phylactery for Mordan the Lich King. Normally this
 is the container of the Lich's life force. As long as a lich's
-phylactery reamins intact, they will rise again after being defeated.
+phylactery remains intact, they will rise again after being defeated.
 However, this orb seems to have a number of (sometimes conflicting)
 enchantments which suggest it is more than a "normal" phylactery.
 
@@ -3600,7 +3599,7 @@ magic. This results in +3MP while they remain the owner of the object.
 This only applies to users of arcane magic (Wizards, Sorcerers) and
 not clerics.
 
-The runes and spells contain a great deal of knowldege. It must be
+The runes and spells contain a great deal of knowledge. It must be
 studied to learn more. When examining the orb, it is clear there are
 four categories of study that are possible: Good, Ownership, Knowledge
 Evil.
@@ -3707,7 +3706,7 @@ Noreeno nods, "Your companion, as I said, was captured and taken
 south. However, my spies report that he was not sent to work in the
 mines, but instead was turned into on of the Queen's special guard.
 You remember the soldiers with the faceless helmets, with no eye
-holes? Well, he is one of them now. He will probably notbe in the
+holes? Well, he is one of them now. He will probably not be in the
 capital city of Fol Theron, but instead will be in on of the smaller
 towns between there and here. You'll have to look for him. "
 
@@ -3820,7 +3819,7 @@ locate Endo. Beck doesn't like this plan. There is a heated debate.
 > I really advised them against this. In-game it made sense, although
 > out-of-game it would split our time and make the game a great deal
 > less fun. It would confuse me trying to keep track of dates & events
-> for two seperate concurrent groups. Over a day or two this wouldn't
+> for two separate concurrent groups. Over a day or two this wouldn't
 > be a problem, but they were talking about parting ways and meeting
 > back at this spot in two weeks (in-game time). That was going to
 > span multiple sessions and cause all sorts of headaches.
@@ -3852,7 +3851,7 @@ for the ferry.
 An Alidian solder is here. He has left off most of the standard
 uniform and is only wearing the red and white shirt. He is standing by
 the well, holding a lantern. He looks relaxed. This town obviously
-sees little in the way of excitment. The guard hails them as they
+sees little in the way of excitement. The guard hails them as they
 approach and examines their travel papers. Once he's satisfied, they
 learn that the basement of the largest house serves as a flophouse
 where they may spend the night. There is also a small stable available
@@ -3915,8 +3914,8 @@ its going to end badly.
 Enoch tries again to address the guard but is attacked. He is clearly
 undead. Thu'fir dispatches him easily.
 
-The Dock wardend emerge from their homes to see the aftermath. There
-is a very akward conversation as they explain why Thu'fir was killing
+The Dock wardens emerge from their homes to see the aftermath. There
+is a very awkward conversation as they explain why Thu'fir was killing
 the town guard. Things are tense for a few minutes until everything is
 explained.
 
@@ -3937,7 +3936,7 @@ They travel west, heading for the town of Tal Podere. As morning draws
 near, they pass a number of the Queen's elite guards walking along the
 road in the opposite direction.
 
-They have never seen the guards from this close. The helmets completly
+They have never seen the guards from this close. The helmets completely
 cover their heads, giving them no way to see out. Each helmet has the
 symbol of the Alidian army stamped on the front, where the wearer's
 face would be:
@@ -3970,7 +3969,7 @@ Shrugging, he returns to the others. He's done what he could to let
 the Queen know. They have no idea if it worked or not.
 
 They reach the city in late morning. Tal Podere is a medium city, less
-than half the size of crossway. The buildings are low and made of
+than half the size of Crossway. The buildings are low and made of
 wood. There is very little stonework here in town. Most of the
 buildings are built along a single street, which is wide and filled
 with ruts. (To modern eyes, this town would look vaguely old-west –
@@ -3982,13 +3981,13 @@ They are pulled over at the gate, and their papers are inspected. Once
 everything is settled, the enter the city.
 
 They are sent to the Magistrate. Magistrate K'dar Stonefist is a wise
-old Dwarf. Once the party has gethered before him, he informs them
+old Dwarf. Once the party has gathered before him, he informs them
 that he has a notice from Magistrate Noreeno, warning him that five
 outsiders had killed a number of his soldiers and stolen some horses.
 Noreeno also suggested in his letter that these men were Lormanites,
 and that they should be killed on sight.
 
-The party is furious. There seems to be no end to Noreeno's trechery.
+The party is furious. There seems to be no end to Noreeno's treachery.
 
 Stonefist seems unsurprised. He then demands they give an account of
 themselves. Eomer relates the events of the past few days. The
@@ -4020,7 +4019,7 @@ before K'dar turns the conversation to business.
 > here. I'd also ask that if any of the players are reading this,
 > please skip it.
 >
-> The upshot of the convsersation is that K'dar thinks Thordek is a
+> The upshot of the conversation is that K'dar thinks Thordek is a
 > fellow spy, helping to plan the invasion of the island. It seems
 > that the Dwarves have been living here for years, and that they are
 > planning something big soon. K'dar thought perhaps that Thordek
@@ -4053,12 +4052,12 @@ K'dar has not trusted Noreeno in months. Noreeno has been claiming the
 resistance has been harassing his borders, taking food and supplies.
 Over the past few months, he has constantly requested more food, man,
 and supplies. A month ago, K'dar sent one of his own men to visit the
-city under the guise of a merchant courrier. He reported the city was
+city under the guise of a merchant courier. He reported the city was
 secure, and the soldiers he had amassed were guarding the city and not
 searching the countryside for Lormanites.
 
 Noreeno has been moving troops around in odd ways. He sends back some
-divisions saying they "lack dicipline". The men are fine and fit.
+divisions saying they "lack discipline". The men are fine and fit.
 K'dar suspects their loyalties are not as flexible enough to suit
 Noreeno.
 
@@ -4066,7 +4065,7 @@ Eomer tells him that Noreeno killed their four elite soldiers.
 Stonefist is not surprised and mentions that same night his four gate
 soldiers left.
 
-At this point a town guard stepps into the room and informs the
+At this point a town guard steps into the room and informs the
 Magistrate that a set of four new elite solders have just arrived and
 are now guarding the gates of the city.
 
@@ -4076,7 +4075,7 @@ Outside, it is sunset. The four new royal soldiers have taken their
 place at the north side of town. The uniform of the elite soldiers is
 simple: They wear the metal helmets and black pants. They are
 bare-chested and carry a single broadsword at their side. Eomer draws
-near to the guards and sees that one of them has tatoos on his chest.
+near to the guards and sees that one of them has tattoos on his chest.
 It is Endo.
 
 Eomer waves at him but gets no response.
@@ -4138,7 +4137,7 @@ out. Endo turns and attacks. His movements seem stiff and slow. He's
 using the sword and not his hands. Apparently he is just a simple
 puppet when under the control of the Queen and not able to make use of
 martial arts. This makes the fight a lot easier. The party pile onto
-him in a frantic meele of elbows and knees. Thu'fir manages to pull
+him in a frantic melee of elbows and knees. Thu'fir manages to pull
 off the helmet and Endo instantly falls limp. They wake him.
 
 He wakes, panicked that he can't see.
@@ -4226,8 +4225,8 @@ Lormanites. However, Garret knew little of magic and even less of
 commanding an army. When he was young, his father sent him away to
 study abroad. He spent many years of study in the lands of Dunlock and
 Mar Talos. He did not have his father's skills in magic or leadership.
-When the city fell, he dressed as a pesant and fled into the
-wildnerness, where he was captured. He was sure the enemy would have
+When the city fell, he dressed as a peasant and fled into the
+wilderness, where he was captured. He was sure the enemy would have
 discovered who he was and put him to death if I hadn't freed him.
 
 We tried to sneak around Crossway, but scouts spotted us and I was
@@ -4266,7 +4265,7 @@ In the meantime, Enoch has translated another chapter of the book:
 <div class="document">
 **Part V: The Building of Fol Thron**
 
-*The following is a much reduced version of the history of Mar Tesoro
+*The following is a much reduced version of the history of Mar Tesaro
 between the rule of King Lorman and the rise of the second Dwarven
 King.*
 
@@ -4280,7 +4279,7 @@ Humans, and he ruled by fear and cruelty.
 
 The Dwarves heard of the fall of Lorman and saw that Ingol was a weak
 leader. They attempted once again to reclaim Khelberg. Their forces
-landed on the southern shores of Mar Tesoro and pushed north. Few who
+landed on the southern shores of Mar Tesaro and pushed north. Few who
 worked in the mines were willing to fight to defend their cruel
 master, and Ingol was defeated before the end of the fifth year of his
 reign. As the war ended, many humans fled north and settled in those
@@ -4357,7 +4356,7 @@ Elves did not.*
 Farmlands"), Tal Lengo (in Elven, "the woods"), Valle Calma (in Elven
 "Silent Valley"), and Fol Thron (in Dwarven "Strong Throne").*
 
-*The island itself is still called by its original name Mar Tesoro,
+*The island itself is still called by its original name Mar Tesaro,
 which means (very roughly) "Treasures Island", or perhaps "Island of
 great value". Is it possible that the Elves were aware of the gold and
 gems in the mountain, yet chose to leave them be? Or is the name
@@ -4413,7 +4412,7 @@ where they were. They were actually helping him.
 >   him, not destroy him.
 >
 > * He's a Lich, so if he's defeated he will simply rise again the
->   next day, at the location of his Pylactery. (the Orb Skeeve has)
+>   next day, at the location of his phylactery. (the Orb Skeeve has)
 >   The only way to keep a Lich from rising again is to destroy his
 >   Phylactery, but this one is trapped in such a way that it will
 >   kill almost everyone within 100 miles if it's destroyed.
@@ -4432,7 +4431,7 @@ They wake after midnight. They plan to leave when the sun comes up. While they w
 <div class="document">
 **Part VII: The Middle Years**
 
-*This section will highlight the middle years of Mar Tesoro. Again, a
+*This section will highlight the middle years of Mar Tesaro. Again, a
 full account would fill many books but the record of conquest is given
 here in order to complete the timeline of this book. The reader should
 be aware that this list is very brief and leaves out many important
@@ -4505,7 +4504,7 @@ earlier.
 Thordek offers assistance, but the Magistrate declines. There is
 nothing more to be done at this point. After saying their goodbyes
 they set out, heading south. They have seven party members, yet only
-threee horses. They leave town with people taking turns walking and
+three horses. They leave town with people taking turns walking and
 riding.
 
 The party travels south until dark, and finally makes camp along the
@@ -4557,7 +4556,7 @@ obviously a farming community, with many farms dotting the surrounding
 countryside.
 
 There is a standard detachment of Alidian guards at the entrance to
-the city: A group of bored Ailidian soldiers, and four elite guards.
+the city: A group of bored Alidian soldiers, and four elite guards.
 After their papers are checked, they are granted entry into the city
 proper.
 
@@ -4578,7 +4577,7 @@ Enoch settles in to study his book.
 Skeeve visits the Magistrate Witman, who is a stout old Halfling.
 Skeeve asks if there are have been any attacks on the town by undead.
 Whitman is amused by this, and makes it plain that this town sees
-little in the way of excitment. Skeeve also tries to see if perhaps
+little in the way of excitement. Skeeve also tries to see if perhaps
 Garret came through here. He asks carefully if a lone human, a young
 adult male, has passed this way. The Magistrate hasn't seen anyone
 like that lately. Lone travelers are rare these days, and a young
@@ -4589,12 +4588,12 @@ get some new gear. Their hopes are dashed when they see that this
 blacksmith concentrates on plows, horseshoes, farming tools, and other
 uninteresting items. He has little in the way of battle gear, and what
 he does have is fairly basic. Thu'fir is annoyed. He's been looking
-for a grapple hook since they left Joland Vallage, and can't believe
+for a grapple hook since they left Joland Village, and can't believe
 that such a simple item is so difficult to obtain.
 
 However, the blacksmith does have one thing that catches their eye: a
 horse. The blacksmith owns a single, patchy, old, sick-looking horse.
-It is a sad, droopy beast with patchy black and grey fur.
+It is a sad, droopy beast with patchy black and gray fur.
 
 Thu'fir inspects the animal. While old, it isn't dying. It could
 certainly bear a rider, albeit at a slow pace. Thu'fir negotiates a
@@ -4613,7 +4612,7 @@ Thunder alone.
 During the journey they see more traffic on the road. Some are single
 horsemen, speeding past them without a word; doubtless Alidian
 messengers of some sort. They also see merchants and other travelers
-heading both north and south. Thet can sense they are drawing nearer
+heading both north and south. They can sense they are drawing nearer
 to the capital city to the south.
 
 After midday the road turns east. Directly south is a vast expanse of
@@ -4636,7 +4635,7 @@ proceed.
 
 The grass on this side of the river looks pale and unhealthy. The
 trees are sparse, small, and twisted. Everything seems to be drained
-of color and life. The grey slopes of Khelberg loom large to the east.
+of color and life. The gray slopes of Khelberg loom large to the east.
 
 As the sun sets, they come upon Della Minera, which is obviously a
 human-built mining camp. The western side of town is a collection of
@@ -4654,7 +4653,7 @@ Village. He hasn't been able to find one for sale until now. When he
 finds they are for sale here, he buys two – along with a good supply
 of rope. He won't be caught unprepared again.
 
-During the night, Skeeve has another nighmare in which Mordan asks him
+During the night, Skeeve has another nightmare in which Mordan asks him
 for the orb, and he relinquishes it.
 
 ### 17th of Last Summer
@@ -4662,7 +4661,7 @@ for the orb, and he relinquishes it.
 Skeeve wakes, shaken from his latest nightmare. He tells Enoch about
 what he saw in the dream.
 
-The party memebers meet in Enoch's room to plan the day. Enoch reveals
+The party members meet in Enoch's room to plan the day. Enoch reveals
 that during the night he was able to translate another chapter of the
 book:
 
@@ -4671,7 +4670,7 @@ book:
 
 Mistress Rhone never married or had any offspring, so at her death her
 post fell to Archmage Mordan, her chief military adviser. Mordan
-arrested many foreigners travelling in his lands, including many
+arrested many foreigners traveling in his lands, including many
 diplomats. He imprisoned and tortured them, saying they were spies. He
 sent many antagonizing messages to various Dwarven and Elven leaders,
 and did many other deeds to provoke his enemies. While Rhone had
@@ -4683,7 +4682,7 @@ business of warfare. He was a great seer, and could at many times view
 the future actions of his enemies. Within months he had utterly
 exterminated the Orcs to the north. He initiated and won a number of
 wars against both Elves and Dwarves, and conquered the northern lands
-of Mar Tesoro, bringing the entire country under his rule.
+of Mar Tesaro, bringing the entire country under his rule.
 
 While Rhone was among the most gentle of leaders to sit in Fol Thron,
 Mordan was without question the most ruthless. The common workers in
@@ -4782,14 +4781,14 @@ was really the best thing that ever happened to me. Of course, now
 they gimmie other duties. These days I stay in town and make rope. And
 right now, they don't need no more rope, so it looks like the Queen's
 willing to feed me just for sitting around all day doin' nothing.
-Thats agreeable enough to me."
+That's agreeable enough to me."
 
 They all drink on this point.
 
 Thu'fir then asks, "So are these the same sort of helmets that are
 worn by the Queen's special guards?"
 
-The man shruggs, "I wouldn't know, I've never tried one of those on.
+The man shrugs, "I wouldn't know, I've never tried one of those on.
 They LOOK different, though. Our mining caps just cover the tops of
 our heads and come down to our cheekbones. They look more or less like
 regular mining caps except they are too long, and cover the eyes. Most
@@ -4806,7 +4805,7 @@ we know, we could be marching over them every day while we work."
 Thu'fir then asks, "Does your mining camp mine for gems or gold, or
 what?"
 
-He shruggs again, "I don't know. By the time we remove the helmets,
+He shrugs again, "I don't know. By the time we remove the helmets,
 someone has come and emptied the carts. We can see we dug up
 SOMETHING. The carts have bits or rock and dust in them, but whatever
 we were mining has been taken away by the time the helmets come off."
@@ -4847,7 +4846,7 @@ ground, they would doubtless look much like this one. Canals carry a
 bit of the river through the city in key areas, where mills and other
 enterprises might make use of its strength.
 
-The city is a semicircle, built in concentric rings eminating from the
+The city is a semicircle, built in concentric rings emanating from the
 dark Citadel on the northern edge of town, along the river. Most of
 the major streets converge on a central district just in front of the
 Citadel.
@@ -4870,7 +4869,7 @@ Talla and the coming baby, and he wants to make sure he has enough to
 provide for them.
 
 The others wish him well, and head down the broad cobblestone street
-that leads to the heart of the city. More than once bridges cary the
+that leads to the heart of the city. More than once bridges carry the
 street over the canal as it winds through the buildings. As they
 proceed, the buildings change from simple two-story human dwellings to
 ornate and impressive structures owned by various businesses or the
@@ -4883,25 +4882,25 @@ building bears the frame of Dwarven make, although many sharp spikes
 and pointy towers have been added on since the initial construction,
 giving the place a malevolent appearance. Many bridges and balconies
 cling to the sides of the towers as they reach ever upwards. While it
-once had many hundereds of windows looking outward, they have now all
+once had many hundreds of windows looking outward, they have now all
 been bricked over or covered with sharp plates of metal, embossed with
 the symbol of Queen Alidia:
 
 ![](images/flag.gif)
 
 The citadel seems to be on an island all by itself. All around it is a
-deep, empty chasam. A lone bridge, blocked by a single massive door,
+deep, empty chasm. A lone bridge, blocked by a single massive door,
 allows travel from the central square to the gates of the Citadel. The
 doors are shut and guarded by a group of severe Alidian soldiers.
 
 Also in the square is the tower of the Mage's Guild. It is a simple
 spire of brown stone, crowned with what looks like an observatory. In
-any other setting it would have looked tall and impressivle, although
+any other setting it would have looked tall and impressively, although
 it looks diminutive in the presence of the Citadel.
 
 Elsewhere they see the Archives; the city library, a church of
 impressive proportions, a sprawling inn with many wings, and a number
-of unidtentified government buildings. Around the edges of the square
+of unidentified government buildings. Around the edges of the square
 are several specialty shops and booths.
 
 Eomer and Endo check into the Inn. Endo in particular looks tired and
@@ -4910,7 +4909,7 @@ in need of rest.
 Skeeve heads for the Mage's guild. Thu'fir and Thordek look for a
 blacksmith. Enoch visits the Archives.
 
-The city Archives is a simple building of smooth grey stone positioned
+The city Archives is a simple building of smooth gray stone positioned
 opposite the Citadel. It is easily the largest library on the island.
 Inside, the gloomy light of late afternoon drifts in through the many
 tall narrow windows, forming fingers of light through the dusty air.
@@ -4918,7 +4917,7 @@ There is the murmur of hushed voices from among the shelves of books
 as Enoch enters. To his left is a large circle of chairs that seems to
 be some sort of council meeting area. A large set of windows encircles
 the chairs, wrapping them in pale afternoon light. Opposite this area
-is the scribarium, where a dozen or so young alcolytes work in
+is the scribarium, where a dozen or so young acolytes work in
 silence, making copies of books that have become worn or damaged.
 Directly ahead is the library proper, where towering shelves of books
 stand beneath the great arched ceiling above.
@@ -4986,7 +4985,7 @@ of Pelor, what have you found? What is the origin of this mysterious
 tome?"
 
 Enoch stands, "Well, I found the book was written, or at least
-translated, by someone named Chonicler Norvus."
+translated, by someone named Chronicler Norvus."
 
 At the mention of this name several of the council members become
 irritated or even openly outraged. They all begin speaking at once.
@@ -5006,8 +5005,8 @@ Enoch isn't quite sure what to make of this. Finally Relnar exclaims,
 
 Relnar turns to Enoch an explains, "What you have there my friend is a
 book of banned folk tales, a bunch of heresy and nonsense, set down by
-a former collegue. He has written this work against both the rules and
-wishes of this council, in an effort to propigate the ridiculous tales
+a former colleague. He has written this work against both the rules and
+wishes of this council, in an effort to propagate the ridiculous tales
 it contains."
 
 Another keeper inquires, "But why did he write it in such a strange
@@ -5021,7 +5020,7 @@ book here among us, if he were trying to hide it? And what good is the
 tale if he writes it in a language that none can read?"
 
 Relnar dismisses the question, "Simple enough. The man was a fool. We
-sould not be surprised when such a man perpetrates foolish deeds. In
+should not be surprised when such a man perpetrates foolish deeds. In
 any event, the archaic language did not conceal the meaning from this
 outsider. Norvus has managed to pass his heresy onto our guest here."
 Relnar then turns to Enoch, "I am sorry you were misled by this. If we
@@ -5036,7 +5035,7 @@ thought the book held some great mysteries."
 Enoch asks, "So what makes you believe this is just folklore?"
 
 Relnar frowns at him, "Well, just to start: A mountain that curses
-people? This doesn't stike you as particularly absurd?"
+people? This doesn't strike you as particularly absurd?"
 
 Enoch is now defiant, "Have you looked at your country recently?"
 
@@ -5063,7 +5062,7 @@ languages in the book, and will greatly speed his efforts.
 
 Enoch then asks where Norvus might be.
 
-Relnar shrugs, "I'm sure I have no idea. We threw him out. Havn't
+Relnar shrugs, "I'm sure I have no idea. We threw him out. Haven't
 heard from him since."
 
 "Is he still around here? I mean..."
@@ -5076,10 +5075,10 @@ himself somewhere..."
 
 "Writing children's stories!", cries another.
 
-The room disolves into derisive laughter.
+The room dissolves into derisive laughter.
 
 Enoch thanks them for their time and turns to leave. As he walks out,
-Relanr gives him a final request, "Good luck to you sir. If you do
+Relnar gives him a final request, "Good luck to you sir. If you do
 find him, give him our best and, you know, drop a few coppers into his
 cup for us."
 
@@ -5154,7 +5153,7 @@ The gold and riches of the mountain were hoarded deep within the
 Citadel, where none could reach them or put them to use. He proclaimed
 loudly that the riches of the world were hidden within his Citadel for
 any that had the courage to face him. Heroes emerged at the rumor of
-treasure, and many adventurers traveled to Mar Tesoro to attempt to
+treasure, and many adventurers traveled to Mar Tesaro to attempt to
 unseat him. All were slain and added to his army of Grave Walkers. He
 feared no foe in all the Earth.
 
@@ -5246,7 +5245,7 @@ should rule together as a triumvirate. Forwinol then decided that his
 work was done, and returned to his homeland in Mar Talos.
 
 The triumvirate was made from three great leaders: For the Dwarves,
-King Konal Stonefist, the Elves had Mistress Myran Allidia, and the
+King Konal Stonefist, the Elves had Mistress Myran Alidia, and the
 Humans had King Pallas Lorman.
 
 Lorman was descended through many generations from the King Lorman of
@@ -5262,7 +5261,7 @@ leaders joined and defeated him.
 The remaining two leaders distrusted one another, and accused each
 other many times of various plots and schemes. Lorman at last rallied
 many humans to his side, and tried to wrest control of the Citadel
-from Allidia. He caught her unawares, and used many strange magics
+from Alidia. He caught her unawares, and used many strange magics
 against her. She survived his ambush, but was blinded in the attack.
 Her own forces rallied. Yet another war was fought. Lorman was
 defeated and fled north with his followers, where his family still
@@ -5278,7 +5277,7 @@ Mage's Guild.
 
 The Fol Thron branch of the Mage's Guild is a simple spire of brown
 stone, crowned with what looks like an observatory. In any other
-setting it would look tall and impressivle, although it looks
+setting it would look tall and impressively, although it looks
 diminutive in the presence of the great Citadel.
 
 The building is closed to all non-members, save for a few runners,
@@ -5321,10 +5320,10 @@ aid of the books on load from the Archives, he is able to make short
 work of the final two chapters:
 
 <div class="document">
-**Part XII: The Fall of Myran Allidia**
+**Part XII: The Fall of Myran Alidia**
 
-Mistress Myran Allidia was the sole ruler of Khelberg. With the other
-members of the triumvirate defeated, she now became Queen Allidia. Her
+Mistress Myran Alidia was the sole ruler of Khelberg. With the other
+members of the triumvirate defeated, she now became Queen Alidia. Her
 blindness made her fearful and filled her with a lust for vengeance.
 Her injury pained her at all times, no no healer could undo the damage
 she had suffered. She came to hate and despise all Humans for Lorman's
@@ -5341,7 +5340,7 @@ blinded she pursued magic both night and day, rarely sleeping or
 stopping to eat. The years of her rule grew long and she became as
 strong as many of the great sorcerers of old.
 
-Queen Allidia had been gentle and beautiful to behold when the
+Queen Alidia had been gentle and beautiful to behold when the
 triumvirate was formed, but the long years of scheming, battles, pain,
 and arcane studies had left her dark and twisted. Her appearance was
 almost that of a Dark Elf, though she would kill any who stated so
@@ -5354,7 +5353,7 @@ of traitors or spies. And so she is, even to this very day.
 <div class="document">
 **Part XIII: The Truth Revealed**
 
-*Few of the scribes of Mer Tesoro have the wit to translate this work
+*Few of the scribes of Mar Tesaro have the wit to translate this work
 as I have written it, and fewer still would bother to translate a work
 of history that could be read more plainly elsewhere. Therefore you
 the reader are both a scholar, and an outsider not yet tainted by the
@@ -5404,7 +5403,7 @@ some hint of the Dwarven spell could be learned.*
 *The Magus Archives were built soon after the inception of the Guild of
 Mages itself. I have sent secret messengers to Dunlock to speak with
 the Council of Masters, and although their books do record that the
-Archives on Mar Tesoro existed, they do not have the location.*
+Archives on Mar Tesaro existed, they do not have the location.*
 
 *Since the Archives were constructed by Wizards, it would be foolish to
 go charging blindly into the wilderness in search of the site. The
@@ -5435,7 +5434,7 @@ The Mage's Guild is much as it was the evening before. A different set
 of wizards seems to be about at this time of day. Skeeve takes his
 place among them and slowly joins the conversation. When the time
 seems right, he off-handedly poses the question, "Gentlemen, whom do
-you believe to be the gratests of all wizards?"
+you believe to be the greatest of all wizards?"
 
 A few of the older fellows roll their eyes and move on. Apparently
 they see this an a subject good only for endless idle debate. A few of
@@ -5443,9 +5442,9 @@ the younger ones get into the spirit of the thing, and toss out a few
 quick suggestions. One of the youngest, more likely an apprentice than
 practicing wizard, suggests, "Dravis Lorman!"
 
-Since their country just anihilated the Lormanites and killed King
+Since their country just annihilated the Lormanites and killed King
 Dravis in the war, this is a very humorous suggestion and the
-conversation stopps while they have a laugh at Lorman's expense.
+conversation stops while they have a laugh at Lorman's expense.
 
 At last the debate resumes. Many names are put fourth and mentally
 pitted against each other, until at last someone suggests Lucan
@@ -5453,11 +5452,11 @@ Forwinol. At the mention of this name Skeeve chimes in, "I completely
 agree! You know, it's funny you should bring him up. I'm doing some
 historical research and... well... is he still around?"
 
-They are amused by the question, "Of couse not", says one, "he died
+They are amused by the question, "Of course not", says one, "he died
 over a century ago."
 
 Another adds, "Yes. Over a hundred years since he died, and his son
-hasn't seemed to have found the same skill that his father posessed.
+hasn't seemed to have found the same skill that his father possessed.
 Don't get me wrong, Teerin is a fine wizard by all accounts and a
 credit to the people of Mar Talos, but the might of his father is not
 in him."
@@ -5469,7 +5468,7 @@ This question is considered carefully. The conversation takes off on a
 tangent as they debate about the sorts of magic Teerin has studied and
 the sorts that were required to defeat Mordan. Unlike the people to
 the north, these man have not confused or forgotten the old stories,
-and are well aware of the threat that Mordan once posessed. The
+and are well aware of the threat that Mordan once possessed. The
 conversation circles around until they come back to the main point.
 The consensus is that it is unlikely Teerin would be capable of
 defeating Mordan. His father was only just barely capable of it, and
@@ -5490,7 +5489,7 @@ for himself.
 Skeeve circles around as he ascends the spiral stairs. With each
 revolution he passes another doorway leading to the next floor of the
 building. He sees a room willed with mirrors, tinted glass, bent glass
-lenses, and freestanding prisims the size of a man. For just an
+lenses, and freestanding prisms the size of a man. For just an
 instant as he passes the doorway he can see morning sunlight warped
 and and scatted about the room. The next floor is a library. Another
 orbit and he passes a doorway into some sort of packed storage area.
@@ -5526,7 +5525,7 @@ cling to the earth.
 
 There is an argument going on about what they are seeing. Someone
 suggests a forest fire. That idea is dismissed: Smoke would be rising
-up and dissapating, not gathering like a lot stormcloud over a single
+up and dissipating, not gathering like a lot storm clouds over a single
 location.
 
 ### 18th of Last Summer (Morning)
@@ -5583,7 +5582,7 @@ official there.
 The office in question is just a few doors over. He heads over and
 sees what can be done. Many commoners are standing in long lines,
 waiting to talk to an official for various reasons. This place seems
-to be a point where inhabitants from all over Mar Tesoro can come and
+to be a point where inhabitants from all over Mar Tesaro can come and
 appeal to the government. Most people seem to be here so that they can
 have an official arbiter resolve a civil dispute. Others are here to
 lodge complaints of one form or another. Skeeve makes some subtle
@@ -5887,7 +5886,7 @@ be granted entry. Once there, they will be instructed further.
 > one-paragraph summary you see above.
 
 > It does make the story seem a bit flat when I do this, but when
-> turning a five-hour session into a narritive, you have to take
+> turning a five-hour session into a narrative, you have to take
 > whatever shortcuts you can find.
 
 They decide to tie up some other loose ends before heading for the
@@ -5906,12 +5905,12 @@ dark spires of the Citadel in the distance peer at him over the
 ramshackle houses and smelly taverns that make up this part of the
 city. He follows the narrow, meandering streets to his destination. As
 he stands outside of the tiny squat house of uneven wood, he wonders
-how anyone in this part of town could have the slighest idea of where
+how anyone in this part of town could have the slightest idea of where
 to find someone like Norvus, who was a wealthy nobleman until a few
 months ago. It's hard to imagine he'd be living here.
 
 Eomer knocks on the door. After a few moments, a barrel-shaped woman
-pulles the door open and eyes him with suspicion. Her proportions are
+pulls the door open and eyes him with suspicion. Her proportions are
 such that if she were just a bit shorter she could be mistaken for a
 dwarf. She's wearing tattered apron and seems to be dusted with a coat
 of flour.
@@ -5946,18 +5945,18 @@ The boy grins, "Okay. I'll take you there." With that, he takes a
 basket of bread from the table and hangs it over one arm, "Let's go."
 
 He leads Eomer further south, closer to the city walls. The boy takes
-every concievable shortcut, crawling over fences and cutting through
-yards in a way that only a child can do without embarassment. They cut
+every conceivable shortcut, crawling over fences and cutting through
+yards in a way that only a child can do without embarrassment. They cut
 through a small pig farm and find themselves back on the street
-proper. They followthis until it ends at a massive wooden gate, which
+proper. They follow this until it ends at a massive wooden gate, which
 has been nailed shut. This was obviously a side entrance to the city
-in lighter days, and has now been permanantly closed. However, the
+in lighter days, and has now been permanently closed. However, the
 ground in front of the door seems a little well-worn, suggesting that
 the gate still sees some use somehow.
 
 The boy pushes on the bottom of the door. The huge timbers that make
 up the door have come loose and can swing forward a bit, creating a
-gap that is easily useable by a ten-year-old, but is a bit tight for
+gap that is easily usable by a ten-year-old, but is a bit tight for
 Eomer. By the time Eomer has wiggled through, he can see the boy is
 following a well-traveled dirt path up the side of a hill. Eomer jogs
 after him.
@@ -5989,7 +5988,11 @@ between them, "Stand back!"
 
 ### 19th of Last Summer (Morning)
 
-Chronicler Norvus is a human, fiftyish, with a neatly trimmed moustache and a full head of short brown hair. He is tall and narrow, and dressed in expensive robes that look odd in this rustic setting. It looks even more odd because he's waving a bread knife around, trying to look threatening.
+Chronicler Norvus is a human, fiftyish, with a neatly trimmed
+mustache and a full head of short brown hair. He is tall and narrow,
+and dressed in expensive robes that look odd in this rustic setting.
+It looks even more odd because he's waving a bread knife around,
+trying to look threatening.
 
 Eomer is unfazed by the haphazard threat, "I read your book", he says,
 matter-of-factly.
@@ -6037,7 +6040,7 @@ locate it, but I was unsuccessful. "
 
 Norvus takes another bite of buttered bread, "Some interesting things,
 actually. While I was traveling in the north, gathering... folklore
-for my book, I was in Fort Bolland (this was before the war of couse)
+for my book, I was in Fort Bolland (this was before the war of course)
 and they let me into the library. I was granted entry under the
 pretense of gathering folklore, but when I got the chance I snuck into
 their private library, which is closed to outsiders. I didn't get a
@@ -6113,7 +6116,7 @@ believe it, when nobody else does?"
 
 "It's pure conjecture, but I would guess that it's because I've never
 taken any of the riches of Khelberg. I've never profited from the
-mining here. So, I don't think the curse is affecting my judgement."
+mining here. So, I don't think the curse is affecting my judgment."
 
 Eomer raises an eyebrow. This seems strange that Norvus could live
 here all these years and not take any money.
@@ -6159,9 +6162,9 @@ taken their toll on Norvus' eyesight. He can't see the dark cloud to
 the north, so Eomer describes it. He tells Norvus that Mordan is free.
 
 There is a long silence. Sun streams in through the small windows of
-the farmhouse. The moring is slipping away. It will be midday soon.
+the farmhouse. The morning is slipping away. It will be midday soon.
 The fire in Norvus' hearth has gone out and the spent wood sits
-smouldering under his forgotten teakettle.
+smoldering under his forgotten teakettle.
 
 At last Norvus nods, as if coming to a decision, "I guess I'd better
 pack."
@@ -6207,11 +6210,11 @@ opening the way to the stone bridge that connects the Citadel with the
 rest of the city. They cross, and are met on the opposite side by the
 Gatemaster.
 
-The Gatemaster is a large man. His long dark hair, streaked with grey,
+The Gatemaster is a large man. His long dark hair, streaked with gray,
 is pulled back into a thick ponytail. Beefy arms extend from the
 embossed plate mail covering his chest, like the limbs of a mighty
 tree. His beard is well-trimmed, and his face bears the lines of many
-grim years. With a deep, authoritive voice, he introduces himself as
+grim years. With a deep, authoritative voice, he introduces himself as
 Gatemaster Fulan. The doors stand open behind him, and he beckons the
 party to enter.
 
@@ -6219,7 +6222,7 @@ They find themselves is a massive circular hall. The ceiling is
 obscured in darkness far above. The floor is smooth, polished marble.
 In the center of the room is a single black pedestal. It holds nothing
 but a thin layer of dust. There are several closed iron doorways that
-presumably lead to other aeras of the Citadel.
+presumably lead to other areas of the Citadel.
 
 The group gathers before Gatemaster Fulan. He unfolds several papers.
 He takes their names, and checks each of them off of his list as they
@@ -6229,14 +6232,14 @@ Finally he begins, "Welcome gentlemen. I assume you are aware of just
 how rare it is that visitors – particularly foreigners – are given an
 audience with Queen Alidia."
 
-They nod. Of couse they realize this.
+They nod. Of course they realize this.
 
 "And so I need to give you a bit of a warning. Don't speak rashly.
 Speak truthfully. Respectfully. If you kindle her anger, likely as not
 she'll just kill you. If anyone dies, you'll be able to recover the
 body in the lower morgue, back near the servant's entrance. You'll
-have three days to recover the body of your comapnions for burial, if
-you like. If you havn't come 'round to collect them by the end of
+have three days to recover the body of your companions for burial, if
+you like. If you haven't come 'round to collect them by the end of
 three days, the staff will dispose of it as suits them. That usually
 means incineration. Now, just mind your manners and I doubt we'll have
 any problems along these lines. The only other thing is that you'd
@@ -6279,7 +6282,7 @@ Eomer and Thu'fir step forward. A heavy iron door opens on its own,
 and they enter.
 
 They proceed through through a large black door at the far side of the
-room. There is no handle, only a single silver eye afixed in the
+room. There is no handle, only a single silver eye affixed in the
 center of the door. The door opens silently as they approach, reveling
 absolute darkness beyond.
 
@@ -6312,7 +6315,7 @@ echoing throughout the massive throne room. "Welcome, liberators of
 Mordan."
 
 There is a long pause. She seems to be waiting for them to reply.
-Thu'fir nods repectfully, "A pleasure, majesty."
+Thu'fir nods respectfully, "A pleasure, majesty."
 
 Eomer does not reply.
 
@@ -6335,12 +6338,12 @@ before he reaches the city in two days. He travels in a group of eight
 soldiers. Do not underestimate him. He is a deadly sorcerer. Strike at
 him while he sleeps if you intend to live. Once defeated, take any
 rings or small jewelry he wears and bury them at once. Do not take any
-of his jewelery, unless you mean to reveal to Mordan what you have
+of his jewelry, unless you mean to reveal to Mordan what you have
 done. Anything else you find you may keep or leave as you wish. Beware
 of Mordan. His power is growing. His grave walkers are abroad, hiding,
-throught my lands. They are becoming stronger. "
+throughout my lands. They are becoming stronger. "
 
-Thu'fir asks, "This emmisary... is it Noreeno?"
+Thu'fir asks, "This emissary... is it Noreeno?"
 
 The Queen seems to approve. "You are very wise. It is your old
 employer, and my former servant, the traitorous Noreeno. He failed his
@@ -6385,7 +6388,7 @@ all? And why would he send this traitor?"
 
 "He means to taunt me, by flaunting this traitor in front of me.
 Believing that I will not move against one who comes to parlay, that I
-would not dare kill an emmisary. Mordan remembers me from long ago,
+would not dare kill an emissary. Mordan remembers me from long ago,
 but my nature has changed since last we faced one another."
 
 Eomer smiles, "Well, I kinda already promised to kill him a while
@@ -6471,7 +6474,7 @@ bell. She speaks a single name, "Thordek Earthguard."
 Thordek follows the same path of darkness that Eomer and Thu'fir
 traveled. His keen Dwarven eyes allow him to navigate more easily than
 they did in the darkness. At last he arrives alone at the throne room
-of Queen Allidia.
+of Queen Alidia.
 
 As a gesture of respect, he places his hammer on the ground, and
 speaks with her empty-handed.
@@ -6480,7 +6483,7 @@ Her voice echoes from the walls, "Welcome, son of the earth. You are
 the first Dwarf to be allowed within my halls since before you were
 born. Like all Dwarves, it seems you bring trouble with you. So now,
 shall we be friends or enemies? I have but one question for you.
-Answer in truth and we will be allies. Answer in deciet and become my
+Answer in truth and we will be allies. Answer in deceit and become my
 enemy."
 
 She pauses, giving her question the proper weight, "I know the ways of
@@ -6490,7 +6493,7 @@ from me. Here now, what whisperings have you heard? Are the Dwarves
 planning to invade me once more?"
 
 Thordek is quiet for a long time, considering her question. At last he
-replies, "I have gathered many rumors from my bretheren in this land.
+replies, "I have gathered many rumors from my brethren in this land.
 It seems they did indeed have a plan to invade, but have forsaken it.
 The agents here have waited in vain for an order that never came."
 
@@ -6501,11 +6504,11 @@ The agents here have waited in vain for an order that never came."
 > the feel of interactions a lot.
 >
 > The interesting thing here is that Thordek the Dwarf would betray
-> the trust of his brethren to an opressive Elven Queen.
+> the trust of his brethren to an oppressive Elven Queen.
 >
 > Some DM's might protest when players do stuff like this, but I have
 > no problem with it as long as the player feels they are being
-> internally consistant. Joe thought about this answer for a while,
+> internally consistent. Joe thought about this answer for a while,
 > and chose it carefully.
 >
 > Now he has to wonder what the consequences (if any) will be...
@@ -6523,11 +6526,11 @@ and leaves.
 ### 19th of Last Summer (Late afternoon)
 
 Back in the main hall, the other members of the party are surprised to
-see Thodek return so soon. In fact, Eomer has not yet finished giving
+see Thordek return so soon. In fact, Eomer has not yet finished giving
 an account of his meeting with the Queen when Thordek arrives.
 
 Thu'fir has left the Citadel on an errand. Upon hearing that they
-should bury Noreeno's jewelery, he remembered the ring they recovered
+should bury Noreeno's jewelry, he remembered the ring they recovered
 from General Tarvis. He suspects this ring is exactly the sort of
 thing she was talking about, and he has hurried off to find a suitable
 place to bury it.
@@ -6537,7 +6540,7 @@ bell rings and a female voice announces, "Enoch and Skeeve."
 
 The iron door opens, and Enoch and Skeeve enter the darkness. They
 seek the red light, just as their companions did. At last they find
-themselves before the throne of Queen Allidia.
+themselves before the throne of Queen Alidia.
 
 She greets them, "Welcome Skeeve, keeper of the orb. And Enoch: My
 castle is ever dark and I hate the light. It is a strange day indeed
@@ -6608,7 +6611,7 @@ lifted? Would that weaken Mordan or...?"
 
 She looks amused, "Lift the curse? You may try if you think you know
 how. But to answer your question: No, lifting the curse of Fiore would
-not daunt Mordan. These are two seperate challenges. But if you think
+not daunt Mordan. These are two separate challenges. But if you think
 you have the might to face both Mordan as well as search for the
 undoing of an ancient curse then by all means do so."
 
@@ -6625,7 +6628,7 @@ murder, betrayal, and revolution as one power supplants another. Power
 is never passed on; it has always been taken. Most rulers here have
 made the mistake of being too weak and allowing their enemies to
 multiply, or too cruel and forcing them to unite. Mordan: Too cruel.
-Ignol: too cruel. Rhone: not nearly cruel enough. And so it goes.
+Ingol: too cruel. Rhone: not nearly cruel enough. And so it goes.
 
 "The secret of ruling Khelberg is keeping the right balance of
 control. This is why I have ruled longer than any other. So to answer
@@ -6633,10 +6636,10 @@ your question, if I were to allow that the teachings were true, it
 would cause my foes among my own people to multiply. To question my
 strength and my right to rule.
 
-Skeeve and Enoch are not really pursuaded by this answer, although
+Skeeve and Enoch are not really persuaded by this answer, although
 they don't dare question it. She seems to sense it, so she adds,
 "Perhaps it would help to know that I have not had more than two
-visitors in over a century. Long ago, Pallan Lorman came to me as a
+visitors in over a century. Long ago, Pallas Lorman came to me as a
 friend, after the war against Mordan. He came and offered me a gift: A
 spell of magical regeneration. It would heal my wounds, no matter how
 terrible, as long as I could still draw breath. The spell would
@@ -6648,7 +6651,7 @@ Enoch and Skeeve look at each other. They are not sure what to make of
 the tale so far.
 
 She continues, "I accepted this gift from my new friend, and I even
-thanked him for it, though it would be my undoing. His trechery was
+thanked him for it, though it would be my undoing. His treachery was
 revealed when he met with me, in this very room, with two of his
 lieutenants. He began to cast a spell which would lift the healing,
 causing me to die. Another ran towards me with a sword, seeking to
@@ -6693,7 +6696,7 @@ plan to capture him and see what information they can extract from him
 before he dies.
 
 > The debate took place out-of-character, which is how all long
-> converations end up. Let's sum up the important points:
+> conversations end up. Let's sum up the important points:
 >
 > * Eomer thinks her reasoning for sending them to kill Noreeno doesn't
 >   make sense. They spend some time trying to figure out what her true
@@ -6714,7 +6717,7 @@ before he dies.
 
 ### 20th of Last Summer (Morning)
 
-At dawn the party leaves town. With fresh supplies and Allidian horses
+At dawn the party leaves town. With fresh supplies and Alidian horses
 they ride swiftly east. Hours pass. They turn north and ride past
 Della Minera without stopping. At midday they cross the bridge and
 turn west.
@@ -6725,7 +6728,7 @@ As the sun sets they top the hill and ride into the small Halfling
 village of Hillstead. This is obviously a farming community, with many
 farms dotting the surrounding countryside. There is a standard
 detachment of Alidian guards at the entrance to the city: A group of
-bored Ailidian soldiers, and four elite guards. After their papers are
+bored Alidian soldiers, and four elite guards. After their papers are
 checked, they are granted entry into the village proper. The "streets"
 of the city are simple dirt paths that wind around the clusters of
 tidy cottages and small gardens. Many homes have a ribbon of smoke
@@ -6803,7 +6806,7 @@ They drag Noreeno out of town and tie him to a tree. They remove his
 ring and Thu'fir buries it nearby. Then they wake him up.
 
 > Now, I had no interest in roleplaying a torture session, which was
-> the next step here. I'm too squeemish for that. So I had Beck (an
+> the next step here. I'm too squeamish for that. So I had Beck (an
 > NPC who was with the party) do the "asking" while everyone else
 > stood at a distance.
 >
@@ -6813,9 +6816,9 @@ ring and Thu'fir buries it nearby. Then they wake him up.
 > this, so I came up with a little ad-hoc system of intimidate checks
 > for Beck vs. willpower saves for Noreeno. If he failed the save, he
 > would answer one of the questions. Each time he "won" the willpower
-> save and resisted talking, he would then have to make a forititude
-> save to stay alive through the susequent nastyness. I ran through
-> the list of questions over and over until he failed three forititude
+> save and resisted talking, he would then have to make a fortitude
+> save to stay alive through the subsequent nastiness. I ran through
+> the list of questions over and over until he failed three fortitude
 > saves, which I decided ahead of time was enough to kill him. I was
 > pretty proud of this, since I think it simulated what was taking
 > place and randomized what questions would get answered.
@@ -6958,7 +6961,7 @@ woods and heads south on foot.
 >
 > * The players choose not to get involved: The miners would have been
 >   killed off over the next week or so by both grave walkers and
->   slavedravers. Since people slain by gravewalkers rise again as
+>   slavedrivers. Since people slain by gravewalkers rise again as
 >   gravewalkers themselves, this would have created a nasty problem.
 >   It might have led to another sidequest in the future.
 >
@@ -6967,7 +6970,7 @@ woods and heads south on foot.
 >   that they helped keep the slave camps in business.
 >
 > * The players negotiate a solution: This would have been the most
->   difficult, and would have required a trip to Fol Thron to pursuade
+>   difficult, and would have required a trip to Fol Thron to persuade
 >   whoever was in charge of the mines (I hadn't made a character for
 >   this yet, and in the end I didn't need to) that allowing a
 >   temporary halt in output was better than losing their workforce.
@@ -7048,7 +7051,7 @@ pretty scared now, since he is forced to report to his masters that he
 can't get anything out of the mines at this point.
 
 > Nice solution. They freed twelve slaves, and the rest won't have to
-> work the mines until Fol Thron sends a detatchment of soldiers to
+> work the mines until Fol Thron sends a detachment of soldiers to
 > clean out the mines. The players didn't even have to kill anyone.
 > Bonus XP for everyone. I think they got more than they would have if
 > they had gone in and hacked their way through the grave walkers. The
@@ -7084,7 +7087,7 @@ off this island, anyway.
 Endo doesn't know where Garret is. The two of them were fleeing south
 when the Alidian soldiers attempted to arrest them in Crossway. Endo
 fought them so that Garret could escape. Their goal was to get off the
-island. Where would Garret go after Endo was catpured? They check the
+island. Where would Garret go after Endo was captured? They check the
 map:
 
 ![](images/map_mar_tesaro.gif)
@@ -7119,7 +7122,7 @@ Garret was tossed into jail for one month, or until he could come up
 with the unlikely sum of 15 gold.
 
 The players bail him out. As he sees Endo, he cries out, "Sensei!" and
-hugs him. Endo stands with his hands at his sides, embarrased. This is
+hugs him. Endo stands with his hands at his sides, embarrassed. This is
 not how you greet a stoic monk. Furthermore, he's uncomfortable with
 being called Sensei, particularly by a kid who just lost a fight with
 a nobleman.
@@ -7137,7 +7140,7 @@ the island.
 They rest for the night. Beck decides to take a job on the docks,
 working on the ship being built there.
 
-> Yeah. We're up to three NPCs traveling with the party: Becl, Endo,
+> Yeah. We're up to three NPCs traveling with the party: Beck, Endo,
 > and Garret. It's getting crowded. So, I make up an excuse and park
 > Beck here in Telwin Port. Actually, this makes a lot of sense for
 > him.
@@ -7163,7 +7166,7 @@ hope of finding the place in time to make use of its secrets.
 They make decent time, given the nature of the land. By mid-day they
 are clear of the trees and begin to make their way over the tumbling,
 rocky hills. There are scruffy patches of green clinging to what
-little soil can be found amonst the rocks. To the north they can see
+little soil can be found amongst the rocks. To the north they can see
 the near-vertical southern face of Khelberg. It is grim and dark.
 
 Evening comes and they make camp. Thordek watches. Thordek sees
@@ -7171,10 +7174,10 @@ movement in the distance during his watch, but it is too distant to
 see what it is. Something is out there among the moonlit rocks,
 though.
 
-After a few hours Skeeve awakens from a nighmare.
+After a few hours Skeeve awakens from a nightmare.
 
 > I had several nightmares written up, which the character experienced
-> as long as hed owned the orb. Whenever Skeeve slept, I'd roll the
+> as long as he owned the orb. Whenever Skeeve slept, I'd roll the
 > dice and give Dan (in private) the details of the nightmares, which
 > were used to confuse and misdirect more than enlighten. Sadly, I no
 > longer have the descriptions of any of the nightmares. I do remember
@@ -7196,7 +7199,7 @@ heading north towards whatever Thordek saw.
 > watch before his turn was over, and then left! They gave him a hard
 > time about it, but Dan followed through anyway.
 
-Skeeve sees a figure walking north, just below him. As he decends, the
+Skeeve sees a figure walking north, just below him. As he descends, the
 figure vanishes like a mirage. To his right he sees another, also
 walking north. Again, as he draws near it becomes more difficult to
 see. It's like looking at fog. Up close it's invisible, but at a
@@ -7237,7 +7240,7 @@ first martial art movie and has decided he's Bruce Lee. He spends most
 of the fight on his butt. Eomer instructs him to keep out of the fight
 next time.
 
-The party continues east. Several times throught the trip they see
+The party continues east. Several times throughout the trip they see
 Garret scanning the horizon through a spyglass, looking at it through
 the wrong end. They have written Garret off as an idiot by this point,
 so they let it slide without comment. Eventually this gets on Eomer's
@@ -7252,10 +7255,10 @@ Eomer gently relieves him of the Spyglass and begins using it himself.
 
 They locate the Mages Archives. The building is a modest tower – more
 of a "lighthouse" style tower than the classic "wizard" spire. The
-tower is joined to a squat, round building made from the dusty grey
+tower is joined to a squat, round building made from the dusty gray
 stones of this region. The building is perched atop a small cliff that
 plunges down into the churning sea below. On the southern side of the
-building are a few stone steps that, if you were to decend them, would
+building are a few stone steps that, if you were to descend them, would
 drop you down the cliff into the ocean.
 
 > I don't know if anyone thought about this or figured it out, but
@@ -7331,7 +7334,7 @@ Seeing the room is clear of traps, he goes back to the roof and
 signals for everyone else to climb up. He makes sure to tell them to
 keep their hands off the statue.
 
-The rest of the party enters exept for Garret, who lacks the upper
+The rest of the party enters except for Garret, who lacks the upper
 body strength to climb the rope, and for Endo, who stays with him.
 Everyone else comes in and begins rummaging around carelessly in a way
 that makes the stealthy and cautious Eomer crazy.
@@ -7371,7 +7374,7 @@ figure out that this second rope is the one that opens the front door.
 He uses it and lets Endo and Garret inside.
 
 > Again, this odd setup was in place for thwarting attacks, not
-> robbers. This place was not designed to defend itelf while empty. If
+> robbers. This place was not designed to defend itself while empty. If
 > someone knocked on the door and identified themselves, then the door
 > guard would pull the rope, which would ring the bell and let the guy
 > in the tower know it was okay to open the door.
@@ -7412,7 +7415,7 @@ the mountain.
 
 They head due north for most of the day, and then turn west and travel
 along the base of the southern cliff. They are looking for the clues
-and signs that indicate the entrance to the prison of fiore. Night
+and signs that indicate the entrance to the prison of Fiore. Night
 comes and they are obliged to stop, or risk blundering by the entrance
 in the dark.
 
@@ -7467,13 +7470,13 @@ can see that the box is bathed in magic.
 
 Even here, deep in the sunless underground, the floor is thick with
 soft grass. Vines climb up the walls of the chamber. The pools of
-water in the room have lillypads floating in them.
+water in the room have lily pads floating in them.
 
 Around the room is a not insignificant haul of treasure. Dwarven
 weapons and armor, slightly worn and tarnished by their long years in
 this cave, are in neat stacks around the room. Thordek notes a shirt
 of fine chain spread out on the floor. A shield rests neatly atop of
-it, and a hammer is laid accross its breast. These stacks are not
+it, and a hammer is laid across its breast. These stacks are not
 heaped here without purpose. These are most likely memorials to the
 Dwarves who perished in the making of this tunnel.
 
@@ -7595,13 +7598,13 @@ They head south as quickly as possible. It is snowing ash. They are
 tired but they press on, not wanting to rest at the foot of the
 mountain in its fury. After dark the mountain subsides. Ash fills the
 air. Enoch's light can barely penetrate the black fog. They do their
-best to hold a direct southward course desipte their lack of bearings.
+best to hold a direct southward course despite their lack of bearings.
 
 > If I had been more diligent I would have Googled around and found
 > out how far volcanic ash can spread, how deep it gets, and how long
 > it hangs around once the mountain settles down. I wanted to create a
 > situation where the mountain itself was perilous to approach, but I
-> didn't want to go Pompei on them. The island itself should be fine
+> didn't want to go Pompeii on them. The island itself should be fine
 > once they dust everything off.
 
 By morning they draw near the sea and find they are at last escaping
@@ -7626,7 +7629,7 @@ trapped forever.
 The curse of the mountain is also lifted. Everyone wonders what effect
 this will have on the Queen and her minions.
 
-And what effect will the mountain's erruption have on everyone?
+And what effect will the mountain's eruption have on everyone?
 
 They have many questions, but they are a two day's journey from the
 answers. First things first. They rest.
@@ -7643,8 +7646,8 @@ own the place now, so they may as well start taking care of it.
 
 The great cloud of ash has dissipated and been blown out to sea, but
 the ground is still black with it. The wind has tossed it about,
-leaving greay dust in every opening and on every surface. The mountain
-is still slightly smouldering in the distance, warning the inhabitants
+leaving gray dust in every opening and on every surface. The mountain
+is still slightly smoldering in the distance, warning the inhabitants
 of the land against challenging its slopes once more.
 
 Two days later they arrive in Washport. Everyone is on edge. The
@@ -7653,7 +7656,7 @@ mountain exploding. Then they learn that things have changed in the
 two weeks they were wandering in the East. The Black Army of Mordan
 swept south some days ago. Here in Washport there are many Halfling
 farmers from Hillstead. They fled the city as the Grave Walkers
-decended on them in the night. To their knowledge, everything north of
+descended on them in the night. To their knowledge, everything north of
 the river is lost.
 
 The Queen has sent her forces out to hold the bridge. Each night
@@ -7715,12 +7718,12 @@ under the leadership of a Dwarf.
 While not given audience with the General (who is very busy right now)
 Thordek is given an audience with his second in command. He is taken
 alone to the commander's tent while the rest of the party waits at the
-edge of the Dwarven encompment.
+edge of the Dwarven encampment.
 
 To help smooth the conversation along, Thordek pretends to be excited
 about this new conquest of the island by his people. In truth, he is
 sad that there must be more pointless bloodshed over a mountain which
-nobody can truly posess. He is otherwise honest with the commander
+nobody can truly possess. He is otherwise honest with the commander
 about his comings and goings on the island, and reveals that he has
 met with Queen Alidia herself. This impresses the commander, and he
 gets what news he can of the state of the island before their arrival.
@@ -7779,7 +7782,7 @@ Another town guard comes sailing out of one of the second-story
 windows and lands with a thud nearby. Black smoke pours from the
 window.
 
-Enoch heals the still-smouldering guard, while Skeeve has the nearby
+Enoch heals the still-smoldering guard, while Skeeve has the nearby
 captain explain.
 
 It seems that they located a secret chamber within the Mages Guild
@@ -7839,7 +7842,7 @@ bits. Skeeve has them clear out and goes to work.
 > the magic he added to Mordan's Phylactery in order to trap him. It
 > details the steps needed to place the orb onto a container in order
 > to turn it into a trap for the Lich. The orb magic is quite beyond
-> Skeeve, but the trapping proceedure is easily understood. Using the
+> Skeeve, but the trapping procedure is easily understood. Using the
 > book as a guide, they could return to Mordan's tomb and (assuming
 > they could get in and reach his original prison) affix it to his
 > coffin once more. This book is no longer needed (since they used
@@ -7909,7 +7912,7 @@ set foot on it.
 She offers them a new task: To go to the Dwarves and offer them a
 truce. She is prepared to offer them control of the mountain in
 exchange for their aid in repelling Mordan. The mountain, being pissed
-off and errupting, is not the prize it was just a few weeks before.
+off and erupting, is not the prize it was just a few weeks before.
 But the Dwarves came to claim it, and it's all she has to bargain
 with.
 
@@ -7922,7 +7925,7 @@ provisions they need if they aid her.
 
 They agree to this task and depart. A detachment of soldiers is sent
 along with the party, under their command. There are enough men to
-demonstarted that they come in the name of the Queen, but few enough
+demonstrated that they come in the name of the Queen, but few enough
 that the Dwarves won't mistake the group for a halfhearted
 counterattack.
 
@@ -7937,7 +7940,7 @@ negotiation.
 >
 > Thordek did well here. He's a fighter and it's not like he has much
 > in the way of Charisma or diplomacy, but this was more about
-> roleplaying than rollplaying so that didn't hurt him.
+> roleplaying than roleplaying so that didn't hurt him.
 >
 > This Dwarven general was a funny (odd) fellow and we had a lot of
 > fun with this conversation as two Dwarves hammering out the details
@@ -7965,9 +7968,9 @@ lands of the south.
 > that week so I was running his character. Now, this would have been
 > his moment to shine, but Skeeve was an NPC this week and so I wanted
 > the other players to take center stage. So Skeeve hung back and
-> peppered the bad guys with magic missles and the tanks (Thordek and
+> peppered the bad guys with magic missiles and the tanks (Thordek and
 > Thu'fir) stood in the middle of the bridge and gave the enemy a
-> rightous beating.
+> righteous beating.
 >
 > Behind these two were some archers. Back on the southern shore they
 > had catapults which shot huge loads of burning coals at massed
@@ -7980,7 +7983,7 @@ lands of the south.
 
 They hold the bridge for several hours. Midnight passes. Then suddenly
 the grave walkers retreat. This comes as a surprise to everyone. They
-usually keep up the assult until almost dawn. The soldiers brace
+usually keep up the assault until almost dawn. The soldiers brace
 themselves, expecting that this is the calm before an even bigger
 storm, but their fears prove unfounded. Mordan does not strike again
 that night. His forces were numerous, why would he signal the retreat?
@@ -8011,7 +8014,7 @@ and exterminated by the army without difficulty. They ride further
 north without contest. Mordan didn't just pull back a little – he has
 evidently withdrawn all the way to Crossway.
 
-The army moves slowly. The players are on hoseback, but the army is
+The army moves slowly. The players are on horseback, but the army is
 mostly on foot and some of them have siege machinery in tow. The trip
 to Crossway takes three days, during which they see only single grave
 walkers or other spies. They feared Mordan would strike while they
@@ -8020,7 +8023,7 @@ answer from him. Nobody knows what to think of this.
 
 They stop a few miles short of the city. Even from here they can see
 the city is smoking. Did Mordan put his own city to the torch? Did the
-Lormanites suddenly produce an army and assult him? Is this a trick?
+Lormanites suddenly produce an army and assault him? Is this a trick?
 What is going on?
 
 Eomer goes ahead and scouts out the town. It is, as they suspected, a
@@ -8042,7 +8045,7 @@ evidence that another army had attacked the city. There are broken and
 burned siege machines that have been pushed off of the road just
 outside of town.
 
-This explains the sudden widthdrawl five days earlier. The party
+This explains the sudden withdrawal five days earlier. The party
 gathers and discusses these signs. Here is how they interpret events:
 Mordan was battling them at the bridge when he was unexpectedly
 attacked from the north by forces unknown. He was obliged to recall
@@ -8128,7 +8131,7 @@ Moor and Eomer gets some news of his homeland.
 >
 > One detail that might be of interest here is the message they were
 > sent way back in Session 1. At the start of the campaign, they got
-> two letters: One from the Coucil of Grey Moor and another letter
+> two letters: One from the Council of Grey Moor and another letter
 > from Teerin. The council asked them to come home at once. (That is,
 > return to Grey Moor.) Teerin's letter asked them to stop by his
 > island and talk to him first, before they got involved. Everyone has
@@ -8146,7 +8149,7 @@ Moor and Eomer gets some news of his homeland.
 > But all of this became moot when Fort Bolland fell, and the
 > shipwreck more or less forced them to get involved anyway.
 >
-> So the campain started with a message to come home, which should
+> So the campaign started with a message to come home, which should
 > have led to a warning to avoid this island, but they never made it
 > home, never got the warning, and were stuck here anyway.
 
@@ -8155,7 +8158,7 @@ freed, he sensed it. As soon as he could, he assembled what forces he
 had and sailed for Fort Bolland. Mordan sent his birds (which would
 burn ships into the sea) but such tricks were not a problem for
 Teerin, who is far more in touch with nature and wild beasts than
-Mordan. He arrived and joined with the few poeple still alive in Fort
+Mordan. He arrived and joined with the few people still alive in Fort
 Bolland, then moved south to liberate Crossway.
 
 > If I hadn't changed the campaign so that the Dwarves and Sagemaster
@@ -8174,7 +8177,7 @@ Bolland, then moved south to liberate Crossway.
 
 While in Fol Thron, the party meets up with Beck again. He made it
 through the Dwarven assault of Telwin Port, and they gather that he
-had a big part in rallying the city defense. He's glad to see eveyone
+had a big part in rallying the city defense. He's glad to see everyone
 pulled through.
 
 In the end, the Dwarves do claim the mountain. However, since they
@@ -8233,7 +8236,7 @@ I want to say that I'm very happy to see the D&D campaign record
 completed. Recording the campaign was the original purpose of this
 blog. If you look at the URL you'll see this site was originally
 called Twenty-Sided Tale. Before DM of the Rings, before the stuff on
-videogames, before all the stuff about geek culture, the intent of
+video games, before all the stuff about geek culture, the intent of
 this site from the start was to record the events of the campaign as
 it unfolded.
 
@@ -8271,7 +8274,7 @@ and then walking around, but this will be slower, pointless, and they
 will just end up at a recycled version of one of my established
 locations anyway. This gives them a bit of freedom, and makes
 wilderness seem less arbitrary. Some ways are faster, some can be very
-slow (like a valley which gets thick with vegitation once they enter)
+slow (like a valley which gets thick with vegetation once they enter)
 and some can have encounters.
 
 Upper Bolwood was one such maze, with Ettins at a few of the map
@@ -8303,7 +8306,7 @@ factions. The battle was long and more or less a mutual slaughter,
 with both sides taking such massive losses that nobody could really
 claim victory. There weren't enough people left to even begin the task
 of burying the dead, who were left to rot. At some point later folks
-came along and errected standing stones as a sort of halfhearted
+came along and erected standing stones as a sort of halfhearted
 memorial / mass tombstone. The valley is quite cursed by now.
 
 If they had entered the valley they would have gotten trapped in the
@@ -8416,7 +8419,7 @@ campaign, I could have used some yet-unwritten NPC (maybe some other
 survivors from the ship) to free Mordan, and then had the Queen try to
 enlist their help. This would have been far, far less interesting. The
 real hook of the campaign was that they released Mordan, and although
-it could have played out a lot of different ways, the choces they made
+it could have played out a lot of different ways, the choices they made
 in the end were the best, story-wise.
 
 **How much were they "on rails"?**
@@ -8430,7 +8433,7 @@ Mordan was one such case.
 I knew they probably wouldn't abandon Endo. (But just to be clear:
 Endo is my character when I'm not the DM, and I was fully prepared to
 lose him if they didn't. I would never have forced them to rescue
-him.) Once they recued him he gave them the quest hook of looking for
+him.) Once they rescued him he gave them the quest hook of looking for
 the prince, and I suspected they would bite. It took them a while, but
 they did. I gave them the book of Norvus, knowing Enoch would
 translate the sucker.
@@ -8492,7 +8495,7 @@ sucks.
 
 In Session 3, when the players faced Vormoth the Wizard, he had a
 lightning spell available. They went into that fight low on hitpoints,
-low on magic, low on healing, with no coherant plan, and then fought
+low on magic, low on healing, with no coherent plan, and then fought
 like a bunch of numbskulls. They made so much noise that the enemy
 knew they were coming and when. I'd planned on blasting them with a
 little lightning, but I realized that I could very easily kill one or
@@ -8501,7 +8504,7 @@ two of them that way, which could end up in a TPK.
 So I had Vormoth stick to his lower-level spells. I justified this by
 saying (to myself) "Vormoth wouldn't want to risk hitting the kids."
 That was true, but more important is the fact that I had planned to
-blast them with lighning and didn't.
+blast them with lightning and didn't.
 
 This was my most "cheating" moment in the campaign, and I regret it.
 On one hand, I didn't want to kill off a couple of characters. At the
@@ -8517,7 +8520,7 @@ to die at level 8.
 
 Actually, now that I've written this I think I've made a good case for
 faking dice rolls. If I had to cheat, it would have been better to let
-Vormoth bust out his lighning but then make sure his damage roll was
+Vormoth bust out his lightning but then make sure his damage roll was
 low enough that it wouldn't kill the target. That would have been a
 better choice than what I did. It would have driven home the point to
 the players, "this could have killed you".
