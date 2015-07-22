@@ -2359,3 +2359,695 @@ rot in his workshop.
 
 Everyone rests and wake up around 5 am. Enoch sets about healing
 everyone, and they decide to return to town.
+
+## Session 4
+
+### 5th of Last Summer, 1501dy
+
+It is early morning. The group is ready to leave the dungeon and is debating whether to wake the kids now or in town. Eomer doesn't want to carry the children, but Skeeve doesn't want to deal with frightened, crying children. They decide to take them back to town first, then wake them. Thordek considers taking the powder in a skull then decides against it.
+
+> Joe (Thodek) is a pack-rat and will take anything that isn't nailed
+> down. I don't mind, but this was ridiculous. It was an inverted
+> skull being used as a bowl to hold about a half-cup of very fine
+> white powder. Nobody even knew what it was. There was just no sense
+> in trying to carry this around, assuming he found a way to carry it
+> without spilling it everywhere.
+>
+> But Joe was convinced this was something of value. Once the others
+> persuaded him to leave it behind, I revealed what it was, just to
+> dispel the mystery. This was hallucinogenic powder, and would not be
+> of any use or value to them.
+>
+> There is probably no way the characters could have known, but the
+> wizard planned to use this powder himself when it came time to do
+> the evil human sacrifices. He was a corrupt bastard, but killing
+> three children at once was pretty evil even for him. His plan was to
+> do some of the powder so he'd be able to go through with it. He
+> really did believe this was the only way to save his people: To
+> engage in human sacrifices and other evil rituals until he gained
+> enough magic to beat the Alidians.
+>
+> I don't even want to think about how the conversation would go if
+> Thodek had brought a bleached human skull to a shop owner and tried
+> to sell it.
+
+They head back to town, with Beck and Thordek carrying the kids.
+
+As they go they are especially careful of the traps on the way back.
+There is discussion on the way back about how everyone dealt with the
+situation. Skeeve is irritated that so much valuable stuff was broken,
+especially by Eomer. Skeeve thinks they should have let the wizard
+live long enough to gather more information from him. They also
+discuss the disorganized mayhem of the last battle, and agree they
+need to use more teamwork in the future. The walk only takes about a
+half hour, meaning they enter town just as the sun is rising.
+
+They enter town with the kids. One of the mothers, who runs the inn
+and thus is bustling about preparing for the day, panics about her son
+being limp. Skeeve quickly explains and give the kids the potions to
+wake them. The children are given back to their mothers and Polan
+comes over to talk to them. He thanks them for saving the kids. Skeeve
+explains about Vormoth being the one who took them. Polan seems to
+recognize the name, but says nothing.
+
+Eomer presses him on this point, trying to find out more about
+Vormoth. Polan eventually confides that Vormoth was their mayor before
+the invasion. When the town was conquered, he disappeared, and they
+assumed he'd been killed or taken prisoner. He asks the party to keep
+this quiet. He doesn't want the other villagers to know their former
+mayor was the one behind the kidnappings.
+
+Thu'fir asks more about the sacrifice, and mentions that Vormoth said
+this was part of the "old ways". He wants to know if this is true, and
+if Polan's people really did practice this sort of thing.
+
+Polan hangs his head, "Yes, we used to practice human sacrifice. Well,
+the wizards did, to make themselves powerful. It hasn't been done in
+my lifetime though. Of course, back then the goal was to sacrifice the
+enemies children, not your own." The group is appalled at the idea
+that it was all right as long as those being sacrificed were the
+enemies.
+
+Polan gives them food, ropes, and free meals at the tavern. Thu'fir
+asks around but there are no grappling hooks for sale. They lost their
+climbing gear in the shipwreck, and the trouble with the trap doors in
+Vormoth's lair reminded him that they needed to get some.
+
+They check the map and plan their route south. The goal is to reach
+the city of Crossway, where they hope to find their friend Endo, or at
+least acquire some travel papers so that they may travel the country
+freely.
+
+![](images/map_upper_mar_tesaro.gif)
+
+They must avoid the road, since it will be patrolled by Alidian
+soldiers. They don't have traveling papers, which means the soldiers
+will try to arrest or kill them if they are caught. They know the
+Weather Hills are infested with vicious goblins, so they decide to
+head west, cross the river, and then head south through the woods.
+
+They march west for two hours and come to a river. The river is pretty
+rough and about 30 feet wide. Enoch walks across the water, helping
+all but Skeeve across. (His magic can grant water walking to only 5
+people at a time) Skeeve flies across using his own magic.
+
+They see a hint of a town to the far west. They decide to head south,
+up out of the valley which they had been traveling in. They start
+heading more or less south but heading a bit east due to the
+landscape. They make excellent time as they get out of the valley.
+
+They are not really sure where they are. From here they can climb a
+large steep hill directly south, or they can continue southeast and go
+around the hill. It is nearly 5 pm. Eomer requests that Skeeve fly up
+in order to look ahead and see which direction they should go. Skeeve
+levitates and can now see where they are. They have covered less than
+half the distance through Lower Bolwood. Their detour around the
+weather hills cost them most of the day.
+
+They discuss which direction to go. They consider whether to head
+towards the road and stay just off it or try going through the woods.
+They decide to head due south, straight up the hill. The climb is long
+and wearisome, but at the top they are all treated to a good view of
+the surrounding country.
+
+They now have a choice between heading southeast or straight south.
+
+To the southeast they see a gap in the trees, hinting that there might
+be a river that way. They head for the river. As they draw near, the
+underbrush becomes more thick and tangled. It is getting dark. At last
+they run into the stream. The stream runs straight north, so they are
+able to go south along the bank. They need to rest for the night, but
+don't want to make camp in this thick, unyielding growth. They go
+south about half an hour and find a spot with less sticks and
+brambles.
+
+Thu'fir stays awake to keep watch.
+
+### 6th of Last Summer, 1501dy
+
+The night passes, Thu'fir doesn't notice anything. Skeeve wakes and
+Thu'fir goes to sleep. In the late morning Skeeve hears some noise
+around them, to the northeast. The sound comes closer then stops. He
+suggests to Eomer when he wakes that they might be being followed.
+
+Morning comes, they eat quickly and set out early. They head southwest
+and come upon a pond. It is directly in their line of travel but is
+small enough that they can go around it without losing much time. They
+note a stink in the air. The musky smell doesn't seem to be coming
+from the water, which seems wholesome enough. Skeeve skips a rock
+across the pond.
+
+They hear a crashing in the woods about 50 yards behind them. They can
+see treetops swaying in the wake of something large headed their way.
+They decide to walk across the water. Enoch casts water walking again,
+and five of the party members begin running over the still surface of
+the pond.
+
+Skeeve wants to stay and see what this thing is. He considers climbing
+a tree, thinks better of it, and instead jumps into a good covering
+bush.
+
+An Ettin emerges from the woods. The massive creature stands at nearly
+fourteen feet tall. In one hand he holds a massive club, which is
+itself longer than any of the party members. He screams at them in
+some incomprehensible speech. Once it realizes it cannot catch them,
+it turns away in disgust. Pouting, it smacks a nearby tree with its
+club, nearly uprooting it.
+
+The Ettin starts sniffing. It smells something nearby. Skeeve casts
+fly and soars out of the bushes, heading for the other side of the
+pond.
+
+The Ettin is enraged by this. He is on the opposite side of the water
+from them now, and making all kinds of angry noises at them and
+standing in the mud. Skeeve drops a fireball on his head and angers
+him more. They have a laugh at him and move on.
+
+Thu'fir explains to them that the Ettin was not likely following them,
+but that they had stumbled into his territory.
+
+They can now either go south west where it is more open or go south
+which is a little more tangled. They choose the way that is more open.
+They head south from here. The land here is more open and they are
+making excellent time. They eventually come to an open, treeless
+field. A stream divides the field in two. Across the stream they see
+another Ettin. They decide to go around, rather than getting into a
+fight with the beast.
+
+They travel a bit more south. As they move into late afternoon they
+come across a major city, obviously Crossway.
+
+![](images/map_crossway.gif)
+
+They are north of Crossway, standing on the wooded hills looking down
+on the city. They can see the city is guarded by a massive wall to the
+south, but on this side they can easily slip in.
+
+They watch the movement below as they discuss how to enter unseen.
+They know this city is controlled by the Alidians. They want to avoid
+the attention of the soldiers. Last time they met Alidian soldiers was
+in the wild. The soldiers demanded to see the party's travel papers
+(which they didn't have) and then assumed they were mercenaries. A
+battle ensued. Although they won that battle, the odds would surely be
+against them here in town with hundreds of soldiers about.
+
+They know they must not attract attention. With their backpacks, they
+will stick out quite a bit in the crowd. Their armor and weapons will
+make them even more conspicuous.
+
+Eomer plans to go into town to test things out. He wants to wait until
+dark and hide in the shadows, but the others think they have a better
+chance if they just hide in the crowd during the day. They debate for
+a while on the merits of each plan. Finally they decide to separate
+and slip in among the crowd, since traveling in a group would
+certainly attract attention. Eomer points out a large tower on the
+south side of the city. They agree to meet in front of the tower if
+all goes well.
+
+Enoch and Thordek enter together. They develop a cover story where
+Enoch is a traveling healer and Thordek is his bodyguard. Eomer and
+Beck will also enter together. The other two will follow seperately.
+
+This city is a hub of activity. The north side of the city is the
+housing district. Narrow, winding streets snake between the rows of
+small homes. On the southern side of the city is the shopping bazaar.
+It is a large circle of shops situated near the tavern. There is a
+large stone keep overlooking the shopping district. The south side of
+the city is guarded by a massive wall with a single wide gate, which
+stands open during the day. A score of Alidian soldiers stands watch
+at the southern gate.
+
+They melt into the crowd easily as they slip into town one at a time.
+Nobody gives them any trouble.
+
+Eomer and Beck work their way through the masses, which, as they get
+closer to the square, seem to be pushing away from the market toward
+the outlying houses . The market is beginning to empty as the people
+start heading towards home. Eomer finds that the keep where they are
+all heading to is covered with Ailidian soldiers. This is their base
+of power in the city, and the party has agreed to make it their
+meeting point! He waits for the rest outside the market rather than
+head to the keep.
+
+Thordek and Enoch walk into town together. It is late afternoon, and
+by now many businesses are closing. The crowd is moving against them
+as it is moving towards the houses to the north and away from the
+businesses to the south. They see the keep as they walk through the
+square. The people here are mostly closing up shop. They make their
+way to the keep which is crawling with soldiers. They decide to head
+over to the church nearby. Enoch does his cleric thing, praying to
+Pelor.
+
+Eomer spots them as they enter the church and decides this is the new
+meeting point. As the other members of the party approach, he silently
+indicates they should head there.
+
+Eomer and Beck watch the soldiers at the gate as they wait for the
+rest. One group of soldiers marches out from the gate and relieves the
+group there. They note six scattered soldiers different from the rest,
+not being relieved from duty, wearing plain heavy armor. These
+soldiers do not move. Their helmets are solid metal, with no holes for
+eyes. The fronts of the helmets are stamped with the now-familiar
+symbol of the Alidian army:
+
+![](images/flag.gif)
+
+The other soldiers seem very well organized as well. They travel in
+groups of 7. They do not spend time chatting or sitting around. They
+walk the streets alert and ready for action. People seem to give the
+soldiers a lot of room.
+
+Once the rest of the party has assembled in the church, Eomer and Beck
+join them. They share their observations about the city and discuss
+their next move. Skeeve notes that one of the guards in any group
+always has a magical aura around him.
+
+Thordek and Enoch will continue traveling together, sticking with the
+cover story they developed. Beck suddenly announces that he also has a
+cover story:
+
+"I'm the new drunk in town. And I'm going to get started on my cover
+story right now." He then marches over to the tavern and does exactly
+that.
+
+Skeeve takes a room. The rest of them secure rooms at the inn. As
+evening draws in, they get meals and Thu'fir goes to the tavern to
+keep an eye on Beck. He seems to be a quiet drunk and doesn't cause
+any trouble.
+
+> This isn't what I had planned for Beck's character. Over the past
+> few sessions I can tell the attitude of the players towards Beck
+> (their NPC friend) has been more or less indifferent. I thought his
+> story, about a guy trying to earn enough money to go home and marry
+> his pregnant girlfriend, would capture their interest. After four
+> sessions, they have no interest in the guy. They ignore his advice
+> whenever possible. They don't want to share food or booty with him.
+>
+> In character, they SHOULDN'T think of this guy as "an NPC", but they
+> do and it shows. When Endo was their party's NPC "friend" they
+> treated him like any other member of the party. With Beck, I'm sure
+> they would feed him to a dragon to aid their own escape, and never
+> think of him again. I'm not sure where I went wrong with this guy,
+> but he's not working.
+>
+> He was going to have a much stronger personality, but their
+> indifference to him led me to tone him down. Now he's a drunk, sad
+> over the loss of his former crew-mates. We'll see what I can come up
+> with as a way to fix this.
+
+They all have the first nice bed they have had in a long time. Thu'fir
+wanders to the tavern and listens carefully, hearing nothing of
+interest.
+
+Enoch spends the evening working on translating his book. He manages
+to translate the next section.
+
+<div class="document">
+**Part II: The Conquest of Mar Tesoro**
+
+*Here the story of Thul Marblade continues. Several aspects of this
+ tale are plainly ridiculous, while others simply stretch the
+ imagination. It is, however, a fascinating piece of folklore.*
+
+* Chronicler Norvus
+
+Dwarven King Thul Marblade returned from Mt. Fiore and came again to
+Ellas Morad, leader of the mountain Elves. This time asked for leave
+to dig deep into the mountain and bring forth its treasure. He
+promised to pay half of all that was mined in tribute.
+
+But Morad forbade him saying, "Not if you were to surrender every gem
+brought fourth to the light would I give you permission to do this,
+for we Elves care not for gold or silver or for gems, but love only
+our homeland. Our desire is not for wealth, but to live in a land
+unspoiled."
+
+Marblade became enraged, saying, "We offer to do all of the work, and
+in return you will receive half of the profit. Never has a Dwarf made
+such a generous offer! You find yourself atop a mountain of gold, and
+your only thought is to use it as a garden, and will not let the
+Dwarves even peer inside of it! It is unjust that the greatest of all
+mountains should be in the hands of Elves, and not the Dwarves. If we
+had the greatest of all woods in the world, surely we would share it
+with the Elves, who love such things best. Therefore give us now leave
+to mine the mountain."
+
+Morad was unmoved, and did not see his peril. For he replied, "Nay!
+You wish to barter with me a forest you do not own and have not seen,
+against my home and the home of all my people? No! Cursed are you that
+look on such a fair place and can think only of tearing it open to
+find what is underneath. Depart from this land, and come never again
+to the gentle slopes of Mt. Fiore!"
+
+The Dwarf King's rage was now fully kindled, and he answered, "You bid
+me, King of all the Dwarves, to depart from the king of all the
+mountains? I will leave indeed, when I have all the treasure hidden
+within. But you shall depart now!" And with that word he slew Morad
+and all his men, for the Dwarves were strong and sturdy in battle and
+the gentle Elves could make no contest against them.
+
+Then the Dwarves roamed throughout the land, and killed every Elf they
+could find. They hunted them like animals, killing even the youngest,
+until not a single Elf drew breath in the land of Mar Tesoro. Their
+bodies were thrown down the southern slope into the great chasm, which
+is now called Bohrung Khel Toten, or "The Chasm of the Dead", in the
+common tongue. And so were the fair mountain elves of Mar Tesoro
+forever wiped from the face of the Earth.
+
+Then Thul Marblade took for himself the mountain, and they renamed it
+Khelberg, and they set to mine deep into the mountain and take its
+treasures.
+</div>
+
+### 7th of Last Summer, 1501dy
+
+It's morning. All were up late and trickle into the tavern around
+nine. Beck is very hung over. Eomer explains what he saw. He wants
+them to split up, try to get papers, try to find out about Endo. He
+explains about the soldiers with the helmets and asks the cleric to
+see what he can discover about them.
+
+They break up to go to work, and Beck goes back to bed. Skeeve heads
+to a tailor and requests a fancy robe with his insignia, trying to get
+gossip in the meantime. His old robe is burned and damaged from acid,
+and he needs to replace it. The shopkeeper is very free with the
+gossip, telling Skeeve all sorts of gossip about people in the Bazaar,
+but not relating anything interesting or useful to their quest.
+
+The shopkeeper tells him that a 10% discount is available for members
+of the mage's guild. Skeeve produces the membership they recovered
+from Vormoth.
+
+The tailor is very receptive but is disconcerted by the name on the
+membership. He promises to have this ready as soon as possible. He is
+suddenly going out of his way to get the order done quickly. He
+promises the robe will be done by afternoon, not tomorrow as he said
+earlier.
+
+Skeeve is unnerved by this. He's worried that Vormoth is famous, and
+the shopkeeper has spotted him as an impostor. Skeeve tips him 30g,
+trying to get him not to say anything about who he is.
+
+Skeeve leaves the shop and looks for a place where someone might be
+interested in the staff. He finds a small place with lots of fancy
+canes and sticks, most without magic. The large man behind the counter
+is nodding a bit. Skeeve hands him the staff and he notices that this
+is a Lormanite staff. He explains that the Lormanites (the wizards up
+north) used to make staffs all pointy and evil like this. He pays 500
+gold for it. As he is handed the money, Skeeve sees a shadow fall on
+either side of him. The shop keeper backs away. Skeeve wonders who has
+just stepped up behind him, but it must be someone imposing. Activity
+has more or less stopped all around, and the usual chatter of the area
+has stopped.
+
+"Conjurer Vormoth", comes a voice of authority from behind him.
+
+He slowly turns around and sees a huge group of soldiers. Two full
+groups of soldiers (fourteen total) have spread themselves out behind
+him. They stand in such a way that no fireball could hit more than
+three of them and Skeeve could not draw a line from himself that
+intersects with more than one soldier. Apparently these men are
+familiar with fireballs and lightning bolts, and have dealt with
+wizards before.
+
+Nevertheless, the men look worried. They all have their hands on their
+swords. Several of the younger men look like they may piss themselves.
+
+Skeeve now realizes the shopkeeper didn't think he was a fake: These
+people really do think he's Vormoth, and are treating him like a very
+dangerous threat.
+
+The commander speaks again, "Come now Vormoth. You don't want to start
+trouble here with all of these people about. Be reasonable and come
+along with us."
+
+Skeeve waves his arm saying, "No, no, no. You misunderstand. I am not..."
+
+As he waved his arm, the men flinch, as if expecting a blow. He can
+see there is really no good way out of this, so he agrees to go with
+them. They lead him (without laying a hand on him or disrespecting
+him) over to the keep, and up to the magistrate on the second floor.
+
+Magistrate Noreeno shuts the door behind him. The office of Magistrate
+Noreeno is large and elegantly furnished. There is a large bookshelf
+on one side of the room, filled with a variety of books. There is a
+set of double doors, (which are open at the moment) which lead out
+onto a balcony overlooking the merchant's square. Wind blows gently
+in, stirring the curtains while voices from the square drift in from
+below.
+
+A stout cleric stand beside the desk, and two soldiers are posted in
+the door, guarding the door. The other soldiers return to their
+rounds, looking relieved.
+
+Noreeno is surprised, "You are not conjurer Vormoth."
+
+"No, I'm not", Skeeve admits.
+
+The Magistrate rolls his eyes, "I just had a terrified shopkeeper in
+here telling me stories about how he'd just seen Vormoth here in
+town."
+
+"Yes, I used his mage's guild membership. To get a discount."
+
+"How did you come by the guild membership for Conjurer Vormoth?"
+
+Skeeve shrugs, "Well, I killed him."
+
+Noreeno is very impressed by this, "Killed him? I see. Well, well
+done. I assume you're here for the reward?"
+
+Skeeve pauses for a moment, and then answers, "Yes. That's why I'm
+here."
+
+Noreeno replies, "I see. Well, in that case I just need to ask you a
+few questions. Just as a formality you understand. This won't take
+long. So, while we talk, Galman is going to make sure neither of us
+can tell a lie. Then I'm going to ask you some questions. "
+
+Galman the Cleric casts Zone of Truth.
+
+"First question. Now, I can tell the answer to this just by looking at
+you, but I have to ask anyway: Are you with the northern army, the
+Lormanites?"
+
+"No."
+
+"Of course not. Are you employed by them? Gathering information?
+Mercenary? Spy?"
+
+"Nope."
+
+"Ever in the past?"
+
+"No."
+
+"I didn't think so. I just had to ask, you understand. Just routine.
+Next question...."
+
+"Okay."
+
+"Ever killed any Alidian soldiers?"
+
+> At this point everyone started laughing. Back in session one, they
+> did in fact run into some soldiers and ended up killing them. Skeeve
+> is in a Zone of Truth, and can't hide this. If he refuses to answer,
+> Noreeno will realize the answer is "yes" anyway. He'd been pretty
+> relaxed up until now. Now he realized he was in trouble.
+
+"Um. Yes?"
+
+Noreeno becomes very stern. The Soldiers at the door looked angry.
+There is a long moment before Noreeno speaks again. He turns to the
+soldiers at the door, "Gentlemen, would you please leave us alone for
+now?"
+
+The guards smile and leave. It is a safe guess that Noreeno is about
+to dispense a little off-the-books justice and wants them out of the
+room.
+
+Once the door is shut Noreeno turns to Skeeve. "I don't care."
+
+He elaborates, "It's a shame they heard you say that of course, but no
+harm done. I don't care if you killed soldiers getting here. I'm sure
+you didn't provoke them?"
+
+"No."
+
+"Of course not." At this point Noreeno has Skeeve tell about the
+fight, how it started, and where it happened. He seems satisfied once
+he's heard it. "This is not a big deal. Let's just continue with the
+questions. How many people are you travelling with?"
+
+Skeeve doesn't want to tell him, but he can't lie and doesn't want to
+refuse to answer, "Six."
+
+"Very good. You've done good work, and despite the unfortunate run-in
+with our forces, you've done the Alidian army a great service. You're
+entitle to the reward. You earned it."
+
+Noreeno then hands Skeeve 2000g.
+
+Noreeno then tells Skeeve that he is in charge of issuing Travel
+Papers. He offers six sets of travel papers if Skeeve and his party
+will do a job for him. He asks that Skeeve find his friends and bring
+them in.
+
+Skeeve agrees. They bid one another good day. As Skeeve leaves,
+Noreeno calls in the captain. He gives instructions that Skeeve and
+his friends are free to travel the city but they are not allowed to go
+south.
+
+Thordek and Enoch explore the square. They walk over to the south
+gate, where the strange guards with the solid (eyeless) metal helmets
+stand. Enoch cannot sense anything evil or demonic about them.
+
+Thordek shops, looking for better armor in the square or anything else
+he might find useful. He eventually orders a set of banded mail. They
+don't have any ready to fit a Dwarf just now, but the smith can size a
+set for him. It will be done in two days.
+
+As he looks around the shops, he sees a great number of soldiers
+assemble and lead Skeeve away, into the Keep.
+
+Eomer goes shopping for the things he lost, including a lock-pick set
+and a compass. He starts trying to gather information, specifically
+about traveling papers.
+
+Eomer ends up talking to a rough-looking guy at a "pawn" shop, who
+also sells "used" (probably stolen) items along with handy "Locksmith
+Tools". This guy is obviously connected to the criminal side of the
+city. Eomer drops some coin and gets some information.
+
+He learns that travel papers were instituted when northerners started
+"leaking" in. Ever since Fort Bolland fell, people have been showing
+up, telling various stories in an attempt to gain travel papers and go
+south where they might cause trouble or simply flee the island. The
+pawn shop owner "knows some guy" who can forge membership papers for
+the Mage's Guild. This, Eomer gathers, is very difficult. Despite this
+he's never made a counterfeit set of travel papers that worked.
+Somehow the soldiers always spot the fakes, and nobody can figure out
+how.
+
+In the midst of discussing this he sees Skeeve pulled into the keep.
+
+He also learns that papers are definitely needed for going south. If
+he needs some, he could go to the magistrate, who has been known to
+give foreigners travel papers. He also learns that in order to leave
+this island they will need to reach the southernmost city, which is
+the only major port still in operation. The other major port was Fort
+Boland, which was recently conquered and isn't in any shape to engage
+in any sort of commerce just yet.
+
+Finally, Eomer learns the address of a contact on the northern side of
+the city who is somehow connected with what is left of the resistance.
+
+Once Skeeve emerges from the keep, the party (minus Beck) meets out
+front. Skeeve explains what is going on, and also stops at the tailor
+shop to see if the tailor was really making his robes.
+
+Skeeve tries to convince them that the group should go see Noreeno
+quickly. They head to the keep, leaving Beck to sleep.
+
+They return to Noreeno's office. Noreeno introduces himself, and then
+explains the Zone of Truth again. Glamn casts it, and Noreeno begins
+his questions. He gets their names, makes sure they are not working
+for the Lormanites, and gets some background.
+
+Finally he offers them a chance to ask him some questions, under the
+zone of truth.
+
+Eomer asks Noreeno about his position as magistrate. The party has
+sort of sensed that Noreeno's loyalties are a bit out of alignment
+with the Alidians, and he seems to be willing to work against them.
+Noreeno explains that he was appointed magistrate by the Queen when
+the city fell a year ago.
+
+"Queen who?", Thu'fir asks.
+
+Noreeno is surprised, "Queen Alidia. Our leader. Anyway, she appointed
+me to this position when we took over the city. I've run it since
+then. I'm sure you've noticed that I have my own agenda. My loyalties
+lie not with the Alidians or the Lormanites, but elsewhere. I have my
+own goals, which is why I'm asking for the services of outsiders like
+yourselves."
+
+Eomer asks about Endo. Noreeno hasn't heard the name, but when Eomer
+describes a large bald monk with tattoos on his chest Noreeno's eyes
+light up. "So! You know him?"
+
+Noreeno explains that yes, Endo was here. Endo was caught trying to
+sneak around the town. They managed to capture him,but not until he
+managed to kill several guards. He stood his ground so that his
+companion might escape. Noreeno then asks the party who Endo was
+traveling with.
+
+When they explain that they don't know he is very irritated.
+
+He then returns to the subject of the job he has for them. He can't
+discuss the particulars of the job in town, but he admits that the job
+is dangerous, but he wouldn't ask them to do it if he didn't think
+they could pull it off. This job must be done by outsiders. In
+exchange for this job, he offers them six sets of travel papers, a
+membership to the Mage's Guild for Skeeve, and information on where
+they can find Endo.
+
+Eomer asks what Endo was trying to do. Noreen explains that he doesn't
+know. He'd wanted to interrogate Endo himself, but the Alidian
+soldiers took him south directly without giving Noreeno a chance to
+intervene.
+
+They talk a bit more. Eomer and Noreeno make another side deal: If
+Eomer can find out who Endo's companion is, Noreeno will reveal how
+they spot fake travel papers.
+
+Noreeno reveals that he can't describe more about the job while in
+town. He points out Vale Calma on their map, and gives them a location
+where they should meet him, at dawn, in two days.
+
+Eomer asks about the soldiers in masks. Noreeno replies that they are
+the Queen's elite guard. They take orders from her only and he has no
+idea how.
+
+He then asks, "What is the Queen like"?
+
+"She is quite vicious. Everybody who rules over this island has to be
+vicious. Anyone who isn't, won't rule long."
+
+They ask if it this job they have to do is immoral. Noreeno replies,
+"It depends on who you ask. Certainly if you ask people in town they
+will think it is immoral."
+
+Thu'fir asks about horses. Noreeno says they are hard to come by, even
+for him.
+
+They bid each other good day and the party leaves.
+
+Thordek returns to the smith and asks if he could have the armor done
+tomorrow. He drops in an extra 46 gold and the smith promises it by
+tomorrow noon.
+
+As evening approaches, Eomer heads to the north side of town,
+stealthily, to someone who is a member of the Lormanite resistance.
+The place is in a shabby house, around the back, past the pigs, and
+down the steps to the root cellar. A kid in his 20's seems to run the
+place. He is scarred and shifty. He seems to be running a safe-house
+of some sort, where fugitives from the north might hide. Eomer begins
+bribing information out of him.
+
+The kid talks a lot, lies a lot, is distrusting and untrustworthy.
+Nevertheless, Eomer manages to drag a good deal of information from
+him. He learns the following:
+
+* The Monk (presumably Endo, although he never gave his name) was here
+  a few days ago. He was with some skinny kid in his late teens. They
+  hid for a day and headed south.
+* Endo seemed to know all the passwords and locations of resistance
+  members, even though he is a foreigner here, and isn't the sort to
+  get involved in politics or wars like this.
+* The location where they will meet Noreeno is known to have a lot of
+  ruins.
+
+Eomer returns to the Inn. They have a free day to spend in town, and
+then they must head off to Vale Calma to meet with Magistrate Noreeno
+and find out what job he has for them...
