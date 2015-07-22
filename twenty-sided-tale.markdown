@@ -3972,10 +3972,11 @@ They reach the city in late morning. Tal Podere is a medium city, less
 than half the size of Crossway. The buildings are low and made of
 wood. There is very little stonework here in town. Most of the
 buildings are built along a single street, which is wide and filled
-with ruts. (To modern eyes, this town would look vaguely old-west –
-Shamus) It has a wide open area around the well in the center of town.
-The gates are manned by conventional guards; no elite guards are to be
-seen.
+with ruts. It has a wide open area around the well in the center of
+town. The gates are manned by conventional guards; no elite guards are
+to be seen.
+
+> To modern eyes, this town would look vaguely old-west.
 
 They are pulled over at the gate, and their papers are inspected. Once
 everything is settled, the enter the city.
