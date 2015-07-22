@@ -3575,7 +3575,54 @@ Noreeno and persuade him to leave.*
 During this conversation, Skeeve has been studying the sphere. He has
 more bad news for the party. He has discovered what this sphere is.
 
-TODO
+<div class="document">
+**Orb of Mordan**
+
+A 7 lbs. orb of polished stone with many strange runes engraved into
+it. It is a little bigger than a closed human fist. Lawful Good and
+Lawful Evil characters may not use or study this item.
+
+"Grants" -3 HP, +3MP to the owner of this object.
+
+This object is the phylactery for Mordan the Lich King. Normally this
+is the container of the Lich's life force. As long as a lich's
+phylactery reamins intact, they will rise again after being defeated.
+However, this orb seems to have a number of (sometimes conflicting)
+enchantments which suggest it is more than a "normal" phylactery.
+
+The surface of the orb is covered in many arcane runes and symbols.
+They are in draconic, infernal, and celestial. Words and phrases
+intersect in complex ways to form layers of spells and secrets.
+
+The orb seems to drain a bit of life from the owner, resulting in
+-3HP, while at the same time placing them more in tune to the world of
+magic. This results in +3MP while they remain the owner of the object.
+This only applies to users of arcane magic (Wizards, Sorcerers) and
+not clerics.
+
+The runes and spells contain a great deal of knowldege. It must be
+studied to learn more. When examining the orb, it is clear there are
+four categories of study that are possible: Good, Ownership, Knowledge
+Evil.
+
+At the outset, it will take only 1 hour of study to attempt to gain a
+level (and thus earn some knowledge) in a particular area. If you
+succeed, it will take 2 hours of time to attempt again in the same
+area of study. So, the length of time required for each attempt is the
+current level x 1 hour.
+
+To study the orb:
+
+1. First, announce which area you plan to study from the four above.
+2. Roll d20
+3. Add your INT modifier
+4. Add +1 for all of the following languages you know: draconic,
+   infernal, and celestial.
+5. If your roll is high enough, you will learn more about your chosen
+   area.
+
+Each level of study will become more difficult as you progress.
+</div>
 
 This is the phylactery of a Lich named Mordan. It is (for some reason)
 infused with both good and evil magic. The object has an owner. To
