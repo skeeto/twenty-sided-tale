@@ -7146,3 +7146,249 @@ The rest of the party leaves town, taking Garret with them. They
 strike east, heading for the small town of Washport. They arrive
 without incident. There are no roads going East from here, so they pay
 to have the horses stabled and plan to proceed on foot.
+
+## Session 11
+
+The party loads up on supplies and then heads east from the town of
+Washport. The terrain ahead looks uneven and rocky, so they head out
+on foot, leaving their horses behind.
+
+They are looking for the Mages Archives. They are taking young Garret
+Lorman with them. As the last prince of the Lorman line, he's the only
+person who still knows how to find it. The building is obscured by
+unknown magic, and a full search of the barren wastes of the south
+would be difficult and dangerous. Without Garret, they would have no
+hope of finding the place in time to make use of its secrets.
+
+They make decent time, given the nature of the land. By mid-day they
+are clear of the trees and begin to make their way over the tumbling,
+rocky hills. There are scruffy patches of green clinging to what
+little soil can be found amonst the rocks. To the north they can see
+the near-vertical southern face of Khelberg. It is grim and dark.
+
+Evening comes and they make camp. Thordek watches. Thordek sees
+movement in the distance during his watch, but it is too distant to
+see what it is. Something is out there among the moonlit rocks,
+though.
+
+After a few hours Skeeve awakens from a nighmare.
+
+> I had several nightmares written up, which the character experienced
+> as long as hed owned the orb. Whenever Skeeve slept, I'd roll the
+> dice and give Dan (in private) the details of the nightmares, which
+> were used to confuse and misdirect more than enlighten. Sadly, I no
+> longer have the descriptions of any of the nightmares. I do remember
+> one of them was about Eomer sneaking in, murdering Skeeve in his
+> sleep, and taking the Orb for himself.
+>
+> I don't know what nightmare he had at this point in the game, but it
+> served to make the next section a little more unnerving and
+> confusing for him...
+
+He decides to stand watch and lets Thordek sleep. Thordek warns Skeeve
+about the non-specific movement in the distance, and then goes to
+sleep.
+
+Skeeve decides to check it out. He casts fly and glides into the air,
+heading north towards whatever Thordek saw.
+
+> This was a pretty unpopular move at the table. He relived the guy on
+> watch before his turn was over, and then left! They gave him a hard
+> time about it, but Dan followed through anyway.
+
+Skeeve sees a figure walking north, just below him. As he decends, the
+figure vanishes like a mirage. To his right he sees another, also
+walking north. Again, as he draws near it becomes more difficult to
+see. It's like looking at fog. Up close it's invisible, but at a
+distance it can be clearly seen. For a while he doesn't see any more.
+Then he sees many. He chases them around for a while, moving steadily
+north.
+
+Eventually he figures out that the figures can only been seen at a
+distance, and only when they are illuminated by direct moonlight. They
+are ghostly figures, and pay him no heed. They are elven in
+appearance, although their dress is unfamiliar to him and strangely
+rustic. They gather at the crown of a hill and look up towards the
+slopes of Khelberg.
+
+He returns to camp and the night passes. In the morning he tells
+everyone what he saw, and they give him an earful for abandoning his
+post while on watch, and for not waking them up when there was
+potential danger nearby.
+
+They talk for a long time about what Skeeve saw and what it might
+mean.
+
+> Someone eventually figured out (Bogan, I bet, but my notes don't
+> say) that the ghosts were looking up the slope where the mountain
+> elves had been thrown down by the Dwarves. They were in Bohrung Khel
+> Toten – The Chasm of the Dead.
+
+The next day they continue their journey east. On the way they intrude
+on the territory of an Ettin and are obliged to kill it. It is a quick
+fight but the smell gives them something to complain about for a
+while.
+
+To nobody's great surprise, Garret is nearly useless in combat. He
+tries to use martial arts, kicking and flailing his arms in a sad
+imitation of Endo. He mostly ends up just thrashing around and making
+a fool of himself. He's like a kid who has just walked out of his
+first martial art movie and has decided he's Bruce Lee. He spends most
+of the fight on his butt. Eomer instructs him to keep out of the fight
+next time.
+
+The party continues east. Several times throught the trip they see
+Garret scanning the horizon through a spyglass, looking at it through
+the wrong end. They have written Garret off as an idiot by this point,
+so they let it slide without comment. Eventually this gets on Eomer's
+nerves and he tries to show Garret how to use a spyglass.
+
+Garret explains that this is how the Mages Archives can be seen. Up
+close (within a hundred or so paces) it can be plainly seen, but at a
+distance it can only be spotted by looking through the wrong end of a
+spyglass.
+
+Eomer gently relieves him of the Spyglass and begins using it himself.
+
+They locate the Mages Archives. The building is a modest tower – more
+of a "lighthouse" style tower than the classic "wizard" spire. The
+tower is joined to a squat, round building made from the dusty grey
+stones of this region. The building is perched atop a small cliff that
+plunges down into the churning sea below. On the southern side of the
+building are a few stone steps that, if you were to decend them, would
+drop you down the cliff into the ocean.
+
+> I don’t know if anyone thought about this or figured it out, but
+> just so this doesn’t sound like gibberish:
+>
+> The idea is that a hundred years ago this place was still in use.
+> These stone steps led down to a wooden scaffold which held a set of
+> stairs that would take you down to the small docks below. All of the
+> wood has since rotted and fallen into the ocean, leaving only these
+> confusing stone steps as a clue as to how people reached this place.
+>
+> The maps and other descriptions I had of this place seem to have
+> vanished. Alas.
+
+The place is sealed tight, and they must break in. The front door is
+smooth and featureless. They conclude that it must be magical. There
+are no windows. Tall grass and a few slender vines have embraced the
+base of the building. The walls are sound. The place is old, but not
+crumbling.
+
+They walk around the building, looking for clues as to how they might
+enter. Garret has no idea.
+
+Finally Skeeve uses his magic to fly onto the flat roof of this lower
+section. A hatch is here, which appears to lead down into the
+building. The hatch is locked.
+
+Eomer tosses him a rope. Skeeve ties one end to the iron handle of the
+hatch, and throws the rest back down so the others can climb up. Eomer
+and Thu’fir come up, and Eomer picks the lock.
+
+All of this is a bit confusing. It seems like there is a lot of
+security here, all of which can be easily circumvented with a bit of
+rope. What’s the use of having a magical front door if someone can
+enter through a mundane, non-magical hatch in the roof?
+
+> The idea is that this place was build to repel invaders, not
+> thieves. The hatch would give the resident mages a way to quickly
+> get onto the roof and toss fireballs (or whatever) onto any would-be
+> attackers. This place was easy to break into, but would have been
+> very hard to take by force when it was staffed by magic-users.
+
+Eomer slips in through the hatch. As expected, it is quite dark inside
+with no windows. The air is stagnant. This place was well-sealed, and
+perhaps very near airtight. From what little daylight makes it in
+through the hatch, he can see that he is at the top of a rickety
+wooden staircase leading down to floor level. This room is either a
+small library or a large study. Bookshelves line the outer wall.
+Taking a light, he goes down alone and explores the room. He’s careful
+to remain silent, and keep his eyes open for traps. This place was
+made by wizards, and there is no telling what sorts of surprises they
+left for intruders.
+
+In the middle of the room is a statue with a couple of valuables
+(gear) placed upon it. He doesn’t even bother checking for traps –
+this is exactly the sort of thing a wizard would put there to lure a
+thief. He gives the statue a lot of room. He’s not here to rob the
+place.
+
+There are a couple of tables here, but no chairs. Two doors lead to
+other areas. One leads to a kitchen, the other leads to a spiral
+staircase that ascends the tower. He decides to let everyone else in
+before exploring the rest of the building.
+
+There is a small, narrow entryway on the north wall that leads to the
+other side of the smooth front door. He sneaks over, checks for traps,
+and then examines the door itself. It turns out the door is smooth on
+this side as well. Eomer can see no way of opening it. The only clue
+is that there is a fine red pull rope here, which leads up into a hole
+in the ceiling.
+
+Seeing the room is clear of traps, he goes back to the roof and
+signals for everyone else to climb up. He makes sure to tell them to
+keep their hands off the statue.
+
+The rest of the party enters exept for Garret, who lacks the upper
+body strength to climb the rope, and for Endo, who stays with him.
+Everyone else comes in and begins rummaging around carelessly in a way
+that makes the stealthy and cautious Eomer crazy.
+
+Skeeve looks at the front door. He looks at the fancy red rope.
+Pondering this, he figures that if he pulls down on the rope it will
+open the door, and let Garret and Endo in.
+
+> Dan (Skeeve): I’m going to pull the rope.
+>
+> Pat (Eomer): No you’re not.
+>
+> Dan: No, I’m tired of this sneaking around. It’s obvious this rope
+> opens the door.
+>
+> Pat (Eomer): Don’t!
+>
+> Dan: What’s the worst that can happen? I pull the rope.
+
+Skeeve pulls the rope. The door does not move, but from the tower
+above they can hear the booming sound of a large bell ringing.
+
+They brace themselves for a some sort of danger or trap, but after a
+few seconds the ringing dies down and the place is quiet again.
+
+Enoch ascends the spiral stairs. At the top is another hatch (easily
+unlocked from the inside) which leads to a modest watch-room. There
+are tall, narrow windows looking out in every direction. There is a
+rotting desk here, and the frame of a rotting bed. This room was not
+sealed, and the furniture has obviously decayed in the years this
+place has stood empty.
+
+Also here is a black, cast-iron bell about the size of a large bowl.
+It hangs from a rope, which Enoch guesses leads down to the front
+door. There is another rope nearby. After some experimenting they
+figure out that this second rope is the one that opens the front door.
+He uses it and lets Endo and Garret inside.
+
+> Again, this odd setup was in place for thwarting attacks, not
+> robbers. This place was not designed to defend itelf while empty. If
+> someone knocked on the door and identified themselves, then the door
+> guard would pull the rope, which would ring the bell and let the guy
+> in the tower know it was okay to open the door.
+>
+> The thinking here is that the tower-guy would have also seen the
+> visitors. If the visitors use some sort of magic to charm the door
+> guard, but neglect to do so for the unseen fellow in the tower, then
+> they will be thwarted, since they guy at the door doesn’t have the
+> power to open it.
+
+Back in the library, the rest of the party is still exploring. The
+books are still on the shelves, but otherwise the place is devoid of
+furniture. The kitchen has a stove and a table, but otherwise the
+place is empty. The kitchen also leads to what they assume is the
+sleeping room. That room is bare. This place was obviously stripped
+clean before it was abandoned, and it has has remained sealed and
+unspoiled since then.
+
+It is getting dark. They prepare a modest meal sleep on the bare
+floor.
