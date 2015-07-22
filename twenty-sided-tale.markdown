@@ -537,35 +537,39 @@ disappearing into the depths of the inn.
 Moments later the others join Endo in the lobby. Eomer has been given
 the following letter:
 
-    Eomer son of Claudius,
+<div class="document">
+Eomer son of Claudius,
 
-    We hope you have enjoyed your travels, but the council bids you to
-    come home and lend aid to our country. We are beset and in need of the
-    skills of you and your companions. Troubles have come to our land and
-    we ask that you would remember your obligation to your family and
-    homeland. Please make haste to the Keep in Bayhaven and we will reveal
-    what it is you must do.
+We hope you have enjoyed your travels, but the council bids you to
+come home and lend aid to our country. We are beset and in need of the
+skills of you and your companions. Troubles have come to our land and
+we ask that you would remember your obligation to your family and
+homeland. Please make haste to the Keep in Bayhaven and we will reveal
+what it is you must do.
 
-    With Hope,
+With Hope,
 
-    The Council of Grey Moor
+The Council of Grey Moor
+</div>
 
 Enoch also speaks up, saying that he received a letter from Sagemaster:
 
-    To Enoch, Servant of Pelor,
+<div class="document">
+To Enoch, Servant of Pelor,
 
-    Trusted friend, word may reach your ears of the troubles in Grey Moor.
-    The Council of Bayhaven has sent word to many allies in search of aid,
-    and I expect they will contact you as well. I request that you and
-    your friends come see me in Talosport before visiting the counsil. I
-    realize this will be an inconvenience to you, and I do not make such a
-    request lightly. I do promise that what you hear will be to your
-    advantage. I do not wish to hinder you from acting on events as you
-    choose, but I would like to advise you before you get involved.
+Trusted friend, word may reach your ears of the troubles in Grey Moor.
+The Council of Bayhaven has sent word to many allies in search of aid,
+and I expect they will contact you as well. I request that you and
+your friends come see me in Talosport before visiting the counsil. I
+realize this will be an inconvenience to you, and I do not make such a
+request lightly. I do promise that what you hear will be to your
+advantage. I do not wish to hinder you from acting on events as you
+choose, but I would like to advise you before you get involved.
 
-    Faithfully,
+Faithfully,
 
-    Sagemaster Teerin Forwinol
+Sagemaster Teerin Forwinol
+</div>
 
 > Grey Moor was the site of their first campaign. They actually set up
 > the Council of Grey Moor in the wake of the campaign. Sagemaster

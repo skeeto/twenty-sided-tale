@@ -68,6 +68,16 @@ pre {
     font-size: 90%;
 }
 
+.document {
+    margin: 0 2em 1em 2em;
+    font-style: italic;
+    text-align: left;
+}
+
+.document p {
+    margin-bottom: 1em;
+}
+
 ul, ol {
     margin-bottom: 1em;
 }
