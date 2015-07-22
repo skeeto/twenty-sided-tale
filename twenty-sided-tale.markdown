@@ -511,7 +511,7 @@ I became the DM again, keeping Endo as an NPC that travelled with the
 party. The party sailed for Mar Talos, but got shipwrecked on Mar
 Tesaro, which our third campaign is now taking place.
 
-## Session 1, Part 1
+## Session 1
 
 ### 22nd of Suncrest, 1501dy
 
@@ -631,8 +631,6 @@ the furious smith standing at the docks glaring.
 > agreed on this little scene beforehand. What makes it funny was that
 > earlier (back at the inn), Eomer had told Lucian, Eric's OLD
 > character, to stay away from her.
-
-## Session 1, Part 2
 
 As soon as all are settled the ship sets sail. Eventually they make
 their way to the mess deck. An unshaven sailor wanders over to their
@@ -818,8 +816,6 @@ sign of an eye with a thorn through it.
 
 Fort Bolland has been defeated.
 
-## Session 1, Part 3
-
 The captain concludes the south has conquered the town. Their only
 hope is to sail around the north end of the island and head for the
 city of Breakshore. If the city still stands they may buy the weapons
@@ -911,8 +907,6 @@ called. He grants healing to the injured man, while everyone else goes
 about the tricky job of gathering up the swords as they slide back and
 fourth on the rocking deck. The cargo unloading operation is delayed
 as all of this happens.
-
-## Session 1, Part 4
 
 Above deck there is a horrific crack as the mainsail rips free,
 unfurls and catches the wind. The loose ropes whip about violently in
@@ -1095,8 +1089,6 @@ it burns itself out on the soaked vegitation and leaves a smouldering
 hole in the woods. The smell of burning skin and hair surrounds them.
 The party scavenges for usable items amongst the dead.
 
-## Session 1, Part 5
-
 Beck points out that these soldiers were without supplies, so
 therefore they must have had a base or camp nearby. Eomer changes into
 the guard's uniform he scavenged from the least damaged soldier,
@@ -1218,7 +1210,7 @@ along well with other races.
 Mar Talos has benefitted over the last 100 years with him as the
 leader. The island is strong, prosperous and secure.
 
-## Session 2, Part 1
+## Session 2
 
 ### 2nd of Last Summer, 1501dy (late morning)
 
@@ -1352,8 +1344,6 @@ Thron once he completes the task.
 > history, and lore without reading it to the group myself. I just
 > hand out this text (which is printed in a nice faux-medeval style of
 > caligraphy) and they players can read it at their leisure.
-
-### Session 2, Part 2
 
 While Enoch translates the text at the library, the Eomer and Thu'fir
 gather at the blacksmith's shop. Upon learning that the party had lost
@@ -1539,8 +1529,6 @@ They take enough backpacks, blankets and waterskins to supply the
 party. They take enough food to supply themselves for two days, and
 they take the horn. They leave everything else hidden in the bushes.
 
-## Session 2, Part 3
-
 The party sneaks back into town, on the way seeing a number of
 soldiers leaving, heading back towards the house. They are rolling a
 large barrel. They crouch down and consider taking these guys out.
@@ -1600,8 +1588,6 @@ way, over Tinderward. They sleep.
 
 At dawn they set out. Beck awakens but doesn't seem to be too hung
 over. He doesn't say anything about the night before.
-
-## Session 2, Part 4
 
 They move south, passing several small farms and into the open
 grasslands. Eomer leads them at a strenuous pace. As the day wears on,
@@ -1705,8 +1691,6 @@ The party relents and checks into the inn.
 >
 > I need a better way to give them a sense of fatigue. These guys are
 > heroes, not gods.
-
-## Session 2, Part 5
 
 ### 4th of Last Summer, 1501dy
 
