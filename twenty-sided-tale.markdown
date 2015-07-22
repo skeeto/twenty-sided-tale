@@ -8226,3 +8226,304 @@ everyone involved.
 
 Beck decides to sail with Sagemaster, who will be stopping at Grey
 Moor on his way home. He is at last going to get home and marry Talla.
+
+## End of the Tale
+
+I want to say that I'm very happy to see the D&D campaign record
+completed. Recording the campaign was the original purpose of this
+blog. If you look at the URL you'll see this site was originally
+called Twenty-Sided Tale. Before DM of the Rings, before the stuff on
+videogames, before all the stuff about geek culture, the intent of
+this site from the start was to record the events of the campaign as
+it unfolded.
+
+![Here you can see the path they followed from the start of the
+ campaign. Arrows are colored according to session
+ number.](images/map_campaign_path.jpg)
+
+That campaign was begun in September of 2005, and ran for fifteen
+weekly sessions. (With the occasional week off for holidays and such.)
+The whole thing lasted about five months. So, the game ended about a
+year ago. I haven't rolled the dice since, which is kind of sad.
+
+I'll probably do one more post where I detail the various alternate
+solutions to some of the puzzles and challenges the players faced, and
+talk about some of the stuff they missed. If you have any other
+questions, please drop them in the comments below and I'll cover them
+in the wrap-up post.
+
+Thanks again for reading.
+
+## Missed Adventures
+
+This is all the stuff that got left out.
+
+### Upper Bolwood
+
+When I do wilderness travel, I sort of make it a branching maze. For
+example: "You are in a broad clearing. From here you can go east into
+the valley or you can ascend the large hill to the southwest. You
+could also turn around and return to the pine grove to the north,
+which you just left." The players understand that I'm presenting them
+with choices that are likely, given the terrain. Sure, they could
+choose some unlikely course of action, like going halfway up a hill
+and then walking around, but this will be slower, pointless, and they
+will just end up at a recycled version of one of my established
+locations anyway. This gives them a bit of freedom, and makes
+wilderness seem less arbitrary. Some ways are faster, some can be very
+slow (like a valley which gets thick with vegitation once they enter)
+and some can have encounters.
+
+Upper Bolwood was one such maze, with Ettins at a few of the map
+points. I'd googled around and had pictures for every map point. They
+managed to route around all of this.
+
+### Goblin Hills
+
+The weather hills were infested with Goblins, who loved to build traps
+and ambushes. They were another wilderness maze, although almost every
+point had some pit or trap which would require some reflex save for
+the poor slob out in front. Once the trap was sprung, (assuming it
+took someone down, knocked them over, or otherwise worked) then
+Goblins would emerge from the underbrush and attack. The Goblin camp
+was also in the hills, although it was a little hard to find. If the
+players stumbled on it or tracked it down they could clean the place
+out for a little payback.
+
+I thought I'd devised the map so that they would have to journey
+through Upper Bolwood OR the Goblin territory, forgetting that with
+Enoch's help they could walk on water. They skipped Upper Bolwood,
+then crossed the river and dodged the Weather Hills.
+
+### Carrow Valley Curse
+
+West of Crossway is the Carrow Valley. Early in the island's history a
+battle was fought here between the Lormanites and one of the other
+factions. The battle was long and more or less a mutual slaughter,
+with both sides taking such massive losses that nobody could really
+claim victory. There weren't enough people left to even begin the task
+of burying the dead, who were left to rot. At some point later folks
+came along and errected standing stones as a sort of halfhearted
+memorial / mass tombstone. The valley is quite cursed by now.
+
+If they had entered the valley they would have gotten trapped in the
+curse, and would have needed to kill some sort of lesser spirit or
+ghost to break the curse so that they could leave. I didn't fill in
+the details of this adventure, since by session 2 it was obvious they
+were not going to be coming this way, and they were not in the mood to
+explore.
+
+### The Gibbet
+
+In my original plans, the road into Fol Thron was lined with gibbets
+like the one you see on the right. The men in the gibbets were
+Lormanite officers. They were once strong, cruel leaders who had been
+captured in the war and were now withering in their cages. These
+really were bad guys, although there was no way for the players to
+tell at this point. They were dressed in rags and many were dead. As
+the players approached the city for the first time, I had planned to
+have one of the men beg to be released. Right over his cage was a
+warning not to take pity on these men, without further detail. The guy
+in the cage wasn't about to explain the slaughter and torture he'd
+brought to the war, or the zeal with which he pursued it. He was going
+to play the victim.
+
+The players would be faced with this pitiful guy, who was asking for
+help.
+
+If they freed him, the queen would know. If they were stupid and
+obvious about it (like if they tried to take gibbet-boy into town with
+them without cleaning him up and giving him clothes first) then the
+guards would catch them and question them, and they would have wound
+up in front of the queen that much sooner. If they got away with it,
+the queen would still know, and when they met with her she would bring
+it up. In any case she would simply point out what an awful guy he
+was, and list some of his more horrid crimes. Crimes bad enough that
+the players would probably really regret freeing him.
+
+It was a good chance to demonstrate that the "good guys" in this war
+were only just a little better than the bad guys. The queen would have
+waived their punishment in any case, in exchange for them hearing her
+out on the quest to kill Noreeno. So, the quest was harmless either
+way. I would have given an XP bonus if they had wrung the truth out of
+the guy in the cage (maybe by using Zone of Truth) and then acted (or
+not acted) once they knew the whole story. Really, the true goal of
+the "quest" was to avoid being duped.
+
+Why did I skip this quest? Sigh. I forgot. The gibbet notes were in
+with the wilderness travel notes, and not with the notes on the city
+itself. So, I didn't describe the cages on the way in. Dang. The Mines
+
+As I mentioned in session 10, the mines had a maze and some grave
+walkers to fight, but they routed around it.
+
+### Prison Break
+
+In my original plans, they were going to have to bust Garret out of
+prison if they wanted to free him. (Or sneak into jail and get the
+info they needed.) But by the time they got to Telwin Port I felt like
+they were getting restless, so I made it possible to just bail him out
+for a few gold.
+
+### Dwarven War
+
+I'd planned for the Dwarves to arrive after Mordan was defeated. They
+were originally going to land in Warfield (just north of Fol Thron)
+and attack the capital from there. This didn't make a lot of sense.
+(Why would they land on the opposite side of the river, so that they
+would have to go all the way to the bridge?)
+
+The players would have enough knowledge at this point that their help
+could swing the war either way if they decided to take sides. They
+could give the Dwarves a nice map of the city defenses, or reveal to
+the Queen the Dwarven food shortage. Doing one or the other could tip
+the battle whichever way they wanted, but the real solution was to
+free Fiore so people would stop fighting over this $#@ing mountain.
+
+I thought they would defeat Mordan, and then worry about lifting the
+curse of Fiore, which was the real cause of all of these wars.
+
+I changed things around because I thought it was time to start
+wrapping up the campaign. Then they managed to free Fiore before the
+Dwarves even arrived.
+
+The more I think about it, the more I like the ending we got.
+
+## Unanswered Questions
+
+Here is my third and final wrap-up post on the D&D campaign. Hopefully
+this will answer the last remaining questions anyone might have.
+
+**What would have happened if they didn't free Mordan?**
+
+This is a question all of the players and a few readers asked. The
+short answer: not much.
+
+This whole campaign was a gamble that hinged on them being tricked
+into freeing Mordan. If they had skipped Crossway, travel on the roads
+would have been impossible. They would have met a large group of
+solders (so many that they wouldn't think about fighting) and would
+have been arrested and dragged back to Crossway, where Noreeno would
+make them a deal in exchange for their freedom.
+
+But if they had traveled in the wilderness, they could have eventually
+reached Telwin Port. Assuming they were willing to leave Endo behind,
+they could have escaped the campaign altogether.
+
+If they went south, but continued to look for Endo, they might have
+gotten arrested or met trouble elsewhere. In order to save the
+campaign, I could have used some yet-unwritten NPC (maybe some other
+survivors from the ship) to free Mordan, and then had the Queen try to
+enlist their help. This would have been far, far less interesting. The
+real hook of the campaign was that they released Mordan, and although
+it could have played out a lot of different ways, the choces they made
+in the end were the best, story-wise.
+
+**How much were they "on rails"?**
+
+I am guilty of passive railroading. I know the guys I game with, and
+in many cases I can say "If I put them in situation X I know they will
+do Y." Once in a while I'm wrong, but very often I can predict how
+they will react to a situation before I introduce it. The freeing of
+Mordan was one such case.
+
+I knew they probably wouldn't abandon Endo. (But just to be clear:
+Endo is my character when I'm not the DM, and I was fully prepared to
+lose him if they didn't. I would never have forced them to rescue
+him.) Once they recued him he gave them the quest hook of looking for
+the prince, and I suspected they would bite. It took them a while, but
+they did. I gave them the book of Norvus, knowing Enoch would
+translate the sucker.
+
+So I'm a little guilty of "steering" them by putting situations in
+front of them that will turn them the way I want them to go. The first
+four sessions had a lot of steering in them.
+
+This isn't railroading in the sense of telling players "You can't do
+that", but putting them into situations where there are only one or
+two reasonable choices could still be considered a form of subtle
+railroading. I leave it for the reader to decide.
+
+I certainly never would have told them, "You can't do that, I don't
+allow."
+
+**Isn't his name supposed to be Eomeir?**
+
+Yeah. Once I got into the habit of spelling it wrong it was hard to
+stop. My bad.
+
+**Any plans for another campaign?**
+
+Well, I don't have a group right now. Even if I did, I'm not sure I
+would try this again. It was too hard to prepare for the next game and
+log the last one. I certainly couldn't pull it off while putting out
+DM of the Rings.
+
+One solution might be to record all of the sessions and transcribe
+them once the game ends. Actually, that is probably the only way to do
+it. I could even edit out the useless stuff and turn it into one of
+those podcast thingies, which wouldn't have the DM notes but wouldn't
+require a lot of work, either.
+
+In any case, next time I play I plan to take better care of the audio
+recordings. I can't believe I lost them.
+
+Still, step 1 is getting the band back together.
+
+**Do you ever "cheat" by faking dice rolls to help or hinder the players?**
+
+I don't roll the dice, get a 1, but then just pretend I got a 15.
+Still, there are all sorts of ways the DM can nudge things without
+faking dice rolls. If someone is on a narrow ledge on a cliff-side and
+they fail a climbing roll (or whatever) I won't just let them fall to
+their death. I'll give them a (reflex) saving throw to see if they can
+grab the ledge. Missed? Then I'll give the guy behind him a similar
+roll to see if he can catch him. Missed again? I'll give him one last
+throw to see if he can grab that sticking-out branch on the way down,
+Wile E. Coyote style.
+
+If they miss that then I'll let it happen, but it's obvious that the
+DM can do all sorts of stuff without needing to pretend the dice
+rolled something they didn't.
+
+Another way to tweak things is to change the enemy strategy so that it
+sucks.
+
+In Session 3, when the players faced Vormoth the Wizard, he had a
+lightning spell available. They went into that fight low on hitpoints,
+low on magic, low on healing, with no coherant plan, and then fought
+like a bunch of numbskulls. They made so much noise that the enemy
+knew they were coming and when. I'd planned on blasting them with a
+little lightning, but I realized that I could very easily kill one or
+two of them that way, which could end up in a TPK.
+
+So I had Vormoth stick to his lower-level spells. I justified this by
+saying (to myself) "Vormoth wouldn't want to risk hitting the kids."
+That was true, but more important is the fact that I had planned to
+blast them with lighning and didn't.
+
+This was my most "cheating" moment in the campaign, and I regret it.
+On one hand, I didn't want to kill off a couple of characters. At the
+same time, they really did deserve to lose that fight. It's part of
+the game.
+
+I'm not going to do that again. If I find myself with a bunch of
+players who make bad decisions, I'll let things happen as they do.
+Better to lose a level 4 character and teach the importance of
+strategy early, than to teach the players they are invulnerable and
+let them do something even more stupid in the future that causes them
+to die at level 8.
+
+Actually, now that I've written this I think I've made a good case for
+faking dice rolls. If I had to cheat, it would have been better to let
+Vormoth bust out his lighning but then make sure his damage roll was
+low enough that it wouldn't kill the target. That would have been a
+better choice than what I did. It would have driven home the point to
+the players, "this could have killed you".
+
+This subject almost needs a post of its own. The object of the game is
+to have fun. The players won't have fun today if they all die. But
+they also won't have fun ever if their actions don't have
+consequences. To paraphrase a friend: When it comes to RPG's, it's
+better to live a short and exciting life than a long dull one. In
+fact, that's the whole point.
