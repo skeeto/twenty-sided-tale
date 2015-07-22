@@ -6165,3 +6165,689 @@ smouldering under his forgotten teakettle.
 
 At last Norvus nods, as if coming to a decision, "I guess I'd better
 pack."
+
+## Session 9
+
+### 19th of Last Summer (Afternoon)
+
+They stand outside of the gates of the Citadel. They are in the
+central square, which is ringed with shops, city buildings, and
+various meeting places. Numerous inhabitants of the city hurry past
+them. The afternoon sun washes over them as they look up at the dark,
+towering spires of the Citadel. A detachment of guards stands before
+the gate.
+
+This is no small thing they are about to do. From what they have
+gathered, the Queen rarely has visitors. She lives a reclusive life
+inside the lightless Citadel, commanding her minions through unknown
+(probably magical) means. Now she has agreed to meet with them. All
+five of them. Eomer, Skeeve, Thordek, Enoch and Thu'fir stand together
+and discuss the coming meeting.
+
+None of them knows what to expect. She rules this land ruthlessly, and
+has just prosecuted a particularly bloody war against the inhabitants
+to the north. They have seen the sorts of malice and cruelty of which
+she is capable. Already one of her generals has tried to kill them.
+Was he working for her? For someone else? Why would she summon them to
+the Citadel? Does she know about Mordan? Is she bringing them here for
+revenge? To take the orb? To extract information?
+
+At length Eomer points out that they should all go in armed. If they
+are not allowed to take their weapons in with them, then they should
+leave. Some agree. Others disagree. Skeeve points out that her power
+is such that their weapons offer them no real comfort: She could kill
+them all easily, armed or not. A debate ensues.
+
+> I'm not kidding when I say there was a debate. They discussed this
+> for nearly half an hour.
+
+They present themselves to the commander at the gates and identify
+themselves. He blows a horn and the massive wooden gate is pulled up,
+opening the way to the stone bridge that connects the Citadel with the
+rest of the city. They cross, and are met on the opposite side by the
+Gatemaster.
+
+The Gatemaster is a large man. His long dark hair, streaked with grey,
+is pulled back into a thick ponytail. Beefy arms extend from the
+embossed plate mail covering his chest, like the limbs of a mighty
+tree. His beard is well-trimmed, and his face bears the lines of many
+grim years. With a deep, authoritive voice, he introduces himself as
+Gatemaster Fulan. The doors stand open behind him, and he beckons the
+party to enter.
+
+They find themselves is a massive circular hall. The ceiling is
+obscured in darkness far above. The floor is smooth, polished marble.
+In the center of the room is a single black pedestal. It holds nothing
+but a thin layer of dust. There are several closed iron doorways that
+presumably lead to other aeras of the Citadel.
+
+The group gathers before Gatemaster Fulan. He unfolds several papers.
+He takes their names, and checks each of them off of his list as they
+introduce themselves.
+
+Finally he begins, "Welcome gentlemen. I assume you are aware of just
+how rare it is that visitors – particularly foreigners – are given an
+audience with Queen Alidia."
+
+They nod. Of couse they realize this.
+
+"And so I need to give you a bit of a warning. Don't speak rashly.
+Speak truthfully. Respectfully. If you kindle her anger, likely as not
+she'll just kill you. If anyone dies, you'll be able to recover the
+body in the lower morgue, back near the servant's entrance. You'll
+have three days to recover the body of your comapnions for burial, if
+you like. If you havn't come 'round to collect them by the end of
+three days, the staff will dispose of it as suits them. That usually
+means incineration. Now, just mind your manners and I doubt we'll have
+any problems along these lines. The only other thing is that you'd
+probably ought not bring up her..." He points to his eyes significantly,
+indicating the Queen's blindness.
+
+Skeeve nods, "Right. We won't mention that. Will we be allowed
+lights?"
+
+Fulan nods, "A light will be provided for you. I'd caution you against
+lighting your own. The Queen is blind but can still see, if you take
+my meaning. And she would probably take offense if you lit the place
+up. However, like I said, a light will be provided for you. I'm sure
+you appreciate how unusual this is."
+
+He glances down at his paper before he continues, "Now each of you
+will enter as your names are called."
+
+Thu'fir is surprised at this, "Wait. We're not all going in at once?"
+
+"No, you will go in as called."
+
+They are all shocked by this. They just spent a long time deciding
+what they would do if they were obliged to leave their weapons behind.
+Now they find they are free to take their weapons, but that they are
+not going in together.
+
+They argue on this point, but Fulan seems to have little choice. They
+may either accept these terms, or leave.
+
+### 19th of Last Summer (Afternoon)
+
+They stand in the open hallway for some time. The Citadel is silent.
+The only sounds come from the open market outside.
+
+At last, a young woman with a dark veil over her eyes enters the room
+and rings a small handbell. "Eomer and Thu'fir", she announces.
+
+Eomer and Thu'fir step forward. A heavy iron door opens on its own,
+and they enter.
+
+They proceed through through a large black door at the far side of the
+room. There is no handle, only a single silver eye afixed in the
+center of the door. The door opens silently as they approach, reveling
+absolute darkness beyond.
+
+Once through, the door closes behind them. For a while they are in
+absolute darkness. At length, their eyes adjust and are able to make
+out a dim red light in the distance.
+
+Their footsteps echo off the smooth marble floor. Despite it being
+late summer, it is quite cold here. Perhaps if there was enough light
+they could even see their own breath.
+
+As the two men draw near the source of the light, they can see it
+comes from a very tall, narrow door ahead. The door is about two feet
+wide, and perhaps twenty feet tall. Beyond, there is a massive
+chamber.
+
+Inside the room there is a great throne carved from pure marble.
+Before the throne is the Queen herself. She is robed, and wears a
+black mask that covers her eyes. Like the helmets of her soldiers, it
+bears the symbol of a single pierced eye in the center.
+
+The room is bathed in steady red light, which comes from a point just
+above the queen. It is difficult to see the source of this light; it
+stings the eyes when looked at directly.
+
+![](images/queen.jpg)
+
+"Welcome", her voice is otherworldly. It seems to come from the walls,
+echoing throughout the massive throne room. "Welcome, liberators of
+Mordan."
+
+There is a long pause. She seems to be waiting for them to reply.
+Thu'fir nods repectfully, "A pleasure, majesty."
+
+Eomer does not reply.
+
+Her voice rises once again, "Gentlemen, I have a task for you. Mordan
+gathers power to the north. His power is diminished since last he
+walked the earth. If it were not so, we would be under siege by now."
+
+"Through my many spies I can see he is sending a servant to parlay
+with me who, even now, is riding south to this city. He will bring
+demands from the Dark Lord. I do not wish to hear them. It is
+forbidden to strike at one who comes as an emissary. All but the dark
+lord himself honor such etiquette. I will not move against him myself.
+However, you can. You do not serve me and are not under my rule."
+
+She pauses. Eomer and Thu'fir are both confused by this, but do not
+reply.
+
+She continues, "I suggest that you ride north at once and slay him
+before he reaches the city in two days. He travels in a group of eight
+soldiers. Do not underestimate him. He is a deadly sorcerer. Strike at
+him while he sleeps if you intend to live. Once defeated, take any
+rings or small jewelry he wears and bury them at once. Do not take any
+of his jewelery, unless you mean to reveal to Mordan what you have
+done. Anything else you find you may keep or leave as you wish. Beware
+of Mordan. His power is growing. His grave walkers are abroad, hiding,
+throught my lands. They are becoming stronger. "
+
+Thu'fir asks, "This emmisary... is it Noreeno?"
+
+The Queen seems to approve. "You are very wise. It is your old
+employer, and my former servant, the traitorous Noreeno. He failed his
+master when he did not have the wit to take the orb from you. He
+reward is that he must now ride south and act as the mouthpiece for
+his master."
+
+Thu'fir dares another question, "I expect you know about the general?"
+
+She nods. The word "Yes" fills the chamber. "I was also aware that
+Noreeno was not loyal to me as well, but I never guessed that he was a
+Child of the Citadel. Even the Mighty Lucan Forwinol believed them to
+be extinct at the end of the dark war against Mordan. Both Lucan and I
+thought their kind were extinct. Now we learn that it is not so. They
+have lived among us, in secret, all these long years. They have passed
+their corruption on through the generations. How they have done this
+for so long while escaping my notice is unknown to me.
+
+"So I believed Noreeno was one of many fools I allow to serve me, full
+of schemes and foolishness, but useful at times. If I had even
+suspected that he was a servant of Mordan I would have slain him at
+once. The general was of the same kind: another Child of the Citadel."
+
+Finally Eomer speaks up, "How were they able to hide from you?"
+
+Her reply comes, "This is a question I have asked myself many times
+since Mordan arose. Do not mistake my blindness. I see everything. All
+that happens within my land is known to me. I saw your ship flee Fort
+Bolland. I saw you fleeing south over Tinderward. I saw Noreeno hiding
+war supplies for himself, moving men around, gathering power to
+himself. I intended to displace him well before he had the might to
+attempt to overthrow me. But now I see much has been hidden from me.
+The children have made themselves part of my kingdom, as my servants,
+my generals and magistrates."
+
+Eomer offers, "Noreeno had a faithful cleric with him."
+
+"Yes this one is known to me as well."
+
+Eomer asks, "Majesty, if I may: Why would Mordan send a messenger at
+all? And why would he send this traitor?"
+
+"He means to taunt me, by flaunting this traitor in front of me.
+Believing that I will not move against one who comes to parlay, that I
+would not dare kill an emmisary. Mordan remembers me from long ago,
+but my nature has changed since last we faced one another."
+
+Eomer smiles, "Well, I kinda already promised to kill him a while
+ago."
+
+She nods. Perhaps she already knew this?
+
+Thu'fir asks, "Now, do you want just Eomer and I to do this or..."
+
+"I would suggest you take such friends as you have. Noreeno will not
+be easy prey. He may dress and speak like a bureaucrat, but he wields
+a deadly magic that you should fear."
+
+Eomer again, "So you know who Endo is?"
+
+"Is that your companion's name?"
+
+"He served you at one point", Eomer points out.
+
+"Yes. And you snatched him away. That doesn't happen very often. But I
+never learned his name. His mind was too strong to penetrate. His will
+is great, and I could never learn anything of use from him, even when
+he wore the helmet."
+
+"I have a request", Eomer adds, "I wish for Beck and Endo to be
+allowed to leave the island."
+
+"What you ask is not mine to give." She explains, "Yesternight one of
+my ships arrived in Telwin port... burning. He has done this in the
+past, during our last struggle against him. Foul black birds will fly
+out from land and cover the ship from stem to stern. They sit on the
+railings, the yardarm, the mast, on every rope and on every place a
+bird might perch. They cry out with terrible shrieking voices, driving
+the sailors mad with their noise. When at last a bird is killed, the
+feathers scatter and burst into flames. Other birds are set alight,
+and the ship is consumed in the flames. Expect Mordan to block your
+escape from the island. He is able to block my powers. I can no longer
+see my lands to the north. Everything from Crossway to Fort Bolwood is
+dark to me. "
+
+Eomer is getting bold by now, and decides to question her. He does so
+very politely, "Your majesty, I do not mean to question your motives,
+but I am curious as to why you have asked us to come in small groups
+like this instead of allowing all of us to enter..."
+
+She holds up a single silencing hand, "It has been over a century
+since I had more than two visitors. In this very room, long ago, I had
+three visitors, who I believed to be friends. And I have never seen
+the sun since that day."
+
+Eomer and Thu'fir sense that this might not be the safest topic of
+conversation, so Eomer changes the subject, "We read a book. It was
+written by a man named Norvus."
+
+"Yes. The Exile."
+
+Well, the book mentions a place called the Mage's Archives. We were
+hoping to learn where that is.
+
+> Out of character, Pat (Eomer) suggested that perhaps these Children
+> of the Cathedral (this secret society of Mordan-worshipers or
+> whatever they are) are hiding at the Mage's Archives.
+
+"I was hoping to wrest those secrets from King Dravis Lorman when we
+took fort Bolland. At the time, then-Commander Noreeno said that
+Dravis had fought to the death, which surprised me. Now I wonder if
+Dravis didn't surrender as I expected, but was slain anyway by
+Noreeno."
+
+Their curiosity thus quenched, the Queen concludes the meeting with
+Thu'fir and Eomer. They bow and are led out by another of the Queen's
+veiled servants.
+
+### 19th of Last Summer (Afternoon)
+
+Eomer and Thu'fir arrive back at the entry hall where the others are
+waiting. Once their eyes adjust to normal light they begin to relay
+the details of their meeting with the Queen.
+
+While they are still talking, another servant comes out and rings her
+bell. She speaks a single name, "Thordek Earthguard."
+
+Thordek follows the same path of darkness that Eomer and Thu'fir
+traveled. His keen Dwarven eyes allow him to navigate more easily than
+they did in the darkness. At last he arrives alone at the throne room
+of Queen Allidia.
+
+As a gesture of respect, he places his hammer on the ground, and
+speaks with her empty-handed.
+
+Her voice echoes from the walls, "Welcome, son of the earth. You are
+the first Dwarf to be allowed within my halls since before you were
+born. Like all Dwarves, it seems you bring trouble with you. So now,
+shall we be friends or enemies? I have but one question for you.
+Answer in truth and we will be allies. Answer in deciet and become my
+enemy."
+
+She pauses, giving her question the proper weight, "I know the ways of
+Dwarves. They will never rest while Khelberg is ruled by others. It
+has been many ill years since they last attempted to take the mountain
+from me. Here now, what whisperings have you heard? Are the Dwarves
+planning to invade me once more?"
+
+Thordek is quiet for a long time, considering her question. At last he
+replies, "I have gathered many rumors from my bretheren in this land.
+It seems they did indeed have a plan to invade, but have forsaken it.
+The agents here have waited in vain for an order that never came."
+
+> When I did these meetings between the Queen and some of the
+> characters, I asked everyone else to leave the room. (I think they
+> were in the living room playing Mario Kart) This means it was just
+> me, the players (in this case just Joe) and Heather. This changes
+> the feel of interactions a lot.
+>
+> The interesting thing here is that Thordek the Dwarf would betray
+> the trust of his brethren to an opressive Elven Queen.
+>
+> Some DM's might protest when players do stuff like this, but I have
+> no problem with it as long as the player feels they are being
+> internally consistant. Joe thought about this answer for a while,
+> and chose it carefully.
+>
+> Now he has to wonder what the consequences (if any) will be...
+
+She replies, "I will remember the words you have spoken to me today.
+Leave me."
+
+Thordek is startled by this. She turns away, moving away from the red
+light that illuminates her and into the darkness. He looks around in
+confusion for a moment. Is that it?
+
+When it is clear she has no more words for him, he takes his hammer
+and leaves.
+
+### 19th of Last Summer (Late afternoon)
+
+Back in the main hall, the other members of the party are surprised to
+see Thodek return so soon. In fact, Eomer has not yet finished giving
+an account of his meeting with the Queen when Thordek arrives.
+
+Thu'fir has left the Citadel on an errand. Upon hearing that they
+should bury Noreeno's jewelery, he remembered the ring they recovered
+from General Tarvis. He suspects this ring is exactly the sort of
+thing she was talking about, and he has hurried off to find a suitable
+place to bury it.
+
+Before the others can Question Thordek about his short interview, a
+bell rings and a female voice announces, "Enoch and Skeeve."
+
+The iron door opens, and Enoch and Skeeve enter the darkness. They
+seek the red light, just as their companions did. At last they find
+themselves before the throne of Queen Allidia.
+
+She greets them, "Welcome Skeeve, keeper of the orb. And Enoch: My
+castle is ever dark and I hate the light. It is a strange day indeed
+when I invite a servant of the sun into my home."
+
+They bow respectfully, but say nothing.
+
+She continues, "I have no doubt you have both noticed that Mordan is
+seeking the orb. The fight you had with my traitorous general should
+be enough of a warning: Many will come forward to claim the orb. Some
+will serve Mordan. Some will serve themselves. The fact that both my
+own general and Magistrate Noreeno are allied with Mordan has shown me
+that the Children of the Citadel are not extinct, as we all thought
+they were. They have hidden among us, all these long years, waiting
+for the chance to free their master. Watch for them. You must not give
+the orb to anyone. Not to a trusted friend. Not to any who claim to
+serve me or act in my name. Not even for a moment. Guard it with your
+life. I warn you: Mordan will work to drive you mad through the orb.
+Soon he will appear in your dreams and fill you with fear. You will be
+safe from his influence within my city, but be prepared for his
+deceptions once you leave Fol Thron."
+
+Now she waits, allowing them to ask questions.
+
+Skeeve speaks up, "Your majesty, how can we hope to defeat Mordan?"
+
+The Queen answers, "There is no hope. We are now working to delay the
+inevitable. Perhaps a solution will present itself."
+
+Enoch poses a question, "Couldn't we return to orb to where we found
+it, and then he would be imprisoned again?"
+
+"A cunning thought. It is true that if his crypt is intact he could
+again be imprisoned. However, I can no longer see my lands to the
+north. Everything from Crossway to Fort Bolwood is dark to me. I do
+not know if it is even possible to retake the crypt. Also, Mordan is
+no fool. He may simply unmake his former prison. If he destroys it,
+then your hope is lost, for none that now live have the magic to
+construct another.
+
+"So yes, if you can re-take Crossway. If he has not destroyed his
+prison. If you can reach the chamber and replace the orb. And then if
+you can defeat him in battle. Once all of this is done, he will once
+again be imprisoned."
+
+This sounds a little unlikely to Enoch and Skeeve. Enoch presents
+another carefully worded question, "I have read some of the folklore
+of your land, and read of some of the legends of the mountain. In
+particular... Um. It seems like they are, I mean..." He falters, wary
+of offending her.
+
+"You speak of the legends of the Spirit of Fiore?"
+
+"Yes."
+
+"And you believe them to be true."
+
+He is quite nervous by this point, "Yes."
+
+"Of course they are true."
+
+Enoch is shocked, "You believe it's true?"
+
+She insists, "I know it's true."
+
+He is encouraged by this, so he pushes on, "What if that curse is
+lifted? Would that weaken Mordan or...?"
+
+She looks amused, "Lift the curse? You may try if you think you know
+how. But to answer your question: No, lifting the curse of Fiore would
+not daunt Mordan. These are two seperate challenges. But if you think
+you have the might to face both Mordan as well as search for the
+undoing of an ancient curse then by all means do so."
+
+Enoch is cowed by this, but something has caught Skeeve's attention,
+"You say you believe in the curse of Fiore, yet your scholars teach
+that it is a false heresy. Why do you forbid that which you know to be
+true?"
+
+At this, she steps back and sits on the great dark throne. She begins
+her tale, "You have read the history of these lands. You know that
+none have passed on their power to their own, as is the custom of
+Kings and Queens. The history of Mar Tesaro is a history of war,
+murder, betrayal, and revolution as one power supplants another. Power
+is never passed on; it has always been taken. Most rulers here have
+made the mistake of being too weak and allowing their enemies to
+multiply, or too cruel and forcing them to unite. Mordan: Too cruel.
+Ignol: too cruel. Rhone: not nearly cruel enough. And so it goes.
+
+"The secret of ruling Khelberg is keeping the right balance of
+control. This is why I have ruled longer than any other. So to answer
+your question, if I were to allow that the teachings were true, it
+would cause my foes among my own people to multiply. To question my
+strength and my right to rule.
+
+Skeeve and Enoch are not really pursuaded by this answer, although
+they don't dare question it. She seems to sense it, so she adds,
+"Perhaps it would help to know that I have not had more than two
+visitors in over a century. Long ago, Pallan Lorman came to me as a
+friend, after the war against Mordan. He came and offered me a gift: A
+spell of magical regeneration. It would heal my wounds, no matter how
+terrible, as long as I could still draw breath. The spell would
+preserve me and keep me whole for many long years if I accepted it. He
+cautioned me that the spell held a danger: If the spell was ever
+removed, I would instantly die."
+
+Enoch and Skeeve look at each other. They are not sure what to make of
+the tale so far.
+
+She continues, "I accepted this gift from my new friend, and I even
+thanked him for it, though it would be my undoing. His trechery was
+revealed when he met with me, in this very room, with two of his
+lieutenants. He began to cast a spell which would lift the healing,
+causing me to die. Another ran towards me with a sword, seeking to
+plunge it into my heart. The other cast a spell upon my eyes to blind
+me. I only had time to stop one of the three. What could I do? If
+Lorman succeeded, I would die. I slew him, and endured the other two.
+Lorman's ‘gift' saved my life, but I pay the price to this very day.
+The spell on my eyes caused them to be burned away. The healing gift
+restores them. The two spells ever work against each other, burning my
+eyes but never fully consuming them. The pain of this is beyond your
+imagining.
+
+"I am resolved never again to be too weak in the face of my enemies."
+
+They aren't sure if this really answers their question or not, but
+neither Skeeve nor Enoch is going to press the point with her now.
+
+Now the Queen stands. She steps forward and presents Skeeve with a
+simple hooded cloak of thin, earth-colored thread, "I give you this
+gift. When worn, it will shield your mind from the influence of
+Mordan. It will not keep him at bay forever, but it may delay madness
+if you wear it in your travels."
+
+### 19th of Last Summer (Evening)
+
+Once Skeeve and Enoch emerge from the meeting with the Queen, Fulan
+meets them in the main hall. Their travel papers are returned. Fulan
+provides them with additional horses, so that they will no longer have
+to share. This will speed travel for all of them.
+
+The entire party returns to the inn. There is much to discuss. Endo
+and Beck join them. They debate at length on the job the Queen has
+given them. She has asked them to kill Noreeno. Now, they are happy to
+do this job. In fact, Eomer promised Noreeno that he would kill him.
+However, they have noticed that everyone seems to have secret motives
+and agendas. They are wary of being used again.
+
+At length they come up with a plan: Endo is to ride south and seek out
+his friend, the prince. The rest of them will ride north and attempt
+to intercept Noreeno. However, instead of killing him outright, they
+plan to capture him and see what information they can extract from him
+before he dies.
+
+> The debate took place out-of-character, which is how all long
+> converations end up. Let’s sum up the important points:
+>
+> * Eomer thinks her reasoning for sending them to kill Noreeno doesn’t
+>   make sense. They spend some time trying to figure out what her true
+>   motive is.
+> * Everyone agrees that killing Noreeno is a good move.
+> * They all agree that they should try to torture some info out of
+>   Noreeno before he dies. (Enoch can’t really agree to this
+>   in-character, since he’s a Cleric. But he’s willing to turn a blind
+>   eye while the others do this, with the understanding that this will
+>   serve the greater good.)
+> * Beck should ride with them when they go north. They know the port is
+>   closed (because of the burning ships) so there is no point in him
+>   trying to escape the island.
+> * They wonder about the cleric that served Noreeno back in Crossway.
+>   Will they have to face him? Is he aware of his master’s true
+>   motives? Is the cleric himself evil?
+> * Skeeve missed this conversation: Dan was out picking up the Pizza.
+
+### 20th of Last Summer (Morning)
+
+At dawn the party leaves town. With fresh supplies and Allidian horses
+they ride swiftly east. Hours pass. They turn north and ride past
+Della Minera without stopping. At midday they cross the bridge and
+turn west.
+
+![](images/map_mar_tesaro.gif)
+
+As the sun sets they top the hill and ride into the small Halfling
+village of Hillstead. This is obviously a farming community, with many
+farms dotting the surrounding countryside. There is a standard
+detachment of Alidian guards at the entrance to the city: A group of
+bored Ailidian soldiers, and four elite guards. After their papers are
+checked, they are granted entry into the village proper. The “streets”
+of the city are simple dirt paths that wind around the clusters of
+tidy cottages and small gardens. Many homes have a ribbon of smoke
+that drifts upward from the chimney. The smell of food is in the air
+as the halflings ready their evening meals. The town is quiet and
+unhurried. The party is greeted with polite but uninterested smiles if
+they are noticed at all.
+
+They were here just a few days ago, but a lot has happened since then.
+They check into the inn.
+
+![](images/hillstead_inn.gif)
+
+The place is small by the standards of most towns, although here it
+towers over the other buildings. The rooms are made for “big people”
+although they still feel a bit small to the humans in the group. The
+building has but one main entrance, which leads into the tavern /
+dinning area. At this time of day the tables are mostly empty, but
+after mealtime they expect it will be quite crowded as the farmers
+gather to share some ale together. Through the open doorway to the
+left is the office where they sign in, and the modest five rooms the
+place has to offer. There are no other guests in town today, so the
+party simply takes all of the available rooms for themselves.
+
+The north side of the building (the back) faces a number of small
+chicken and pig farms. The south side of the building faces what
+passes for a main street in this town. It is a dirt path that is
+slightly broader than the others in the village. From the front step
+of the inn, it is possible to look down this path and see the main
+gates of the city.
+
+If the Queen was right, then Noreeno should be arriving sometime
+tomorrow. They have a full day to formulate their plan, whatever it
+is.
+
+They conclude that Noreeno will certainly come to this town, unless he
+plans to sleep in the wilderness -which doesn’t sound likely. He will
+doubtless have a number of men with him, as well as his cleric friend.
+This inn is the only one in town.
+
+So they can be reasonably sure that Noreeno will be staying in one of
+these five rooms tomorrow night. By reserving rooms themselves, they
+can control which rooms will be available for him.
+
+But what of his men? They expect he will have several. Will they all
+crowd into one room of the inn? Will they stand watch outside his
+room? Inside his room?
+
+They reserve every room in the inn except one. This means that when
+Noreeno shows up they know which room he’ll be in.
+
+Evening closes in, and as they hoped he shows up and checks into room
+4, which they left open. His bodyguards aren’t around. Perhaps they
+are staying outside the village, or rooming at the local barracks. If
+the Queen was correct and he’s traveling with a half dozen men, then
+it would be unlikely they would fit in the inn, even if the party
+hadn’t grabbed all of the other rooms. The party remains hidden in
+their rooms until nightfall.
+
+At midnight they gather outside of Noreeno’s window. Enoch casts
+silence on the area and Thordek smashes in the window (which makes no
+sound because it falls within the radius of the silence spell). He
+crawls in and finds Noreeno asleep in his bed, undisturbed. Just for
+safety, Thordek gives Noreeno a couple of good whacks with his mighty
+hammer, to make sure he doesn’t wake up. He then tosses the magistrate
+out the window and they drag him out into the woods north of town.
+They manage to pull all of this off without rousing the town watch.
+
+> I thought they would waylay him on the road, but instead they bust
+> in on him at night. I’m not the sort of DM to punish players for
+> being clever or for finding holes in my plans, so this was easier
+> than I anticipated.
+
+They drag Noreeno out of town and tie him to a tree. They remove his
+ring and Thu’fir buries it nearby. Then they wake him up.
+
+> Now, I had no interest in roleplaying a torture session, which was
+> the next step here. I’m too squeemish for that. So I had Beck (an
+> NPC who was with the party) do the “asking” while everyone else
+> stood at a distance.
+>
+> I had the players list all the questions they wanted answered. I
+> assumed Beck was going to inflict as much pain on Noreeno as
+> possible, short of killing him. Hitpoints aren’t really suitable for
+> this, so I came up with a little ad-hoc system of intimidate checks
+> for Beck vs. willpower saves for Noreeno. If he failed the save, he
+> would answer one of the questions. Each time he “won” the willpower
+> save and resisted talking, he would then have to make a forititude
+> save to stay alive through the susequent nastyness. I ran through
+> the list of questions over and over until he failed three forititude
+> saves, which I decided ahead of time was enough to kill him. I was
+> pretty proud of this, since I think it simulated what was taking
+> place and randomized what questions would get answered.
+>
+> Their most important questions went unanswered. This wasn’t DM
+> meddling, it’s just that they overestimated how much Noreeno knew.
+> He didn’t have any idea where the Magus Archives were, which Eomer
+> suspected was the base of operations for the Children of The
+> Cathedral. (This was the Lich-worshiping cult which Noreeno led) If
+> he didn’t know, none of them did.
+
+They learn that Mordan’s followers have been meeting in various
+basements and secret rooms throughout the kingdom. The meeting places
+are enchanted in various ways to keep out the prying eyes of the Queen
+and whatever spies she may employ. Beck learns the locations of some
+of these meeting places. He also learns that there are not more than
+100 followers of Mordan in the land. Finally, they also learn that
+Mordan is again set on conquering the mountain. Also: war and revenge.
+Not much of a surprise there, but it was good to have it confirmed.
+
+As the sun rises, Beck returns to the others from his grim night of
+work. He’s bloody and tired. He reports his findings to the others.
+
+Morning comes and the town gets noisy. Noreeno’s men have discovered
+his empty room and broken window. The alarm is raised in town and the
+town guards began to fan out and search for Noreeno.
+
+They make ready to leave and it dawns on them: Their horses are
+stabled back in town! They can’t hope to sneak into town in broad
+daylight to recover them. They can’t afford to hang around until
+nightfall, or they will end up fighting with the town watch or the
+local soldiers who are now looking for the magistrate.
+
+As the the soldiers draw near, the party silently retreats into the
+woods and heads south on foot.
