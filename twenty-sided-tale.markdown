@@ -1869,3 +1869,509 @@ mentioning here.
 At the end of our first campaign, the players had founded a new city,
 knocked a nobleman out of power, and established the council of Grey
 Moor.
+
+## Session 3
+
+### 4th of Last Summer, 1501dy (early morning)
+
+The day is overcast. Above ground this church is destroyed. All that
+remains is a two-foot wall making the outline where the building once
+stood. The building was made from large stone block, and large pale
+stones are scattered throughout the tall grass. Inside, two sets of
+stairs (one on each side of the building) lead down into the earth.
+
+Thordek notes that a large curving stairway leads down into a dank
+basement area. Black staining along the bottom of the stone block
+walls shows that this area is damp or flooded during some parts of the
+year, although it's dry right now. At random, they choose the southern
+set of stairs to investigate.
+
+Thu'fir listens carefully at the top of the stairs. Nothing. They head down. Eomer stays behind to guard the entrance.
+
+> Pat missed the first couple of hours of this session, so aside from
+> dealing with some locked doors, his character (Eomer) remained
+> behind. This really hurt the group, since a rogue would have made a
+> lot of the challenges they faced much easier.
+
+![](images/uc_map1.gif)
+
+The room is empty aside from the door leading north. It is locked.
+Skeeve goes upstairs and gets Eomer so he can unlock the door for
+them.
+
+The keyhole is rusty. Eomer attempts to pick it but can not open it.
+He manages to jam the lock in the attempt. Since they can't enter this
+way unless they force the door, the party decides to try the other
+entrance.
+
+![](images/uc_map2.gif)
+
+This room is the mirror image of the southern one. There is a large
+stone block, about 3x3 foot (looks like one of the major blocks from
+upstairs) The top of the block is stained with old blood. An axe rests
+on the stone. There is a small pile of chopped firewood here, beside
+the chopping block. There is a locked door leading south.
+
+Skeeve calls Eomer to help him try this door. Eomer fails again. Once
+again, the lock is jammed. They have now jammed both entrances. They
+talk about what to do next. The doors are old rotting wood, but the
+wood is quite thick and framed in iron.
+
+> Eomer made four lock-pick attempts this session. The first two were
+> rolled by me and the latter were rolled by Pat once he joined the
+> game later in the evening. In order, the rolls were 2, 2, 1, and 1.
+> I don't usually record dice rolls, but these were so unlikely I
+> thought I should note them here. He was just very unlucky. There was
+> nothing unusually difficult about the locks he faced.
+
+Thordek finally grows tired of debate and begins hammering on the
+northern door. The sound is tremendous, and echoes in the small room.
+They know they have lost any chance at surprise or stealth.
+
+After nearly an hour of labor, Thordek has broken open the bottom half
+of the door, allowing the party to squeeze through. They find
+themselves in a hallway that looks like it was once nicely decorated.
+The remains of a rug, now tattered and consumed by mildew, runs down
+the center of the floor. Directly opposite of them is the other set of
+double-doors that they jammed earlier.
+
+![](images/uc_map3.gif)
+
+They check the hallway. From here they may go south through a new set
+of double doors, or explore a single door that faces north. They
+examine the double doors, then turn back and go through the single
+door.
+
+![](images/uc_map4.gif)
+
+This is a dining area. A large rustic wooden table sits in the center
+of the room, along with a single chair. The table looks newer than
+other wooden items (such as doors) you see about. While suffering from
+bad moisture damage, its certainly "new" compared to other items
+around. It and the chair look to be poorly made. They are rough and
+unevenly cut from untreated wood.
+
+Thordek searches the room and finds a silver fork under the table. He
+also notices a few crumbs on the table and chair that indicate they
+have been used recently. They note that there is a door in the room
+but decide to look back the hallway a bit prior to looking in there.
+
+As they move in front of the double doors, a large trapdoor opens
+beneath them. Thu'fir falls but Skeeve catches himself on the edge,
+dropping his staff in the process, almost falling in himself.
+
+Thu'fir lands in darkness twenty feet down, on a set of sharp spikes.
+Thordek pulls Skeeve up. Skeeve cries out the name of his staff,
+"Sucursis!". The staff obeys and returns to his hand. He casts
+levitate on Thu'fir and they help him out of the hole. Enoch heals his
+wounds, which are severe, but not life-threatening.
+
+While still levitating Thu'fir moves over to the door to open it, and
+floats through. The others prepare to jump across. The jump is a bit
+difficult, since they must jump diagonally over the pit and through a
+doorway. The diagonal means they can't get a good running jump, and
+the door frame means they can't shorten the jump by cutting the
+corner. The jump is only four feet, but will still be a bit tricky.
+Skeeve casts jump and leaps across without effort. Enoch and Beck
+follow. Thordek falls in. Skeeve casts levitate to lift him out. They
+are now in another hallway, similar to the last. There are two doors
+along the south wall.
+
+![](images/uc_map5.gif)
+
+Much to the dismay of the others, Skeeve knocks on the first door.
+When he gets no answer, he shrugs and opens it. A huge, vile
+centipede, ten feet long and the width of a small tree, scuttles
+forward as he opens the door. Its ugly, eyeless head raises up and
+bites him on the chest.
+
+The party wants to move in to attack, but Skeeve is in the way. He
+wants to retreat but they have all gathered around him. The battle is
+a disorganized mess. Skeeve hurls magic missiles and the fighters
+bring their weapons to bear. Skeeve earns himself another severe bite
+on the chest and passes out. The hammer of Thordek and the blade of
+Thu'fir begin to tear the creature apart. Enoch burns it with a beam
+of holy white light. Skeeve wakes up and crawls away. Thu'fir chops
+part of it off. Beck finishes the thing with two quick stabs from his
+rapier.
+
+Enoch heals Skeeve.
+
+With the battle over, they step over the nasty carcass and examine the
+room.
+
+![](images/uc_map6.gif)
+
+This room looks to have been some sort of dorm room once. The remnants
+of a ruined bed frame sits in one corner, as well as a few bits from a
+rotted desk which now sits legless on the floor. Thordek searches the
+room and finds nothing. They move on to the next room.
+
+Enoch *carefully* peaks into this room. It is entirely empty, although
+the northeast corner bears the mark of new construction. There is an
+area encased in more rough wood. While crude, it is heavy and sturdily
+made.
+
+![](images/uc_map7.gif)
+
+Thordek tries to smash it. Bam, bam, bam! The others comment on his
+obvious dwarvish-ness. "Is he trying to dig a new mine?" says Beck.
+
+After a half hour or so the wooden walls give way to his hammer. He
+finds that there is a big contraption here with crossbow bolts. It
+points out into the hallway. If it were to fire, it would come out of
+a picture frame (through the canvas) and traveled north down the hall.
+They note that out in the hallway there is another picture facing
+south.
+
+Looking at the pictures more closely, they see that they are "new".
+The frames are cheap and the paintings are quick, simple pictures.
+
+Making sure everyone is out of the hallway, Thu'fir attempts to take
+the crossbow bolts out and disable the machine. He breaks the
+mechanism.
+
+They leave the room. There is another painting out in the hallway that
+faces east. Thu'fir takes the painting down, but finds no trap behind
+this one.
+
+Thordek carefully looks in the next room.
+
+![](images/uc_map8.gif)
+
+This room looks to have once been some sort of dorm room. The remnants
+of a ruined bed frame and rotting desk are piled together with newer
+filth. Several Alidian uniforms are piled here, slashed and burned to
+rags. There are newer bones (small bones) on top of the pile, and a
+few iron ration wrappings.
+
+Thordek examines the bones and determines they are probably from small
+game, and not children as they at first feared.
+
+Thordek looks down the hallway carefully. He finds a painting stuck
+firmly to the wall. It faces south, opposite the crossbow trap
+painting they encountered earlier. After some debate, Beck walks over
+and cuts the canvas off, finding a crossbow trap concealed behind it.
+They discuss how to disable the trap and whether it needs disabled.
+They elect to leave it alone for now, since it shouldn't pose much
+threat now that they are aware of it.
+
+Thordek notices a foul odor from the next room. He cautiously opens
+the door.
+
+![](images/uc_map9.gif)
+
+This room smells like excrement. The stench was bad BEFORE the door
+was opened, and now it is overpowering. Using his dark-vision, Thordek
+can see that some of the stones have been pulled loose from the floor
+and a latrine hole has been dug here. There is a pile of recently cut
+leaves beside the pile. Thordek quickly shuts the door.
+
+They follow the hallway the rest of the way around, turning west and
+then going thorough the door at the end, which they already suspect to
+be the kitchen. Beck stands outside the room and Enoch enters.
+
+The kitchen was obviously as filthy as the rest of the basement, but
+it is clear that someone has taken time to clean this area. The
+counter-top looks to have been recently replaced by a fresh piece of
+raw untreated wood. The wood still bears bloodstains. There is a stone
+fireplace on the east wall. A cooking pot hangs over the cold ashes.
+
+There is a basket of mushrooms here on the counter, and a stale loaf
+of bread. A pile of wrappings and strings from iron rations sits in
+one corner. Also on the counter are a few other food prep items:
+knives, spoons, and such.
+
+There are three doors in here. Enoch tries the door to the south.
+
+This looks like a small food pantry. The shelves are mostly empty,
+although there are a few items here: 7 iron rations and a few small
+vials of spice. There is also a canister of salt. Enoch takes the
+food.
+
+Thordek comes to the kitchen to see for himself. As he walks to the
+door, the floor gives way, dropping him and Beck down 20 feet onto
+more spikes.
+
+Skeeve levitates them out and Enoch heals them.
+
+At this point they are spent. Everyone is tired and injured a little.
+They have been in here only a few hours, although this seems like a
+long time for such a small place. They decide to rest before
+proceeding. Enoch and Thordek take the table from the dining room and
+lay it over the hole so the others may use it as a bridge instead of
+jumping. They retreat to the front door. Beck protests that they ought
+to sleep outside of the door they smashed in. The hole is a bit
+difficult to climb through, and Beck believes it would be better if a
+foe had to emerge from the hole to reach them. Also, he didn't want
+everyone to have to struggle through the gap if they needed to escape.
+
+The others ignore him and they bed down in the hallway. Eomer keeps
+watch.
+
+As they rest, Thordek and Enoch ponder the trap doors. Why did they go
+off when they did? At first they suspect that a certain weight is
+required to trigger them, but that doesn't seem to match with events.
+At last Thordek realizes that the trap doors are activated the *third*
+time someone puts his weight on them.
+
+> This happened during an out-of character discussion we had while the
+> other players were taking a break. They were getting frustrated by
+> the seemingly random trap doors and I think they suspected I was
+> just messing with them. I dropped a few hints by going over the
+> events and they figured it out.
+
+### 5th of Last Summer, 1501dy
+
+Four hours after the party began their rest, Eomer rouses the them
+with a yell, "Hey, I heard something!"
+
+Before they can act, another centipede is on them. They leap to their feet and engage it. This time the fight goes more smoothly and the thing dies without inflicting much harm.
+
+Skeeve has recovered his magic, but Enoch has not. They elect to move
+on at this point anyway. They head down the hallway and find the trap
+door has been reset, and is now closed again. Not wanting to set it
+off again, they jump over the solid ground. Thordek mis-jumps and
+lands on the trap area. This doesn't set it off. A few other party
+members make the jump, and then Beck fails. The trap springs, the door
+opens, and he falls.
+
+They are confused by this. Wasn't this the second time it was touched?
+Thodek points out that the centipede would have been the first thing
+to cross it, making Beck the third.
+
+They levitate him up and Enoch heals him. They lament once again that
+they lost their ropes in the shipwreck.
+
+They follow the hallway around until they are on the north side,
+beside the trap door. They go into another room which is not a filthy
+mess like the others. The door is left open a bit.
+
+![](images/uc_map10.gif)
+
+A crude bed frame is here, built from newly cut, untreated lumber. The
+mattress looks like two blankets, sewn together and stuffed full.
+There is a lantern on the floor by the bed.
+
+They go to the next room. Thordek goes first and a trap door over the
+entrance to this room drops a pile of stone blocks on him. He is
+pummeled.
+
+Eomer, sick of waiting outside, decides to join the party. Beck goes
+outside, since this place seems too crowded for six people.
+
+> Pat joined the game at this point. Up until this point in the
+> session, Eomer has been an NPC.
+
+![](images/uc_map11.gif)
+
+This room is empty, save for a small wooden chest in the northwest
+corner. Thordek walks over to it. The brash Dwarf attempts to open the
+chest. Fine powder explodes from the chest, covering everything in the
+room. Thordek manages to hold his breath, thus saving him from
+breathing in any of the foul grey dust. He dashes from the room
+looking like a floured dumpling.
+
+Eomer rebukes him for being so reckless.
+
+They wait twenty minutes or so for the dust to settle out of the air
+in the room so that it will be safe to enter. Thordek goes back in and
+searches the chest.
+
+He finds a book, some gold, and a bleached human skull which is being
+used as a bowl to hold some strange powder.
+
+They open the next door. It is a simple room with a new wooden bed and
+a small (unlit) lamp. The bed is poorly built but looks used. The
+blankets are not filthy, rotting rags at any rate.
+
+![](images/uc_map12.gif)
+
+They move on to the final door. This is a large door facing east.
+Before attempting to unlock it, they decide to deal with the trap to
+the north, since it is pointing right at them and probably tied to the
+door in some way.
+
+Thordek wants to smash it, but Eomer has him back off so he can try to
+disable it. He fails and sets it off. He tells Thordek to smash the
+trap. Thordek walks over and whacks into the center of the mechanism
+with his hammer. Bam! Four arrows shoot out over Eomer's head and into
+the opposite wall. Thordek tries again and breaks the mechanism.
+
+Eomer now moves onto the door. He tries to pick the lock but manages
+to fail again. It is jammed.
+
+Skeeve tells everyone to stand back, and then uses flaming sphere to
+burn out the door. The door is engulfed in flames. The aged, thick
+wood gives off a thick acrid smoke as it burns. The chamber is filled
+with smoke and they retreat to the entrance for a while until the
+smoke dissipates. The group is now concerned that if the children are
+inside they may have asphyxiated.
+
+They return to the door inside. The door frame and the lock are still
+there but the wood inside the frame is burnt away. Thordek is chosen
+to go in because he is smallest. He peaks in. He sees no one but sees
+another set of doors. This is a small vestibule. This area looks
+well-traveled. There is a series of switches on the north wall. Skeeve
+and Thordek flip a few switches out of curiosity. Eomer is irritated,
+but says nothing.
+
+![](images/uc_map13.gif)
+
+They enter the next room. This well-lit room was once the lower
+meeting hall and has now been converted into a sacrificial chamber.
+There are three stone slabs on the floor, tilted towards the middle of
+the room, two with children lying upon them. Grooves have been carved
+in the stone floor, leading into a drain in the center of the room, in
+which a large bronze cup has been placed. As they move towards the
+children they hear a voice from the front of the room, "Leave the
+children be! You can't help them now. Go back to the town."
+
+![](images/uc_map14.gif)
+
+At the front of the room is a table with jars and evil books and other
+nasty stuff. There is also a large spell-book.
+
+The children seem to be under a spell of dreamless sleep. Eomer moves
+closer to the children.
+
+"Leave them be, none of you have the power to help them now," the
+voice says as Eomer leans closer to see if they yet live. He can feel
+no pulse. He places his mirror in front of the mouth of the boy, and
+confirms that he is breathing very slightly. The children look deathly
+pale.
+
+"I am prepared to do what none of you would against the Alidians. It
+is time that we return to our former glory", states the voice.
+
+"Murdering children will do that?", asks Thu'fir. The others continue
+to look for the source of the voice.
+
+"It's time that we go back to our roots. We've abandoned the ways of
+magic and that's how we lost the war," the voice persists, moving
+around the front of the room accompanied by footsteps.
+
+"Go back! You want to take these children back to their parents? Take
+them back, so they can become slaves or killed by the Alidians? Their
+death here will be quick, painless, and nothing like the horrors they
+would suffer at the hands of the Alidians. If you want to help win
+this war, go and bring me one last child. "
+
+Eomer figures out pretty much where the wizard is. He nonchalantly
+chats to the wizard, wanders over to the workbench, and starts tossing
+and knocking over the stuff on the table. Eomer pulls the leg out from
+the table and knocks it all over. The wizard appears near Eomer and
+Enoch suddenly can't move. Enoch held, Thordek trying to figure out
+what is wrong with him, starts shaking him trying to get him to wake
+up.
+
+The battle with the wizard begins. The wizard casts magic missile at
+the them. Eomer and Skeeve fight him. Thu'fir picks up one of the kids
+and runs from the room with him. Skeeve has been seriously wounded by
+the magic missles, but summons his strength and casts lightning on the
+wizard. The wizard is thrown back, badly injured. He responds by
+hitting Skeeve with an acid attack. The acid splashes all over him,
+and he passes out.
+
+While this is going on, Thordek dashes into a side room, looking for
+something he might throw at the wizard.
+
+![](images/uc_map15.gif)
+
+A quick glance around the room reveals this to be a workshop of some
+sort. He grabs a hammer, and heads out of the room. Eomer attempts to
+grab the mage but slides right off. Thordek sees that Skeeve is down,
+drops the hammer, and tries to pick up both the kid and Skeeve. He
+can't, so he just takes Skeeve. He realizes that Skeeve has acid
+burning him and throws off the acid-soaked cloak. Thu'fir continues to
+try to save the children. The wizard yells as they take the kids. He
+looks and sees that the battle is against him. He casts another spell
+and vanishes. Thordek screams for Beck to come help. Eomer uses Endo's
+staff to swing in the area that he heard the wizard's footsteps (who
+is now invisible) and hits, bringing forth many yells of pain and
+frustration from the location of the wizard. Thu'fir blows his horn
+and affects both Eomer and the wizard. They are stunned.
+
+Thordek takes Skeeve out of the room and sets him carefully in the
+rubbish room. Skeeve stabilizes. Thu'fir drops the kid gently outside
+of the room and pulls the doors shut, hopefully trapping with wizard
+inside with the party, and away from the kids. Thordek stays with
+Skeeve, trying to heal him. The others listen for the invisible
+wizard, trying to keep track of him. The wizard kicks at Eomer when he
+tries to grapple him and loses his invisibility. He slips away and
+shuts himself in the little workshop.
+
+Eomer begins chatting at him through the door. Beck comes in yelling,
+"What the heck is going on in here?"
+
+Finally Thu'fir kicks the door in and slays the Wizard with his
+massive blade.
+
+> This was the most confusing battle I've ever seen. The party was
+> caught off balance and didn't really know what to do. Pat (Eomer)
+> was the only player to have faced a wizard before. Making things
+> worse was the fact that they entered the battle injured and low on
+> magic. Enoch had no healing power left, and Skeeve was nearly spent
+> as well. Since they didn't know how to fight a wizard, they didn't
+> have any sort of plan. As it ended up, their wizard and Rogue faced
+> the enemy wizard while the fighters ran off? What a mess.
+>
+> If you think this is confusing to read, you should have tried to
+> follow it in person. They couldn't form any sort of strategy and
+> stick with it. Save the kids? Kill the bad guy? Escape? They sort of
+> tried to do all three at once.
+>
+> The result was that a very ordinary battle turned out to be almost
+> too tough for them, and Skeeve was very neary killed.
+
+Thordek looks around. He searches some of the rooms they haven't
+checked. One room is piled high with old rotting furniture. Many old
+pews have been shoved in here, along with other broken furniture.
+
+![](images/uc_map16.gif)
+
+The other room (where the wizard died) is a makeshift workshop. There
+are many bits of cut wood lying around, along with a layer of sawdust.
+A crude workbench is built here, which holds some very basic tools:
+Hammer, nails, vice, and a few different saws. An incomplete chair is
+on the bench.
+
+On the floor near the overturned table they find a chalice of
+purification. This strange cup will purify any water placed into it
+after 10 minutes. Thu'fir claims this prize.
+
+Out in the main hall, they rest. As soon as he has the power, Enoch
+heals Skeeve.
+
+Once rested, they take an inventory of the items recovered. Several
+Alidian rank insignia are on the table in the main hall, stripped of
+their silver and gold trim. The silver & gold are in a separate pile,
+along with bits removed from jewelery and teeth. Thordek takes these
+items to sell and divide the proceeds later.
+
+Skeeve finds a mage's guild certificate of membership made out to
+"Conjurer Vormoth", good until 1505dy. Skeeve takes this. Being a
+self-taught wizard, he has never heard of the guild, but figures that
+being able to pass himslelf off as a member may come in handy.
+
+Thu'fir finds the wizards staff and gives it to Skeeve. Amongst the
+other things until Skeeve can take a look at everything. Everyone
+regroups in the main room, bringing the kids in as well, except
+Thordek who has been checking all the rooms they had missed, gathering
+up all the things they find.
+
+Thordek searches the workshop and finds a secret room that grants
+access to the second (northern) crossbow bolt device / trap.
+
+![](images/uc_map17.gif)
+
+Also in this room is a small wooden box with 800g worth of small gems,
+500g, 2 potions of End Dreamless Sleep, and 1 cloak of absorb fire
+damage.
+
+They decide when they leave they will burn the wizard in his lair.
+They fight about how to go about it. They eventually just leave him to
+rot in his workshop.
+
+Everyone rests and wake up around 5 am. Enoch sets about healing
+everyone, and they decide to return to town.
