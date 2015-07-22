@@ -282,7 +282,7 @@ vanished from his pursuers. As his breath returned, peering out the
 window as his attackers passed by, he was startled from a gruff voice
 from behind:
 
-"Get used to it kid…"
+"Get used to it kid..."
 
 He turned around to see a man not as old as his voice would make him
 seem. He stood there, frozen, scared and out of breath.
@@ -439,7 +439,8 @@ site. When he arrived, all were dead. They had been slain weeks
 earlier. With no owner and no crew there was no job for him. Thodek
 left and began to wander the country, seeking work.
 
-He had a number of adventures before coming to Golgotha in northern Dunlock.
+He had a number of adventures before coming to Golgotha in northern
+Dunlock.
 
 > Thodek was an NPC in our second campaign. As the campaign drew to a
 > close, Joe (the DM) decided he'd rather try a different character,
@@ -768,7 +769,8 @@ word he says, attempting to get a straightforward answer out of him,
 so intently that he rather absentmidedly gets his food and drink and
 sets them down before him. Crolman, in his own little world, is quite
 oblivious to him. Crolman sits in his usual spot feeling around on the
-table before him obviously looking for his food, "Hungry!? …Thirsty?!"
+table before him obviously looking for his food, "Hungry!?
+...Thirsty?!"
 
 Crolman mumbles, "They won't like us. Not gonna be happy. Not our
 friends."
@@ -922,7 +924,7 @@ rope netting and recover the sail. Eomer is blown off as he reaches
 and misses. He falls into a wet coil of ropes on the deck.
 
 > Although, even the most nimble of characters can still have a bad
-> roll once (or twice) in a while….
+> roll once (or twice) in a while....
 
 Eomer is still conscious after the fall but is hurt. He gets back to
 his feet and attempts to climb back up. He climbs back up but nearly
@@ -1426,7 +1428,7 @@ peeks through the rear window with his mirror.
 > being beaten against the rocks off the coast. Assuming he even had
 > it with him (and not in his pack) would the mirror have survived the
 > harsh treatment? Since I didn't challenge him on this, then I guess
-> so….
+> so...
 
 A soldier is inside, working on something. Eomer can hear the banging
 of pots. This room is clearly the kitchen. After watching the place a
@@ -1471,14 +1473,15 @@ Eomer sneaks in and goes to the secret door, which is a pegboard of
 tools. He moves one of the tools and finds it makes a very slight
 sound. The door is just outside of the silenced area! So, he needs to
 open a door which is covered in hanging metal tools, and he must do so
-without making any noise. He takes a deep breath…
+without making any noise. He takes a deep breath...
 
-…the door opens silently. He signals to Thu'fir, who is at the bottom
-of the steps looking in, letting him know where the edge of the zone
-is. They begin moving boxes. There are seven boxes of varying sizes,
-plus a sack and some other loose goods. Thordek and Enoch help move
-goods from the house into the woods, just on the edge of the zone.
-There are seven crates, a sack, a book, a lantern, and a longbow.
+...the door opens silently. He signals to Thu'fir, who is at the
+bottom of the steps looking in, letting him know where the edge of the
+zone is. They begin moving boxes. There are seven boxes of varying
+sizes, plus a sack and some other loose goods. Thordek and Enoch help
+move goods from the house into the woods, just on the edge of the
+zone. There are seven crates, a sack, a book, a lantern, and a
+longbow.
 
 > Can you spot the DM mistake?
 >

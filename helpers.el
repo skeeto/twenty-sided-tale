@@ -1,9 +1,10 @@
-(defun fix-quotes ()
+(defun fix-fancy ()
   (interactive)
-  (save-excursion
-    (setf (point) (point-min))
-    (while (re-search-forward "[”“]" nil t)
-      (replace-match "\"" nil nil))
-    (setf (point) (point-min))
-    (while (re-search-forward "’" nil t)
-      (replace-match "'" nil nil))))
+  (let ((fix-map '(("…" . "...")
+                   ("[”“]" . "\"")
+                   ("’" . "'"))))
+    (save-excursion
+      (cl-loop for (regexp . replace) in fix-map
+               do (setf (point) (point-min))
+               do (while (re-search-forward regexp nil t)
+                    (replace-match replace nil nil))))))
