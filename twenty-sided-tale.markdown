@@ -7889,7 +7889,7 @@ that anyone will recognize him, but the Queen has many powers of
 perception and it seems like pushing their luck to get him too close
 to her. As the last remaining prince of the Lormanites, he would most
 likely be put to death before he could get any ideas about following
-in his father’s footsteps / seeking revenge / attempting to reclaim
+in his father's footsteps / seeking revenge / attempting to reclaim
 his throne. The Lormans have been a tenacious family over the last few
 centuries, and the Queen would most likely not pass on the chance to
 extinguish his bloodline forever.
@@ -7898,7 +7898,7 @@ The entire party is granted entry to meet with the Queen. They are all
 allowed in at once, which is unexpected. They report to the Queen that
 Fiore is free and the curse is lifted, but it is obvious she had
 figured this out. The mountain blew its top a week ago, and nobody
-could have missed that. If it weren’t for the two-headed invasion of
+could have missed that. If it weren't for the two-headed invasion of
 the city this event would be the talk of the town. They do not tell
 her where the Archives are, or where the Orb is buried.
 
@@ -7910,20 +7910,20 @@ She offers them a new task: To go to the Dwarves and offer them a
 truce. She is prepared to offer them control of the mountain in
 exchange for their aid in repelling Mordan. The mountain, being pissed
 off and errupting, is not the prize it was just a few weeks before.
-But the Dwarves came to claim it, and it’s all she has to bargain
+But the Dwarves came to claim it, and it's all she has to bargain
 with.
 
 They reveal to the Queen the Dwarven food shortage. This might be an
 even better bargaining chip than the mountain. She could probably
 simply wait for their hungry bellies to prompt their surrender, but
-Mordan’s attack from the north and her own thinning forces do not
+Mordan's attack from the north and her own thinning forces do not
 afford her this luxury. She adds that she will give the Dwarves the
 provisions they need if they aid her.
 
 They agree to this task and depart. A detachment of soldiers is sent
 along with the party, under their command. There are enough men to
 demonstarted that they come in the name of the Queen, but few enough
-that the Dwarves won’t mistake the group for a halfhearted
+that the Dwarves won't mistake the group for a halfhearted
 counterattack.
 
 They ride south under a flag of truce and meet with the Dwarven
@@ -7935,13 +7935,13 @@ negotiation.
 > blah.
 >
 >
-> Thordek did well here. He’s a fighter and it’s not like he has much
+> Thordek did well here. He's a fighter and it's not like he has much
 > in the way of Charisma or diplomacy, but this was more about
-> roleplaying than rollplaying so that didn’t hurt him.
+> roleplaying than rollplaying so that didn't hurt him.
 >
 > This Dwarven general was a funny (odd) fellow and we had a lot of
 > fun with this conversation as two Dwarves hammering out the details
-> of the agreement. You can’t have this kind of fun with raw
+> of the agreement. You can't have this kind of fun with raw
 > hack-n-slash players, and I am once again grateful that I have such
 > good gaming buddies.
 
@@ -7959,23 +7959,23 @@ lands of the south.
 > This was a great battle. The players were backed by Alidian soldiers
 > and catapults, and I was going to throw handfuls of Grave Walkers at
 > them until everyone had gotten their fill of combat. It had been a
-> long stretch since we’d had a battle and we were due.
+> long stretch since we'd had a battle and we were due.
 >
-> Sadly, this was just perfect for fireballs, but Dan wasn’t there
+> Sadly, this was just perfect for fireballs, but Dan wasn't there
 > that week so I was running his character. Now, this would have been
 > his moment to shine, but Skeeve was an NPC this week and so I wanted
 > the other players to take center stage. So Skeeve hung back and
 > peppered the bad guys with magic missles and the tanks (Thordek and
-> Thu’fir) stood in the middle of the bridge and gave the enemy a
+> Thu'fir) stood in the middle of the bridge and gave the enemy a
 > rightous beating.
 >
 > Behind these two were some archers. Back on the southern shore they
 > had catapults which shot huge loads of burning coals at massed
-> groups of enemies. Enoch directed the catapults when he wasn’t
-> healing. This gave him the fun of tossing “fireballs” around.
+> groups of enemies. Enoch directed the catapults when he wasn't
+> healing. This gave him the fun of tossing "fireballs" around.
 >
 > Of course, I had to adjust XP to reflect the fact that they were not
-> fighting alone, so this wasn’t the huge XP jackpot it might seem to
+> fighting alone, so this wasn't the huge XP jackpot it might seem to
 > be. Still, it was pretty thrilling.
 
 They hold the bridge for several hours. Midnight passes. Then suddenly
@@ -7987,3 +7987,242 @@ that night. His forces were numerous, why would he signal the retreat?
 
 Dawn comes and everyone rests. The puzzle will have to wait until
 tomorrow.
+
+## Session 15
+
+Three days later the Dwarven army arrives, backed by the last of the
+Alidian soldiers. Mordan has pulled his army back and has not
+returned. The time has come for a counterattack. The army marches over
+the bridge, aiming north.
+
+Many Dwarves look back over their shoulders as they travel, gazing up
+at the dark smoking peak of Khelberg.
+
+The players ride out front. While not formally in command of the army,
+the commanders are nevertheless following their lead. The players have
+seen every side of this war, every part of the island, and have a
+clearer picture of what is going on than anyone else. They do not
+command the army, but if they tell the generals that a course of
+action is a good idea, then it is going to happen that way.
+
+The army passes Hillstead, which is a smoking ruin. A few grave
+walkers are prowling around, gnawing on bones. They are overwhelmed
+and exterminated by the army without difficulty. They ride further
+north without contest. Mordan didn't just pull back a little – he has
+evidently withdrawn all the way to Crossway.
+
+The army moves slowly. The players are on hoseback, but the army is
+mostly on foot and some of them have siege machinery in tow. The trip
+to Crossway takes three days, during which they see only single grave
+walkers or other spies. They feared Mordan would strike while they
+were in the open, but now they have traveled for three days without
+answer from him. Nobody knows what to think of this.
+
+They stop a few miles short of the city. Even from here they can see
+the city is smoking. Did Mordan put his own city to the torch? Did the
+Lormanites suddenly produce an army and assult him? Is this a trick?
+What is going on?
+
+Eomer goes ahead and scouts out the town. It is, as they suspected, a
+smoking ruin. Stone buildings are toppled as if pummeled by siege
+weapons. Everything burnable has done do. A few grave walkers scamper
+about. Eomer evades their notice and returns to the others.
+
+They deliberate. There is not much choice. Trick or not, they don't
+have any option but to march into the city and see what happens.
+
+The army storms the city of Crossway and slaughters the meager undead
+forces within. Aside from grave walkers, they find a few shambling
+zombies. This raises a few eyebrows. Such servants have been beneath
+the Lich King until now. Is his power failing?
+
+Scouts cover the city and return an hour later with their report: This
+town was bombarded from the northwest. On that side of town they found
+evidence that another army had attacked the city. There are broken and
+burned siege machines that have been pushed off of the road just
+outside of town.
+
+This explains the sudden widthdrawl five days earlier. The party
+gathers and discusses these signs. Here is how they interpret events:
+Mordan was battling them at the bridge when he was unexpectedly
+attacked from the north by forces unknown. He was obliged to recall
+his forces to the city to defend it. By the time these forces arrived
+the city was already in ruins. But the unliving have no real need for
+towns except as a place to find future victims. Undaunted by the
+destruction of their base, they pushed the Northern attackers back
+towards Fort Bolland.
+
+![](images/map_mar_tesaro.gif)
+
+It takes the better part of a day to move the army through the ruined
+city, and another day of travel to reach Fort Bolland. There they find
+Mordan's forces swarming around the city, climbing up the walls any
+trying to overwhelm the defenders. The Alidian / Dwarven alliance
+comes down on the rear of the undead mass, acting as the hammer to the
+city's anvil. At last they get a look at the forces that have been
+troubling Mordan's rear flank. They are elves! It's Sagemaster!
+
+> This is a nice tie-in to out first campaign. In the climax of that
+> story, the players sabotaged the defenses of a city so that
+> Sagemaster Teerin could land his ships. Teerin bailed them out at
+> the end of that campaign, and they made friends with him. At the
+> start of THIS campaign they were traveling to see him before they
+> got shipwrecked on this island.
+>
+> It's hard to convey what a big moment this was. Throughout this
+> campaign they have wanted to get a message to him and ask for help.
+> His father imprisoned Mordan the first time. He's quite old and
+> powerful. (Think Elrond, only not nearly as famous. He usually has a
+> strict non-intervention policy, but the players seem to have a knack
+> for getting him to leave his island.)
+>
+> There was much cheering around the table when the players realized
+> they had not only beaten Mordan's army without Teerin's help, but
+> had showed up just in time to rescue him. It's not every day you get
+> to return a favor to a high-level character.
+
+The armies crash into one another. The Dwarven / Alidian alliance
+begins hacking at the rear of the undead army, while arrows and spells
+pummel Mordan's forces from over the city walls.
+
+As the undead rapidly thin, Mordan rises above the fray and reveals
+himself at last. He is withered, and his skin is the color of ash. His
+robes are little more than black tatters that swirl around his gaunt
+frame. A black crown rests on top of his head, a circle of cruel
+spikes pointing upward and outward. His eyes are two points of cold
+light shining from within his empty sockets. He holds his staff aloft
+and moves his mouth, but they can hear no sound. The undead are driven
+to a frenzy. The battle intensifies. The heroes rush forward to face
+him.
+
+> Yes, a "Boss Fight". They don't know it, but sealing the Orb within
+> the box cut off a majority of Mordan's power and weakened him even
+> more. This reduced him (as luck would have it!) to a "wizard" strong
+> enough to give a decent battle to a group of level 5-6 characters.
+> He still had his undead army to command, but the moment the orb was
+> sealed he was unable to make more.
+
+Fireballs fly and the players surround Mordan. The soldiers in their
+company make short work of the various undead, leaving this battle
+between Mordan and the heroes. Fire falls down on him. He responds in
+kind. The heroes are tossed about by his spells, but they can see his
+power has failed him. He is at last truly outmatched. They strike him
+down. The ground shakes and the remaining undead collapse. A wail
+escapes his putrid mouth as he collapses in on himself and vanishes.
+
+They look southward. From here the trees and hills of Bolwood block
+their view of the mountain, but they know he's there, trapped under a
+mountain of stone and sealed in magic beyond his power.
+
+He's finished.
+
+Teerin strides out of the city to meet them. He helps tend the wounded
+and then meets with the party in the remains of Lorman's castle, which
+he's been using as his base since he arrived. They talk about Grey
+Moor and Eomer gets some news of his homeland.
+
+> The chat with Teerin mostly dealt with what was going on back in
+> Grey Moor, the site of the first campaign. This was a long
+> conversation and it would be pointless to attempt to relate it here,
+> even if I remembered half of it, which I don't.
+>
+> One detail that might be of interest here is the message they were
+> sent way back in Session 1. At the start of the campaign, they got
+> two letters: One from the Coucil of Grey Moor and another letter
+> from Teerin. The council asked them to come home at once. (That is,
+> return to Grey Moor.) Teerin's letter asked them to stop by his
+> island and talk to him first, before they got involved. Everyone has
+> been curious what this was about. They got shipwrecked here and
+> ended up getting sucked into this adventure, but it's been bugging
+> them all this time: What was going on back in Grey Moor?
+>
+> Teerin explains: The Council was raking in cash by selling weapons
+> to the Lormanites. The war was a nice source of income, and they
+> knew that if the war ended that source of wealth would dry up. They
+> were going to send the players to this town (Fort Bolland) to help
+> hold the city and keep the cash flowing back home. Teerin was going
+> to caution them against getting involved.
+>
+> But all of this became moot when Fort Bolland fell, and the
+> shipwreck more or less forced them to get involved anyway.
+>
+> So the campain started with a message to come home, which should
+> have led to a warning to avoid this island, but they never made it
+> home, never got the warning, and were stuck here anyway.
+
+Teerin explains his side of the story: The moment Mordan had been
+freed, he sensed it. As soon as he could, he assembled what forces he
+had and sailed for Fort Bolland. Mordan sent his birds (which would
+burn ships into the sea) but such tricks were not a problem for
+Teerin, who is far more in touch with nature and wild beasts than
+Mordan. He arrived and joined with the few poeple still alive in Fort
+Bolland, then moved south to liberate Crossway.
+
+> If I hadn't changed the campaign so that the Dwarves and Sagemaster
+> arrived at more or less the same time (within a week of each other)
+> then all of this would have played out very differently. Still, this
+> wasn't a bad ending.
+>
+> By this time it was late and everyone was sleepy, so we sort of
+> plowed through the rest of the session quickly.
+>
+> Skeeve: I go south and cure the Queen.
+>
+> Me: Okay great. You do. She's grateful.
+>
+> Not exactly epic, but at least we tied up the loose ends.
+
+While in Fol Thron, the party meets up with Beck again. He made it
+through the Dwarven assault of Telwin Port, and they gather that he
+had a big part in rallying the city defense. He's glad to see eveyone
+pulled through.
+
+In the end, the Dwarves do claim the mountain. However, since they
+can't set foot on it, they build a city at the foot of the mountain –
+which they now properly call Fiore. They take control of the city of
+Della Minera (peacefully, although with some minor political haggling)
+and expand the town at a rapid pace.
+
+The Dwarves act as guardians, telling people to Keep Off The Mountain.
+This gives them the illusion of ownership and kinship with the
+mountain that they desired long ago. It really was a point of pride
+for them, that the greatest mountain in the world wasn't theirs. Well,
+it still isn't theirs, but they are closer to it than anyone else,
+which makes them about as happy as Dwarves ever get. They bow to the
+mountain and pay it respect from a safe distance.
+
+Once the Queen is healed, she requires several days alone. Then she
+meets with the Heroes again. With the curse lifted and the searing
+pain gone, she is a different person. The Citadel is opened up, and
+light is allowed in for the first time in over a century. Her country
+is in absolute shambles. Her army is all but gone and their chief
+source of income is now off limits. However, with the iron grip of the
+government loosening, there is hope that they can make a healthy
+recovery over the next few years.
+
+The players negotiate to have the remaining slaves (the Lormanite
+army) set free. The slaves are freed without ceremony and sent
+packing. Nobody really likes the Lormanites (they did start the war
+that set this whole mess in motion) but there is no need for slaves,
+and nobody wants them around. The Queen renounces her claim to
+Crossway and all cities North. This gesture is mostly symbolic, as she
+doesn't have the forces to control those places, and there are
+precious few people left there anyway. Crossway itself is more or less
+obliterated. Most of the population was slain to build Mordan's army,
+and the city itself was ravaged by Mordan and then pummeled by
+Teerin's forces. It is likely to remain a ruin for a long time to
+come.
+
+They learn that some of the smaller northern cities escaped Mordan's
+wrath. Joland Village and Breakshore were spared. Woodhurst – a small
+town between Fort Boland and Crossway – was put to the torch, but many
+of the inhabitants fled to the wilderness and survived.
+
+Garret decides he wants to continue traveling. The players give him a
+little money and wish him well. He's not going to be slaying dragons
+anytime soon, but they do hope he doesn't get himself into any real
+trouble. He still has no interest in the crown, which is good for
+everyone involved.
+
+Beck decides to sail with Sagemaster, who will be stopping at Grey
+Moor on his way home. He is at last going to get home and marry Talla.
