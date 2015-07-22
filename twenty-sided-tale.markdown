@@ -4166,3 +4166,1148 @@ Endo still looks terrible, however. He looks like he's lost a bit of
 weight. Since he was all muscle before, this is a bad thing. He is
 tired and shaking. They let him sleep. The account of his travels will
 have to wait until morning.
+
+## Session 7
+
+### 12th of Last Summer, 1501dy (Late evening)
+
+Pat was late due to work. So his character (Eomer) isn't going to do
+or say much for the first half of the session.
+
+Endo asks what has happened to them. He thought his friends had died
+in the shipwreck. He is also shocked that they went to so much trouble
+to free him.
+
+Skeeve tells the story of what they have been through. He tells Endo
+about Breakshore, about Joland Village, about Crossway, Noreeno, the
+tomb, the freeing of Mordan, and about their struggles since them.
+Endo realizes that he has missed a great deal.
+
+Thu'fir offers Endo some food, but Endo isn't up for eating just yet.
+He looks weak and pale. His eyes show that he is still in some pain,
+although he is too stoic to mention it. Whatever has happened to him,
+it is clear the events of the past few weeks have taken their toll on
+him. After a few minutes of quiet reflection, Endo begins his tale in
+his deep, raspy voice...
+
+<div class="document">
+I washed ashore before dawn. I didn't know if anyone else had
+survived. The rain was still pouring down as I knelt on the beach and
+coughed the water from my lungs. As I rested, I could see a light
+through the trees in the distance. Not knowing if it was from friend
+or foe, I drew forward towards the campfire of the Alidian soldiers in
+search of warmth.
+
+As I reached the edge of their camp, I found a number of soldiers
+beating a young man. They were armed, and there were too many for me
+to fight alone. Instead, I circled around the camp to where their
+horses were tied and freed all but one. I spooked the horses and they
+ran off.
+
+The soldiers stopped and ran off after them, leaving only one man in
+the camp to guard their prisoner. I drew near and killed him. I did
+not know at the time that he was their commander.
+
+I freed the prisoner and we mounted the remaining horse for our
+escape. However, my skill as a rider is limited. The horse bucked and
+I nearly fell off. I suppose this is when I dropped my staff, although
+I did not know it at the time. I had given it up for lost by the time
+I realized it was missing.
+
+My companion's name was Garret. He knew the ways of this land and how
+to reach Telwin Port. We traveled together, hoping to escape the
+island. We rode to Breakshore, where we had a brief rest in secret
+before moving on.
+
+After a few days of travel, Garret revealed to me that he was the
+Prince. The Alidians sought to kill him, fearing that he would rise
+and take his father's place as Chief Wizard and leader of the
+Lormanites. However, Garret knew little of magic and even less of
+commanding an army. When he was young, his father sent him away to
+study abroad. He spent many years of study in the lands of Dunlock and
+Mar Talos. He did not have his father's skills in magic or leadership.
+When the city fell, he dressed as a pesant and fled into the
+wildnerness, where he was captured. He was sure the enemy would have
+discovered who he was and put him to death if I hadn't freed him.
+
+We tried to sneak around Crossway, but scouts spotted us and I was
+captured. I was drugged and taken south. I remember nothing since
+then. I do not know what became of the prince.
+</div>
+
+His story told at last, Endo falls asleep. Everyone else is still on a
+nighttime schedule. Most of them just got up a few hours ago, near
+sundown. They let Endo rest and retire to their rooms.
+
+Skeeve studies the sphere:
+
+![](images/orb_g4.gif)
+
+Since they fled Crossway they have been moving during the night, and
+sleeping during the day, hoping to "hide" their movements from the
+enemy. Now Skeeve discovers that this is the exact opposite of what
+they should be doing! They need to keep Mordan's orb in sunlight as
+much as possible, so that they can keep him in a weakened state as
+much as possible.
+
+He studies more:
+
+![](images/orb_e4.gif)
+
+So now they see what would happen if they did destroy the phylactery.
+It would kill thousands, weaken the owner, and then allow Mordan to
+possess the owner if they survived.
+
+Skeeve goes to Enoch and explains what he learned about needing to
+travel during the day.
+
+In the meantime, Enoch has translated another chapter of the book:
+
+<div class="document">
+**Part V: The Building of Fol Thron**
+
+*The following is a much reduced version of the history of Mar Tesoro
+between the rule of King Lorman and the rise of the second Dwarven
+King.*
+
+– Chronicler Norvus
+
+King Lorman ruled and mined Khelberg for twenty years, when he was
+assassinated by one of his own lieutenants, a human foreman named
+Ingol. Ingol was a brutal leader but did not have the insight and
+cunning of his former master. His chief enforcers were more Orcs than
+Humans, and he ruled by fear and cruelty.
+
+The Dwarves heard of the fall of Lorman and saw that Ingol was a weak
+leader. They attempted once again to reclaim Khelberg. Their forces
+landed on the southern shores of Mar Tesoro and pushed north. Few who
+worked in the mines were willing to fight to defend their cruel
+master, and Ingol was defeated before the end of the fifth year of his
+reign. As the war ended, many humans fled north and settled in those
+lands.
+
+In those days the mining had begun to take its toll on the valley. The
+mountain was now naked of trees and grass, and the water that flowed
+down from the hills was dark and filled with the dust and waste of the
+mines. The Greenlands turned gray, and crops failed. The inhabitants
+were obliged to move away from the foot of the mountain.
+
+The Dwarves built a great city southwest of the mountain and called it
+Fol Thron. They ruled from this place and sent many workers to live in
+harsh camps at the foot of Khelberg.
+
+Although they were invaded twice, the Dwarves held the mines for fifty
+years. Even when not facing full-scale invasion from Humans or Elves,
+they were regularly harassed by bands of Orcs from out of the North,
+who came often to raid shipments of food and gold.
+</div>
+
+### 13th of Last Summer, 1501dy
+
+In the morning Endo wakes and goes outside to stand in the sun.
+
+The party decides to spend another day in this town, with Skeeve
+studying the orb and Enoch studying the book. They hope the extra time
+spent in study will yield the answers they need on the road ahead.
+They also hope to change their sleep schedule so that they are no
+longer awake at night and asleep during the day.
+
+But first, it is pointed out to them that Endo has no money. In fact,
+the only things he owns are the pants he's wearing and the staff he's
+holding. Skeeve takes him shopping for basic supplies: Backpack,
+bedroll, food, and some basic commoner clothing. Endo spends the
+remainder of the day at rest, recovering from his ordeal of the last
+few weeks.
+
+In the meantime, Thordek meets with Magistrate Stonefist and explains
+that they need travel papers for their two friends. The dwarf offers
+travel papers for 500 gold a piece. They pay, and the papers are drawn
+up.
+
+The day passes. Enoch completes work on another chapter:
+
+<div class="document">
+**Part VI: Notes on Geographical Names**
+
+*The name "Khelberg" is simply the Dwarven rendering of "The Mountain"
+in Common Speech. This seems an odd name for the Dwarves to have
+chosen, given their habit of naming mountains after the Dwarf who
+first discovered, owned, or mined them. Perhaps Khelberg was so great
+in their minds that they did not think any of their names would be
+worthy, and so left the mountain "nameless" by calling it Khelberg.*
+
+*It should also be noted that Khelberg is not a single mountain, but a
+small cluster that is roughly horseshoe-shaped. It was the custom of
+both Dwarves and Elves in the Earlier Days to name the hills in groups
+this way. It is said that the Dwarves had names for each of the peaks
+within Khelberg, although I have not found any record of them. The
+other races that dwell there now have continued the habit of referring
+to the entire group as Khelberg, as if it were a single mountain.*
+
+*In the center of the crescent is a wide flat valley. Of old it was
+simply called "Greenlands" by the Elves, although that name was
+dropped once it ceased being green. As the valley turned gray and
+filled with gravel and brackish water, the city was largely abandoned
+and became little more than mining camps. At one time the elves (when
+they had control of Khelberg) gave the camps the name Della Minera
+("The Mining Valley", in Common) and the name remained, although the
+Elves did not.*
+
+*Other notable names on the island include Tal Podere, (in Elven, "the
+Farmlands"), Tal Lengo (in Elven, "the woods"), Valle Calma (in Elven
+"Silent Valley"), and Fol Thron (in Dwarven "Strong Throne").*
+
+*The island itself is still called by its original name Mar Tesoro,
+which means (very roughly) "Treasures Island", or perhaps "Island of
+great value". Is it possible that the Elves were aware of the gold and
+gems in the mountain, yet chose to leave them be? Or is the name
+speaking of the value of the island as a place to live, and not of the
+riches it contained? It is impossible to know, as the legends from
+those days are few and unreliable.*
+
+*Another curious fact is that although Elves and men have captured the
+city of Fol Thron many times, it has never been renamed. It has been
+the capital city of many empires, yet still bears its original Dwarven
+name.*
+
+– Chronicler Norvus
+</div>
+
+The party reads over this latest section of the book. It is not as
+helpful as they might have hoped.
+
+Skeeve studies as well. He spends his time outside, making sure to
+keep the orb in daylight so as to keep Mordan in a weakened state.
+
+![](images/orb_o4.gif)
+
+While they wait, they have a long debate on the rules of Mordan's
+Phylactery. They discuss various plans, such as dropping it into the
+ocean, having the owner commit suicide, burying it, and various other
+things that could be done (not that any of them is seriously
+contemplating suicide) to defeat Mordan forever. They examine the
+rules Skeeve has uncovered so far, looking for a weakness or a
+loophole they might exploit.
+
+The conversation ends without arriving at any answers. Skeeve studies
+the orb again, and unlocks the final secret:
+
+![](images/orb_k4.gif)
+
+He can now study the orb without revealing his position to the Lich.
+However, since this was the last secret, he no longer needs to study
+it. Still this explains how the undead monsters have found them each
+night: For the last several days they have been keeping the orb in
+darkness and studying it regularly so that Mordan would always know
+where they were. They were actually helping him.
+
+> To sum up the challenges of defeating Mordan:
+>
+> * He was once the most feared and terrible rulers of this island.
+>   This is a big deal, since there have been a lot of rotten tyrants
+>   here over the centuries. He was a wizard (Lich) of such vast power
+>   that he could take on armies.
+>
+> * It took several of the most powerful heroes in the world to defeat
+>   him last time around, and even then they only managed to imprison
+>   him, not destroy him.
+>
+> * He's a Lich, so if he's defeated he will simply rise again the
+>   next day, at the location of his Pylactery. (the Orb Skeeve has)
+>   The only way to keep a Lich from rising again is to destroy his
+>   Phylactery, but this one is trapped in such a way that it will
+>   kill almost everyone within 100 miles if it's destroyed.
+>
+> * He's lost an undetermined portion of his former power. He needs to
+>   reclaim the orb in order to recover this lost power.
+
+Late afternoon becomes early evening. At this point they have been
+awake for a long time. Having remained awake all day, they now retire
+for the night. Tomorrow they plan to head south.
+
+### 14th of Last Summer, 1501dy
+
+They wake after midnight. They plan to leave when the sun comes up. While they wait, Enoch studies and obtains another chapter:
+
+<div class="document">
+**Part VII: The Middle Years**
+
+*This section will highlight the middle years of Mar Tesoro. Again, a
+full account would fill many books but the record of conquest is given
+here in order to complete the timeline of this book. The reader should
+be aware that this list is very brief and leaves out many important
+figures and events. True students of history should consult other
+volumes to learn about these events in detail.*
+
+- Chronicler Norvus
+
+The Dwarves held the mines for fifty years, enduring two sieges and
+many Orcish raids from out of the north before finally falling to the
+Elves.
+
+The Elves appointed a king, who was assassinated within weeks, and
+then replaced by King Loemus. Loemus survived two attempts on his
+life, one from human assassins and one from among his own advisers. He
+was maimed in the second attempt, and as time went on he became more
+paranoid. He executed countless people he suspected of plotting
+against him. His purge was so vigorous that work stopped in the mines
+for some time because he lacked competent leaders.
+
+The kingdom of Loemus collapsed on itself and many other forces moved
+in to seize the mines. From here a proper account of ownership becomes
+difficult. War raged around the mountain for several years, and more
+than once there were multiple factions mining from from different
+sides of Khelberg.
+
+After a decade of fighting, a Human female named Rhone gained the
+mastery in the conflict, aided by a large group of Wizards. They drove
+the other forces from the mountain, captured Fol Thron, and set up a
+Mageocracy. This was the most diverse and stable government the land
+had known since the fall of Ellas Morad and the original
+Mountain-Elves.
+
+It was during this time that the Mage Wars raged in Dunlock. As that
+war ended, the Guild of Mages was formed. (See also, The Mage Wars
+Vol. III and the charter for the Guild of Mages) Since members of the
+guild were generally discouraged (but not prohibited) from making war
+openly with one another, this had the effect of strengthening the rule
+of Mistress Rhone. If anyone sought to oppose or oust her, they could
+usually only attract non-guild mages, who were generally weaker or
+less disciplined.
+
+Mistress Rhone was, by all accounts, the most peaceful and patient of
+all the leaders of Khelberg. While she put down many rebellions, she
+had a habit of imprisoning her foes instead of the usual policy of
+public execution that had been the norm for centuries. During her
+reign she fought two successful wars against foes attempting to
+reclaim Khelberg, and finally died of an unknown poison after ruling
+for thirty years.
+</div>
+
+They have breakfast and prepare their horses for travel. As the sun
+comes up, they see a crowd has gathered at the northern gate. Some
+people are weeping and there seems to be some trouble. Thordek heads
+over and speaks to the Magistrate, who is waiting at the gate, looking
+tense.
+
+Magistrate Stonefist explains that two strange creatures attacked
+during the night. They tried to enter the town in secret, were
+discovered, and a battle ensued. The creatures took the lives of two
+of the guards before they were slain. Then one of the guards, who was
+clearly dead only moments before, rose up and attacked his former
+friends. Once defeated, all three bodies were taken to a field north
+of town and burned.
+
+The magistrate described the creature as a gaunt humanoid with massive
+claws. Thordek recalls the creatures they fought in Dockhouse days
+earlier.
+
+Thordek offers assistance, but the Magistrate declines. There is
+nothing more to be done at this point. After saying their goodbyes
+they set out, heading south. They have seven party members, yet only
+threee horses. They leave town with people taking turns walking and
+riding.
+
+The party travels south until dark, and finally makes camp along the
+road.
+
+They have traveled at walking speed heading toward Hillstead. It is
+getting dark and they decide they need to make camp. Skeeve suggests
+they have a full camp with a campfire, and that two people stand watch
+instead of just one. Enoch consecrates the ground and a fire is built.
+Throughout the night, Skeeve has a creepy feeling – as if someone is
+watching him.
+
+The night passes without incident.
+
+### 15th of Last Summer, 1501dy (Morning)
+
+Skeeve wakes in the morning, sweaty and full of dread. He dreamed that
+some black-cloaked being was standing watching, beckoning him to
+relinquish the orb. In his dream Skeeve stood still, frozen with fear
+until finally he handed over the orb. He wakes and finds the orb is
+still at his side. Skeeve quietly tells Enoch about the dream, but no
+one else.
+
+Thordek notices Skeeve's obvious panic when waking and asks him about
+it. Skeeve doesn't tell him anything.
+
+Endo gets up and wanders around the camp, stretching and doing one
+single push-up. Endo is still weak and recovering from his ordeal. He
+does seem to be getting stronger, though.
+
+They review the map:
+
+![](images/map_mar_tesaro.gif)
+
+They determine they are probably halfway from Tal Podere to Hillstead.
+They proceed south.
+
+They head south. The hills roll by at a steady pace as the day slips
+by. To the east is the great expanse of evergreens known as Pinestaff.
+To the southeast they can see the foreboding peaks of Khelberg
+reaching up beyond the rolling blue-green of Pinestaff. To the south
+they can see the woods eventually give way to smooth green fields.
+
+After a few hours they come to a fork in the road. They consult the
+map and head toward Hillstead. At about mid-afternoon they crest a
+hill and they see the village of Hillstead below. The huts seem small.
+They ride into town and find it to be a halfling village. This is
+obviously a farming community, with many farms dotting the surrounding
+countryside.
+
+There is a standard detachment of Alidian guards at the entrance to
+the city: A group of bored Ailidian soldiers, and four elite guards.
+After their papers are checked, they are granted entry into the city
+proper.
+
+The "streets" of the city are simple dirt paths that wind around the
+clusters of tidy cottages and small gardens. Many homes have a ribbon
+of smoke that drifts upward from the chimney. The smell of food is in
+the air as the halflings ready their evening meals. The town is quiet
+and unhurried. The party is greeted with polite but uninterested
+smiles if they are noticed at all.
+
+They check into the inn, which is small by the standards of most
+towns, although here it towers over the other buildings. There are
+"big people" rooms available, although the rooms still feel quite
+small to the humans in the group.
+
+Enoch settles in to study his book.
+
+Skeeve visits the Magistrate Witman, who is a stout old Halfling.
+Skeeve asks if there are have been any attacks on the town by undead.
+Whitman is amused by this, and makes it plain that this town sees
+little in the way of excitment. Skeeve also tries to see if perhaps
+Garret came through here. He asks carefully if a lone human, a young
+adult male, has passed this way. The Magistrate hasn't seen anyone
+like that lately. Lone travelers are rare these days, and a young
+human passing through would certainly have caught his notice.
+
+In the meantime, Thu'fir and Thordek visit the blacksmith, hoping to
+get some new gear. Their hopes are dashed when they see that this
+blacksmith concentrates on plows, horseshoes, farming tools, and other
+uninteresting items. He has little in the way of battle gear, and what
+he does have is fairly basic. Thu'fir is annoyed. He's been looking
+for a grapple hook since they left Joland Vallage, and can't believe
+that such a simple item is so difficult to obtain.
+
+However, the blacksmith does have one thing that catches their eye: a
+horse. The blacksmith owns a single, patchy, old, sick-looking horse.
+It is a sad, droopy beast with patchy black and grey fur.
+
+Thu'fir inspects the animal. While old, it isn't dying. It could
+certainly bear a rider, albeit at a slow pace. Thu'fir negotiates a
+price of 200g for the sick horse, which is named Thunder. They pay for
+the horse and leave.
+
+They retire for the night at the inn.
+
+### 16th of Last Summer
+
+In the morning they leave the town of Hillstead. They make much better
+time today, since they now have enough horses so that everyone can
+ride. Two people ride each of the Alidian horses, and Beck rides
+Thunder alone.
+
+During the journey they see more traffic on the road. Some are single
+horsemen, speeding past them without a word; doubtless Alidian
+messengers of some sort. They also see merchants and other travelers
+heading both north and south. Thet can sense they are drawing nearer
+to the capital city to the south.
+
+After midday the road turns east. Directly south is a vast expanse of
+grasslands. In the distance they can see the dark outline of the
+towering Citadel. The map tells that it lies on the other side of a
+river. They could cross the grasslands and walk over the river (with
+Enoch's help) but then they would be obliged to abandon their horses.
+Instead, they elect to follow the road east and cross over the bridge.
+This will take them many miles out of their way, and prevent them from
+reaching Fol Thron today, but it will let them keep their horses.
+
+They finally come to the river. This is obviously the river that flows
+from the feet of Khelberg to the western sea. A great stone bridge,
+obviously old and of Dwarven make, spans the wide, slow river. A small
+camp is built on the southern side of the bridge, and a dozen soldiers
+stand guard on the bridge itself.
+
+Their papers are carefully inspected before they are allowed to
+proceed.
+
+The grass on this side of the river looks pale and unhealthy. The
+trees are sparse, small, and twisted. Everything seems to be drained
+of color and life. The grey slopes of Khelberg loom large to the east.
+
+As the sun sets, they come upon Della Minera, which is obviously a
+human-built mining camp. The western side of town is a collection of
+various businesses that cater to travelers. There is a large inn, a
+tavern, some stables, and other places where travel goods might be
+purchased. The east side of town is a simple collection of shanty
+buildings near a fire pit and a latrine. Between these two halves of
+the town is a large fence, watched by guards. The party infers that
+the eastern side of town is inhabited by slaves who work the mines.
+
+They decide to stay at the inn. Thu'fir goes to the blacksmith and
+asks about a grappling hook. He's been trying to get his hands on one
+since they faced the trap doors in the Wizard's lair outside of Joland
+Village. He hasn't been able to find one for sale until now. When he
+finds they are for sale here, he buys two – along with a good supply
+of rope. He won't be caught unprepared again.
+
+During the night, Skeeve has another nighmare in which Mordan asks him
+for the orb, and he relinquishes it.
+
+### 17th of Last Summer
+
+Skeeve wakes, shaken from his latest nightmare. He tells Enoch about
+what he saw in the dream.
+
+The party memebers meet in Enoch's room to plan the day. Enoch reveals
+that during the night he was able to translate another chapter of the
+book:
+
+<div class="document">
+**Part VIII: Archmage Mordan**
+
+Mistress Rhone never married or had any offspring, so at her death her
+post fell to Archmage Mordan, her chief military adviser. Mordan
+arrested many foreigners travelling in his lands, including many
+diplomats. He imprisoned and tortured them, saying they were spies. He
+sent many antagonizing messages to various Dwarven and Elven leaders,
+and did many other deeds to provoke his enemies. While Rhone had
+sometimes avoided open war when possible, Mordan sought it out at
+every opportunity.
+
+Even his harshest critics admitted that he was without equal at the
+business of warfare. He was a great seer, and could at many times view
+the future actions of his enemies. Within months he had utterly
+exterminated the Orcs to the north. He initiated and won a number of
+wars against both Elves and Dwarves, and conquered the northern lands
+of Mar Tesoro, bringing the entire country under his rule.
+
+While Rhone was among the most gentle of leaders to sit in Fol Thron,
+Mordan was without question the most ruthless. The common workers in
+the mines became slaves, which were worked ceaselessly. Mordan decreed
+that the slaves should work so hard that a third should die each year.
+He replaced the lost slaves with the captured soldiers he won in his
+many battles, and with peasants taken from the farms of the north.
+
+The people of the city fared little better. Laws were brutal under his
+rule, and many perished in his dungeons for the most trivial offenses.
+He could enter the minds of his subjects, see their thoughts and vex
+their dreams. Any that might oppose him in secret were known to him,
+and soon driven mad with visions and nightmares.
+
+Mordan was a student of history, and knew too well how briefly other
+rulers had held their position as master of Khelberg. He said many
+times that he planned to be the final master of Khelberg, and that
+none would supplant him.
+
+The years of his rule grew long. He surpassed a hundred years of age,
+and although he was thin and gaunt, he retained the vigor of youth. He
+became reclusive, and ran his empire through his servants, who were
+all mighty wizards in their own right. They did his will, spreading
+his cruelty and malice as far as his power would allow.
+
+The years drew on, and the wealth of the mines was used to expand the
+city. The palace grew, a great trench was dug around it, and was
+filled with water from the nearby lake. This new moat was filled with
+many watery beasts and fell creatures of the deep, so that none dared
+approach the palace for fear of being dragged from the bridge by some
+unseen horror. The palace was then renamed the Citadel, and began to
+look unlike the great fortress the Dwarves had built. It was dark and
+twisted, and few dared to lift their eyes to look upon it, even in the
+daytime.
+
+The power of the Archmage Mordan far surpassed that of any other,
+until there were none that dared challenge him in battle. His foes
+relented, and drew back. After centuries of war, Khelberg at last
+belonged to one man alone, uncontested.
+</div>
+
+It makes them uneasy to read of Mordan, even in the light of day.
+However, it is a relief to see the time they've invested in the book
+is finally paying off, and they are learning about their new foe.
+Enoch estimates that the book is about halfway complete. They are
+eager to learn more, but decide to push on to Fol Thron instead of
+lingering here for more studying.
+
+The party heads downstairs where they find Beck in the dining area,
+having an animated conversation with a one-legged man. The man looks
+hard and shabby, and is dressed like the slaves that inhabit the
+eastern side of town. Beck has evidently bought this man a beer and is
+questioning him. As the rest of the party comes downstairs, they can
+hear the man telling Beck a story...
+
+As he leans in his chair he rambles on, "...day I wanted to see what it
+would be like if I left the helmet off. I wanted to see what the place
+looked like, and what went on while we were wearing the helmets. So I
+didn't put my mining helmet on all the way. I sort of held it over my
+head. Everyone else had put them on like they were supposed to, so
+they were just mindlessly marching into the mines. I got behind them
+and followed them in.
+
+"It wasn't until I was inside that I realized the truth: There are no
+lights in that mine. Nothing. Quick enough I got lost in the darkness,
+and had no choice but to drop the helmet onto my head. That evening I
+‘woke up' outside the mine, tired, just like I did every other day.
+When we took off our helmets, we didn't remember a thing from what
+we'd been doing in the mines. It seemed like we'd just put the helmets
+on a moment before, except we'd be exhausted."
+
+At this point Beck sets is mug down and asks, "Okay, fair enough. But
+what happened to your leg?"
+
+The man draws a deep breath, "Oh, THAT day. Well, we're used finding
+ourselves at the end of the day with lots of cuts or bruises. Of
+course, we didn't feel it until we took the helmet off. So, every day
+when I dropped the helmet on my head in the morning, I'd wonder what
+I'd find when it comes off again in the evening. Sometimes I'd find
+meself outside with a bad gash, and found I'd I bled all over myself
+while I worked. Some times I'd have a big scrape or bruise or
+maybe..."
+
+"Or a leg missing?", Thu'fir added, now that they had joined the two
+men at the table.
+
+"Yeah. I took the helmet off and almost passed out from the pain. I
+looked down to see I'd broken my leg. It had snapped just below the
+knee. The terrible part was that it looked like I just kept working
+the rest of the day with the broken leg. By the time the helmet came
+off the bottom of my leg had been ruined."
+
+The man smiles, "At the time I thought this was a bad deal, but now
+I'm useless in the mines and I don't have to work there anymore. So it
+was really the best thing that ever happened to me. Of course, now
+they gimmie other duties. These days I stay in town and make rope. And
+right now, they don't need no more rope, so it looks like the Queen's
+willing to feed me just for sitting around all day doin' nothing.
+Thats agreeable enough to me."
+
+They all drink on this point.
+
+Thu'fir then asks, "So are these the same sort of helmets that are
+worn by the Queen's special guards?"
+
+The man shruggs, "I wouldn't know, I've never tried one of those on.
+They LOOK different, though. Our mining caps just cover the tops of
+our heads and come down to our cheekbones. They look more or less like
+regular mining caps except they are too long, and cover the eyes. Most
+of use like it because you do a full days work without having to do
+the work, if you take my meaning. We just put on the hats, and at the
+end of the day they come off and we're just tired and hungry."
+
+He takes another drink and continues, "Of course, it wasn't all good.
+sometimes we'd get to the end of the day and find we'd lost somebody.
+We'd have no idea how or where, or what happened to them. They were
+just gone. Probably trapped in the mines someplace or killed. For all
+we know, we could be marching over them every day while we work."
+
+Thu'fir then asks, "Does your mining camp mine for gems or gold, or
+what?"
+
+He shruggs again, "I don't know. By the time we remove the helmets,
+someone has come and emptied the carts. We can see we dug up
+SOMETHING. The carts have bits or rock and dust in them, but whatever
+we were mining has been taken away by the time the helmets come off."
+
+"Where are you from?" Thu'fir asks.
+
+"I'm from Woodhurst, to the north. We got conquered about nine months
+ago. Since I was a soldier, they carted me off, and put me here. I
+should be grateful, though. Most times, when you get conquered, you
+get killed. But they let me live. Then I got a lucky break. My leg got
+broken and then got all nasty and infected and had to get cut off."
+
+"Oh yes. Very lucky.", Thordek adds wryly.
+
+"Well, I fared a lot better than some..."
+
+Thu'fir agrees, "I'd rather sit in town weaving rope than spend twelve
+hours a day being mindless."
+
+> This is a rare instance when I took the time to actually transcribe
+> our roleplaying, instead of just writing a summary. This makes the
+> story a lot more interesting, although its also very time consuming.
+
+They wish the man well and get ready to leave. They intend to head
+west, for the capital city of Fol Thron. They gather the horses and
+prepare for the day's journey.
+
+### 17th of Last Summer (Morning)
+
+The party sets out, heading for the capital city of Fol Thron to the
+west. The road between Fol Thron and Della Minera is very busy. They
+are in the heart of the Alidian territory now, and they see many
+people along the road as they travel.
+
+Fol Thron is a massive, sprawling city full of stone towers and
+bridges. If Dwarves were to make a habit of building cities above
+ground, they would doubtless look much like this one. Canals carry a
+bit of the river through the city in key areas, where mills and other
+enterprises might make use of its strength.
+
+The city is a semicircle, built in concentric rings eminating from the
+dark Citadel on the northern edge of town, along the river. Most of
+the major streets converge on a central district just in front of the
+Citadel.
+
+Eomer the Rogue, Thordek the Fighter, Enoch the Cleric, Thu'fir the
+Blade Lord, Endo the Monk, and Beck the (former) first mate of Ocean's
+Majesty, all enter the town on horseback. As they enter, their papers
+are examined and they are questioned thoroughly by the gate guards. At
+last they are allowed to pass.
+
+Once inside, they stable their horses. The party intends to head for
+the central district and see what use they can make of the few hours
+of daylight they have left.
+
+Beck bids them good-night. There are shabby (but affordable) lodgings
+available here near the gates of the city. Despite the generous
+donations the others have given him, he still prefers to live
+meagerly, hoping to save as much as possible. His mind is still on
+Talla and the coming baby, and he wants to make sure he has enough to
+provide for them.
+
+The others wish him well, and head down the broad cobblestone street
+that leads to the heart of the city. More than once bridges cary the
+street over the canal as it winds through the buildings. As they
+proceed, the buildings change from simple two-story human dwellings to
+ornate and impressive structures owned by various businesses or the
+governing body of the city.
+
+At last they reach the central square (which, as in Crossway, is
+called such despite being circular) and stare upwards in wonder. They
+are now at the feet of the great dark Citadel of Fol Thron. The
+building bears the frame of Dwarven make, although many sharp spikes
+and pointy towers have been added on since the initial construction,
+giving the place a malevolent appearance. Many bridges and balconies
+cling to the sides of the towers as they reach ever upwards. While it
+once had many hundereds of windows looking outward, they have now all
+been bricked over or covered with sharp plates of metal, embossed with
+the symbol of Queen Alidia:
+
+![](images/flag.gif)
+
+The citadel seems to be on an island all by itself. All around it is a
+deep, empty chasam. A lone bridge, blocked by a single massive door,
+allows travel from the central square to the gates of the Citadel. The
+doors are shut and guarded by a group of severe Alidian soldiers.
+
+Also in the square is the tower of the Mage's Guild. It is a simple
+spire of brown stone, crowned with what looks like an observatory. In
+any other setting it would have looked tall and impressivle, although
+it looks diminutive in the presence of the Citadel.
+
+Elsewhere they see the Archives; the city library, a church of
+impressive proportions, a sprawling inn with many wings, and a number
+of unidtentified government buildings. Around the edges of the square
+are several specialty shops and booths.
+
+Eomer and Endo check into the Inn. Endo in particular looks tired and
+in need of rest.
+
+Skeeve heads for the Mage's guild. Thu'fir and Thordek look for a
+blacksmith. Enoch visits the Archives.
+
+The city Archives is a simple building of smooth grey stone positioned
+opposite the Citadel. It is easily the largest library on the island.
+Inside, the gloomy light of late afternoon drifts in through the many
+tall narrow windows, forming fingers of light through the dusty air.
+There is the murmur of hushed voices from among the shelves of books
+as Enoch enters. To his left is a large circle of chairs that seems to
+be some sort of council meeting area. A large set of windows encircles
+the chairs, wrapping them in pale afternoon light. Opposite this area
+is the scribarium, where a dozen or so young alcolytes work in
+silence, making copies of books that have become worn or damaged.
+Directly ahead is the library proper, where towering shelves of books
+stand beneath the great arched ceiling above.
+
+As Enoch enters, one of the keepers emerges from the shadows and bows
+respectfully. His deep voice intones, "Welcome your holiness. How may
+I be of service?"
+
+Enoch casts his eyes about the place, unsure of where he should start.
+At last he answers, "Well, I'm interested in books."
+
+The keeper raises and eyebrow, "Indeed. Well we do have some books
+here. What sorts of books might you be looking for?"
+
+"Well, any books dealing with defeating Mordan?"
+
+The keeper chuckles, thinking Enoch is speaking in jest, "Oh indeed. I
+suppose if I were after Mordan I might need some help as well. But
+come, what is it that you truly need?"
+
+Enoch insists, "I really do need books on Mordan", and then after a
+moment's reflection, ""For a... project I'm researching."
+
+The keeper is a bit alarmed at this, but nevertheless he leads Enoch
+back into the maze of towering shelves. After a polite moment he
+finally asks, "If I may sir – Why are you researching... him?"
+
+Enoch follows as they wind their way, deeper into the library, "I've
+been working on translating a book."
+
+The keeper is intrigued by this, "Oh indeed? What sort of book?"
+
+Enoch produces the Book of Norvus and shows it to him.
+
+When his eyes fall on the book, the keeper is delighted, "The
+mysterious book! You've managed to make some headway!", he thumbs
+though the translated pages, "More than half of it, by the looks of
+things. This is quite exciting. Councilman Relnar will be delighted."
+
+He stops and gestures about the library, "Most of the members of the
+council have tried their hand at the book, and none of us could manage
+to crack it. Everyone has their own theories about what the work
+contains. I myself suspect that it is a recent copy of a very ancient
+work. But wait. Let me summon what council members are available and
+you can tell us what you've found."
+
+Enoch is a bit irritated by this. He was hoping to find help in
+translating the rest of the book, not give an account of what he'd
+already done. He says nothing, and lets the keeper have his way.
+
+A council convenes. They meet in the circle of chairs near the large
+windows. Out of the sixteen available seats, less than half are
+filled. Councilman Relnar welcomes Enoch and bids him sit with them.
+
+He begins, "So, I understand you've manged to translate some of our
+mysterious book. You know, there's a reward if you're able to complete
+it. This book appeared here, mysteriously, about two years ago. Most
+of us have tried our hand at translating it and failed. I have to
+admit that we have been keen to know what secrets it held. The fact
+that we did not know the source of the book and could not make any
+headway with it only fed our curiosity. Eventually I sent it north,
+along with the offer of a reward, in hopes that other scholars might
+find the book and have better luck with it. So tell us, Enoch servant
+of Pelor, what have you found? What is the origin of this mysterious
+tome?"
+
+Enoch stands, "Well, I found the book was written, or at least
+translated, by someone named Chonicler Norvus."
+
+At the mention of this name several of the council members become
+irritated or even openly outraged. They all begin speaking at once.
+
+After a few moments Enoch tries to get some sort of explanation.
+Relnar waves his question aside and asks, "Very well. So what is the
+book about?"
+
+Enoch looks down at the book, "Well, it looks like the history of your
+island..."
+
+One of the other keepers interjects, "Let me guess... a collection of
+folklore?" The others begin laughing.
+
+Enoch isn't quite sure what to make of this. Finally Relnar exclaims,
+"Exile was too good for him." Others nod in agreement.
+
+Relnar turns to Enoch an explains, "What you have there my friend is a
+book of banned folk tales, a bunch of heresy and nonsense, set down by
+a former collegue. He has written this work against both the rules and
+wishes of this council, in an effort to propigate the ridiculous tales
+it contains."
+
+Another keeper inquires, "But why did he write it in such a strange
+and archaic form? Why not set his story down plainly?"
+
+Relnar answers, "Isn't it obvious? He did so to conceal the work from
+us."
+
+The keeper nods in annoyance, "Yes, yes. But then why did he plant the
+book here among us, if he were trying to hide it? And what good is the
+tale if he writes it in a language that none can read?"
+
+Relnar dismisses the question, "Simple enough. The man was a fool. We
+sould not be surprised when such a man perpetrates foolish deeds. In
+any event, the archaic language did not conceal the meaning from this
+outsider. Norvus has managed to pass his heresy onto our guest here."
+Relnar then turns to Enoch, "I am sorry you were misled by this. If we
+had any idea that this book was of Norvus' doing, we would never have
+sent it abroad, much less offered the reward. Of course, I will not go
+back on my word. If you complete the translation, I'll still give your
+the reward, although I can't imagine anyone being interested in it."
+
+Relnar shakes his head in disappointment, "What a shame. We really
+thought the book held some great mysteries."
+
+Enoch asks, "So what makes you believe this is just folklore?"
+
+Relnar frowns at him, "Well, just to start: A mountain that curses
+people? This doesn't stike you as particularly absurd?"
+
+Enoch is now defiant, "Have you looked at your country recently?"
+
+Several members snicker, others bristle at his words. There is a long
+silence. At last Relnar responds, "Well friend, believe what you like.
+I should warn you that these stories are banned by the Queen. They do
+not cast her in a good light, and you would do well to keep them to
+yourself."
+
+Relnar then gestures to one of the empty chairs, "Chronicler Norvus
+once stood here and debated this with us at length. I doubt you will
+have anything new to add to his arguments. Now that I recall, it was
+six months after we dismissed his arguments that this mysterious book
+appeared on our shelves, was passed around and eventually sent north.
+How disappointing. Well, he's in exile now, so hopefully we've seen
+the end of his mischief."
+
+The talk then turns to the business of the translation itself. Enoch
+reveals that his knowledge of a few obscure Dunlock forms was what
+enabled him to understand the difficult script. Relnar offers a few
+books (on loan) from the library that should aid Enoch in finishing
+the book. These books help illuminate some of the other difficult
+languages in the book, and will greatly speed his efforts.
+
+Enoch then asks where Norvus might be.
+
+Relnar shrugs, "I'm sure I have no idea. We threw him out. Havn't
+heard from him since."
+
+"Is he still around here? I mean..."
+
+"Heavens, we threw him out of the room, not the country! We're not
+barbarians. He's still a learned man, I'm sure he's made use of
+himself somewhere..."
+
+"Telling fairy tales!", interrupts another keeper.
+
+"Writing children's stories!", cries another.
+
+The room disolves into derisive laughter.
+
+Enoch thanks them for their time and turns to leave. As he walks out,
+Relanr gives him a final request, "Good luck to you sir. If you do
+find him, give him our best and, you know, drop a few coppers into his
+cup for us."
+
+Enoch strides out of the room as the council again breaks into
+laughter.
+
+### 7th of Last Summer (Evening)
+
+Enoch retires to his room for the evening and sets to work translating
+the book. With the aid of the reference books on loan from the
+Archives, he is able to make amazing progress. Over the next few hours
+he manages to translate three new chapters of the book:
+
+<div class="document">
+**Part IX: The Grave Walkers**
+
+*Much of the following information is guesswork on my part. A great
+deal of knowledge was lost during this period, and some facts are now
+beyond the reach of any historian. The reader should be aware that I
+stand by all of the following as being as accurate as possible, yet
+incomplete.*
+
+- Chronicler Norvus
+
+The reign of Archmage Mordan reached its hundredth year. At length
+people began to wonder if he had died, and his assistants only
+pretended he yet lived. Mordan had not been seen in over twenty years,
+and had long since passed the natural lifespan of his kind. For the
+first time since his rule began, a small group of slaves dared to
+challenge their masters and seek freedom. They broke from their prison
+in Della Minera and sought the open country to the north.
+
+It was then that Mordan at last revealed himself. No longer a man, he
+was now the unliving master of Khelberg: Mordan the dread Lich King.
+He appeared amidst the fleeing slaves and slew them with a single
+word. They gave up their spirits and fell at his feet. Within the hour
+their bodies had risen again to become the first of his most fearsome
+servants. They were the Grave Walkers, the terrible footsoldiers of
+his lifeless army. He slew many in this way, both foe and servant
+alike, and their ranks grew.
+
+At length he discovered that the more bitter his victim's death, the
+stronger and more viscous they were in unlife. He took many Elves and
+Humans and tormented them for years before allowing them to die. He
+invented many new spells and potions to aid him in extending the lives
+of his victims and intensifying their agony. So it was that each
+generation of Grave Walkers was more fearsome than the one before.
+
+He took all of the people of the north and brought them south as
+slaves. The men were sent to work in the mines, while the women were
+made to live in Della Minera and used like cattle for the breeding of
+more slaves. The children were taken within the Citadel and taught to
+worship the Lich King as a god.
+
+A decade passed and the first of Mordan's children emerged from the
+Citadel. They were twisted and cruel, and wielded many strange magics
+in his name.
+
+The work in the mines increased, and great smelting furnaces were
+built on the mountainside to purify his gold and silver. Day and night
+they burned, until the sky above the mountain was the color of ash.
+
+Despite his boundless supply of gold, the peoples of other nations
+refused to trade with him, for he would take what he wanted from any
+ship that came close to his shores. The ships he would plunder and
+sink, while their crews were sent to his mines to work until they
+died. He grew bold, doing all he could to provoke war and make
+enemies. Even the evilest of creatures feared to serve him, for he
+held all life in contempt.
+
+The gold and riches of the mountain were hoarded deep within the
+Citadel, where none could reach them or put them to use. He proclaimed
+loudly that the riches of the world were hidden within his Citadel for
+any that had the courage to face him. Heroes emerged at the rumor of
+treasure, and many adventurers traveled to Mar Tesoro to attempt to
+unseat him. All were slain and added to his army of Grave Walkers. He
+feared no foe in all the Earth.
+
+As the power of the Lich King continued to grow beyond measure, the
+other nations of the world began to wonder if he did not plan to
+conquer all. The Elven kings of southern Dunlock joined together, and
+called on their sometime enemies of the north to join with them
+against this common threat, before Mordan became too strong for any to
+oppose.
+</div>
+
+<div class="document">
+**Part X: Tomb of The Lich King**
+
+The armies of Dunlock, from the greatest to the least of its kingdoms,
+gathered together to give one final challenge to Mordan the Dread
+Lich. Elf and Dwarf, Human and Halfling, all met the armies of Mordan
+at the foot of the cursed mountain. The Grave Walkers marched into
+battle along with many slaves and fell beasts under the control of of
+Mordan. The battle lasted many weeks, and unspeakable magic was
+unleashed on both sides.
+
+The Dunlock forces, led by the Elven Songmage Lucan Forwinol, at last
+had the mastery. Mordan's forces were pushed back and then
+annihilated. Forwinol advanced and captured – at the expense of many
+lives – the once-great Citadel.
+
+Forwinol knew Mordan was undefeatable as a lich. If slain, his form
+would re-appear at the next sundown. The only hope was to find and
+destroy Mordan's Phylactery, the container of his life-force.
+
+Most Lich would hide such an item, but Mordan was proud and cunning,
+and his Phylactery was on display at the Citadel. And then Forwinol at
+last saw why Mordan was so fearless: The Phylactery was trapped with
+many spells so that none would dare destroy it.
+
+Forwinol was wise and learned in magic, and saw a way to defeat the
+Dread Lich without breaking the Phylactery. Instead he added to the
+spells of the Phylactery, making a new binding spell that would hold
+Mordan when he re-appeared after a defeat.
+
+A tomb was built in an empty valley north of the mountain. The
+Phylactery was then used to seal his prison. When all was ready, the
+armies met and defeated Mordan himself, at the cost of many lives.
+When he rose again, his form took shape within the tomb sealed with
+his own Phylactery. He was trapped, and could not escape without
+destroying his own Phylactery, and thus himself. He had been
+outsmarted.
+
+But Lucan Forwinol knew this was not enough. Someday one of the many
+Children of the Citadel may seek to free him, or the tomb forgotten
+and hapless adventurers discover it. So Forwinol had added one final
+touch: Whoever freed Mordan would be the subject of one final binding
+spell. This spell would place Mordan's power on the head or heads of
+whoever freed him. He would not be able to recover his former might
+until he killed them.
+
+Thus, any that freed him would be doomed. Not even his most loyal
+followers would accept unlife as a Grave Walker to free their master.
+Warnings were engraved in many languages and placed about the entrance
+to his tomb, and a great stone slab was placed over it.
+
+Mordan was forever trapped, and none would dare to free him. At last
+the mighty Lich was defeated.
+</div>
+
+<div class="document">
+**Part XI: The Triumvirate of Fol Thron**
+
+While Lucan Forwinol brought Mordan to his final defeat in the north,
+his allies in war had secured the great city of Fol Thron. Forwinol
+had taken no plunder, save for the Phylactery of the Lich King. No
+other treasure touched his hands.
+
+Yet so great was the rumor of treasure in the Citadel that many heroes
+came fourth and challenged the depths of the fortress. The treasure
+was recovered and taken away, the moat drained, and the many evil
+spells and traps of the place were removed.
+
+Then began a great debate over who should be the new master of the
+mines. Forwinol proclaimed to his allies that the place was wholly
+evil and cursed, that they should set aside the plunder, return to
+their homes, and leave the mountain empty.
+
+But those that had fought so hard for the prize were slow to release
+it. Seeing that the debate would lead to war, he proposed that the
+strongest of the forces should each appoint a leader, and that they
+should rule together as a triumvirate. Forwinol then decided that his
+work was done, and returned to his homeland in Mar Talos.
+
+The triumvirate was made from three great leaders: For the Dwarves,
+King Konal Stonefist, the Elves had Mistress Myran Allidia, and the
+Humans had King Pallas Lorman.
+
+Lorman was descended through many generations from the King Lorman of
+old, the first human King of Khelberg. Like his grandsire, Pallas
+Lorman was a strong leader as well as a fearsome commander of arcane
+magic.
+
+The Dwarven King Konal Stonefist was the first to betray the
+triumvirate. During the twentieth year of their reign, he gathered in
+secret many Dwarves and tried to make Fol Thron his own. The other two
+leaders joined and defeated him.
+
+The remaining two leaders distrusted one another, and accused each
+other many times of various plots and schemes. Lorman at last rallied
+many humans to his side, and tried to wrest control of the Citadel
+from Allidia. He caught her unawares, and used many strange magics
+against her. She survived his ambush, but was blinded in the attack.
+Her own forces rallied. Yet another war was fought. Lorman was
+defeated and fled north with his followers, where his family still
+rules to this day.
+</div>
+
+Having completed this work, Enoch goes to sleep for the night...
+
+### 17th of Last Summer (Evening)
+
+At the same time Enoch is visiting the Archives, Skeeve visits the
+Mage’s Guild.
+
+The Fol Thron branch of the Mage’s Guild is a simple spire of brown
+stone, crowned with what looks like an observatory. In any other
+setting it would look tall and impressivle, although it looks
+diminutive in the presence of the great Citadel.
+
+The building is closed to all non-members, save for a few runners,
+(young boys who loiter in the vestibule and wait for the chance to
+deliver messages or goods around the city in exchange for a few
+coppers) so Skeeve’s membership is examined carefully before he is
+allowed to enter.
+
+The interior is ornate and comfortable. The floor is covered in fine
+red carpet, and there are many expertly crafted chairs arranged in the
+lobby area. As in the Archives, there is an impressive arc of windows
+along one wall, filling the room with daylight. This main room seems
+to be a place for reading and quiet conversation. A spiral stairway
+leads up from this room as well, although Skeeve does not see where it
+leads.
+
+He meets a few of the local wizards. They seem to work here in the
+city, although Skeeve doesn’t learn who employs them or why. Skeeve
+stands by the window and listens in on some local politics. It seems
+several of the senior members of this guild office are excited about
+the recently-won war. They are looking into opening up a new Guildhall
+in Fort Boland once the post-war cleanup is complete. The conversation
+seems to center on what sites would be most suitable for this, and who
+would be in charge of it.
+
+Skeeve meets a few prominent members and makes polite conversation,
+but doesn’t learn anything of real value. He doesn’t mention the orb
+or Mordan.
+
+Having learned little, he bids the other wizards good-night and heads
+back to the inn. Enoch shares the most recent chapters that he’s
+translated, which they ponder for a while before going to bed.
