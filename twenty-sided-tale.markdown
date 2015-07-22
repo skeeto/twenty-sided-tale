@@ -6693,22 +6693,22 @@ plan to capture him and see what information they can extract from him
 before he dies.
 
 > The debate took place out-of-character, which is how all long
-> converations end up. Let’s sum up the important points:
+> converations end up. Let's sum up the important points:
 >
-> * Eomer thinks her reasoning for sending them to kill Noreeno doesn’t
+> * Eomer thinks her reasoning for sending them to kill Noreeno doesn't
 >   make sense. They spend some time trying to figure out what her true
 >   motive is.
 > * Everyone agrees that killing Noreeno is a good move.
 > * They all agree that they should try to torture some info out of
->   Noreeno before he dies. (Enoch can’t really agree to this
->   in-character, since he’s a Cleric. But he’s willing to turn a blind
+>   Noreeno before he dies. (Enoch can't really agree to this
+>   in-character, since he's a Cleric. But he's willing to turn a blind
 >   eye while the others do this, with the understanding that this will
 >   serve the greater good.)
 > * Beck should ride with them when they go north. They know the port is
 >   closed (because of the burning ships) so there is no point in him
 >   trying to escape the island.
 > * They wonder about the cleric that served Noreeno back in Crossway.
->   Will they have to face him? Is he aware of his master’s true
+>   Will they have to face him? Is he aware of his master's true
 >   motives? Is the cleric himself evil?
 > * Skeeve missed this conversation: Dan was out picking up the Pizza.
 
@@ -6726,7 +6726,7 @@ village of Hillstead. This is obviously a farming community, with many
 farms dotting the surrounding countryside. There is a standard
 detachment of Alidian guards at the entrance to the city: A group of
 bored Ailidian soldiers, and four elite guards. After their papers are
-checked, they are granted entry into the village proper. The “streets”
+checked, they are granted entry into the village proper. The "streets"
 of the city are simple dirt paths that wind around the clusters of
 tidy cottages and small gardens. Many homes have a ribbon of smoke
 that drifts upward from the chimney. The smell of food is in the air
@@ -6740,7 +6740,7 @@ They check into the inn.
 ![](images/hillstead_inn.gif)
 
 The place is small by the standards of most towns, although here it
-towers over the other buildings. The rooms are made for “big people”
+towers over the other buildings. The rooms are made for "big people"
 although they still feel a bit small to the humans in the group. The
 building has but one main entrance, which leads into the tavern /
 dinning area. At this time of day the tables are mostly empty, but
@@ -6762,7 +6762,7 @@ tomorrow. They have a full day to formulate their plan, whatever it
 is.
 
 They conclude that Noreeno will certainly come to this town, unless he
-plans to sleep in the wilderness -which doesn’t sound likely. He will
+plans to sleep in the wilderness -which doesn't sound likely. He will
 doubtless have a number of men with him, as well as his cleric friend.
 This inn is the only one in town.
 
@@ -6775,44 +6775,44 @@ crowd into one room of the inn? Will they stand watch outside his
 room? Inside his room?
 
 They reserve every room in the inn except one. This means that when
-Noreeno shows up they know which room he’ll be in.
+Noreeno shows up they know which room he'll be in.
 
 Evening closes in, and as they hoped he shows up and checks into room
-4, which they left open. His bodyguards aren’t around. Perhaps they
+4, which they left open. His bodyguards aren't around. Perhaps they
 are staying outside the village, or rooming at the local barracks. If
-the Queen was correct and he’s traveling with a half dozen men, then
+the Queen was correct and he's traveling with a half dozen men, then
 it would be unlikely they would fit in the inn, even if the party
-hadn’t grabbed all of the other rooms. The party remains hidden in
+hadn't grabbed all of the other rooms. The party remains hidden in
 their rooms until nightfall.
 
-At midnight they gather outside of Noreeno’s window. Enoch casts
+At midnight they gather outside of Noreeno's window. Enoch casts
 silence on the area and Thordek smashes in the window (which makes no
 sound because it falls within the radius of the silence spell). He
 crawls in and finds Noreeno asleep in his bed, undisturbed. Just for
 safety, Thordek gives Noreeno a couple of good whacks with his mighty
-hammer, to make sure he doesn’t wake up. He then tosses the magistrate
+hammer, to make sure he doesn't wake up. He then tosses the magistrate
 out the window and they drag him out into the woods north of town.
 They manage to pull all of this off without rousing the town watch.
 
 > I thought they would waylay him on the road, but instead they bust
-> in on him at night. I’m not the sort of DM to punish players for
+> in on him at night. I'm not the sort of DM to punish players for
 > being clever or for finding holes in my plans, so this was easier
 > than I anticipated.
 
 They drag Noreeno out of town and tie him to a tree. They remove his
-ring and Thu’fir buries it nearby. Then they wake him up.
+ring and Thu'fir buries it nearby. Then they wake him up.
 
 > Now, I had no interest in roleplaying a torture session, which was
-> the next step here. I’m too squeemish for that. So I had Beck (an
-> NPC who was with the party) do the “asking” while everyone else
+> the next step here. I'm too squeemish for that. So I had Beck (an
+> NPC who was with the party) do the "asking" while everyone else
 > stood at a distance.
 >
 > I had the players list all the questions they wanted answered. I
 > assumed Beck was going to inflict as much pain on Noreeno as
-> possible, short of killing him. Hitpoints aren’t really suitable for
+> possible, short of killing him. Hitpoints aren't really suitable for
 > this, so I came up with a little ad-hoc system of intimidate checks
 > for Beck vs. willpower saves for Noreeno. If he failed the save, he
-> would answer one of the questions. Each time he “won” the willpower
+> would answer one of the questions. Each time he "won" the willpower
 > save and resisted talking, he would then have to make a forititude
 > save to stay alive through the susequent nastyness. I ran through
 > the list of questions over and over until he failed three forititude
@@ -6820,14 +6820,14 @@ ring and Thu’fir buries it nearby. Then they wake him up.
 > pretty proud of this, since I think it simulated what was taking
 > place and randomized what questions would get answered.
 >
-> Their most important questions went unanswered. This wasn’t DM
-> meddling, it’s just that they overestimated how much Noreeno knew.
-> He didn’t have any idea where the Magus Archives were, which Eomer
+> Their most important questions went unanswered. This wasn't DM
+> meddling, it's just that they overestimated how much Noreeno knew.
+> He didn't have any idea where the Magus Archives were, which Eomer
 > suspected was the base of operations for the Children of The
 > Cathedral. (This was the Lich-worshiping cult which Noreeno led) If
-> he didn’t know, none of them did.
+> he didn't know, none of them did.
 
-They learn that Mordan’s followers have been meeting in various
+They learn that Mordan's followers have been meeting in various
 basements and secret rooms throughout the kingdom. The meeting places
 are enchanted in various ways to keep out the prying eyes of the Queen
 and whatever spies she may employ. Beck learns the locations of some
@@ -6837,17 +6837,312 @@ Mordan is again set on conquering the mountain. Also: war and revenge.
 Not much of a surprise there, but it was good to have it confirmed.
 
 As the sun rises, Beck returns to the others from his grim night of
-work. He’s bloody and tired. He reports his findings to the others.
+work. He's bloody and tired. He reports his findings to the others.
 
-Morning comes and the town gets noisy. Noreeno’s men have discovered
+Morning comes and the town gets noisy. Noreeno's men have discovered
 his empty room and broken window. The alarm is raised in town and the
 town guards began to fan out and search for Noreeno.
 
 They make ready to leave and it dawns on them: Their horses are
-stabled back in town! They can’t hope to sneak into town in broad
-daylight to recover them. They can’t afford to hang around until
+stabled back in town! They can't hope to sneak into town in broad
+daylight to recover them. They can't afford to hang around until
 nightfall, or they will end up fighting with the town watch or the
 local soldiers who are now looking for the magistrate.
 
 As the the soldiers draw near, the party silently retreats into the
 woods and heads south on foot.
+
+## Session 10
+
+> For this session, let's look at the proceedings from the DM's point
+> of view.
+>
+> Each week I try to throw some challenge their way and see how they
+> handle it. Ideally, the challenge should arise from the ongoing
+> campaign. It should offer a chance to impact the country or local
+> town in a small way, and reveal the effects of the larger conflict
+> on the local population. I also try to force them into various
+> ethical challenges, just because I'm that kind of guy.
+>
+> For example, in our first campaign, the land was failing to produce
+> crops due to a curse. One week they were guarding a shipment of food
+> headed north into the blighted area. They were warned ahead of time
+> the robbers were along the road, and might try to steal the food.
+> However, when they encountered these "robbers" they saw that they
+> were simple farmers who were more or less starving to death. These
+> men had lived the furthest north (and thus their farms were the
+> first to fail) and had taken to the hills to try and steal from the
+> food shipments. They were clearly terrified of what they were doing,
+> but they were also malnourished and desperate. Combat-wise they were
+> only a minimal threat, although the correct course of action was not
+> obvious. The robbers really were stealing food headed for the town.
+> It didn't seem right to kill them, it didn't seem right to let the
+> men go to free to rob again, and it didn't seem right to give away
+> the food the party had been hired to protect. This wasn't a
+> clear-cut good / evil decision. A good-aligned character could make
+> the case for or against any of these options.
+>
+> But that was two campaigns ago. This week, I had a different
+> challenge.
+>
+> The party is headed for the town of Della Minera, a mining village
+> along the road to their destination. I'm pretty sure they will stop
+> there, and I have an NPC that will gently steer them in that
+> direction. They might skip the town and stick to the main campaign,
+> but probably not. So, I have a little sidequest waiting for them...
+
+> **The Setup**
+>
+> Some grave walkers have moved into the mining shafts and have begun
+> preying on the miners as they went in. As far as the miners knew,
+> they were going in to mine and lots of them weren't coming out.
+> Nobody on the outside had any idea what was going on or why people
+> weren't coming back out. They were just vanishing. About a third of
+> the miners never come back out.
+>
+> After a few days of this the miners flat-out refused to go back in.
+> The slavedrivers were faced with a nasty problem. They were under
+> clear orders to keep the gold coming as fast as possible. There is a
+> war on (two actually, at this point) and the Queen needs her gold to
+> fund the war machine. The slavedrivers were backed into a corner
+> now, and were faced with a tough choice: Kill the miners or let them
+> sit in the mining camp. Neither choice will lead to any mining
+> getting done. The only way to get the miners back to work is to kill
+> some of them. If the miners see that their odds of survival are
+> better inside the mines working as opposed to staying outside and
+> rioting, they might give in and go back to work. However, the last
+> thing the slavedrivers want to do is add to the growing casualty
+> list.
+>
+> What they really need to do is figure out what is killing the miners
+> and put a stop to it, if they can. However, their men are already
+> occupied with the increasingly difficult job of keeping the miners
+> under control. These soldiers are the dregs of the Alidian army (if
+> they were any good they would be taking part in the war, not stuck
+> in the mining camp, whipping slaves) and so they don't have the guts
+> to face the problem themselves, even if they had the manpower.
+>
+> **The Hook**
+>
+> A sidequest is no good if the players don't get involved. I never
+> force them, and in fact they do skip sidequests from time to time.
+> However, I need to grab their attention and give them the
+> opportunity to get involved if they choose.
+>
+> The players are on their way back to Fol Thron and stay at Della
+> Minera for the night. In the morning they hear the rioting, which
+> gets their attention. They come downstairs and run into one-leg, who
+> fills them in with the basic facts: Miners disappearing, the riots.
+> Once they have this conversation, they have a good idea of the setup
+> and can go about trying to solve the problem, if they choose.
+>
+> **The Challenge**
+>
+> So what should the players do? It goes without saying that they
+> really, really hate the idea of a slave camp. The slaves are mostly
+> Northerners (the Lormanites, who started the war) who were captured
+> and sent here to work. So, this is also a sort of POW camp. That's
+> not quite as bad as more general enslavement of civilians, but it's
+> still slavery and they still don't like it, even if the slaves are
+> probably jerks.
+>
+> The challenge I present here is that the players can ignore the
+> problem, which will lead to the deaths of the miners at the hands of
+> the guards and / or the yet unknown danger within the mines. Or, the
+> players can get involved and help solve the problem, which puts them
+> in the position of helping to keep the slave camp going. So, do you
+> let them die or help the slavedrivers? A tough choice.
+>
+> I usually have a few possible outcomes in mind when I make a
+> sidequest. In this case, I had the following:
+>
+> * The players choose not to get involved: The miners would have been
+>   killed off over the next week or so by both grave walkers and
+>   slavedravers. Since people slain by gravewalkers rise again as
+>   gravewalkers themselves, this would have created a nasty problem.
+>   It might have led to another sidequest in the future.
+>
+> * The players kill the gravewalkers: The miners are saved, and the
+>   players leave town with some cash and XP, secure in the knowledge
+>   that they helped keep the slave camps in business.
+>
+> * The players negotiate a solution: This would have been the most
+>   difficult, and would have required a trip to Fol Thron to pursuade
+>   whoever was in charge of the mines (I hadn't made a character for
+>   this yet, and in the end I didn't need to) that allowing a
+>   temporary halt in output was better than losing their workforce.
+>   This would have required lots of diplomacy and a few bribes. I
+>   would have given a larger XP reward for this.
+>
+> But as usual, they didn't do any of the things I expected.
+
+Eomer talks to the captain in charge of this mining camp. Eomer bluffs
+his way though this, making the captain think that the players were
+sent from Fol Thron to deal with the rioting and work stoppage. This
+is made easier by the fact that they do have papers proclaiming them
+to be in service on the Queen, and the fact that the captain would
+really rather let someone else handle this. They get a lot of license
+for how they want to handle the problem.
+
+The players have already decided they want the slaves free. Now they
+need to figure out how to pull it off.
+
+There isn't much in the way of fences. The prisoners are kept in place
+by keeping them on the edge of starvation. If they escaped, where
+would they go? It would be a long, hard trip north with no food and no
+supplies if they just ran off. They would need to stay hidden, and
+find some way to cross the river without using the bridge. So, their
+hungry bellies keep them from running off. Also, there is the very
+real threat of reprisals against their fellow slaves. If someone runs
+off, everyone else gets punished. These two facts keep the slaves in
+the camp.
+
+Enoch and Thordek head up the hill to the mines themselves. They
+journey inward. There are mine carts and some crude tracks at the
+entrance. Inside, the tunnel heads downward for a while before
+leveling off into several branching paths. Enoch is able to detect the
+evil auras of gravewalkers nearby. They head back outside and explain
+their findings to the others.
+
+> Sigh.
+>
+> I had a nice big dungeon all ready for them. It was a maze of mine
+> tunnels sprinkled with a bit of raw loot (gold and gems) and a few
+> grave walkers. Sadly, they didn't bite. It happens.
+
+They come up with a plan.
+
+Eomer gathers up a group of twelve slaves, which they learn is the
+size of a normal shift of workers. They lead these slaves up the
+mountain to the mine entrance. The guards stay at the camp. They trust
+Eomer to handle the slaves without allowing any of them to escape.
+
+At the entrance, the slaves flat-out refuse to go inside. Eomer
+explains that they don't have to. The party then hands over all of
+their food. The slaves take a few pickaxes from the tools nearby,
+which seems better than leaving empty-handed. The slaves have no
+knowledge of how the war went or where they might seek refuge. Skeeve
+shows them a map of where they are, and where the Alidian guards have
+their choke points on the road. They suggest to the slaves that Joland
+Village is a good place to go. Since their young men are gone, the
+slaves would be most welcome. The Alidians didn't bother to leave
+forces in the little village, so it will be a safe place for them to
+hide out.
+
+The slaves thank them and head down the northern slopes as fast as
+they dare.
+
+Having freed the slaves, all the party has to do now is conceal their
+crime. They take the remaining tools, drop them into the mining carts,
+and roll them down into the mines. Then they wait for twelve hours,
+and head back down to the mining camp.
+
+Eomer explains to the captain that the slaves went in and never came
+back out. He reports that their cleric has sensed some sort of evil
+creatures inside. The guards can only conclude that the creatures
+killed all the slaves.
+
+They could continue to run the camp with a high casualty count, but
+running it with a casualty rate of 100% is pointless. The captain is
+pretty scared now, since he is forced to report to his masters that he
+can't get anything out of the mines at this point.
+
+> Nice solution. They freed twelve slaves, and the rest won't have to
+> work the mines until Fol Thron sends a detatchment of soldiers to
+> clean out the mines. The players didn't even have to kill anyone.
+> Bonus XP for everyone. I think they got more than they would have if
+> they had gone in and hacked their way through the grave walkers. The
+> name of the game is being clever and thinking in-character, and that
+> is just what they did here.
+
+> From here on, the campaign is going to be very, very sketchy. The
+> audio recordings are lost, so all I have to go on are the notes my
+> wife took and my own fading memory. All I can do now is try to sum
+> up and bring some closure to this story, which I've left hanging for
+> far too long.
+
+The party leaves Della Minera and heads for Fol Thron. They pick up
+Endo, who has been hanging around town and keeping a low profile.
+There are conversations at the Mages Guild and elsewhere.
+
+> There were long conversations at the Mages Guild and at the Citadel,
+> but I have no recollection of what was said. They didn't go in to
+> see the Queen.
+
+They discuss their next move. They want to find the Mages Archives.
+They think (hope) it will have some clue as to what to do with Mordan.
+They have no idea where to look for it. Their only lead is that Prince
+Garret Lorman, who traveled with Endo for a while, might know where it
+is. Garret's father was King Dravis Lorman, ruler of the northern half
+of this island. Dravis started the war, and if the rumors are true he
+died in the battle of Fort Boland. According to Endo, Garret cares
+nothing for the throne, his former kingdom, or his place as heir. He
+has been schooled abroad, and his only goal now seems to be getting
+"home", which is back to wherever he was attending school. Somewhere
+off this island, anyway.
+
+Endo doesn't know where Garret is. The two of them were fleeing south
+when the Alidian soldiers attempted to arrest them in Crossway. Endo
+fought them so that Garret could escape. Their goal was to get off the
+island. Where would Garret go after Endo was catpured? They check the
+map:
+
+![](images/map_mar_tesaro.gif)
+
+They have been to Tal Podere and Hillstead. Garret would stick out too
+much in the Halfling-dominated Hillstead. He wasn't in Tal Podere when
+the party stopped there for a few days, and that would be an unlikely
+hiding place. Dockhouse was much too small to enter unnoticed, and Sar
+Diga seems a bit too out-of-the-way. He wasn't in Della Minera on any
+of their visits to that town. He (hopefully) isn't stupid enough to
+try to hide right under the Queen's nose here in Fol Thron. So, he
+much be someplace south. Since he was trying to escape the island, it
+would make sense to head for Telwin Port. The party decides to look
+for him there.
+
+> Now I remember what they did at the Citadel. They got new horses
+> from Fulan.
+
+They ride south. The trip takes two days, and is uneventful.
+
+Beck has been looking ragged and run-down recently, but as they near
+the town he smells the ocean and perks up. He leaves them and heads to
+the docks to find work. It appears as though a ship is currently under
+construction.
+
+They mill around town and look for Garret. (Prince Lorman) There they
+find that Garret is in jail. Apparently he was in the tavern when
+someone spoke ill of Dravis Lorman. He unwisely defended his father's
+honor (at least he had the wit to leave out the fact that Dravis was
+his father) and lost badly. The man he attacked was a nobleman, and so
+Garret was tossed into jail for one month, or until he could come up
+with the unlikely sum of 15 gold.
+
+The players bail him out. As he sees Endo, he cries out, "Sensei!" and
+hugs him. Endo stands with his hands at his sides, embarrased. This is
+not how you greet a stoic monk. Furthermore, he's uncomfortable with
+being called Sensei, particularly by a kid who just lost a fight with
+a nobleman.
+
+Garret is a young man, not yet twenty. He's young, eager, and naive.
+His head is all stubble right now. Apparently he shaved his head
+recently, probably before he was thrown into jail. Everyone notes
+Endo's baldness and sees that the kid is emulating his reluctant
+"master".
+
+They grill Garret about the location of the Magus Archives. As they
+guessed, he does know where to find it. It is in the far southeast of
+the island.
+
+They rest for the night. Beck decides to take a job on the docks,
+working on the ship being built there.
+
+> Yeah. We're up to three NPCs traveling with the party: Becl, Endo,
+> and Garret. It's getting crowded. So, I make up an excuse and park
+> Beck here in Telwin Port. Actually, this makes a lot of sense for
+> him.
+
+The rest of the party leaves town, taking Garret with them. They
+strike east, heading for the small town of Washport. They arrive
+without incident. There are no roads going East from here, so they pay
+to have the horses stabled and plan to proceed on foot.
