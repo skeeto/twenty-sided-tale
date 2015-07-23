@@ -56,13 +56,6 @@ body > p {
     margin-bottom: 1em;
 }
 
-pre {
-    white-space: normal;
-    margin: 1.5em 0 2.5em 2em;
-    font-family: 'Droid Mono', monospace;
-    font-size: 80%;
-}
-
 .figure {
     margin-bottom: 1em;
     text-align: center;
@@ -123,10 +116,6 @@ blockquote p {
     .figure img {
         max-width: 8in;
         max-height: 5in;
-        page-break-inside: avoid;
-    }
-
-    pre {
         page-break-inside: avoid;
     }
 
