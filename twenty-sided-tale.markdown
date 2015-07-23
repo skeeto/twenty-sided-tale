@@ -47,7 +47,7 @@ campaigns other people come up with. If you blog a campaign like this,
 please email me and let me know. I'd love to read what you have, and
 I'd be glad to add you to the links.
 
-## Mar Tesaro
+# Mar Tesaro
 
 Mar Tesaro is the setting of our current campaign. It is a large
 island (It would take a little better than a week to walk from the
@@ -61,7 +61,7 @@ It is apparently a very large and valuable mountain that contains a
 lot of precious metals and gems. From what the party has gathered, the
 war seems to be over who should control the mountain.
 
-## Introduction
+# Introduction
 
 The characters are in the town of Golgotha. It is late in the month of
 Suncrest (July). They just helped the city fend off an army of undead,
@@ -414,7 +414,7 @@ none of his friends (the other players) would be harmed. The paladin
 produced a massive axe, saying he planned on killing the abomination
 (Yoeg) with it's fathers own axe.
 
-The fought, and Yoeg killed the paladin. He then took his father's axe
+They fought and Yoeg killed the paladin. He then took his father's axe
 as his own.
 
 At the end of our first campaign, Yoeg remained in Grey Moor.
@@ -580,9 +580,9 @@ I became the DM again, keeping Endo as an NPC that traveled with the
 party. The party sailed for Mar Talos, but got shipwrecked on Mar
 Tesaro, which our third campaign is now taking place.
 
-## Session 1
+# Session 1
 
-### 22nd of Suncrest, 1501dy
+## 22nd of Suncrest, 1501dy {.date}
 
 The unlikely band of heroes waits impatiently at the inn, for what
 they do not know. The town, Golgotha, is swarming with mercenaries but
@@ -749,7 +749,7 @@ Nobert takes leave when he finishes eating, saying he is needed on
 deck. The others go to work for a bit then retire to their quarters
 for the night.
 
-### 23rd of Suncrest, 1501dy
+## 23rd of Suncrest, 1501dy {.date}
 
 The next day is clear and bright. Around noon the party, all about
 their duties, hear a ruckus on the deck. There they see a big crowd
@@ -780,7 +780,7 @@ numerous cuts, bruises, and one rather large lump upon the head, wakes
 immediately, grins a wide, toothy grin, and shouts, "Congratulate me
 boys, I'm getting married!" The crew all cheers.
 
-### 24th of Suncrest, 1501dy
+## 24th of Suncrest, 1501dy {.date}
 
 The next day arises, sleepy and full of sun. The seas sits calmly,
 gently rocking the old boat. The party assembles over their evening
@@ -791,7 +791,7 @@ himself and his pet sword. He goes on and on about the number of
 people he had killed with it, though when questioned they find that
 the number is rather smaller than his bragging implies (namely 11).
 
-### 25th of Suncrest, 1501dy
+## 25th of Suncrest, 1501dy {.date}
 
 The next day is rainy, a steady chill drizzle, in which the crew works
 steadily in alternating wind and rain.
@@ -821,7 +821,7 @@ swirls, cutting and slicing.
 
 Skeeve decides to go practice his flying.
 
-### 26th of Suncrest, 1501dy
+## 26th of Suncrest, 1501dy {.date}
 
 The next day there is much talk amongst the sailors about Crolman as
 he seems to be very disturbed and more confused and upset than usual.
@@ -853,7 +853,7 @@ it as he felt for it.
 Enoch then goes back on deck to tell the others about the latest, more
 complete news on the coming storm.
 
-### 27th of Suncrest, 1501dy
+## 27th of Suncrest, 1501dy {.date}
 
 The next morning the captain announces that they are drawing close to
 Fort Bolland, and should reach it by morning. There is a storm
@@ -1073,7 +1073,7 @@ hungry, and thirsty, barely holding on in the midst of the storm.
 
 As the night draws on, the storm relents.
 
-### 28th of Suncrest, 1501dy
+## 28th of Suncrest, 1501dy {.date}
 
 Dawn comes at last to show that most of the crew has drowned. Many
 bodies are face-down in the shipwreck-filled water about them. As the
@@ -1182,7 +1182,7 @@ rest. Thu'fir starts a fire and the rest go to sleep. Thu'fir heads
 about 100 yards toward the conquered town (west) to watch for any more
 activity.
 
-### 1st of Last Summer, 1501dy
+## 1st of Last Summer, 1501dy {.date}
 
 At 1 am the party sets out on the road. They follow it to Breakshore.
 
@@ -1263,7 +1263,7 @@ the soldiers.
 > establish the plot. Next session they will be free to act as they
 > see fit.
 
-## Mar Talos
+# Mar Talos
 
 Mar Talos is home to the Elves. Other races are not allowed to roam
 the land, and must remain in the capital / port city of Talosport. It
@@ -1279,9 +1279,9 @@ along well with other races.
 Mar Talos has benefited over the last 100 years with him as the
 leader. The island is strong, prosperous and secure.
 
-## Session 2
+# Session 2
 
-### 2nd of Last Summer, 1501dy (late morning)
+## 2nd of Last Summer, 1501dy (late morning) {.date}
 
 Skeeve and Enoch have a conversation with the head priest. Apparently
 Alidian solders now roam the land, which is under martial law.
@@ -1653,7 +1653,7 @@ better. They argue about which way Endo might have gone, and if he
 would want them to follow him. Eventually they decide on the south
 way, over Tinderward. They sleep.
 
-### 3rd of Last Summer, 1501dy
+## 3rd of Last Summer, 1501dy {.date}
 
 At dawn they set out. Beck awakens but doesn't seem to be too hung
 over. He doesn't say anything about the night before.
@@ -1761,7 +1761,7 @@ The party relents and checks into the inn.
 > I need a better way to give them a sense of fatigue. These guys are
 > heroes, not gods.
 
-### 4th of Last Summer, 1501dy
+## 4th of Last Summer, 1501dy {.date}
 
 At morning they gather and interview a few people. They learn that the
 children saw a man in a robe with a beard. That is the extent of what
@@ -1881,7 +1881,7 @@ It was not a fortified structure, at any rate.
 Walking around the structure, they find two sets of cold stone steps
 leading down into the basement.
 
-## Grey Moor
+# Grey Moor
 
 ![](images/map_grey_moor.gif)
 
@@ -1923,9 +1923,9 @@ At the end of our first campaign, the players had founded a new city,
 knocked a nobleman out of power, and established the council of Grey
 Moor.
 
-## Session 3
+# Session 3
 
-### 4th of Last Summer, 1501dy (early morning)
+## 4th of Last Summer, 1501dy (early morning) {.date}
 
 The day is overcast. Above ground this church is destroyed. All that
 remains is a two-foot wall making the outline where the building once
@@ -2174,7 +2174,7 @@ time someone puts his weight on them.
 > just messing with them. I dropped a few hints by going over the
 > events and they figured it out.
 
-### 5th of Last Summer, 1501dy
+## 5th of Last Summer, 1501dy {.date}
 
 Four hours after the party began their rest, Eomer rouses the them
 with a yell, "Hey, I heard something!"
@@ -2429,9 +2429,9 @@ rot in his workshop.
 Everyone rests and wake up around 5 am. Enoch sets about healing
 everyone, and they decide to return to town.
 
-## Session 4
+# Session 4
 
-### 5th of Last Summer, 1501dy
+## 5th of Last Summer, 1501dy {.date}
 
 It is early morning. The group is ready to leave the dungeon and is debating whether to wake the kids now or in town. Eomer doesn't want to carry the children, but Skeeve doesn't want to deal with frightened, crying children. They decide to take them back to town first, then wake them. Thordek considers taking the powder in a skull then decides against it.
 
@@ -2552,7 +2552,7 @@ brambles.
 
 Thu'fir stays awake to keep watch.
 
-### 6th of Last Summer, 1501dy
+## 6th of Last Summer, 1501dy {.date}
 
 The night passes, Thu'fir doesn't notice anything. Skeeve wakes and
 Thu'fir goes to sleep. In the late morning Skeeve hears some noise
@@ -2788,7 +2788,7 @@ Khelberg, and they set to mine deep into the mountain and take its
 treasures.
 </div>
 
-### 7th of Last Summer, 1501dy
+## 7th of Last Summer, 1501dy {.date}
 
 It's morning. All were up late and trickle into the tavern around
 nine. Beck is very hung over. Eomer explains what he saw. He wants
@@ -3121,9 +3121,9 @@ Eomer returns to the Inn. They have a free day to spend in town, and
 then they must head off to Vale Calma to meet with Magistrate Noreeno
 and find out what job he has for them...
 
-## Session 5
+# Session 5
 
-### 7th of Last Summer, 1501dy (Late Afternoon)
+## 7th of Last Summer, 1501dy (Late Afternoon) {.date}
 
 Enoch heads back to the Inn. He plans to spend the evening translating
 another chapter of the old book they found. This takes about five
@@ -3269,7 +3269,7 @@ now.
 
 They finish their drinks and head off for bed at the Inn.
 
-### 8th of Last Summer, 1501dy
+## 8th of Last Summer, 1501dy {.date}
 
 They party begins the day by getting ready for their trip tomorrow.
 Skeeve now has a membership to the mage's guild, which means he can
@@ -3365,7 +3365,7 @@ and will arrive at dawn according to the agreement.
 Since they will be getting up very early, they head right to bed to
 get what rest they can.
 
-### 9th of Last Summer, 1501dy
+## 9th of Last Summer, 1501dy {.date}
 
 In the early hours of the morning Eomer arrives at the field where
 they are to meet Noreeno at dawn. It is empty. He conceals himself in
@@ -3395,7 +3395,7 @@ As dawn comes the other members of the party arrive in the field to
 meet Noreeno and his men. Eomer sneaks up behind him and then joins
 his friends.
 
-### 9th of Last Summer, 1501dy (Early Morning)
+## 9th of Last Summer, 1501dy (Early Morning) {.date}
 
 The party stands with Noreeno and his men in the grassy fields of Vale
 Calma.
@@ -3722,7 +3722,7 @@ bigger and more dangerous than they imagined.
 
 They get into their agreed positions, and wait.
 
-### 9th of Last Summer, 1501dy (Near Sunset)
+## 9th of Last Summer, 1501dy (Near Sunset) {.date}
 
 At last, as the sun drops to the horizon and sunset approaches,
 Noreeno arrives. He and a force of ten soldiers arrive at the opposite
@@ -3874,9 +3874,9 @@ only a few hours of sleep over the last few days, but they want to put
 some distance between themselves and the city before they can consider
 rest.
 
-## Session 6
+# Session 6
 
-### 9th of Last Summer, 1501dy (Night)
+## 9th of Last Summer, 1501dy (Night) {.date}
 
 Everyone is very tired. Eomer most of all. They left the city of
 Crossway about a half an hour ago and have been riding south at a
@@ -3909,7 +3909,7 @@ of what they should do next. They review the map...
 midnight they have to ride over an arching bridge, taking them into
 Central Mar Tesaro.
 
-### 10th of Last Summer, 1501dy
+## 10th of Last Summer, 1501dy {.date}
 
 At about 2:30 am they come to Dockhouse. The entire "town" is a
 collection of four buildings. Down by the lakeshore there is a
@@ -4000,7 +4000,7 @@ hard feelings that would be best healed by distance.
 They head north, out of town. Tal Podere seems to be the next closest
 town, so they head in that direction...
 
-### 11th of Last Summer, 1501dy (Midnight)
+## 11th of Last Summer, 1501dy (Midnight) {.date}
 
 They travel west, heading for the town of Tal Podere. As morning draws
 near, they pass a number of the Queen's elite guards walking along the
@@ -4185,7 +4185,7 @@ each death.
 
 Enoch works on the book, but doesn't manage to translate a new chapter.
 
-### 12th of Last Summer, 1501dy
+## 12th of Last Summer, 1501dy {.date}
 
 Morning comes and the party continues in their habit of sleeping during the day.
 
@@ -4237,9 +4237,9 @@ weight. Since he was all muscle before, this is a bad thing. He is
 tired and shaking. They let him sleep. The account of his travels will
 have to wait until morning.
 
-## Session 7
+# Session 7
 
-### 12th of Last Summer, 1501dy (Late evening)
+## 12th of Last Summer, 1501dy (Late evening) {.date}
 
 Pat was late due to work. So his character (Eomer) isn't going to do
 or say much for the first half of the session.
@@ -4372,7 +4372,7 @@ they were regularly harassed by bands of Orcs from out of the North,
 who came often to raid shipments of food and gold.
 </div>
 
-### 13th of Last Summer, 1501dy
+## 13th of Last Summer, 1501dy {.date}
 
 In the morning Endo wakes and goes outside to stand in the sun.
 
@@ -4495,7 +4495,7 @@ Late afternoon becomes early evening. At this point they have been
 awake for a long time. Having remained awake all day, they now retire
 for the night. Tomorrow they plan to head south.
 
-### 14th of Last Summer, 1501dy
+## 14th of Last Summer, 1501dy {.date}
 
 They wake after midnight. They plan to leave when the sun comes up. While they wait, Enoch studies and obtains another chapter:
 
@@ -4590,7 +4590,7 @@ watching him.
 
 The night passes without incident.
 
-### 15th of Last Summer, 1501dy (Morning)
+## 15th of Last Summer, 1501dy (Morning) {.date}
 
 Skeeve wakes in the morning, sweaty and full of dread. He dreamed that
 some black-cloaked being was standing watching, beckoning him to
@@ -4673,7 +4673,7 @@ the horse and leave.
 
 They retire for the night at the inn.
 
-### 16th of Last Summer
+## 16th of Last Summer {.date}
 
 In the morning they leave the town of Hillstead. They make much better
 time today, since they now have enough horses so that everyone can
@@ -4727,7 +4727,7 @@ of rope. He won't be caught unprepared again.
 During the night, Skeeve has another nightmare in which Mordan asks him
 for the orb, and he relinquishes it.
 
-### 17th of Last Summer
+## 17th of Last Summer {.date}
 
 Skeeve wakes, shaken from his latest nightmare. He tells Enoch about
 what he saw in the dream.
@@ -4904,7 +4904,7 @@ They wish the man well and get ready to leave. They intend to head
 west, for the capital city of Fol Thron. They gather the horses and
 prepare for the day's journey.
 
-### 17th of Last Summer (Morning)
+## 17th of Last Summer (Morning) {.date}
 
 The party sets out, heading for the capital city of Fol Thron to the
 west. The road between Fol Thron and Della Minera is very busy. They
@@ -5156,7 +5156,7 @@ cup for us."
 Enoch strides out of the room as the council again breaks into
 laughter.
 
-### 7th of Last Summer (Evening)
+## 7th of Last Summer (Evening) {.date}
 
 Enoch retires to his room for the evening and sets to work translating
 the book. With the aid of the reference books on loan from the
@@ -5341,7 +5341,7 @@ rules to this day.
 
 Having completed this work, Enoch goes to sleep for the night...
 
-### 17th of Last Summer (Evening)
+## 17th of Last Summer (Evening) {.date}
 
 At the same time Enoch is visiting the Archives, Skeeve visits the
 Mage's Guild.
@@ -5382,9 +5382,9 @@ Having learned little, he bids the other wizards good-night and heads
 back to the inn. Enoch shares the most recent chapters that he's
 translated, which they ponder for a while before going to bed.
 
-## Session 8
+# Session 8
 
-### 18th of Last Summer
+## 18th of Last Summer {.date}
 
 Enoch begins the day by finishing work on the Book of Norvus. With the
 aid of the books on load from the Archives, he is able to make short
@@ -5496,7 +5496,7 @@ have to end this misery.*
 
 With the book complete, Enoch returns to the Archives for his reward.
 
-### 18th of Last Summer (Morning)
+## 18th of Last Summer (Morning) {.date}
 
 While Enoch works to translate the remainder of the book, Skeeve
 returns to the Mage's Guild to see if he can learn more.
@@ -5599,7 +5599,7 @@ suggests a forest fire. That idea is dismissed: Smoke would be rising
 up and dissipating, not gathering like a lot storm clouds over a single
 location.
 
-### 18th of Last Summer (Morning)
+## 18th of Last Summer (Morning) {.date}
 
 While Skeeve is at the Mage's Guild, Enoch visits the Archives to show
 them the completed book.
@@ -5709,7 +5709,7 @@ As evening falls, the Office of City Affairs closes for the evening,
 and the party is released. However, their travel papers are taken away
 and they are told not to leave the city.
 
-### 18th of Last Summer (Late Afternoon)
+## 18th of Last Summer (Late Afternoon) {.date}
 
 The party has spent most of the day dealing with various city
 officials, trying to get someone to hear their case and alert the
@@ -5764,7 +5764,7 @@ Tarvin assures him, "All will become clear when we meet there."
 The party discusses this and, with some hesitation, agrees to meet
 with the general.
 
-### 18th of Last Summer (Night)
+## 18th of Last Summer (Night) {.date}
 
 The address given by general Tarvin is well on the south side of Fol
 Thron. It is after dark as the party navigates the increasingly narrow
@@ -5926,7 +5926,7 @@ town. With the general unable to give his side of the story, the
 guards are more than happy to let them return to the inn while the
 city watch launches an investigation.
 
-### 19th of Last Summer (Morning)
+## 19th of Last Summer (Morning) {.date}
 
 In the morning, Skeeve wakes up and heads over to the observatory at
 the top of the Mage's Guild. The black cloud still clings to the
@@ -6057,7 +6057,7 @@ alarmed when his eyes fall on Eomer. He eyes dart around, looking for
 weapons within arms' reach. He grabs a bread knife and holds it
 between them, "Stand back!"
 
-### 19th of Last Summer (Morning)
+## 19th of Last Summer (Morning) {.date}
 
 Chronicler Norvus is a human, fiftyish, with a neatly trimmed
 mustache and a full head of short brown hair. He is tall and narrow,
@@ -6240,9 +6240,9 @@ smoldering under his forgotten teakettle.
 At last Norvus nods, as if coming to a decision, "I guess I'd better
 pack."
 
-## Session 9
+# Session 9
 
-### 19th of Last Summer (Afternoon)
+## 19th of Last Summer (Afternoon) {.date}
 
 They stand outside of the gates of the Citadel. They are in the
 central square, which is ringed with shops, city buildings, and
@@ -6341,7 +6341,7 @@ not going in together.
 They argue on this point, but Fulan seems to have little choice. They
 may either accept these terms, or leave.
 
-### 19th of Last Summer (Afternoon)
+## 19th of Last Summer (Afternoon) {.date}
 
 They stand in the open hallway for some time. The Citadel is silent.
 The only sounds come from the open market outside.
@@ -6533,7 +6533,7 @@ Their curiosity thus quenched, the Queen concludes the meeting with
 Thu'fir and Eomer. They bow and are led out by another of the Queen's
 veiled servants.
 
-### 19th of Last Summer (Afternoon)
+## 19th of Last Summer (Afternoon) {.date}
 
 Eomer and Thu'fir arrive back at the entry hall where the others are
 waiting. Once their eyes adjust to normal light they begin to relay
@@ -6594,7 +6594,7 @@ confusion for a moment. Is that it?
 When it is clear she has no more words for him, he takes his hammer
 and leaves.
 
-### 19th of Last Summer (Late afternoon)
+## 19th of Last Summer (Late afternoon) {.date}
 
 Back in the main hall, the other members of the party are surprised to
 see Thordek return so soon. In fact, Eomer has not yet finished giving
@@ -6746,7 +6746,7 @@ gift. When worn, it will shield your mind from the influence of
 Mordan. It will not keep him at bay forever, but it may delay madness
 if you wear it in your travels."
 
-### 19th of Last Summer (Evening)
+## 19th of Last Summer (Evening) {.date}
 
 Once Skeeve and Enoch emerge from the meeting with the Queen, Fulan
 meets them in the main hall. Their travel papers are returned. Fulan
@@ -6786,7 +6786,7 @@ before he dies.
 >   motives? Is the cleric himself evil?
 > * Skeeve missed this conversation: Dan was out picking up the Pizza.
 
-### 20th of Last Summer (Morning)
+## 20th of Last Summer (Morning) {.date}
 
 At dawn the party leaves town. With fresh supplies and Alidian horses
 they ride swiftly east. Hours pass. They turn north and ride past
@@ -6926,7 +6926,7 @@ local soldiers who are now looking for the magistrate.
 As the the soldiers draw near, the party silently retreats into the
 woods and heads south on foot.
 
-## Session 10
+# Session 10
 
 > For this session, let's look at the proceedings from the DM's point
 > of view.
@@ -7221,7 +7221,7 @@ strike east, heading for the small town of Washport. They arrive
 without incident. There are no roads going East from here, so they pay
 to have the horses stabled and plan to proceed on foot.
 
-## Session 11
+# Session 11
 
 The party loads up on supplies and then heads east from the town of
 Washport. The terrain ahead looks uneven and rocky, so they head out
@@ -7467,7 +7467,7 @@ unspoiled since then.
 It is getting dark. They prepare a modest meal sleep on the bare
 floor.
 
-## Session 12
+# Session 12
 
 > Here we are at a pivotal session in the campaign. We played for five
 > hours, and the notes I have cover less than a paragraph. Sigh. I
@@ -7705,7 +7705,7 @@ And what effect will the mountain's eruption have on everyone?
 They have many questions, but they are a two day's journey from the
 answers. First things first. They rest.
 
-## Session 13
+# Session 13
 
 The party spends four days in the Mages Archives. They take a generous
 and well-deserved rest. There are many challenges ahead, but they
@@ -7954,7 +7954,7 @@ They then head downstairs and report that their work is complete. They
 are paid for their trouble, and then head for the Citadel. They plan
 to meet with the Queen this time.
 
-## Session 14
+# Session 14
 
 Having sorted out the problems at the Mages Guild and recovered some
 interesting books, they proceed to the Citadel. Endo takes Garret to
@@ -8062,7 +8062,7 @@ that night. His forces were numerous, why would he signal the retreat?
 Dawn comes and everyone rests. The puzzle will have to wait until
 tomorrow.
 
-## Session 15
+# Session 15
 
 Three days later the Dwarven army arrives, backed by the last of the
 Alidian soldiers. Mordan has pulled his army back and has not
@@ -8301,7 +8301,7 @@ everyone involved.
 Beck decides to sail with Sagemaster, who will be stopping at Grey
 Moor on his way home. He is at last going to get home and marry Talla.
 
-## End of the Tale
+# End of the Tale
 
 I want to say that I'm very happy to see the D&D campaign record
 completed. Recording the campaign was the original purpose of this
@@ -8328,11 +8328,11 @@ in the wrap-up post.
 
 Thanks again for reading.
 
-## Missed Adventures
+# Missed Adventures
 
 This is all the stuff that got left out.
 
-### Upper Bolwood
+## Upper Bolwood
 
 When I do wilderness travel, I sort of make it a branching maze. For
 example: "You are in a broad clearing. From here you can go east into
@@ -8352,7 +8352,7 @@ Upper Bolwood was one such maze, with Ettins at a few of the map
 points. I'd googled around and had pictures for every map point. They
 managed to route around all of this.
 
-### Goblin Hills
+## Goblin Hills
 
 The weather hills were infested with Goblins, who loved to build traps
 and ambushes. They were another wilderness maze, although almost every
@@ -8369,7 +8369,7 @@ through Upper Bolwood OR the Goblin territory, forgetting that with
 Enoch's help they could walk on water. They skipped Upper Bolwood,
 then crossed the river and dodged the Weather Hills.
 
-### Carrow Valley Curse
+## Carrow Valley Curse
 
 West of Crossway is the Carrow Valley. Early in the island's history a
 battle was fought here between the Lormanites and one of the other
@@ -8387,7 +8387,7 @@ the details of this adventure, since by session 2 it was obvious they
 were not going to be coming this way, and they were not in the mood to
 explore.
 
-### The Gibbet
+## The Gibbet
 
 In my original plans, the road into Fol Thron was lined with gibbets
 like the one you see on the right. The men in the gibbets were
@@ -8431,7 +8431,7 @@ itself. So, I didn't describe the cages on the way in. Dang. The Mines
 As I mentioned in session 10, the mines had a maze and some grave
 walkers to fight, but they routed around it.
 
-### Prison Break
+## Prison Break
 
 In my original plans, they were going to have to bust Garret out of
 prison if they wanted to free him. (Or sneak into jail and get the
@@ -8439,7 +8439,7 @@ info they needed.) But by the time they got to Telwin Port I felt like
 they were getting restless, so I made it possible to just bail him out
 for a few gold.
 
-### Dwarven War
+## Dwarven War
 
 I'd planned for the Dwarves to arrive after Mordan was defeated. They
 were originally going to land in Warfield (just north of Fol Thron)
@@ -8463,7 +8463,7 @@ Dwarves even arrived.
 
 The more I think about it, the more I like the ending we got.
 
-## Unanswered Questions
+# Unanswered Questions
 
 Here is my third and final wrap-up post on the D&D campaign. Hopefully
 this will answer the last remaining questions anyone might have.

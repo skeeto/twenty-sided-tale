@@ -4,10 +4,6 @@ blockquote {
     margin-left: 0.5em;
 }
 
-.level2 {
-    page-break-before: always;
-}
-
 .document {
     margin-left: 1em;
 }
