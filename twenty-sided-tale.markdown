@@ -882,7 +882,6 @@ sign of an eye with a thorn through it.
 
 ![This is the image on the flag seen flying over the city.](images/flag.gif)
 
-
 Fort Bolland has been defeated.
 
 The captain concludes the south has conquered the town. Their only
@@ -1345,7 +1344,6 @@ Enoch notices that some of the old text seems to be an old form of
 common from Dunlock, his homeland. He gives it a try. A few hours
 later, he has managed to translate the following:
 
-
 <div class="document">
 **Part I: The Mountain Elves**
 
@@ -1458,7 +1456,6 @@ Gereg draws a quick map of his house.
 > session I forgot to take a picture before erasing it. So, I created
 > a rough copy on graph paper to post here on the site. Otherwise, the
 > following text would just be too hard to follow.
-
 
 ![A crude drawing of the layout of Gereg's house.](images/map_house.jpg)
 
@@ -1939,7 +1936,8 @@ walls shows that this area is damp or flooded during some parts of the
 year, although it's dry right now. At random, they choose the southern
 set of stairs to investigate.
 
-Thu'fir listens carefully at the top of the stairs. Nothing. They head down. Eomer stays behind to guard the entrance.
+Thu'fir listens carefully at the top of the stairs. Nothing. They head
+down. Eomer stays behind to guard the entrance.
 
 > Pat missed the first couple of hours of this session, so aside from
 > dealing with some locked doors, his character (Eomer) remained
@@ -2179,7 +2177,9 @@ time someone puts his weight on them.
 Four hours after the party began their rest, Eomer rouses the them
 with a yell, "Hey, I heard something!"
 
-Before they can act, another centipede is on them. They leap to their feet and engage it. This time the fight goes more smoothly and the thing dies without inflicting much harm.
+Before they can act, another centipede is on them. They leap to their
+feet and engage it. This time the fight goes more smoothly and the
+thing dies without inflicting much harm.
 
 Skeeve has recovered his magic, but Enoch has not. They elect to move
 on at this point anyway. They head down the hallway and find the trap
@@ -2433,7 +2433,12 @@ everyone, and they decide to return to town.
 
 ## 5th of Last Summer, 1501dy {.date}
 
-It is early morning. The group is ready to leave the dungeon and is debating whether to wake the kids now or in town. Eomer doesn't want to carry the children, but Skeeve doesn't want to deal with frightened, crying children. They decide to take them back to town first, then wake them. Thordek considers taking the powder in a skull then decides against it.
+It is early morning. The group is ready to leave the dungeon and is
+debating whether to wake the kids now or in town. Eomer doesn't want
+to carry the children, but Skeeve doesn't want to deal with
+frightened, crying children. They decide to take them back to town
+first, then wake them. Thordek considers taking the powder in a skull
+then decides against it.
 
 > Joe (Thordek) is a pack-rat and will take anything that isn't nailed
 > down. I don't mind, but this was ridiculous. It was an inverted
@@ -2850,7 +2855,8 @@ The commander speaks again, "Come now Vormoth. You don't want to start
 trouble here with all of these people about. Be reasonable and come
 along with us."
 
-Skeeve waves his arm saying, "No, no, no. You misunderstand. I am not..."
+Skeeve waves his arm saying, "No, no, no. You misunderstand. I am
+not..."
 
 As he waved his arm, the men flinch, as if expecting a blow. He can
 see there is really no good way out of this, so he agrees to go with
@@ -4187,7 +4193,8 @@ Enoch works on the book, but doesn't manage to translate a new chapter.
 
 ## 12th of Last Summer, 1501dy {.date}
 
-Morning comes and the party continues in their habit of sleeping during the day.
+Morning comes and the party continues in their habit of sleeping
+during the day.
 
 Enoch heads to the library to check and see if there is anything of
 use. He does find some language books that help. He then studies while
@@ -4497,7 +4504,8 @@ for the night. Tomorrow they plan to head south.
 
 ## 14th of Last Summer, 1501dy {.date}
 
-They wake after midnight. They plan to leave when the sun comes up. While they wait, Enoch studies and obtains another chapter:
+They wake after midnight. They plan to leave when the sun comes up.
+While they wait, Enoch studies and obtains another chapter:
 
 <div class="document">
 **Part VII: The Middle Years**
@@ -6314,8 +6322,8 @@ you like. If you haven't come 'round to collect them by the end of
 three days, the staff will dispose of it as suits them. That usually
 means incineration. Now, just mind your manners and I doubt we'll have
 any problems along these lines. The only other thing is that you'd
-probably ought not bring up her..." He points to his eyes significantly,
-indicating the Queen's blindness.
+probably ought not bring up her..." He points to his eyes
+significantly, indicating the Queen's blindness.
 
 Skeeve nods, "Right. We won't mention that. Will we be allowed
 lights?"
@@ -6778,9 +6786,9 @@ before he dies.
 >   in-character, since he's a Cleric. But he's willing to turn a blind
 >   eye while the others do this, with the understanding that this will
 >   serve the greater good.)
-> * Beck should ride with them when they go north. They know the port is
->   closed (because of the burning ships) so there is no point in him
->   trying to escape the island.
+> * Beck should ride with them when they go north. They know the port
+>   is closed (because of the burning ships) so there is no point in
+>   him trying to escape the island.
 > * They wonder about the cleric that served Noreeno back in Crossway.
 >   Will they have to face him? Is he aware of his master's true
 >   motives? Is the cleric himself evil?
