@@ -167,7 +167,6 @@ with the party as a guide through the mountains.
 > some backstory without introducing "random nameless peasant #5″ to
 > do the talking for me.
 
-
 ## Eomer
 
 ![](images/pc_eomer.jpg)
@@ -445,6 +444,77 @@ Dunlock.
 > close, Joe (the DM) decided he'd rather try a different character,
 > as opposed to playing Yoeg again. He wanted to play a Dwarf, so
 > using the already-established character Thordek made sense.
+
+## Thu'fir
+
+![](images/pc_thufir.jpg)
+
+| Name: Thu’fir
+| Race: Human
+| Class: Fighter (Special: Blade Lord)
+| Played By: Eric
+
+Thu'fir is a Blade Lord, a special character class Eric and I came up
+with. He uses a special gigantic sword (think Final Fantasy) that is
+magical and gains power, by leveling up, through use. His sword is
+named Fai.
+
+Special Characteristics of a Blade Lord:
+
+* The Blade Lord training is kept within a family. outsiders are
+  never trained.
+
+* As part of their training, students must learn to sprint, jump, and
+  swim with their sword. The result is that the weight of the sword
+  does not count against the character for encumbrance, jump, swim, or
+  other movement rolls. In essence, the weight of the sword is “free”,
+  or counted as part of the character's own weight and not their gear.
+
+* The sword is difficult to use. Anyone who is not trained in its use
+  takes a -10 penalty to hit.
+
+* A Blade Lord has forgone the usual fighter training in favor of the
+  “Big Sword” (I still need a cool name for this sword type). The
+  upshot is that a Blade Lord gets none of the normal fighter bonus
+  when using standard weapons. The big sword obviously can't deal
+  non-lethal damage, which makes knocking someone out problematic.
+
+* The sword levels up through kills. During combat, anyone struck by
+  the sword is added to the sword's kill total at the end of the
+  battle (assuming they die), even if the sword did not deliver the
+  killing blow. When enough kills are attained, the sword grows in
+  power and its owner may select a new property from the list.
+
+Magical properties of the sword (select one each level):
+
+* Rustproof: Immune to the effects of rust and rust monsters.
+* Will of the Master: If anyone (except Thu'fir or his descendants)
+  attempts to swing the blade, they must make a DC 15 reflex save or
+  be struck themselves.
+* Silver Edge: The edge of the blade is touched with silver.
+* Enchanted Grip: The weapon cannot be dropped or pulled unwillingly
+  from the owner's grasp.
+* Glowing Blade: When held, the blade glows as a standard torch.
+* Unbreakable: The blade cannot be broken by any mortal creature.
+* Razor Blade: +1 damage bonus. (Sword Level 4 required)
+* Guided Blade: The blade aids the user, giving a +1 attack bonus.
+  (Sword Level 4 required)
+* Vorpal: Criticals will behead the enemy, which is usually instantly
+  fatal. The enemy must have a head and it must be within reach for
+  this to work. (Sword Level 5 required)
+* Flamebrand: The blade does an additional 1d4 fire damage. (Sword
+  Level 5 required)
+* Sparkstrike: The blade does an additional 1d4 lightning damage.
+  (Sword Level 5 required)
+* Improved Criticals: The critical threat of the weapon is 19-20.
+  (Sword Level 6 required)
+* Guardian Blade: The blade will move to intercept incoming attacks,
+  granting +1 AC. (Sword Level 8 required)
+* Stun Blade: Foes struck with this blade must make a DC 15 fortitude
+  save or lose 1 standard action on their next turn. (Sword Level 10
+  required)
+* Mindbreak: Sword does 1 point of INT damage on striking. (Sword
+  Level 13 required)
 
 ## Enoch
 
