@@ -649,7 +649,7 @@ Sagemaster Teerin Forwinol
 > deal.
 
 The party discusses their plans, considering whether to go straight to
-Greymoor or to stop at Mar Telos on the way back. Lucian decides to
+Greymoor or to stop at Mar Talos on the way back. Lucian decides to
 stay and help the people rebuild their town. Eomer looks sternly at
 Lucian and just as sternly says, "Stay away from my girlfriend".
 
@@ -668,9 +668,9 @@ Eomer leads the negotiations with the Captain, throughout which Inorem
 contends with whatever the Captain says.
 
 Purlof plans to head for Fort Boland on Mar Tesaro, then proceed to
-Bayhaven on Grey Moor, and finally to Talosport on Mar Telos. Eomer
+Bayhaven on Grey Moor, and finally to Talosport on Mar Talos. Eomer
 asks how much he would make per trip, hoping to be able to pay extra
-to get him to go to Mar Telos first. The elf cuts in, refusing to
+to get him to go to Mar Talos first. The elf cuts in, refusing to
 divert the course, whereas the Captain insists they will gladly divert
 for 100 gold.
 
