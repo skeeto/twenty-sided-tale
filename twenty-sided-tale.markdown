@@ -164,7 +164,7 @@ with the party as a guide through the mountains.
 > As a stoic monk Endo almost never speaks unless he has something
 > important to say, which is perfect for an NPC. I use him to feed the
 > players info if they forget something critical, or as a way to give
-> some backstory without introducing "random nameless peasant #5″ to
+> some backstory without introducing "random nameless peasant #5" to
 > do the talking for me.
 
 ## Eomer
@@ -449,7 +449,7 @@ Dunlock.
 
 ![](images/pc_thufir.jpg)
 
-| Name: Thu’fir
+| Name: Thu'fir
 | Race: Human
 | Class: Fighter (Special: Blade Lord)
 | Played By: Eric
@@ -467,14 +467,14 @@ Special Characteristics of a Blade Lord:
 * As part of their training, students must learn to sprint, jump, and
   swim with their sword. The result is that the weight of the sword
   does not count against the character for encumbrance, jump, swim, or
-  other movement rolls. In essence, the weight of the sword is “free”,
+  other movement rolls. In essence, the weight of the sword is "free,"
   or counted as part of the character's own weight and not their gear.
 
 * The sword is difficult to use. Anyone who is not trained in its use
   takes a -10 penalty to hit.
 
 * A Blade Lord has forgone the usual fighter training in favor of the
-  “Big Sword” (I still need a cool name for this sword type). The
+  "Big Sword" (I still need a cool name for this sword type). The
   upshot is that a Blade Lord gets none of the normal fighter bonus
   when using standard weapons. The big sword obviously can't deal
   non-lethal damage, which makes knocking someone out problematic.
@@ -1105,7 +1105,7 @@ Thu'fir and Eomer search for roots etc to eat in the woods. Beck gives
 them the gist of the island by drawing in the sand (what he has seen
 on a map.) Obviously they are near Stonehelm and the river. They are
 not sure however, if the Alidians have taken Breakshore and decide to
-try to avoid them. Skeeve levitates and finds the river ¾ of a mile
+try to avoid them. Skeeve levitates and finds the river 3/4 of a mile
 west. Everyone heads to the river except Enoch who decides to stay at
 the beach in case Endo comes. The dwarf rinses off in the river.
 Thu'fir cleans up as well.
@@ -1338,8 +1338,8 @@ floated from place to place for some time. Various scholars have taken
 a crack at the old text, but none of them have been able to
 successfully translate it. He adds that Chronicler Rhillos in the city
 of Fol Thron (somewhere south, he doesn't explain further) has offered
-a reward – a bounty, if you will – for anyone who can figure out what
-the book is all about.
+a reward -- a bounty, if you will -- for anyone who can figure out
+what the book is all about.
 
 Enoch notices that some of the old text seems to be an old form of
 common from Dunlock, his homeland. He gives it a try. A few hours
@@ -3146,7 +3146,7 @@ punishment and curse is present in all variants of the tale.*
 *It is recorded here for those curious about ancient myths and
 folklore. The reader should not view this as a work of history.*
 
-– Chronicler Norvus
+- Chronicler Norvus
 
 Thul Marblade took the Elven lands of Mt. Fiore, destroyed the Elves
 that dwelt therein, and renamed it Khelberg. Once all was under his
@@ -3298,7 +3298,7 @@ following is very probably a true account. The events outlined here
 are supported by various other trustworthy documents. (See also:
 "Reign of King Oemar Vol III" and "The First Uprising of Khelberg")*
 
-– Chronicler Norvus
+- Chronicler Norvus
 
 The Dwarven King Marblade began a great dig within the gem-filled
 mountain of Khelberg. Several shafts were dug and many heaps of
@@ -3584,8 +3584,8 @@ They pass many coffins on their way out. As they feared, the locks
 have fallen off, and the chains now hang freely from the walls. The
 coffins remain closed, but they are no longer locked shut.
 
-They reach the outer chamber and – after some messing around with
-switches – manage to close the door again. Before they leave, they
+They reach the outer chamber and -- after some messing around with
+switches -- manage to close the door again. Before they leave, they
 visit the side chamber and examine the three remaining coffins.
 
 The chains have indeed fallen off. They take positions around the
@@ -4340,7 +4340,7 @@ In the meantime, Enoch has translated another chapter of the book:
 between the rule of King Lorman and the rise of the second Dwarven
 King.*
 
-– Chronicler Norvus
+- Chronicler Norvus
 
 King Lorman ruled and mined Khelberg for twenty years, when he was
 assassinated by one of his own lieutenants, a human foreman named
@@ -4440,7 +4440,7 @@ city of Fol Thron many times, it has never been renamed. It has been
 the capital city of many empires, yet still bears its original Dwarven
 name.*
 
-– Chronicler Norvus
+- Chronicler Norvus
 </div>
 
 The party reads over this latest section of the book. It is not as
@@ -4585,7 +4585,7 @@ They have traveled at walking speed heading toward Hillstead. It is
 getting dark and they decide they need to make camp. Skeeve suggests
 they have a full camp with a campfire, and that two people stand watch
 instead of just one. Enoch consecrates the ground and a fire is built.
-Throughout the night, Skeeve has a creepy feeling – as if someone is
+Throughout the night, Skeeve has a creepy feeling -- as if someone is
 watching him.
 
 The night passes without incident.
@@ -4721,7 +4721,7 @@ They decide to stay at the inn. Thu'fir goes to the blacksmith and
 asks about a grappling hook. He's been trying to get his hands on one
 since they faced the trap doors in the Wizard's lair outside of Joland
 Village. He hasn't been able to find one for sale until now. When he
-finds they are for sale here, he buys two – along with a good supply
+finds they are for sale here, he buys two -- along with a good supply
 of rope. He won't be caught unprepared again.
 
 During the night, Skeeve has another nightmare in which Mordan asks him
@@ -4820,7 +4820,7 @@ and followed them in.
 "It wasn't until I was inside that I realized the truth: There are no
 lights in that mine. Nothing. Quick enough I got lost in the darkness,
 and had no choice but to drop the helmet onto my head. That evening I
-‘woke up' outside the mine, tired, just like I did every other day.
+'woke up' outside the mine, tired, just like I did every other day.
 When we took off our helmets, we didn't remember a thing from what
 we'd been doing in the mines. It seemed like we'd just put the helmets
 on a moment before, except we'd be exhausted."
@@ -5014,7 +5014,7 @@ moment's reflection, ""For a... project I'm researching."
 
 The keeper is a bit alarmed at this, but nevertheless he leads Enoch
 back into the maze of towering shelves. After a polite moment he
-finally asks, "If I may sir – Why are you researching... him?"
+finally asks, "If I may sir -- Why are you researching... him?"
 
 Enoch follows as they wind their way, deeper into the library, "I've
 been working on translating a book."
@@ -5249,8 +5249,8 @@ unleashed on both sides.
 
 The Dunlock forces, led by the Elven Songmage Lucan Forwinol, at last
 had the mastery. Mordan's forces were pushed back and then
-annihilated. Forwinol advanced and captured – at the expense of many
-lives – the once-great Citadel.
+annihilated. Forwinol advanced and captured -- at the expense of many
+lives -- the once-great Citadel.
 
 Forwinol knew Mordan was undefeatable as a lich. If slain, his form
 would re-appear at the next sundown. The only hope was to find and
@@ -6120,7 +6120,7 @@ the Mage's Archives. I planned on going back at a later time, and
 seeing if I could learn more, but then the war came. It was a safe bet
 that the Lormanite army wouldn't welcome a fussy old man visiting
 their capital city just so he can read their books. After the city
-fell, I returned to see that the building – the library I mean – had
+fell, I returned to see that the building -- the library I mean -- had
 been burned to the ground. I can only assume those books are lost
 forever. Nevertheless, I believe the Lormanites may still know where
 the Archives can be found."
@@ -6199,8 +6199,8 @@ someone takes the riches of the mountain, the curse is on them."
 Eomer ponders this, "Even second hand? Like if some farmer sells his
 food to someone who has gold or whatever from the mountain..."
 
-Norvus looks grim, "I don't know how it works. Some people – like the
-leaders, for example – are obsessed, greedy, and often paranoid. They
+Norvus looks grim, "I don't know how it works. Some people -- like the
+leaders, for example -- are obsessed, greedy, and often paranoid. They
 become enraged if you even suggest that the legends are true. Others
 are annoyed at the stories. Others simply laugh. I don't understand it
 myself."
@@ -6300,8 +6300,8 @@ He takes their names, and checks each of them off of his list as they
 introduce themselves.
 
 Finally he begins, "Welcome gentlemen. I assume you are aware of just
-how rare it is that visitors – particularly foreigners – are given an
-audience with Queen Alidia."
+how rare it is that visitors -- particularly foreigners -- are given
+an audience with Queen Alidia."
 
 They nod. Of course they realize this.
 
@@ -6729,7 +6729,7 @@ causing me to die. Another ran towards me with a sword, seeking to
 plunge it into my heart. The other cast a spell upon my eyes to blind
 me. I only had time to stop one of the three. What could I do? If
 Lorman succeeded, I would die. I slew him, and endured the other two.
-Lorman's ‘gift' saved my life, but I pay the price to this very day.
+Lorman's 'gift' saved my life, but I pay the price to this very day.
 The spell on my eyes caused them to be burned away. The healing gift
 restores them. The two spells ever work against each other, burning my
 eyes but never fully consuming them. The pain of this is beyond your
@@ -7296,7 +7296,7 @@ mean.
 > Someone eventually figured out (Bogan, I bet, but my notes don't
 > say) that the ghosts were looking up the slope where the mountain
 > elves had been thrown down by the Dwarves. They were in Bohrung Khel
-> Toten – The Chasm of the Dead.
+> Toten -- The Chasm of the Dead.
 
 The next day they continue their journey east. On the way they intrude
 on the territory of an Ettin and are obliged to kill it. It is a quick
@@ -7324,13 +7324,13 @@ spyglass.
 
 Eomer gently relieves him of the Spyglass and begins using it himself.
 
-They locate the Mages Archives. The building is a modest tower – more
+They locate the Mages Archives. The building is a modest tower -- more
 of a "lighthouse" style tower than the classic "wizard" spire. The
 tower is joined to a squat, round building made from the dusty gray
 stones of this region. The building is perched atop a small cliff that
 plunges down into the churning sea below. On the southern side of the
-building are a few stone steps that, if you were to descend them, would
-drop you down the cliff into the ocean.
+building are a few stone steps that, if you were to descend them,
+would drop you down the cliff into the ocean.
 
 > I don't know if anyone thought about this or figured it out, but
 > just so this doesn't sound like gibberish:
@@ -7384,7 +7384,7 @@ made by wizards, and there is no telling what sorts of surprises they
 left for intruders.
 
 In the middle of the room is a statue with a couple of valuables
-(gear) placed upon it. He doesn't even bother checking for traps –
+(gear) placed upon it. He doesn't even bother checking for traps --
 this is exactly the sort of thing a wizard would put there to lure a
 thief. He gives the statue a lot of room. He's not here to rob the
 place.
@@ -7492,8 +7492,8 @@ in the dark.
 
 Morning comes and they begin again. At mid-day Thordek finds some
 subtle hints, some indications of long-past excavations. Moving on, he
-spots more such signs, which leads them to a heap of loose rocks –
-nearly gravel – piled against the side of the mountain. Into the cliff
+spots more such signs, which leads them to a heap of loose rocks --
+nearly gravel -- piled against the side of the mountain. Into the cliff
 face they can see the faded carving of a number of Dwarven runes.
 Thordek can't make any sense of them, until Skeeve points out that
 they are only seeing half of the runes, the bottom half of the letters
@@ -8082,7 +8082,7 @@ action is a good idea, then it is going to happen that way.
 The army passes Hillstead, which is a smoking ruin. A few grave
 walkers are prowling around, gnawing on bones. They are overwhelmed
 and exterminated by the army without difficulty. They ride further
-north without contest. Mordan didn't just pull back a little – he has
+north without contest. Mordan didn't just pull back a little -- he has
 evidently withdrawn all the way to Crossway.
 
 The army moves slowly. The players are on horseback, but the army is
@@ -8252,7 +8252,7 @@ had a big part in rallying the city defense. He's glad to see everyone
 pulled through.
 
 In the end, the Dwarves do claim the mountain. However, since they
-can't set foot on it, they build a city at the foot of the mountain –
+can't set foot on it, they build a city at the foot of the mountain --
 which they now properly call Fiore. They take control of the city of
 Della Minera (peacefully, although with some minor political haggling)
 and expand the town at a rapid pace.
@@ -8288,9 +8288,9 @@ Teerin's forces. It is likely to remain a ruin for a long time to
 come.
 
 They learn that some of the smaller northern cities escaped Mordan's
-wrath. Joland Village and Breakshore were spared. Woodhurst – a small
-town between Fort Boland and Crossway – was put to the torch, but many
-of the inhabitants fled to the wilderness and survived.
+wrath. Joland Village and Breakshore were spared. Woodhurst -- a small
+town between Fort Boland and Crossway -- was put to the torch, but
+many of the inhabitants fled to the wilderness and survived.
 
 Garret decides he wants to continue traveling. The players give him a
 little money and wish him well. He's not going to be slaying dragons
