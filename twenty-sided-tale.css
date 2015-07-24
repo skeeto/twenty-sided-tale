@@ -15,7 +15,7 @@ body {
     margin: 0;
 }
 
-#header {
+header {
     margin-bottom: 2em;
 }
 
@@ -56,16 +56,16 @@ body > p {
     margin-bottom: 1em;
 }
 
-.figure {
+figure {
     margin-bottom: 1em;
     text-align: center;
 }
 
-.figure img {
+figure img {
     max-width: 100%;
 }
 
-.caption {
+figcaption {
     font-size: 90%;
 }
 
@@ -113,7 +113,7 @@ blockquote p {
         font-size: 14pt;
     }
 
-    .figure img {
+    figure img {
         max-width: 8in;
         max-height: 5in;
         page-break-inside: avoid;

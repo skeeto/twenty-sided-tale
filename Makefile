@@ -4,7 +4,9 @@ PANDOC_FLAGS = --self-contained --smart
 all : twenty-sided-tale.html twenty-sided-tale.epub
 
 twenty-sided-tale.html : twenty-sided-tale.markdown twenty-sided-tale.css
-	$(PANDOC) -c reset.css -c $(word 2,$^) $(PANDOC_FLAGS) -o $@ $<
+	$(PANDOC) -t html5 -o $@ \
+	          -c reset.css -c twenty-sided-tale.css \
+	          $(PANDOC_FLAGS) $<
 
 twenty-sided-tale.epub : twenty-sided-tale.markdown epub.css cover.png
 	$(PANDOC) -t epub3 -o $@ \
