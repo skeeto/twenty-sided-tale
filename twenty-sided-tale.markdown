@@ -29,7 +29,7 @@ the Fighter, Thu'fir the Blade Lord, and Enoch the Cleric.
 > some big way, or to fill in some backstory.
 
 The campaigns I run are usually a bit more low-key and realistic than
-your average D&D story. So, likely as not you'll see Orcs, Goblins,
+your average D&D story. So, likely as not you'll see orcs, goblins,
 and Zombies, but I doubt we'll have stuff like gelatinous cubes,
 mimics, or dimensional grabbers. Towns are filled with commoners, not
 extraplaner travelers. You won't see any talking swords in my world,
@@ -222,13 +222,13 @@ penchant for vows of silence, no one really knows for sure.
 No one knows how long the dwarves had been on the island, but it was
 also around this time that their presence was discovered.
 All-the-while this seemingly uninhabited island was home to a clan of
-Dwarven stone masters. Like most dwarves they were very content to
+dwarven stone masters. Like most dwarves they were very content to
 live within their mountain, unburdened with anything outside of it.
 Little was heard from the dwarves, but Aaron did arrange a reasonable
 trade of goods and foods (mostly ale and textiles) from off-island for
 whatever valuables the dwarves were willing to part with.
 
-Aaron knew that once word of trade with Dwarven miners spread that the
+Aaron knew that once word of trade with dwarven miners spread that the
 trade ships would be more eager to stop at this once small port.
 Peoples from all over Mar Talos soon came to find their fortunes in
 the mountains that cut the island in half, find adventure in the
@@ -373,7 +373,7 @@ rolled up a new character.
 
 Skeeve is an unusual Wizard. While everyone else had more or less
 serious, Tolkien-esque names, Dan gave his Wizard a more comedic name.
-Skeeve is also a rustic "farmboy" among Elves, and self-taught himself
+Skeeve is also a rustic "farmboy" among elves, and self-taught himself
 magic instead of being an apprentice or joining a guild.
 
 Dan is also pretty outspoken, impulsive, and foul-mouthed. He tends to
@@ -399,14 +399,14 @@ about the grotesque union and attacked the house. They slew his father
 and mother, and entered the house to find an empty cradle.
 
 Years later (during our first campaign) a Paladin came to Grey Moor,
-looking for the Half-Orc. The paladin was large, well-armed, and had
+looking for the half-orc. The paladin was large, well-armed, and had
 several stout people in his party. Fearing him, the party fled north.
 
 He finally caught up with the party in the town of Stackroot. The
 paladin revealed that his father was one of the people who attacked
 Yoeg's house and killed his parents. Keroning had killed his father,
 and the paladin was here to dispense justice and rid the world of the
-Orc's vile offspring. He was here to finish the job his father
+orc's vile offspring. He was here to finish the job his father
 started.
 
 He promised an honorable fight: If Yoeg would fight him one-on-one,
@@ -442,7 +442,7 @@ Dunlock.
 
 > Thordek was an NPC in our second campaign. As the campaign drew to a
 > close, Joe (the DM) decided he'd rather try a different character,
-> as opposed to playing Yoeg again. He wanted to play a Dwarf, so
+> as opposed to playing Yoeg again. He wanted to play a dwarf, so
 > using the already-established character Thordek made sense.
 
 ## Thu'fir
@@ -568,7 +568,7 @@ In our first campaign the players went to Grey Moor and broke an evil
 curse that was killing the crops and draining the land of life, and
 then joined in a battle to prevent a single greedy nobleman for
 seizing control of the Island. Along the way they teamed up with Eomer
-and Endo and attained level 3. The Elves of Mar Talos joined in the
+and Endo and attained level 3. The elves of Mar Talos joined in the
 battle to keep the island free. This brought our first campaign to an
 end.
 
@@ -1264,7 +1264,7 @@ the soldiers.
 
 # Mar Talos
 
-Mar Talos is home to the Elves. Other races are not allowed to roam
+Mar Talos is home to the elves. Other races are not allowed to roam
 the land, and must remain in the capital / port city of Talosport. It
 is also the home of Sagemaster Teerin Forwinol.
 
@@ -1360,7 +1360,7 @@ highly unlikely and should be viewed with utmost skepticism.*
 - Chronicler Norvus
 
 In the earliest days of Mar Tesaro, the southern lands were inhabited
-by a peaceful clan of mountain Elves. They were gentle and kind, slow
+by a peaceful clan of mountain elves. They were gentle and kind, slow
 to quarrel and preferred music and wine above swordplay and bloodshed.
 They lived on the slopes of the great mountain, which they named Mt.
 Fiore, which means "the place of flowers".
@@ -1372,27 +1372,27 @@ mountain in white and gold. The tall peaks caught the spring rain and
 made the lands below rich and fertile.
 
 Few others visited the lands. Only a few Gnomes and fewer humans had
-walked the slopes, and no Dwarf had even set eyes to the mountain in
+walked the slopes, and no dwarf had even set eyes to the mountain in
 those days.
 
 But Dwarf-King Thul Marblade came at last to the shores of Mar Tesaro.
-He came to the Elven chieftain Ellas Morad, and asked for leave to
-climb the mountain. "For", said he, "it is the way of all Dwarves to
+He came to the elven chieftain Ellas Morad, and asked for leave to
+climb the mountain. "For", said he, "it is the way of all dwarves to
 seek the mountains and learn their ways."
 
-Morad gave him permission to walk the slopes, and the Dwarf departed
-at once. With him were many strong but grim Dwarves of his kind. As
+Morad gave him permission to walk the slopes, and the dwarf departed
+at once. With him were many strong but grim dwarves of his kind. As
 they ascended, a powerful greed came over them, for they saw that the
 stone of the mountain was filled with both silver and gold in plenty,
 as well as many fair gems and rare stones. Never in all the Earth had
-any Dwarf seen such abundant riches, and they marveled that such
+any dwarf seen such abundant riches, and they marveled that such
 wealth had lain undisturbed for so long.
 
 Thul Marblade climbed to the pinnacle of the tallest peak, and there
 he spoke to his kin, "Brothers, here lies the greatest of all
 mountains of the Earth. Behold how rich it is with treasure, how bold
 and strong its rock, and how kingly its shape! Surely we must build
-here a mine, or we are no Dwarves at all."
+here a mine, or we are no dwarves at all."
 
 His company agreed, and they departed from the mountain.
 </div>
@@ -1636,7 +1636,7 @@ would be much faster by my count, but it would take you over flat open
 grasslands where you have no hope of hiding. If you encounter the
 enemy soldiers, you'll be discovered for sure. Furthermore, you would
 have to pass over the Weather Hills, which are home to a nasty and
-devious tribe of Goblins."
+devious tribe of goblins."
 
 Thu'fir examines the map before he replies, "Which way would you say
 is the most dangerous?"
@@ -1823,7 +1823,7 @@ water.
 
 Thordek searches and finds several strands of light blond hair caught
 on a jagger bush. They hang at about eye level for a human, (which is
-above Thordek's head, since he's a Dwarf) hinting that they either came
+above Thordek's head, since he's a dwarf) hinting that they either came
 from an adult or from a child being carried.
 
 They continue. The path is plain and easy to follow. It heads west and
@@ -1870,8 +1870,8 @@ Broad steps lead up to what was once the inside of the building. The
 "interior" floor is covered in scattered stones.
 
 Thordek studies what remains of the stonework. He determines the
-building was made perhaps 200 years ago. It is not of Dwarven make,
-and is most probably of Human design. Given the configuration of
+building was made perhaps 200 years ago. It is not of dwarven make,
+and is most probably of human design. Given the configuration of
 blocks, he guesses that the building was probably a church or temple.
 It was not a fortified structure, at any rate.
 
@@ -1906,7 +1906,7 @@ travel. The others couldn't support much more than small fishing
 vessels. It is also the biggest and most sophisticated city.
 
 The town of Stackroot is home to a modest but profitable gemstone
-mine. About a third of the population is Halfling. The halflings work
+mine. About a third of the population is halfling. The halflings work
 the mine, while the humans handle the governing of the city and
 growing of crops.
 
@@ -2219,7 +2219,7 @@ outside, since this place seems too crowded for six people.
 ![](images/uc_map11.gif)
 
 This room is empty, save for a small wooden chest in the northwest
-corner. Thordek walks over to it. The brash Dwarf attempts to open the
+corner. Thordek walks over to it. The brash dwarf attempts to open the
 chest. Fine powder explodes from the chest, covering everything in the
 room. Thordek manages to hold his breath, thus saving him from
 breathing in any of the foul gray dust. He dashes from the room
@@ -2746,24 +2746,24 @@ to translate the next section.
 * Chronicler Norvus
 
 Dwarven King Thul Marblade returned from Mt. Fiore and came again to
-Ellas Morad, leader of the mountain Elves. This time asked for leave
+Ellas Morad, leader of the mountain elves. This time asked for leave
 to dig deep into the mountain and bring forth its treasure. He
 promised to pay half of all that was mined in tribute.
 
 But Morad forbade him saying, "Not if you were to surrender every gem
 brought fourth to the light would I give you permission to do this,
-for we Elves care not for gold or silver or for gems, but love only
+for we elves care not for gold or silver or for gems, but love only
 our homeland. Our desire is not for wealth, but to live in a land
 unspoiled."
 
 Marblade became enraged, saying, "We offer to do all of the work, and
-in return you will receive half of the profit. Never has a Dwarf made
+in return you will receive half of the profit. Never has a dwarf made
 such a generous offer! You find yourself atop a mountain of gold, and
 your only thought is to use it as a garden, and will not let the
-Dwarves even peer inside of it! It is unjust that the greatest of all
-mountains should be in the hands of Elves, and not the Dwarves. If we
+dwarves even peer inside of it! It is unjust that the greatest of all
+mountains should be in the hands of elves, and not the dwarves. If we
 had the greatest of all woods in the world, surely we would share it
-with the Elves, who love such things best. Therefore give us now leave
+with the elves, who love such things best. Therefore give us now leave
 to mine the mountain."
 
 Morad was unmoved, and did not see his peril. For he replied, "Nay!
@@ -2774,15 +2774,15 @@ find what is underneath. Depart from this land, and come never again
 to the gentle slopes of Mt. Fiore!"
 
 The Dwarf King's rage was now fully kindled, and he answered, "You bid
-me, King of all the Dwarves, to depart from the king of all the
+me, King of all the dwarves, to depart from the king of all the
 mountains? I will leave indeed, when I have all the treasure hidden
 within. But you shall depart now!" And with that word he slew Morad
-and all his men, for the Dwarves were strong and sturdy in battle and
-the gentle Elves could make no contest against them.
+and all his men, for the dwarves were strong and sturdy in battle and
+the gentle elves could make no contest against them.
 
-Then the Dwarves roamed throughout the land, and killed every Elf they
+Then the dwarves roamed throughout the land, and killed every elf they
 could find. They hunted them like animals, killing even the youngest,
-until not a single Elf drew breath in the land of Mar Tesaro. Their
+until not a single elf drew breath in the land of Mar Tesaro. Their
 bodies were thrown down the southern slope into the great chasm, which
 is now called Bohrung Khel Toten, or "The Chasm of the Dead", in the
 common tongue. And so were the fair mountain elves of Mar Tesaro
@@ -2979,7 +2979,7 @@ stand. Enoch cannot sense anything evil or demonic about them.
 
 Thordek shops, looking for better armor in the square or anything else
 he might find useful. He eventually orders a set of banded mail. They
-don't have any ready to fit a Dwarf just now, but the smith can size a
+don't have any ready to fit a dwarf just now, but the smith can size a
 set for him. It will be done in two days.
 
 As he looks around the shops, he sees a great number of soldiers
@@ -3140,7 +3140,7 @@ following:
 **Part III: Spirit of Fiore**
 
 *The previous section records the tale of Thul Marblade, how he
-exterminated a supposedly idyllic race of mountain Elves and claimed
+exterminated a supposedly idyllic race of mountain elves and claimed
 Khelberg as his own. This section attempts to gather together the
 different accounts of Marblade's rule and form a single coherent tale.
 The varying stories (mostly oral, as a rule) conflict in many ways but
@@ -3154,41 +3154,41 @@ folklore. The reader should not view this as a work of history.*
 
 - Chronicler Norvus
 
-Thul Marblade took the Elven lands of Mt. Fiore, destroyed the Elves
+Thul Marblade took the elven lands of Mt. Fiore, destroyed the elves
 that dwelt therein, and renamed it Khelberg. Once all was under his
 dominion, he sought the depths of the mountain.
 
 Yet the Spirit of the Mountain, sometimes called Fiore, did not forget
-the Elves, and greatly lamented their loss. So furious was the spirit
+the elves, and greatly lamented their loss. So furious was the spirit
 of Fiore that it decided that none of the plunderers would have the
-wealth they sought. So it was that the mountain resisted the Dwarves,
+wealth they sought. So it was that the mountain resisted the dwarves,
 and fought against them as they dug.
 
-The Dwarves found that each new shaft led only to trouble or death.
+The dwarves found that each new shaft led only to trouble or death.
 Some caved in or flooded, others gave way suddenly, dropping the
 diggers into bottomless black holes. Still others issued forth molten
 rock which flowed from the holes like blood, filling them in and
 killing many miners.
 
 Despite their masterful skills at digging and the making of mines, the
-Dwarves were defeated at every attempt. Many perished, and they were
+dwarves were defeated at every attempt. Many perished, and they were
 dismayed, saying that they should leave the mountain be and seek
 treasure where it may be less plentiful yet more easily obtained. They
 grew to fear the mountain, and dared not walk on the slopes at night
 when the land was restless and treacherous.
 
 But Marblade was stubborn and would not turn away. He perceived the
-Spirit and sought to contain it. He sent word to the many Dwarf-clans,
+Spirit and sought to contain it. He sent word to the many dwarf-clans,
 calling for the greatest wielders of magic and those with the
 knowledge of the arcane, that they should come to Mt. Khelberg and aid
 him in his war against Fiore. In exchange he offered all the gems that
-the Dwarves had managed to wrest from the mines. Many answered his
+the dwarves had managed to wrest from the mines. Many answered his
 call.
 
 They met at the slopes of Khel Toten to gather their power together,
 and bind the Spirit of the Mountain. Using both strength and sorcery,
 both pick axe and spell-book, they drove a single deep shaft into the
-heart of the mountain. The battle was terrible and numerous Dwarves
+heart of the mountain. The battle was terrible and numerous dwarves
 were killed in the making of it, but at last Marblade arrived in the
 lowest depths of the Earth, and there he cast the great binding-spell
 to forever contain Fiore.
@@ -3200,7 +3200,7 @@ who attack the mountain are doomed to also defend it. Foes will come
 from around the world to plunder this place, and those who gather my
 riches will only live to see them scattered."
 
-With that, Fiore was bound and silenced. The Dwarves sealed the tunnel
+With that, Fiore was bound and silenced. The dwarves sealed the tunnel
 they had dug, and called it a tomb, for many had fallen in the making
 of it.
 </div>
@@ -3283,7 +3283,7 @@ shop at some of the more exclusive places in town. He buys some
 potions. He purchases a potion of healing, which he presents to
 Thordek as thanks for saving his life a few days earlier. Thordek is
 grateful, although Skeeve's begrudging manner does little to improve
-Elven / Dwarven relations.
+elven / dwarven relations.
 
 Thordek picks up his new banded mail and sells off the old. Eomer gets
 himself some various useful tools.
@@ -3309,22 +3309,22 @@ are supported by various other trustworthy documents. (See also:
 The Dwarven King Marblade began a great dig within the gem-filled
 mountain of Khelberg. Several shafts were dug and many heaps of
 treasure brought into the world. Yet in the forty-second year of his
-reign over Khelberg, Elves came from out of the east. Some came from
+reign over Khelberg, elves came from out of the east. Some came from
 Dunlock and some from more distant lands. They swept through the
-country and drove the Dwarves away. The Dwarves were slow to
+country and drove the dwarves away. The dwarves were slow to
 relinquish their prize, and most were wiped out. The few who escaped
 were scattered and weakened, and would not return to Khelberg in their
 lifetimes.
 
-The Elves claimed the mountain, saying it was the rightful property of
+The elves claimed the mountain, saying it was the rightful property of
 their people, and just reparations for the crimes against their slain
 kin. Yet they kept the name Khelberg, and sought to continue the
-plunder begun by the Dwarves. They hired many Humans and Halflings as
-diggers, and sent them into the Dwarven mines. While these new races
+plunder begun by the dwarves. They hired many humans and halflings as
+diggers, and sent them into the dwarven mines. While these new races
 had less skill at such work than those that first created the mines,
-they were eager and learned much as they examined the Dwarven
+they were eager and learned much as they examined the dwarven
 handiwork. In several years' time, the mountain flowed with gems and
-precious metal such as had never been seen by mortals. The Elves
+precious metal such as had never been seen by mortals. The elves
 became among the richest in the world, and their empire grew.
 
 They expanded the number of mines, until the face of the mountain
@@ -3333,28 +3333,28 @@ as the trees and grass were stripped away to make room for more
 digging.
 
 More workers of varying races were brought to the mines. Some were
-Orcish or Goblin slaves, who were sent to do the most dangerous or
-back-breaking labor. Others were Elves who were guilty of some crime
-according to Elven law, and had been sentenced to work within the
-mountain as punishment. Some were also of Halfling and Gnomish kind,
+orcish or goblin slaves, who were sent to do the most dangerous or
+back-breaking labor. Others were elves who were guilty of some crime
+according to elven law, and had been sentenced to work within the
+mountain as punishment. Some were also of halfling and Gnomish kind,
 although their numbers were always few. Of all the workers, humans
 were both the most numerous and useful. They were intelligent and
-strong, and did not hate the underworld as the Elves and Gnomes do.
-They came closest to the skill of the Dwarves in mine-work, and ever
+strong, and did not hate the underworld as the elves and Gnomes do.
+They came closest to the skill of the dwarves in mine-work, and ever
 they strove greedily for the richest loads.
 
 Yet less than a single generation later, the workers began to resent
 their place in the world. They noticed that the work was theirs, while
-the riches were not. A Human rose from among the workers and led them
+the riches were not. A human rose from among the workers and led them
 in rebellion. Lorman was his name, and he was both a cunning general
-and a powerful wizard. They overthrew their Elven employers, slaying
-many Elves and at last taking the land as their own. During this time,
-many Orcs and Goblins escaped and fled north where they would later
+and a powerful wizard. They overthrew their elven employers, slaying
+many elves and at last taking the land as their own. During this time,
+many orcs and goblins escaped and fled north where they would later
 multiply and grow strong.
 
 The war was long and bloody, and many lives were lost on both sides.
 When at last the battle ended, Lorman was crowned their king. Once
-again the Elves had been banished from the mountain.
+again the elves had been banished from the mountain.
 </div>
 
 That afternoon they regroup. Enoch shows the others what he's
@@ -3468,7 +3468,7 @@ their way over to the ruins.
 A set of smooth stone steps goes down into the earth. There is a
 massive slab of stone to one side, which clearly went over the steps,
 but has now been pulled off. The exacting stonework reveal this place
-to be of expert craftsmanship. Perhaps it is of Dwarven make, or
+to be of expert craftsmanship. Perhaps it is of dwarven make, or
 simply a very skilled stone-wright. Even after many centuries, the
 gaps between the stones is so slight that the walls are most certainly
 water tight, and there is a good chance the place could be airtight as
@@ -3532,7 +3532,7 @@ undisturbed.
 
 Afternoon arrives and the party has overcome a number of complex doors
 and traps. They find themselves in a large chamber with a curved north
-wall, covered in runes and various Human, Dwarven, and Elven names.
+wall, covered in runes and various human, dwarven, and elven names.
 Among the names they spot the name "Forwinol", the last name of their
 friend and ally Sagemaster Teerin Forwinol. They know he is quite old,
 and wonder if he was involved in the building of this place.
@@ -4058,7 +4058,7 @@ They are pulled over at the gate, and their papers are inspected. Once
 everything is settled, the enter the city.
 
 They are sent to the Magistrate. Magistrate K'dar Stonefist is a wise
-old Dwarf. Once the party has gathered before him, he informs them
+old dwarf. Once the party has gathered before him, he informs them
 that he has a notice from Magistrate Noreeno, warning him that five
 outsiders had killed a number of his soldiers and stolen some horses.
 Noreeno also suggested in his letter that these men were Lormanites,
@@ -4086,8 +4086,8 @@ to make themselves at home in his town. They party bids him good-day
 and retires to the inn. Later in the day, a note is delivered to
 Thordek that invites him back to the magistrate's office.
 
-Thordek visits K'dar Stonefist in his office. The two Dwarves begin by
-speaking of Dwarven things: Where they are from and who they are
+Thordek visits K'dar Stonefist in his office. The two dwarves begin by
+speaking of dwarven things: Where they are from and who they are
 related to. They discuss stonework and family trees for some time
 before K'dar turns the conversation to business.
 
@@ -4098,11 +4098,11 @@ before K'dar turns the conversation to business.
 >
 > The upshot of the conversation is that K'dar thinks Thordek is a
 > fellow spy, helping to plan the invasion of the island. It seems
-> that the Dwarves have been living here for years, and that they are
+> that the dwarves have been living here for years, and that they are
 > planning something big soon. K'dar thought perhaps that Thordek
 > would bring new news, and was disappointed to find that Thordek was
 > not privy to the coming war. He assures Thordek that the time is
-> coming when the Dwarves will reclaim Khelberg.
+> coming when the dwarves will reclaim Khelberg.
 
 Back at the inn, Skeeve studies the orb and learns the following:
 
@@ -4352,10 +4352,10 @@ King.*
 King Lorman ruled and mined Khelberg for twenty years, when he was
 assassinated by one of his own lieutenants, a human foreman named
 Ingol. Ingol was a brutal leader but did not have the insight and
-cunning of his former master. His chief enforcers were more Orcs than
-Humans, and he ruled by fear and cruelty.
+cunning of his former master. His chief enforcers were more orcs than
+humans, and he ruled by fear and cruelty.
 
-The Dwarves heard of the fall of Lorman and saw that Ingol was a weak
+The dwarves heard of the fall of Lorman and saw that Ingol was a weak
 leader. They attempted once again to reclaim Khelberg. Their forces
 landed on the southern shores of Mar Tesaro and pushed north. Few who
 worked in the mines were willing to fight to defend their cruel
@@ -4369,13 +4369,13 @@ down from the hills was dark and filled with the dust and waste of the
 mines. The Greenlands turned gray, and crops failed. The inhabitants
 were obliged to move away from the foot of the mountain.
 
-The Dwarves built a great city southwest of the mountain and called it
+The dwarves built a great city southwest of the mountain and called it
 Fol Thron. They ruled from this place and sent many workers to live in
 harsh camps at the foot of Khelberg.
 
-Although they were invaded twice, the Dwarves held the mines for fifty
-years. Even when not facing full-scale invasion from Humans or Elves,
-they were regularly harassed by bands of Orcs from out of the North,
+Although they were invaded twice, the dwarves held the mines for fifty
+years. Even when not facing full-scale invasion from humans or elves,
+they were regularly harassed by bands of orcs from out of the North,
 who came often to raid shipments of food and gold.
 </div>
 
@@ -4406,45 +4406,45 @@ The day passes. Enoch completes work on another chapter:
 <div class="document">
 **Part VI: Notes on Geographical Names**
 
-*The name "Khelberg" is simply the Dwarven rendering of "The Mountain"
-in Common Speech. This seems an odd name for the Dwarves to have
-chosen, given their habit of naming mountains after the Dwarf who
+*The name "Khelberg" is simply the dwarven rendering of "The Mountain"
+in Common Speech. This seems an odd name for the dwarves to have
+chosen, given their habit of naming mountains after the dwarf who
 first discovered, owned, or mined them. Perhaps Khelberg was so great
 in their minds that they did not think any of their names would be
 worthy, and so left the mountain "nameless" by calling it Khelberg.*
 
 *It should also be noted that Khelberg is not a single mountain, but a
 small cluster that is roughly horseshoe-shaped. It was the custom of
-both Dwarves and Elves in the Earlier Days to name the hills in groups
-this way. It is said that the Dwarves had names for each of the peaks
+both dwarves and elves in the Earlier Days to name the hills in groups
+this way. It is said that the dwarves had names for each of the peaks
 within Khelberg, although I have not found any record of them. The
 other races that dwell there now have continued the habit of referring
 to the entire group as Khelberg, as if it were a single mountain.*
 
 *In the center of the crescent is a wide flat valley. Of old it was
-simply called "Greenlands" by the Elves, although that name was
+simply called "Greenlands" by the elves, although that name was
 dropped once it ceased being green. As the valley turned gray and
 filled with gravel and brackish water, the city was largely abandoned
 and became little more than mining camps. At one time the elves (when
 they had control of Khelberg) gave the camps the name Della Minera
 ("The Mining Valley", in Common) and the name remained, although the
-Elves did not.*
+elves did not.*
 
-*Other notable names on the island include Tal Podere, (in Elven, "the
-Farmlands"), Tal Lengo (in Elven, "the woods"), Valle Calma (in Elven
-"Silent Valley"), and Fol Thron (in Dwarven "Strong Throne").*
+*Other notable names on the island include Tal Podere, (in elven, "the
+Farmlands"), Tal Lengo (in elven, "the woods"), Valle Calma (in elven
+"Silent Valley"), and Fol Thron (in dwarven "Strong Throne").*
 
 *The island itself is still called by its original name Mar Tesaro,
 which means (very roughly) "Treasures Island", or perhaps "Island of
-great value". Is it possible that the Elves were aware of the gold and
+great value". Is it possible that the elves were aware of the gold and
 gems in the mountain, yet chose to leave them be? Or is the name
 speaking of the value of the island as a place to live, and not of the
 riches it contained? It is impossible to know, as the legends from
 those days are few and unreliable.*
 
-*Another curious fact is that although Elves and men have captured the
+*Another curious fact is that although elves and men have captured the
 city of Fol Thron many times, it has never been renamed. It has been
-the capital city of many empires, yet still bears its original Dwarven
+the capital city of many empires, yet still bears its original dwarven
 name.*
 
 - Chronicler Norvus
@@ -4519,11 +4519,11 @@ volumes to learn about these events in detail.*
 
 - Chronicler Norvus
 
-The Dwarves held the mines for fifty years, enduring two sieges and
-many Orcish raids from out of the north before finally falling to the
-Elves.
+The dwarves held the mines for fifty years, enduring two sieges and
+many orcish raids from out of the north before finally falling to the
+elves.
 
-The Elves appointed a king, who was assassinated within weeks, and
+The elves appointed a king, who was assassinated within weeks, and
 then replaced by King Loemus. Loemus survived two attempts on his
 life, one from human assassins and one from among his own advisers. He
 was maimed in the second attempt, and as time went on he became more
@@ -4537,12 +4537,12 @@ difficult. War raged around the mountain for several years, and more
 than once there were multiple factions mining from from different
 sides of Khelberg.
 
-After a decade of fighting, a Human female named Rhone gained the
+After a decade of fighting, a human female named Rhone gained the
 mastery in the conflict, aided by a large group of Wizards. They drove
 the other forces from the mountain, captured Fol Thron, and set up a
 Mageocracy. This was the most diverse and stable government the land
 had known since the fall of Ellas Morad and the original
-Mountain-Elves.
+mountain elves.
 
 It was during this time that the Mage Wars raged in Dunlock. As that
 war ended, the Guild of Mages was formed. (See also, The Mage Wars
@@ -4653,7 +4653,7 @@ small to the humans in the group.
 
 Enoch settles in to study his book.
 
-Skeeve visits the Magistrate Witman, who is a stout old Halfling.
+Skeeve visits the Magistrate Witman, who is a stout old halfling.
 Skeeve asks if there are have been any attacks on the town by undead.
 Whitman is amused by this, and makes it plain that this town sees
 little in the way of excitement. Skeeve also tries to see if perhaps
@@ -4705,7 +4705,7 @@ reaching Fol Thron today, but it will let them keep their horses.
 
 They finally come to the river. This is obviously the river that flows
 from the feet of Khelberg to the western sea. A great stone bridge,
-obviously old and of Dwarven make, spans the wide, slow river. A small
+obviously old and of dwarven make, spans the wide, slow river. A small
 camp is built on the southern side of the bridge, and a dozen soldiers
 stand guard on the bridge itself.
 
@@ -4751,7 +4751,7 @@ Mistress Rhone never married or had any offspring, so at her death her
 post fell to Archmage Mordan, her chief military adviser. Mordan
 arrested many foreigners traveling in his lands, including many
 diplomats. He imprisoned and tortured them, saying they were spies. He
-sent many antagonizing messages to various Dwarven and Elven leaders,
+sent many antagonizing messages to various dwarven and elven leaders,
 and did many other deeds to provoke his enemies. While Rhone had
 sometimes avoided open war when possible, Mordan sought it out at
 every opportunity.
@@ -4759,8 +4759,8 @@ every opportunity.
 Even his harshest critics admitted that he was without equal at the
 business of warfare. He was a great seer, and could at many times view
 the future actions of his enemies. Within months he had utterly
-exterminated the Orcs to the north. He initiated and won a number of
-wars against both Elves and Dwarves, and conquered the northern lands
+exterminated the orcs to the north. He initiated and won a number of
+wars against both elves and dwarves, and conquered the northern lands
 of Mar Tesaro, bringing the entire country under his rule.
 
 While Rhone was among the most gentle of leaders to sit in Fol Thron,
@@ -4793,7 +4793,7 @@ filled with water from the nearby lake. This new moat was filled with
 many watery beasts and fell creatures of the deep, so that none dared
 approach the palace for fear of being dragged from the bridge by some
 unseen horror. The palace was then renamed the Citadel, and began to
-look unlike the great fortress the Dwarves had built. It was dark and
+look unlike the great fortress the dwarves had built. It was dark and
 twisted, and few dared to lift their eyes to look upon it, even in the
 daytime.
 
@@ -4920,7 +4920,7 @@ are in the heart of the Alidian territory now, and they see many
 people along the road as they travel.
 
 Fol Thron is a massive, sprawling city full of stone towers and
-bridges. If Dwarves were to make a habit of building cities above
+bridges. If dwarves were to make a habit of building cities above
 ground, they would doubtless look much like this one. Canals carry a
 bit of the river through the city in key areas, where mills and other
 enterprises might make use of its strength.
@@ -4957,7 +4957,7 @@ governing body of the city.
 At last they reach the central square (which, as in Crossway, is
 called such despite being circular) and stare upwards in wonder. They
 are now at the feet of the great dark Citadel of Fol Thron. The
-building bears the frame of Dwarven make, although many sharp spikes
+building bears the frame of dwarven make, although many sharp spikes
 and pointy towers have been added on since the initial construction,
 giving the place a malevolent appearance. Many bridges and balconies
 cling to the sides of the towers as they reach ever upwards. While it
@@ -5200,8 +5200,8 @@ his lifeless army. He slew many in this way, both foe and servant
 alike, and their ranks grew.
 
 At length he discovered that the more bitter his victim's death, the
-stronger and more viscous they were in unlife. He took many Elves and
-Humans and tormented them for years before allowing them to die. He
+stronger and more viscous they were in unlife. He took many elves and
+humans and tormented them for years before allowing them to die. He
 invented many new spells and potions to aid him in extending the lives
 of his victims and intensifying their agony. So it was that each
 generation of Grave Walkers was more fearsome than the one before.
@@ -5238,7 +5238,7 @@ feared no foe in all the Earth.
 
 As the power of the Lich King continued to grow beyond measure, the
 other nations of the world began to wonder if he did not plan to
-conquer all. The Elven kings of southern Dunlock joined together, and
+conquer all. The elven kings of southern Dunlock joined together, and
 called on their sometime enemies of the north to join with them
 against this common threat, before Mordan became too strong for any to
 oppose.
@@ -5249,7 +5249,7 @@ oppose.
 
 The armies of Dunlock, from the greatest to the least of its kingdoms,
 gathered together to give one final challenge to Mordan the Dread
-Lich. Elf and Dwarf, Human and Halfling, all met the armies of Mordan
+Lich. Elf and dwarf, human and halfling, all met the armies of Mordan
 at the foot of the cursed mountain. The Grave Walkers marched into
 battle along with many slaves and fell beasts under the control of of
 Mordan. The battle lasted many weeks, and unspeakable magic was
@@ -5323,9 +5323,9 @@ strongest of the forces should each appoint a leader, and that they
 should rule together as a triumvirate. Forwinol then decided that his
 work was done, and returned to his homeland in Mar Talos.
 
-The triumvirate was made from three great leaders: For the Dwarves,
-King Konal Stonefist, the Elves had Mistress Myran Alidia, and the
-Humans had King Pallas Lorman.
+The triumvirate was made from three great leaders: For the dwarves,
+King Konal Stonefist, the elves had Mistress Myran Alidia, and the
+humans had King Pallas Lorman.
 
 Lorman was descended through many generations from the King Lorman of
 old, the first human King of Khelberg. Like his grandsire, Pallas
@@ -5334,7 +5334,7 @@ magic.
 
 The Dwarven King Konal Stonefist was the first to betray the
 triumvirate. During the twentieth year of their reign, he gathered in
-secret many Dwarves and tried to make Fol Thron his own. The other two
+secret many dwarves and tried to make Fol Thron his own. The other two
 leaders joined and defeated him.
 
 The remaining two leaders distrusted one another, and accused each
@@ -5405,7 +5405,7 @@ Mistress Myran Alidia was the sole ruler of Khelberg. With the other
 members of the triumvirate defeated, she now became Queen Alidia. Her
 blindness made her fearful and filled her with a lust for vengeance.
 Her injury pained her at all times, no no healer could undo the damage
-she had suffered. She came to hate and despise all Humans for Lorman's
+she had suffered. She came to hate and despise all humans for Lorman's
 betrayal.
 
 The injury dealt her by Lorman had both stolen her sight and
@@ -5422,7 +5422,7 @@ strong as many of the great sorcerers of old.
 Queen Alidia had been gentle and beautiful to behold when the
 triumvirate was formed, but the long years of scheming, battles, pain,
 and arcane studies had left her dark and twisted. Her appearance was
-almost that of a Dark Elf, though she would kill any who stated so
+almost that of a dark elf, though she would kill any who stated so
 openly in her presence.
 
 She became a skilled seer, and probed the minds of her subjects, wary
@@ -5449,7 +5449,7 @@ madness? What else besides the curse could explain how an entire
 nation of people could become so full of lust for gold that they would
 poison their own farmlands in the mining of it? Why did people not
 flee the lands when war came, even when their defeat was sure? What
-would make even the gentle Elves stand and fight to the death over
+would make even the gentle elves stand and fight to the death over
 mere treasure?*
 
 *I implore you, the reader: Do not take any of the treasure of Khelberg
@@ -5463,7 +5463,7 @@ years of secret study I have found many clues as to how such a deed
 might be done, although much knowledge has been lost or hidden beyond
 my reach.*
 
-*The spirit of Fiore was bound by Dwarven magics deep below the
+*The spirit of Fiore was bound by dwarven magics deep below the
 mountain. If that work could be undone, perhaps it could be freed
 again? If Fiore were freed, would it not lift also the curse on the
 land itself?*
@@ -5477,7 +5477,7 @@ Many books were kept there and many secrets hidden from the eyes of
 Mordan. The Wizards that kept the place were slain in the battle
 against the Lich King, and the location of the archives are now lost.
 But there is a slim hope that if they could be found again, perhaps
-some hint of the Dwarven spell could be learned.*
+some hint of the dwarven spell could be learned.*
 
 *The Magus Archives were built soon after the inception of the Guild of
 Mages itself. I have sent secret messengers to Dunlock to speak with
@@ -5628,7 +5628,7 @@ his family crest on the face. The blacksmith tries to up-sell him with
 a number of useless options like silver trim, gold inlay, fancy types
 of wood for the shaft, exotic leathers for the handle, and so on. All
 of these would make the weapon more ornate and less practical. The
-Dwarf isn't having any of it. At length the smith realizes that this
+dwarf isn't having any of it. At length the smith realizes that this
 is a hammer for crunching foes, not hanging over the hearth, and so he
 relents. Since all of the parts of the weapon are stock, only the head
 needs to be custom-crafted. They agree on a price, and Thordek is told
@@ -5722,10 +5722,10 @@ and they are told not to leave the city.
 The party has spent most of the day dealing with various city
 officials, trying to get someone to hear their case and alert the
 queen to the danger in the north. Thordek seeks out the Embassy and
-meets with the Dwarven diplomat. Perhaps his kin have some sway here.
+meets with the dwarven diplomat. Perhaps his kin have some sway here.
 
 He is welcomed as a brother, and they spend some time talking about
-smithing and mining. At length, the Dwarf lowers his voice, "So
+smithing and mining. At length, the dwarf lowers his voice, "So
 brother, any news?"
 
 Thordek realizes that the he must be talking about the coming invasion
@@ -6551,7 +6551,7 @@ While they are still talking, another servant comes out and rings her
 bell. She speaks a single name, "Thordek Earthguard."
 
 Thordek follows the same path of darkness that Eomer and Thu'fir
-traveled. His keen Dwarven eyes allow him to navigate more easily than
+traveled. His keen dwarven eyes allow him to navigate more easily than
 they did in the darkness. At last he arrives alone at the throne room
 of Queen Alidia.
 
@@ -6559,16 +6559,16 @@ As a gesture of respect, he places his hammer on the ground, and
 speaks with her empty-handed.
 
 Her voice echoes from the walls, "Welcome, son of the earth. You are
-the first Dwarf to be allowed within my halls since before you were
-born. Like all Dwarves, it seems you bring trouble with you. So now,
+the first dwarf to be allowed within my halls since before you were
+born. Like all dwarves, it seems you bring trouble with you. So now,
 shall we be friends or enemies? I have but one question for you.
 Answer in truth and we will be allies. Answer in deceit and become my
 enemy."
 
 She pauses, giving her question the proper weight, "I know the ways of
-Dwarves. They will never rest while Khelberg is ruled by others. It
+dwarves. They will never rest while Khelberg is ruled by others. It
 has been many ill years since they last attempted to take the mountain
-from me. Here now, what whisperings have you heard? Are the Dwarves
+from me. Here now, what whisperings have you heard? Are the dwarves
 planning to invade me once more?"
 
 Thordek is quiet for a long time, considering her question. At last he
@@ -6582,7 +6582,7 @@ The agents here have waited in vain for an order that never came."
 > me, the players (in this case just Joe) and Heather. This changes
 > the feel of interactions a lot.
 >
-> The interesting thing here is that Thordek the Dwarf would betray
+> The interesting thing here is that Thordek the dwarf would betray
 > the trust of his brethren to an oppressive Elven Queen.
 >
 > Some DM's might protest when players do stuff like this, but I have
@@ -6803,7 +6803,7 @@ turn west.
 
 ![](images/map_mar_tesaro.gif)
 
-As the sun sets they top the hill and ride into the small Halfling
+As the sun sets they top the hill and ride into the small halfling
 village of Hillstead. This is obviously a farming community, with many
 farms dotting the surrounding countryside. There is a standard
 detachment of Alidian guards at the entrance to the city: A group of
@@ -7172,7 +7172,7 @@ map:
 ![](images/map_mar_tesaro.gif)
 
 They have been to Tal Podere and Hillstead. Garret would stick out too
-much in the Halfling-dominated Hillstead. He wasn't in Tal Podere when
+much in the halfling-dominated Hillstead. He wasn't in Tal Podere when
 the party stopped there for a few days, and that would be an unlikely
 hiding place. Dockhouse was much too small to enter unnoticed, and Sar
 Diga seems a bit too out-of-the-way. He wasn't in Della Minera on any
@@ -7303,7 +7303,7 @@ mean.
 
 > Someone eventually figured out (Bogan, I bet, but my notes don't
 > say) that the ghosts were looking up the slope where the mountain
-> elves had been thrown down by the Dwarves. They were in Bohrung Khel
+> elves had been thrown down by the dwarves. They were in Bohrung Khel
 > Toten -- The Chasm of the Dead.
 
 The next day they continue their journey east. On the way they intrude
@@ -7502,7 +7502,7 @@ Morning comes and they begin again. At mid-day Thordek finds some
 subtle hints, some indications of long-past excavations. Moving on, he
 spots more such signs, which leads them to a heap of loose rocks --
 nearly gravel -- piled against the side of the mountain. Into the cliff
-face they can see the faded carving of a number of Dwarven runes.
+face they can see the faded carving of a number of dwarven runes.
 Thordek can't make any sense of them, until Skeeve points out that
 they are only seeing half of the runes, the bottom half of the letters
 is hidden beneath the dusty rocks. They clear away the rocks and sort
@@ -7521,7 +7521,7 @@ stacks against it. It cracks, then splits, then tumbles inward.
 
 Behind the door is a tunnel, reaching into the heart of the mountain.
 Thordek examines the tunnel work and observes that this was not a
-proper Dwarven mining tunnel. This was dug carelessly and in great
+proper dwarven mining tunnel. This was dug carelessly and in great
 haste. The work is rough and ugly to his eyes. They venture inward.
 Enoch leads, holding his enchanted mace above his head to provide them
 with a steady white light.
@@ -7530,7 +7530,7 @@ The tunnel branches off from time to time. Some tunnels are partly
 flooded, which makes progress problematic.
 
 > Let's skip the maze. The upshot here was that the tunnel would often
-> fork off. The players eventually figure out that the Dwarves who dug
+> fork off. The players eventually figure out that the dwarves who dug
 > this were trying to dig in a straight line, but were sometimes
 > thwarted by rotten rock, flooding, and cave-ins, and were thus
 > obliged to back up and route around the bad spot.
@@ -7544,7 +7544,7 @@ flooded, which makes progress problematic.
 The tunnel continues forward and slightly downwards for what seems
 like miles. At last they come to an open chamber, illuminated with a
 faint green glow. In the center of the room is a steel box of obvious
-Dwarven make, and a little smaller than the height of a Dwarf. Skeeve
+dwarven make, and a little smaller than the height of a dwarf. Skeeve
 can see that the box is bathed in magic.
 
 Even here, deep in the sunless underground, the floor is thick with
@@ -7557,17 +7557,17 @@ this cave, are in neat stacks around the room. Thordek notes a shirt
 of fine chain spread out on the floor. A shield rests neatly atop of
 it, and a hammer is laid across its breast. These stacks are not
 heaped here without purpose. These are most likely memorials to the
-Dwarves who perished in the making of this tunnel.
+dwarves who perished in the making of this tunnel.
 
 There are also heaps of other treasure in the room. There are very old
 gold coins here, minted by some long-dead kingdom. There are also
 rough bits of (they assume) valuable ore or rough gems, most likely
 broken loose and piled here in this chamber. It is unclear why the
-Dwarves, who waged such war for control of the mountain and its
+dwarves, who waged such war for control of the mountain and its
 riches, would then leave so much behind.
 
 > This was never explained to the players, but the idea is that Fiore
-> put a curse on the treasure of the mountain. The Dwarves were brave
+> put a curse on the treasure of the mountain. The dwarves were brave
 > in the face of this, but also wanted to dodge their punishment if
 > they could. They sort of hoped that the curse would only apply to
 > the stuff in this room where the curse was imposed, and that by
@@ -7610,7 +7610,7 @@ Eomer warns everyone not to touch the treasure.
 
 Enoch lowers his mace and the white light winks out.
 
-The box is covered in many cruel Dwarven runes, which seem to be
+The box is covered in many cruel dwarven runes, which seem to be
 giving off the light they are seeing. It is sealed shut and wrapped in
 many chains and locks. The runes are magical, but neither Skeeve or
 Thordek can make any sense of them. Whatever magic was used in the
@@ -7637,7 +7637,7 @@ also potent. It is a cold, feminine voice.
 >
 > The conversation with her went on for a while. The players worked
 > out that yes, this really is the Fiore of old. Yes, she was
-> imprisoned by the Dwarves. Yes, she created the curse. Yes, this box
+> imprisoned by the dwarves. Yes, she created the curse. Yes, this box
 > is a prison for her spirit which blocks all of her supernatural
 > power. Her power only extends far enough to fill this room with
 > grass (which she sort of can't help, actually) and allow her to
@@ -7733,7 +7733,7 @@ Two days later they arrive in Washport. Everyone is on edge. The
 guards are jumpy. At first they assume that this is due to the
 mountain exploding. Then they learn that things have changed in the
 two weeks they were wandering in the East. The Black Army of Mordan
-swept south some days ago. Here in Washport there are many Halfling
+swept south some days ago. Here in Washport there are many halfling
 farmers from Hillstead. They fled the city as the Grave Walkers
 descended on them in the night. To their knowledge, everything north of
 the river is lost.
@@ -7766,15 +7766,15 @@ continues until shortly before dawn.
 > But wait! There's more! See Lake Emlin? That open area just west of
 > the lake is where...
 
-The Dwarves of Dunlock arrived! At first the people saw the army and
+The dwarves of Dunlock arrived! At first the people saw the army and
 thought reinforcements had arrived to aid in the battle against
-Mordan. Then the Dwarves set up some siege engines and began to pummel
-Fol Thron. The gossip in town is that the Dwarves saw this whole war
+Mordan. Then the dwarves set up some siege engines and began to pummel
+Fol Thron. The gossip in town is that the dwarves saw this whole war
 (er, both wars, against the North and then against Mordan) as their
 chance to recapture Fol Thron at last. Dwarves have such a gift for
 holding grudges.
 
-The Dwarves have somehow made landfall south of the city and have
+The dwarves have somehow made landfall south of the city and have
 struck while the army was engaged at The Bridge. The Alidians, already
 tired from the war with the Lormanites, are now forced to fight on two
 fronts.
@@ -7785,19 +7785,19 @@ sure who controls the capital city now.
 > Whew. An awful lot going on, isn't there?
 
 The party doesn't waste time here is town. At daybreak they reclaim
-their horses and ride with speed to the Dwarven encampment.
+their horses and ride with speed to the dwarven encampment.
 
 > Not the move I was expecting! But a good one.
 
 They stop at the edge of the camp and Thordek acts as the leader of
 the party for the purpose of the conversation. They are less likely to
-get perforated by Dwarven crossbows if everyone thinks the party is
-under the leadership of a Dwarf.
+get perforated by dwarven crossbows if everyone thinks the party is
+under the leadership of a dwarf.
 
 While not given audience with the General (who is very busy right now)
 Thordek is given an audience with his second in command. He is taken
 alone to the commander's tent while the rest of the party waits at the
-edge of the Dwarven encampment.
+edge of the dwarven encampment.
 
 To help smooth the conversation along, Thordek pretends to be excited
 about this new conquest of the island by his people. In truth, he is
@@ -7811,18 +7811,18 @@ secret chamber of Fiore, now (hopefully) to be Mordan's prison. (The
 party has already agreed that they will never tell this secret, lest
 some idiot followers of the Lich try to free him again.)
 
-The Dwarves did not know he was free again. They have struck now
+The dwarves did not know he was free again. They have struck now
 simply because they expected that the Queen would be weak after her
 war in the north. They calculated that with her forces engaged in the
 north, they should be able to make landfall to the south and take the
 city by surprise. They very nearly did take the city. The walls were
-breached, and the Dwarves entered the city, but then reinforcements
+breached, and the dwarves entered the city, but then reinforcements
 arrived from the north and pushed them back. Now that they know the
 city is all that stands between themselves and Mordan, they are not so
 keen to take it.
 
-Thordek learns that the Dwarves are also fighting in the south, trying
-to take the city of Telwin Port. The Dwarves just want control of the
+Thordek learns that the dwarves are also fighting in the south, trying
+to take the city of Telwin Port. The dwarves just want control of the
 harbor, and they need some food. One of their own ships had a bulk of
 their foodstores on it, and it was somehow burned into the sea.
 
@@ -7830,19 +7830,19 @@ their foodstores on it, and it was somehow burned into the sea.
 > ship was burned because of some magic Mordan was using to try to
 > isolate the island. In truth, this stuff is in my notes but I don't
 > even know if the dialog in-game covered it. The upshot here is that
-> the Dwarves only have a couple of days of food left and they need to
+> the dwarves only have a couple of days of food left and they need to
 > get their hands on some or they will quickly turn from being
 > invaders into conquered slaves.
 
 Thordek tries to negotiate to go in and rescue their friend Beck in
 Telwin Port, but that is asking too much. The city is under siege.
-Even if the Dwarves let the party in, the defenders of the city would
+Even if the dwarves let the party in, the defenders of the city would
 most likely try to kill them on sight. The commander promises that if
 the city surrenders or Beck is taken prisoner, that he will be spared.
 
 Thordek returns to the rest of the party and gives them the news.
 
-The party rides away from the Dwarf camp, and heads around the
+The party rides away from the dwarf camp, and heads around the
 southern side of Lake Emlin. By nightfall they reach Della Minera,
 where they freed the slaves a couple of weeks earlier. To the north is
 now a huge area of tents and soldiers. The last shreds of the Alidian
@@ -7988,27 +7988,27 @@ She explains that her mines collapsed and an avalanche covered many of
 the old ways in. The mountain is sealed now, and nobody will dare to
 set foot on it.
 
-She offers them a new task: To go to the Dwarves and offer them a
+She offers them a new task: To go to the dwarves and offer them a
 truce. She is prepared to offer them control of the mountain in
 exchange for their aid in repelling Mordan. The mountain, being pissed
 off and erupting, is not the prize it was just a few weeks before.
-But the Dwarves came to claim it, and it's all she has to bargain
+But the dwarves came to claim it, and it's all she has to bargain
 with.
 
-They reveal to the Queen the Dwarven food shortage. This might be an
+They reveal to the Queen the dwarven food shortage. This might be an
 even better bargaining chip than the mountain. She could probably
 simply wait for their hungry bellies to prompt their surrender, but
 Mordan's attack from the north and her own thinning forces do not
-afford her this luxury. She adds that she will give the Dwarves the
+afford her this luxury. She adds that she will give the dwarves the
 provisions they need if they aid her.
 
 They agree to this task and depart. A detachment of soldiers is sent
 along with the party, under their command. There are enough men to
 demonstrated that they come in the name of the Queen, but few enough
-that the Dwarves won't mistake the group for a halfhearted
+that the dwarves won't mistake the group for a halfhearted
 counterattack.
 
-They ride south under a flag of truce and meet with the Dwarven
+They ride south under a flag of truce and meet with the dwarven
 general. Thordek puts her offer on the table. There is some
 negotiation.
 
@@ -8021,13 +8021,13 @@ negotiation.
 > in the way of Charisma or diplomacy, but this was more about
 > roleplaying than roleplaying so that didn't hurt him.
 >
-> This Dwarven general was a funny (odd) fellow and we had a lot of
-> fun with this conversation as two Dwarves hammering out the details
+> This dwarven general was a funny (odd) fellow and we had a lot of
+> fun with this conversation as two dwarves hammering out the details
 > of the agreement. You can't have this kind of fun with raw
 > hack-n-slash players, and I am once again grateful that I have such
 > good gaming buddies.
 
-The Dwarves agree to pull up stakes, take down their siege machinery,
+The dwarves agree to pull up stakes, take down their siege machinery,
 and head north. A lot of their forces are concentrated in the south at
 Telwin Port, and it will take three days to regroup and mobilize.
 Thordek thanks him, and the group departs.
@@ -8072,12 +8072,12 @@ tomorrow.
 
 # Session 15
 
-Three days later the Dwarven army arrives, backed by the last of the
+Three days later the dwarven army arrives, backed by the last of the
 Alidian soldiers. Mordan has pulled his army back and has not
 returned. The time has come for a counterattack. The army marches over
 the bridge, aiming north.
 
-Many Dwarves look back over their shoulders as they travel, gazing up
+Many dwarves look back over their shoulders as they travel, gazing up
 at the dark smoking peak of Khelberg.
 
 The players ride out front. While not formally in command of the army,
@@ -8139,7 +8139,7 @@ towards Fort Bolland.
 It takes the better part of a day to move the army through the ruined
 city, and another day of travel to reach Fort Bolland. There they find
 Mordan's forces swarming around the city, climbing up the walls any
-trying to overwhelm the defenders. The Alidian / Dwarven alliance
+trying to overwhelm the defenders. The Alidian / dwarven alliance
 comes down on the rear of the undead mass, acting as the hammer to the
 city's anvil. At last they get a look at the forces that have been
 troubling Mordan's rear flank. They are elves! It's Sagemaster!
@@ -8163,7 +8163,7 @@ troubling Mordan's rear flank. They are elves! It's Sagemaster!
 > had showed up just in time to rescue him. It's not every day you get
 > to return a favor to a high-level character.
 
-The armies crash into one another. The Dwarven / Alidian alliance
+The armies crash into one another. The dwarven / Alidian alliance
 begins hacking at the rear of the undead army, while arrows and spells
 pummel Mordan's forces from over the city walls.
 
@@ -8240,7 +8240,7 @@ Teerin, who is far more in touch with nature and wild beasts than
 Mordan. He arrived and joined with the few people still alive in Fort
 Bolland, then moved south to liberate Crossway.
 
-> If I hadn't changed the campaign so that the Dwarves and Sagemaster
+> If I hadn't changed the campaign so that the dwarves and Sagemaster
 > arrived at more or less the same time (within a week of each other)
 > then all of this would have played out very differently. Still, this
 > wasn't a bad ending.
@@ -8255,22 +8255,22 @@ Bolland, then moved south to liberate Crossway.
 > Not exactly epic, but at least we tied up the loose ends.
 
 While in Fol Thron, the party meets up with Beck again. He made it
-through the Dwarven assault of Telwin Port, and they gather that he
+through the dwarven assault of Telwin Port, and they gather that he
 had a big part in rallying the city defense. He's glad to see everyone
 pulled through.
 
-In the end, the Dwarves do claim the mountain. However, since they
+In the end, the dwarves do claim the mountain. However, since they
 can't set foot on it, they build a city at the foot of the mountain --
 which they now properly call Fiore. They take control of the city of
 Della Minera (peacefully, although with some minor political haggling)
 and expand the town at a rapid pace.
 
-The Dwarves act as guardians, telling people to Keep Off The Mountain.
+The dwarves act as guardians, telling people to Keep Off The Mountain.
 This gives them the illusion of ownership and kinship with the
 mountain that they desired long ago. It really was a point of pride
 for them, that the greatest mountain in the world wasn't theirs. Well,
 it still isn't theirs, but they are closer to it than anyone else,
-which makes them about as happy as Dwarves ever get. They bow to the
+which makes them about as happy as dwarves ever get. They bow to the
 mountain and pay it respect from a safe distance.
 
 Once the Queen is healed, she requires several days alone. Then she
@@ -8362,18 +8362,18 @@ managed to route around all of this.
 
 ## Goblin Hills
 
-The weather hills were infested with Goblins, who loved to build traps
+The weather hills were infested with goblins, who loved to build traps
 and ambushes. They were another wilderness maze, although almost every
 point had some pit or trap which would require some reflex save for
 the poor slob out in front. Once the trap was sprung, (assuming it
 took someone down, knocked them over, or otherwise worked) then
-Goblins would emerge from the underbrush and attack. The Goblin camp
+goblins would emerge from the underbrush and attack. The goblin camp
 was also in the hills, although it was a little hard to find. If the
 players stumbled on it or tracked it down they could clean the place
 out for a little payback.
 
 I thought I'd devised the map so that they would have to journey
-through Upper Bolwood OR the Goblin territory, forgetting that with
+through Upper Bolwood OR the goblin territory, forgetting that with
 Enoch's help they could walk on water. They skipped Upper Bolwood,
 then crossed the river and dodged the Weather Hills.
 
@@ -8449,7 +8449,7 @@ for a few gold.
 
 ## Dwarven War
 
-I'd planned for the Dwarves to arrive after Mordan was defeated. They
+I'd planned for the dwarves to arrive after Mordan was defeated. They
 were originally going to land in Warfield (just north of Fol Thron)
 and attack the capital from there. This didn't make a lot of sense.
 (Why would they land on the opposite side of the river, so that they
@@ -8457,8 +8457,8 @@ would have to go all the way to the bridge?)
 
 The players would have enough knowledge at this point that their help
 could swing the war either way if they decided to take sides. They
-could give the Dwarves a nice map of the city defenses, or reveal to
-the Queen the Dwarven food shortage. Doing one or the other could tip
+could give the dwarves a nice map of the city defenses, or reveal to
+the Queen the dwarven food shortage. Doing one or the other could tip
 the battle whichever way they wanted, but the real solution was to
 free Fiore so people would stop fighting over this $#@ing mountain.
 
@@ -8467,7 +8467,7 @@ curse of Fiore, which was the real cause of all of these wars.
 
 I changed things around because I thought it was time to start
 wrapping up the campaign. Then they managed to free Fiore before the
-Dwarves even arrived.
+dwarves even arrived.
 
 The more I think about it, the more I like the ending we got.
 
