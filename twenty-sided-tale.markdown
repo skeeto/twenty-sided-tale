@@ -1657,7 +1657,7 @@ over. He doesn't say anything about the night before.
 
 They move south, passing several small farms and into the open
 grasslands. Eomer leads them at a strenuous pace. As the day wears on,
-Thu'fir notices that several back birds have been circling them for
+Thu'fir notices that several black birds have been circling them for
 most of the day. The birds are too distant to be identified, but their
 dark outlines can be seen clearly against the blue sky of late summer.
 
