@@ -967,7 +967,7 @@ weapons. Eomer is right behind him, but quick enough to leap up and
 place his feet on the railings, holding himself above the steps as the
 swords and victim slid by beneath him.
 
-> As a Rogue, Eomer's reflex saving throws are through the roof, so he
+> As a rogue, Eomer's reflex saving throws are through the roof, so he
 > always gets to make cool saves like this.
 
 The steps are now coated with seawater, blood, and swords. Enoch is
@@ -1925,7 +1925,7 @@ Moor.
 ## 4th of Last Summer, 1501dy (early morning) {.date}
 
 The day is overcast. Above ground this church is destroyed. All that
-remains is a two-foot wall making the outline where the building once
+remains is a two-foot wall marking the outline where the building once
 stood. The building was made from large stone block, and large pale
 stones are scattered throughout the tall grass. Inside, two sets of
 stairs (one on each side of the building) lead down into the earth.
@@ -1997,8 +1997,8 @@ door.
 
 This is a dining area. A large rustic wooden table sits in the center
 of the room, along with a single chair. The table looks newer than
-other wooden items (such as doors) you see about. While suffering from
-bad moisture damage, its certainly "new" compared to other items
+other wooden items (such as doors) seen about. While suffering from
+bad moisture damage, it's certainly "new" compared to other items
 around. It and the chair look to be poorly made. They are rough and
 unevenly cut from untreated wood.
 
@@ -2071,11 +2071,11 @@ obvious dwarvish-ness. "Is he trying to dig a new mine?" says Beck.
 After a half hour or so the wooden walls give way to his hammer. He
 finds that there is a big contraption here with crossbow bolts. It
 points out into the hallway. If it were to fire, it would come out of
-a picture frame (through the canvas) and traveled north down the hall.
+a picture frame (through the canvas) and travel north down the hall.
 They note that out in the hallway there is another picture facing
 south.
 
-Looking at the pictures more closely, they see that they are "new".
+Looking at the pictures more closely, they see that they are "new."
 The frames are cheap and the paintings are quick, simple pictures.
 
 Making sure everyone is out of the hallway, Thu'fir attempts to take
@@ -2283,7 +2283,7 @@ children be! You can't help them now. Go back to the town."
 ![](images/uc_map14.gif)
 
 At the front of the room is a table with jars and evil books and other
-nasty stuff. There is also a large spell-book.
+nasty stuff. There is also a large spellbook.
 
 The children seem to be under a spell of dreamless sleep. Eomer moves
 closer to the children.
@@ -2295,9 +2295,9 @@ confirms that he is breathing very slightly. The children look deathly
 pale.
 
 "I am prepared to do what none of you would against the Alidians. It
-is time that we return to our former glory", states the voice.
+is time that we return to our former glory," states the voice.
 
-"Murdering children will do that?", asks Thu'fir. The others continue
+Thu'fir asks, "Murdering children will do that?" The others continue
 to look for the source of the voice.
 
 "It's time that we go back to our roots. We've abandoned the ways of
@@ -2366,7 +2366,7 @@ massive blade.
 > worse was the fact that they entered the battle injured and low on
 > magic. Enoch had no healing power left, and Skeeve was nearly spent
 > as well. Since they didn't know how to fight a wizard, they didn't
-> have any sort of plan. As it ended up, their wizard and Rogue faced
+> have any sort of plan. As it ended up, their wizard and rogue faced
 > the enemy wizard while the fighters ran off? What a mess.
 >
 > If you think this is confusing to read, you should have tried to
@@ -2407,7 +2407,7 @@ Skeeve finds a mage's guild certificate of membership made out to
 self-taught wizard, he has never heard of the guild, but figures that
 being able to pass himself off as a member may come in handy.
 
-Thu'fir finds the wizards staff and gives it to Skeeve. Amongst the
+Thu'fir finds the wizard's staff and gives it to Skeeve. Amongst the
 other things until Skeeve can take a look at everything. Everyone
 regroups in the main room, bringing the kids in as well, except
 Thordek who has been checking all the rooms they had missed, gathering
@@ -3187,7 +3187,7 @@ call.
 
 They met at the slopes of Khel Toten to gather their power together,
 and bind the Spirit of the Mountain. Using both strength and sorcery,
-both pick axe and spell-book, they drove a single deep shaft into the
+both pick axe and spellbook, they drove a single deep shaft into the
 heart of the mountain. The battle was terrible and numerous dwarves
 were killed in the making of it, but at last Marblade arrived in the
 lowest depths of the Earth, and there he cast the great binding-spell
