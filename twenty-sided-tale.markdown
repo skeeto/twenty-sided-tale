@@ -56,7 +56,7 @@ The Northerners (also called "Lormanites"), and the Alidians.
 
 ![](images/map_mar_tesaro.gif)
 
-On the south side of the island is a mountain called "Mount Khelberg".
+On the south side of the island is a mountain called "Mount Khelberg."
 It is apparently a very large and valuable mountain that contains a
 lot of precious metals and gems. From what the party has gathered, the
 war seems to be over who should control the mountain.
@@ -157,7 +157,7 @@ with the party as a guide through the mountains.
 > Weapon movie. I thought the reference was obscure enough that I
 > could get away with it. Once I introduced him, the players had a
 > laugh at my expense and explained what "Endo" means. They made jokes
-> about his friends "Hawaiian Gold" and "Ganji". Sigh.
+> about his friends "Hawaiian Gold" and "Ganji." Sigh.
 >
 > Just don't get the impression this guy is some sort of stoner.
 >
@@ -312,7 +312,7 @@ viscous thieves he was trained to look out for. They were dirty,
 ragged, and very obviously starving. They didn't look anything like
 the thieves or evil-doers he had imagined, they were starving
 peasants. Two of them weren't even wearing shoes. As he watched them
-"flee", still quite surprised at their appearance, he watched as all
+"flee," still quite surprised at their appearance, he watched as all
 three were chased down and cut to pieces by other guards on horseback.
 Shocked at what had just happened, he said nothing as the Captain
 rebuked him for not paying attention. When he returned home, he asked
@@ -547,7 +547,7 @@ non-specific country.
 When I took over I wanted to keep a bit of continuity, but at the same
 time I needed to place them in some sort of structured world. I came
 up with the map you see below. I decided that they all came from
-"Dunlock", and they were in the coastal town of Djoshport (named after
+"Dunlock," and they were in the coastal town of Djoshport (named after
 their hapless former DM). In our first session I stuck them on a boat
 for Grey Moor, the site of our first campaign.
 
@@ -651,7 +651,7 @@ Sagemaster Teerin Forwinol
 The party discusses their plans, considering whether to go straight to
 Greymoor or to stop at Mar Talos on the way back. Lucian decides to
 stay and help the people rebuild their town. Eomer looks sternly at
-Lucian and just as sternly says, "Stay away from my girlfriend".
+Lucian and just as sternly says, "Stay away from my girlfriend."
 
 Lucian, known to be a bit of a cad, just grins.
 
@@ -729,7 +729,7 @@ Nobert then goes on to explain that Beck used to be first mate, losing
 the title to Inorem when the Captain offered to help Inorem get funds
 for a new ship. The crew however misses Beck as such, liking him as
 much as they hate Inorem. The crew also is very fond of the captain,
-who they refer to as "Puffins" or "Puff". He runs a loose ship, but
+who they refer to as "Puffins" or "Puff." He runs a loose ship, but
 his generosity with his pay make up for any faults.
 
 Nobert rambles on about various things until he settles on his girl
@@ -943,7 +943,7 @@ captain explains that the more they aim INTO the wind, the safer they
 are. The sails are tied up and everyone else is sent below.
 
 Skeeve begins offering random spells he can do. None of them are "make
-the storm go away", so the captain sends him below-decks with the
+the storm go away," so the captain sends him below-decks with the
 rest. Thordek and Thu'fir have no trouble keeping the ship on course.
 
 Night falls. Inorem stands just inside the door and runs the damage
@@ -1255,7 +1255,7 @@ hidden in the smith's house but that the house had been taken over by
 the soldiers.
 
 > And so ends our first session. An awful lot of this session was
-> "cutscene", where predetermined events unfolded and the players
+> "cutscene," where predetermined events unfolded and the players
 > could only watch. I HATE having a lot of predetermined events, but I
 > think everyone understood that the first session naturally must
 > start with some setup to get them where they need to be and
@@ -1363,7 +1363,7 @@ In the earliest days of Mar Tesaro, the southern lands were inhabited
 by a peaceful clan of mountain elves. They were gentle and kind, slow
 to quarrel and preferred music and wine above swordplay and bloodshed.
 They lived on the slopes of the great mountain, which they named Mt.
-Fiore, which means "the place of flowers".
+Fiore, which means "the place of flowers."
 
 The mountain was tall and green in those days, and was fair to behold
 even in the cold of winter. Fairer still it was in the warm months,
@@ -1377,7 +1377,7 @@ those days.
 
 But Dwarf-King Thul Marblade came at last to the shores of Mar Tesaro.
 He came to the elven chieftain Ellas Morad, and asked for leave to
-climb the mountain. "For", said he, "it is the way of all dwarves to
+climb the mountain. "For," said he, "it is the way of all dwarves to
 seek the mountains and learn their ways."
 
 Morad gave him permission to walk the slopes, and the dwarf departed
@@ -1627,7 +1627,7 @@ they can travel south.
 
 "The first way is that you could head west, cross the bridge, and then
 head south through Upper Bolwood. The woods are dense and unyielding,
-and some travelers tell tales of Ettins prowling on the edge of the
+and some travelers tell tales of ettins prowling on the edge of the
 woods from time to time. If you come through the woods you should find
 yourselves in the village of Woodhurst.
 
@@ -1698,7 +1698,7 @@ Polan tells his story:
 
 "About four days ago one of the little ones, a kid about seven years
 old, disappeared from the fields just north of town. Two days later,
-other kids were picking hardberries at the bushes over yonder", He
+other kids were picking hardberries at the bushes over yonder," He
 points to an area west of the town, "and the kids say a man jumped out
 of the bushes and took one of them and carried the little girl off.
 Now, the soldiers took all our weapons when they took this town. That
@@ -1890,7 +1890,7 @@ and then joined in a battle to prevent a single greedy nobleman for
 seizing control of the Island. Along the way they teamed up with Eomer
 and Endo and attained level 3.
 
-Grey Moor is about 90% human, 5% halfling, and 5% "everyone else".
+Grey Moor is about 90% human, 5% halfling, and 5% "everyone else."
 Dwarves are known to live in the mountains but their number is not
 known so they are not included in this total. Elves are very uncommon
 and usually never leave Bayhaven. The whole island is seen as rather
@@ -2013,9 +2013,9 @@ dropping his staff in the process, almost falling in himself.
 
 Thu'fir lands in darkness twenty feet down, on a set of sharp spikes.
 Thordek pulls Skeeve up. Skeeve cries out the name of his staff,
-"Sucursis!". The staff obeys and returns to his hand. He casts
-levitate on Thu'fir and they help him out of the hole. Enoch heals his
-wounds, which are severe, but not life-threatening.
+"Sucursis!" The staff obeys and returns to his hand. He casts levitate
+on Thu'fir and they help him out of the hole. Enoch heals his wounds,
+which are severe, but not life-threatening.
 
 While still levitating Thu'fir moves over to the door to open it, and
 floats through. The others prepare to jump across. The jump is a bit
@@ -2403,7 +2403,7 @@ along with bits removed from jewelry and teeth. Thordek takes these
 items to sell and divide the proceeds later.
 
 Skeeve finds a mage's guild certificate of membership made out to
-"Conjurer Vormoth", good until 1505dy. Skeeve takes this. Being a
+"Conjurer Vormoth," good until 1505dy. Skeeve takes this. Being a
 self-taught wizard, he has never heard of the guild, but figures that
 being able to pass himself off as a member may come in handy.
 
@@ -2492,13 +2492,13 @@ this quiet. He doesn't want the other villagers to know their former
 mayor was the one behind the kidnappings.
 
 Thu'fir asks more about the sacrifice, and mentions that Vormoth said
-this was part of the "old ways". He wants to know if this is true, and
+this was part of the "old ways." He wants to know if this is true, and
 if Polan's people really did practice this sort of thing.
 
 Polan hangs his head, "Yes, we used to practice human sacrifice. Well,
 the wizards did, to make themselves powerful. It hasn't been done in
 my lifetime though. Of course, back then the goal was to sacrifice the
-enemies children, not your own." The group is appalled at the idea
+enemy's children, not your own." The group is appalled at the idea
 that it was all right as long as those being sacrificed were the
 enemies.
 
@@ -2581,23 +2581,23 @@ Skeeve wants to stay and see what this thing is. He considers climbing
 a tree, thinks better of it, and instead jumps into a good covering
 bush.
 
-An Ettin emerges from the woods. The massive creature stands at nearly
+An ettin emerges from the woods. The massive creature stands at nearly
 fourteen feet tall. In one hand he holds a massive club, which is
 itself longer than any of the party members. He screams at them in
 some incomprehensible speech. Once it realizes it cannot catch them,
 it turns away in disgust. Pouting, it smacks a nearby tree with its
 club, nearly uprooting it.
 
-The Ettin starts sniffing. It smells something nearby. Skeeve casts
+The ettin starts sniffing. It smells something nearby. Skeeve casts
 fly and soars out of the bushes, heading for the other side of the
 pond.
 
-The Ettin is enraged by this. He is on the opposite side of the water
+The ettin is enraged by this. He is on the opposite side of the water
 from them now, and making all kinds of angry noises at them and
 standing in the mud. Skeeve drops a fireball on his head and angers
 him more. They have a laugh at him and move on.
 
-Thu'fir explains to them that the Ettin was not likely following them,
+Thu'fir explains to them that the ettin was not likely following them,
 but that they had stumbled into his territory.
 
 They can now either go south west where it is more open or go south
@@ -2605,7 +2605,7 @@ which is a little more tangled. They choose the way that is more open.
 They head south from here. The land here is more open and they are
 making excellent time. They eventually come to an open, treeless
 field. A stream divides the field in two. Across the stream they see
-another Ettin. They decide to go around, rather than getting into a
+another ettin. They decide to go around, rather than getting into a
 fight with the beast.
 
 They travel a bit more south. As they move into late afternoon they
@@ -2656,12 +2656,12 @@ Nobody gives them any trouble.
 
 Eomer and Beck work their way through the masses, which, as they get
 closer to the square, seem to be pushing away from the market toward
-the outlying houses . The market is beginning to empty as the people
+the outlying houses. The market is beginning to empty as the people
 start heading towards home. Eomer finds that the keep where they are
-all heading to is covered with Alidian soldiers. This is their base
-of power in the city, and the party has agreed to make it their
-meeting point! He waits for the rest outside the market rather than
-head to the keep.
+all heading to is covered with Alidian soldiers. This is their base of
+power in the city, and the party has agreed to make it their meeting
+point! He waits for the rest outside the market rather than head to
+the keep.
 
 Thordek and Enoch walk into town together. It is late afternoon, and
 by now many businesses are closing. The crowd is moving against them
@@ -2717,7 +2717,7 @@ any trouble.
 > sessions, they have no interest in the guy. They ignore his advice
 > whenever possible. They don't want to share food or booty with him.
 >
-> In character, they SHOULDN'T think of this guy as "an NPC", but they
+> In character, they *shouldn't* think of this guy as "an NPC," but they
 > do and it shows. When Endo was their party's NPC "friend" they
 > treated him like any other member of the party. With Beck, I'm sure
 > they would feed him to a dragon to aid their own escape, and never
@@ -2774,7 +2774,7 @@ find what is underneath. Depart from this land, and come never again
 to the gentle slopes of Mt. Fiore!"
 
 The Dwarf King's rage was now fully kindled, and he answered, "You bid
-me, King of all the dwarves, to depart from the king of all the
+me, king of all the dwarves, to depart from the king of all the
 mountains? I will leave indeed, when I have all the treasure hidden
 within. But you shall depart now!" And with that word he slew Morad
 and all his men, for the dwarves were strong and sturdy in battle and
@@ -2784,7 +2784,7 @@ Then the dwarves roamed throughout the land, and killed every elf they
 could find. They hunted them like animals, killing even the youngest,
 until not a single elf drew breath in the land of Mar Tesaro. Their
 bodies were thrown down the southern slope into the great chasm, which
-is now called Bohrung Khel Toten, or "The Chasm of the Dead", in the
+is now called Bohrung Khel Toten, or "The Chasm of the Dead," in the
 common tongue. And so were the fair mountain elves of Mar Tesaro
 forever wiped from the face of the Earth.
 
@@ -2805,7 +2805,7 @@ They break up to go to work, and Beck goes back to bed. Skeeve heads
 to a tailor and requests a fancy robe with his insignia, trying to get
 gossip in the meantime. His old robe is burned and damaged from acid,
 and he needs to replace it. The shopkeeper is very free with the
-gossip, telling Skeeve all sorts of gossip about people in the Bazaar,
+gossip, telling Skeeve all sorts of gossip about people in the bazaar,
 but not relating anything interesting or useful to their quest.
 
 The shopkeeper tells him that a 10% discount is available for members
@@ -2819,8 +2819,8 @@ promises the robe will be done by afternoon, not tomorrow as he said
 earlier.
 
 Skeeve is unnerved by this. He's worried that Vormoth is famous, and
-the shopkeeper has spotted him as an impostor. Skeeve tips him 30g,
-trying to get him not to say anything about who he is.
+the shopkeeper has spotted him as an impostor. Skeeve tips him 30
+gold, trying to get him not to say anything about who he is.
 
 Skeeve leaves the shop and looks for a place where someone might be
 interested in the staff. He finds a small place with lots of fancy
@@ -2834,7 +2834,7 @@ just stepped up behind him, but it must be someone imposing. Activity
 has more or less stopped all around, and the usual chatter of the area
 has stopped.
 
-"Conjurer Vormoth", comes a voice of authority from behind him.
+"Conjurer Vormoth," comes a voice of authority from behind him.
 
 He slowly turns around and sees a huge group of soldiers. Two full
 groups of soldiers (fourteen total) have spread themselves out behind
@@ -2851,9 +2851,9 @@ Skeeve now realizes the shopkeeper didn't think he was a fake: These
 people really do think he's Vormoth, and are treating him like a very
 dangerous threat.
 
-The commander speaks again, "Come now Vormoth. You don't want to start
-trouble here with all of these people about. Be reasonable and come
-along with us."
+The commander speaks again, "Come now, Vormoth. You don't want to
+start trouble here with all of these people about. Be reasonable and
+come along with us."
 
 Skeeve waves his arm saying, "No, no, no. You misunderstand. I am
 not..."
@@ -2875,9 +2875,9 @@ A stout cleric stand beside the desk, and two soldiers are posted in
 the door, guarding the door. The other soldiers return to their
 rounds, looking relieved.
 
-Noreeno is surprised, "You are not conjurer Vormoth."
+Noreeno is surprised, "You are not Conjurer Vormoth."
 
-"No, I'm not", Skeeve admits.
+"No, I'm not," Skeeve admits.
 
 The Magistrate rolls his eyes, "I just had a terrified shopkeeper in
 here telling me stories about how he'd just seen Vormoth here in
@@ -2932,7 +2932,7 @@ Next question..."
 
 "Um. Yes?"
 
-Noreeno becomes very stern. The Soldiers at the door looked angry.
+Noreeno becomes very stern. The soldiers at the door looked angry.
 There is a long moment before Noreeno speaks again. He turns to the
 soldiers at the door, "Gentlemen, would you please leave us alone for
 now?"
@@ -2961,10 +2961,10 @@ refuse to answer, "Six."
 with our forces, you've done the Alidian army a great service. You're
 entitle to the reward. You earned it."
 
-Noreeno then hands Skeeve 2000g.
+Noreeno then hands Skeeve 2000 gold.
 
-Noreeno then tells Skeeve that he is in charge of issuing Travel
-Papers. He offers six sets of travel papers if Skeeve and his party
+Noreeno then tells Skeeve that he is in charge of issuing travel
+papers. He offers six sets of travel papers if Skeeve and his party
 will do a job for him. He asks that Skeeve find his friends and bring
 them in.
 
@@ -2985,13 +2985,13 @@ set for him. It will be done in two days.
 As he looks around the shops, he sees a great number of soldiers
 assemble and lead Skeeve away, into the Keep.
 
-Eomer goes shopping for the things he lost, including a lock-pick set
+Eomer goes shopping for the things he lost, including a lockpick set
 and a compass. He starts trying to gather information, specifically
 about traveling papers.
 
 Eomer ends up talking to a rough-looking guy at a "pawn" shop, who
-also sells "used" (probably stolen) items along with handy "Locksmith
-Tools". This guy is obviously connected to the criminal side of the
+also sells "used" (probably stolen) items along with handy "locksmith
+tools." This guy is obviously connected to the criminal side of the
 city. Eomer drops some coin and gets some information.
 
 He learns that travel papers were instituted when northerners started
@@ -3038,7 +3038,7 @@ with the Alidians, and he seems to be willing to work against them.
 Noreeno explains that he was appointed magistrate by the Queen when
 the city fell a year ago.
 
-"Queen who?", Thu'fir asks.
+Thu'fir asks, "Queen who?"
 
 Noreeno is surprised, "Queen Alidia. Our leader. Anyway, she appointed
 me to this position when we took over the city. I've run it since
@@ -3052,7 +3052,7 @@ describes a large bald monk with tattoos on his chest Noreeno's eyes
 light up. "So! You know him?"
 
 Noreeno explains that yes, Endo was here. Endo was caught trying to
-sneak around the town. They managed to capture him,but not until he
+sneak around the town. They managed to capture him, but not until he
 managed to kill several guards. He stood his ground so that his
 companion might escape. Noreeno then asks the party who Endo was
 traveling with.
@@ -3084,7 +3084,7 @@ Eomer asks about the soldiers in masks. Noreeno replies that they are
 the Queen's elite guard. They take orders from her only and he has no
 idea how.
 
-He then asks, "What is the Queen like"?
+He then asks, "What is the Queen like?"
 
 "She is quite vicious. Everybody who rules over this island has to be
 vicious. Anyone who isn't, won't rule long."
@@ -3250,7 +3250,7 @@ now.
 
 > Like I mentioned in previous sessions, Beck is an NPC that travels
 > with the party. Last week Dan (Skeeve) was responsible for splitting
-> some loot and said, "there is no way I'm giving money to the NPC".
+> some loot and said, "there is no way I'm giving money to the NPC."
 > This showed me that they didn't think of Beck as a character. He was
 > "just an NPC" to them. They often forgot he was even with them. They
 > just didn't care. This exit was a way to gracefully break from the
@@ -3533,7 +3533,7 @@ undisturbed.
 Afternoon arrives and the party has overcome a number of complex doors
 and traps. They find themselves in a large chamber with a curved north
 wall, covered in runes and various human, dwarven, and elven names.
-Among the names they spot the name "Forwinol", the last name of their
+Among the names they spot the name "Forwinol," the last name of their
 friend and ally Sagemaster Teerin Forwinol. They know he is quite old,
 and wonder if he was involved in the building of this place.
 
@@ -7307,7 +7307,7 @@ mean.
 > Toten -- The Chasm of the Dead.
 
 The next day they continue their journey east. On the way they intrude
-on the territory of an Ettin and are obliged to kill it. It is a quick
+on the territory of an ettin and are obliged to kill it. It is a quick
 fight but the smell gives them something to complain about for a
 while.
 
@@ -8356,7 +8356,7 @@ wilderness seem less arbitrary. Some ways are faster, some can be very
 slow (like a valley which gets thick with vegetation once they enter)
 and some can have encounters.
 
-Upper Bolwood was one such maze, with Ettins at a few of the map
+Upper Bolwood was one such maze, with ettins at a few of the map
 points. I'd googled around and had pictures for every map point. They
 managed to route around all of this.
 
