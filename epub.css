@@ -5,14 +5,18 @@ blockquote {
 }
 
 .document {
-    margin-left: 1em;
+    margin-left: 2em;
 }
 
-.figure img {
+figure {
+    text-align: center;
+}
+
+figure img {
     max-width: 100%;
     max-height: 100%;
 }
 
-.caption {
+figcaption {
     font-size: 90%;
 }
