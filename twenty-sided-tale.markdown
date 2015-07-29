@@ -2418,9 +2418,9 @@ access to the second (northern) crossbow bolt device / trap.
 
 ![](images/uc_map17.gif)
 
-Also in this room is a small wooden box with 800g worth of small gems,
-500g, 2 potions of End Dreamless Sleep, and 1 cloak of absorb fire
-damage.
+Also in this room is a small wooden box with 800 gold worth of small
+gems, 500 gold, 2 potions of End Dreamless Sleep, and 1 cloak of
+absorb fire damage.
 
 They decide when they leave they will burn the wizard in his lair.
 They fight about how to go about it. They eventually just leave him to
@@ -3239,11 +3239,11 @@ bit hard for me. But if you fellas would like to donate a few coins to
 help out I'd appreciate it. I'm not asking' for me, I'm asking' for
 Talla and the baby."
 
-Skeeve and Eomer make no comment, but Thordek drops 150g into Beck's
-hat. Thu'fir gives 200g, and finally Enoch the Cleric gives an
-astounding 700g to him. Beck is moved by this. He thanks them. He
-tells them his plan is to get some conventional job in town and see if
-he can earn some travel papers in some other way. He'll then travel
+Skeeve and Eomer make no comment, but Thordek drops 150 gold into
+Beck's hat. Thu'fir gives 200 gold, and finally Enoch the Cleric gives
+an astounding 700 gold to him. Beck is moved by this. He thanks them.
+He tells them his plan is to get some conventional job in town and see
+if he can earn some travel papers in some other way. He'll then travel
 south and leave the island on his own. It might take him longer this
 way, but it will be safer and he has Talla and the baby to think of
 now.
@@ -4676,8 +4676,8 @@ It is a sad, droopy beast with patchy black and gray fur.
 
 Thu'fir inspects the animal. While old, it isn't dying. It could
 certainly bear a rider, albeit at a slow pace. Thu'fir negotiates a
-price of 200g for the sick horse, which is named Thunder. They pay for
-the horse and leave.
+price of 200 gold for the sick horse, which is named Thunder. They pay
+for the horse and leave.
 
 They retire for the night at the inn.
 
@@ -5614,7 +5614,7 @@ them the completed book.
 
 Councilman Relnar looks over the completed work. Clearly disappointed
 he states, "Well, a deal is a deal. Here is the promised reward." He
-hands Enoch 5,000g. This is quite a sum for such a job.
+hands Enoch 5,000 gold. This is quite a sum for such a job.
 
 Enoch offers him the book. Relnar looks down like Enoch is offering
 him the cookbook of a cannibalistic shaman, "I don't have any use for
