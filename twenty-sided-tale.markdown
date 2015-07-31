@@ -327,7 +327,7 @@ oppressing who? Who was the thief? Was he really defending the people?
 He struggled with his own ideals and began to see not just the world
 he had been shown, but what was hidden behind strong doors and clean
 clothes. He used his fathers influence and status (which was now
-Magistrate) to look into some of the accusations levied against the
+magistrate) to look into some of the accusations levied against the
 prisoners of the keep. He was shocked to find out that jails were
 full, usually for the smallest of offenses, but almost always having
 to do with monies owed to the office of the protector. Crimes against
@@ -1183,7 +1183,8 @@ activity.
 
 ## 1st of Last Summer, 1501dy {.date}
 
-At 1 am the party sets out on the road. They follow it to Breakshore.
+At 1:00 AM the party sets out on the road. They follow it to
+Breakshore.
 
 ![The village of Breakshore](images/breakshore.gif)
 
@@ -1371,7 +1372,7 @@ when the slender trees would bloom large flowers and clothe the
 mountain in white and gold. The tall peaks caught the spring rain and
 made the lands below rich and fertile.
 
-Few others visited the lands. Only a few Gnomes and fewer humans had
+Few others visited the lands. Only a few gnomes and fewer humans had
 walked the slopes, and no dwarf had even set eyes to the mountain in
 those days.
 
@@ -2426,7 +2427,7 @@ They decide when they leave they will burn the wizard in his lair.
 They fight about how to go about it. They eventually just leave him to
 rot in his workshop.
 
-Everyone rests and wake up around 5 am. Enoch sets about healing
+Everyone rests and wake up around 5:00 AM. Enoch sets about healing
 everyone, and they decide to return to town.
 
 # Session 4
@@ -2532,11 +2533,11 @@ landscape. They make excellent time as they get out of the valley.
 
 They are not really sure where they are. From here they can climb a
 large steep hill directly south, or they can continue southeast and go
-around the hill. It is nearly 5 pm. Eomer requests that Skeeve fly up
-in order to look ahead and see which direction they should go. Skeeve
-levitates and can now see where they are. They have covered less than
-half the distance through Lower Bolwood. Their detour around the
-weather hills cost them most of the day.
+around the hill. It is nearly 5:00 PM. Eomer requests that Skeeve fly
+up in order to look ahead and see which direction they should go.
+Skeeve levitates and can now see where they are. They have covered
+less than half the distance through Lower Bolwood. Their detour around
+the weather hills cost them most of the day.
 
 They discuss which direction to go. They consider whether to head
 towards the road and stay just off it or try going through the woods.
@@ -2879,7 +2880,7 @@ Noreeno is surprised, "You are not Conjurer Vormoth."
 
 "No, I'm not," Skeeve admits.
 
-The Magistrate rolls his eyes, "I just had a terrified shopkeeper in
+The magistrate rolls his eyes, "I just had a terrified shopkeeper in
 here telling me stories about how he'd just seen Vormoth here in
 town."
 
@@ -3123,13 +3124,13 @@ him. He learns the following:
 * The location where they will meet Noreeno is known to have a lot of
   ruins.
 
-Eomer returns to the Inn. They have a free day to spend in town, and
+Eomer returns to the inn. They have a free day to spend in town, and
 then they must head off to Vale Calma to meet with Magistrate Noreeno
 and find out what job he has for them...
 
 # Session 5
 
-## 7th of Last Summer, 1501dy (Late Afternoon) {.date}
+## 7th of Last Summer, 1501dy (late afternoon) {.date}
 
 Enoch heads back to the Inn. He plans to spend the evening translating
 another chapter of the old book they found. This takes about five
@@ -3270,8 +3271,8 @@ now.
 > need. So, I'm pulling Beck from the party for now.
 >
 > Eric (Thu'fir), Joe (Thordek), and Bogan (Enoch) really surprised me
-> with their generosity. I think they DID care about Beck. This was a
-> significant percent of their cash, for all of them.
+> with their generosity. I think they *did* care about Beck. This was
+> a significant percent of their cash, for all of them.
 
 They finish their drinks and head off for bed at the Inn.
 
@@ -3336,10 +3337,10 @@ More workers of varying races were brought to the mines. Some were
 orcish or goblin slaves, who were sent to do the most dangerous or
 back-breaking labor. Others were elves who were guilty of some crime
 according to elven law, and had been sentenced to work within the
-mountain as punishment. Some were also of halfling and Gnomish kind,
+mountain as punishment. Some were also of halfling and gnomish kind,
 although their numbers were always few. Of all the workers, humans
 were both the most numerous and useful. They were intelligent and
-strong, and did not hate the underworld as the elves and Gnomes do.
+strong, and did not hate the underworld as the elves and gnomes do.
 They came closest to the skill of the dwarves in mine-work, and ever
 they strove greedily for the richest loads.
 
@@ -3364,9 +3365,9 @@ dawn tomorrow. They would like a bit more information going in.
 
 Vale Calma is about three hours away on foot. They decide that Eomer
 will leave at midnight, which will bring him to the valley at around
-3am. He will go and spy out the meeting site ahead of time to see if
-Noreeno is planning some sort of ambush. The others will leave later,
-and will arrive at dawn according to the agreement.
+3:00 AM. He will go and spy out the meeting site ahead of time to see
+if Noreeno is planning some sort of ambush. The others will leave
+later, and will arrive at dawn according to the agreement.
 
 Since they will be getting up very early, they head right to bed to
 get what rest they can.
@@ -3401,7 +3402,7 @@ As dawn comes the other members of the party arrive in the field to
 meet Noreeno and his men. Eomer sneaks up behind him and then joins
 his friends.
 
-## 9th of Last Summer, 1501dy (Early Morning) {.date}
+## 9th of Last Summer, 1501dy (early morning) {.date}
 
 The party stands with Noreeno and his men in the grassy fields of Vale
 Calma.
@@ -3427,11 +3428,11 @@ off light according to the sun. At night, it gives no light. During
 the day it glows yellow, at sundown it glows red, etc. He explains, "I
 will give you this necklace that will glow while the sun is up. You
 must go in during the day. If evening comes, and you are still inside,
-I beg to to come back out and rest. DO NOT rest inside. Do not linger
-inside at night. If night draws near, escape to the surface and try
-again after the next sunrise. This is a tomb, after all. I don't know
-what you'll find inside. I have no map and no advice to give. I'm sure
-its dangerous, but I'm sure you figured that out already."
+I beg to to come back out and rest. *Do not* rest inside. Do not
+linger inside at night. If night draws near, escape to the surface and
+try again after the next sunrise. This is a tomb, after all. I don't
+know what you'll find inside. I have no map and no advice to give. I'm
+sure its dangerous, but I'm sure you figured that out already."
 
 The details thus revealed, he asks the party, "So, are we agreed?"
 
@@ -3499,13 +3500,14 @@ to hold onto the elaborately ornate handle. Eomer turns to everyone
 and reminds them, "Don't touch nothing!" Thordek says he is not
 leaving here with nothing so Eomer gives him the handle.
 
-Open stone room. Even the slightest footstep seems to travel down the
-corridors and come back to them as a dreary echo. Aside from the tiny
-amount of daylight that reaches in from the open door to the south,
-the place is utterly dark. There are four holes in the for, one in
-each corner of the room. There is a stack of metal torch-poles leaning
-in the south-east corner. There are open corridors to the east and
-west, and another massive stone slab doorway to the north.
+Before them is an open stone room. Even the slightest footstep seems
+to travel down the corridors and come back to them as a dreary echo.
+Aside from the tiny amount of daylight that reaches in from the open
+door to the south, the place is utterly dark. There are four holes in
+the floor, one in each corner of the room. There is a stack of metal
+torch-poles leaning in the south-east corner. There are open corridors
+to the east and west, and another massive stone slab doorway to the
+north.
 
 They light some of the torches in the room.
 
@@ -3545,14 +3547,14 @@ polished stone, like marble, leading from the door to the western side
 of the room. Pillars line the north and south walls. The room is
 unnaturally cold. The air is stagnant.
 
-On the far western side of the hall is a raised Dias of pure white
+On the far western side of the hall is a raised dias of pure white
 stone, which holds a single black coffin. It is chained shut with many
 (magical) chains and padlocks. It is on a tilted surface, leaning back
 at a forty-five degree angle. In the center of the lid is a single
 stone sphere, about the size of a grapefruit. It radiates both good
 and evil. It pulses with magical energy. This is clearly their goal.
 
-Several trays of gold coins are arranged around the Dias. A few gems
+Several trays of gold coins are arranged around the dias. A few gems
 are scattered in with them as well. Thordek dumps these items into his
 pack.
 
@@ -3660,7 +3662,7 @@ Lawful Evil characters may not use or study this item.
 "Grants" -3 HP, +3MP to the owner of this object.
 
 This object is the phylactery for Mordan the Lich King. Normally this
-is the container of the Lich's life force. As long as a lich's
+is the container of the lich's life force. As long as a lich's
 phylactery remains intact, they will rise again after being defeated.
 However, this orb seems to have a number of (sometimes conflicting)
 enchantments which suggest it is more than a "normal" phylactery.
@@ -3672,25 +3674,25 @@ intersect in complex ways to form layers of spells and secrets.
 The orb seems to drain a bit of life from the owner, resulting in
 -3HP, while at the same time placing them more in tune to the world of
 magic. This results in +3MP while they remain the owner of the object.
-This only applies to users of arcane magic (Wizards, Sorcerers) and
+This only applies to users of arcane magic (wizards, sorcerers) and
 not clerics.
 
 The runes and spells contain a great deal of knowledge. It must be
 studied to learn more. When examining the orb, it is clear there are
-four categories of study that are possible: Good, Ownership, Knowledge
-Evil.
+four categories of study that are possible: Good, Ownership,
+Knowledge, and Evil.
 
 At the outset, it will take only 1 hour of study to attempt to gain a
-level (and thus earn some knowledge) in a particular area. If you
-succeed, it will take 2 hours of time to attempt again in the same
+level (and thus earn some knowledge) in a particular area. Upon
+success, it will take 2 hours of time to attempt again in the same
 area of study. So, the length of time required for each attempt is the
 current level x 1 hour.
 
 To study the orb:
 
-1. First, announce which area you plan to study from the four above.
-2. Roll d20
-3. Add your INT modifier
+1. First, announce an area of study from the four categories.
+2. Roll d20.
+3. Add your INT modifier.
 4. Add +1 for all of the following languages you know: draconic,
    infernal, and celestial.
 5. If your roll is high enough, you will learn more about your chosen
@@ -3699,13 +3701,13 @@ To study the orb:
 Each level of study will become more difficult as you progress.
 </div>
 
-This is the phylactery of a Lich named Mordan. It is (for some reason)
+This is the phylactery of a lich named Mordan. It is (for some reason)
 infused with both good and evil magic. The object has an owner. To
 learn more about how this works, he will need to study the object in
 depth.
 
 They party is shocked. What have they just done? It seems they have
-somehow freed or awoken a Lich. Does Noreeno even know what this thing
+somehow freed or awoken a lich. Does Noreeno even know what this thing
 is?
 
 They have an hour until Noreeno arrives. Skeeve spends this hour
@@ -3728,7 +3730,7 @@ bigger and more dangerous than they imagined.
 
 They get into their agreed positions, and wait.
 
-## 9th of Last Summer, 1501dy (Near Sunset) {.date}
+## 9th of Last Summer, 1501dy (near sunset) {.date}
 
 At last, as the sun drops to the horizon and sunset approaches,
 Noreeno arrives. He and a force of ten soldiers arrive at the opposite
@@ -3771,12 +3773,11 @@ Mordan emerges. You don't want that."
 > The players were delighted (at the plot twist) and enraged (at
 > Noreeno). They couldn't fight him and all of his soldiers, and even
 > if they somehow won, it would just mean they would find themselves
-> spent and injured when the Lich emerges. They realized they were
+> spent and injured when the lich emerges. They realized they were
 > more or less screwed at this point and couldn't do anything but let
 > Noreeno have his way.
 
-They are silent for several moments. "What about Endo?", Eomer demands
-at last.
+They are silent for several moments. Eomer demands, "What about Endo?"
 
 Noreeno nods, "Your companion, as I said, was captured and taken
 south. However, my spies report that he was not sent to work in the
@@ -3817,7 +3818,7 @@ What do you say?"
 
 They cannot lie in the zone of truth. They cannot hope to beat Noreeno
 and his men. They cannot linger here or they will have to face the
-Lich. Angry and beaten, they agree to leave in peace. Before they go,
+lich. Angry and beaten, they agree to leave in peace. Before they go,
 Eomer makes Noreeno a promise, "Someday, I **will** kill you."
 
 "Fair enough", Noreeno smiles, "But not today."
@@ -3837,7 +3838,7 @@ They want to ask help of Sagemaster, but they can't reach him.
 
 Eomer points out that Noreeno is obviously an enemy of Queen Alidia.
 They have heard that she is cold and ruthless, but she might still be
-an ally against the Lich. Eomer proposes they head to town and find
+an ally against the lich. Eomer proposes they head to town and find
 one of her special guards and tell him what has happened. Since she
 seems to connect with them through magic, she ought to know quickly.
 
@@ -3882,7 +3883,7 @@ rest.
 
 # Session 6
 
-## 9th of Last Summer, 1501dy (Night) {.date}
+## 9th of Last Summer, 1501dy (night) {.date}
 
 Everyone is very tired. Eomer most of all. They left the city of
 Crossway about a half an hour ago and have been riding south at a
@@ -3894,14 +3895,14 @@ locate Endo. Beck doesn't like this plan. There is a heated debate.
 
 > I really advised them against this. In-game it made sense, although
 > out-of-game it would split our time and make the game a great deal
-> less fun. It would confuse me trying to keep track of dates & events
-> for two separate concurrent groups. Over a day or two this wouldn't
-> be a problem, but they were talking about parting ways and meeting
-> back at this spot in two weeks (in-game time). That was going to
-> span multiple sessions and cause all sorts of headaches.
+> less fun. It would confuse me trying to keep track of dates and
+> events for two separate concurrent groups. Over a day or two this
+> wouldn't be a problem, but they were talking about parting ways and
+> meeting back at this spot in two weeks (in-game time). That was
+> going to span multiple sessions and cause all sorts of headaches.
 >
 > This is one of those situations where reasoning had to give way for
-> the sake of keeping the game fun & manageable.
+> the sake of keeping the game fun and manageable.
 
 They decide to stay together for now and ride south to the next town.
 They recall that Noreeno said they would find Endo in one of the towns
@@ -3911,13 +3912,13 @@ of what they should do next. They review the map...
 
 ![](images/map_mar_tesaro.gif)
 
-...and decide to head for the town marked "Dockhouse". A little after
+...and decide to head for the town marked "Dockhouse." A little after
 midnight they have to ride over an arching bridge, taking them into
-Central Mar Tesaro.
+central Mar Tesaro.
 
 ## 10th of Last Summer, 1501dy {.date}
 
-At about 2:30 am they come to Dockhouse. The entire "town" is a
+At about 2:30 AM they come to Dockhouse. The entire "town" is a
 collection of four buildings. Down by the lakeshore there is a
 Dockhouse where a large ferry sits quietly in the water. There are two
 other houses and some stables. The entire population of the town is
@@ -3965,7 +3966,7 @@ isn't falling apart. It looks tough and hard. As the run from the
 basement into the moonlight, they see the beast is throttling the
 guard. Eomer concludes that it is after Skeeve. He orders that Enoch
 and Skeeve make for the stables and try to escape while the rest of
-the party deals with it. It is fast, but they doubt it can keep0 up
+the party deals with it. It is fast, but they doubt it can keep up
 with a horse.
 
 The creature tosses the body of the guard to one side and heads
@@ -3979,7 +3980,7 @@ again. Enoch decides to check on the guard and see if there is any way
 to help him. To his surprise, the guard is on his feet, walking
 towards him.
 
-"Need help? You ok?", Enoch asks.
+Enoch asks, "Need help? You ok?"
 
 The guard doesn't respond. He is pale and silent as he makes his way
 over to Enoch.
@@ -3990,7 +3991,7 @@ its going to end badly.
 Enoch tries again to address the guard but is attacked. He is clearly
 undead. Thu'fir dispatches him easily.
 
-The Dock wardens emerge from their homes to see the aftermath. There
+The dock wardens emerge from their homes to see the aftermath. There
 is a very awkward conversation as they explain why Thu'fir was killing
 the town guard. Things are tense for a few minutes until everything is
 explained.
@@ -4006,7 +4007,7 @@ hard feelings that would be best healed by distance.
 They head north, out of town. Tal Podere seems to be the next closest
 town, so they head in that direction...
 
-## 11th of Last Summer, 1501dy (Midnight) {.date}
+## 11th of Last Summer, 1501dy (midnight) {.date}
 
 They travel west, heading for the town of Tal Podere. As morning draws
 near, they pass a number of the Queen's elite guards walking along the
@@ -4044,9 +4045,9 @@ last few days. The solders never acknowledge him in any way.
 Shrugging, he returns to the others. He's done what he could to let
 the Queen know. They have no idea if it worked or not.
 
-They reach the city in late morning. Tal Podere is a medium city, less
-than half the size of Crossway. The buildings are low and made of
-wood. There is very little stonework here in town. Most of the
+They reach the city in late morning. Tal Podere is a medium-sized
+city, less than half the size of Crossway. The buildings are low and
+made of wood. There is very little stonework here in town. Most of the
 buildings are built along a single street, which is wide and filled
 with ruts. It has a wide open area around the well in the center of
 town. The gates are manned by conventional guards; no elite guards are
@@ -4057,7 +4058,7 @@ to be seen.
 They are pulled over at the gate, and their papers are inspected. Once
 everything is settled, the enter the city.
 
-They are sent to the Magistrate. Magistrate K'dar Stonefist is a wise
+They are sent to the magistrate. Magistrate K'dar Stonefist is a wise
 old dwarf. Once the party has gathered before him, he informs them
 that he has a notice from Magistrate Noreeno, warning him that five
 outsiders had killed a number of his soldiers and stolen some horses.
@@ -4075,7 +4076,7 @@ among the other town leaders.
 Eomer asks him about the soldiers they found traveling north.
 Stonefist explains that they left here yesterday. He doesn't control
 them directly, of course. They obey the mysterious will of the Queen
-from afar. As the Magistrate, he can sometimes get the elite guards to
+from afar. As the magistrate, he can sometimes get the elite guards to
 obey simple orders, but mostly they come and go according to her will.
 He expects she is moving troops around, and that they will get more
 elite guards soon; she never leaves the town without her own guards
@@ -4093,8 +4094,7 @@ before K'dar turns the conversation to business.
 
 > This conversation was held in private, away from the other players.
 > Rather than give a detailed account of the talk, I'll just sum up
-> here. I'd also ask that if any of the players are reading this,
-> please skip it.
+> here.
 >
 > The upshot of the conversation is that K'dar thinks Thordek is a
 > fellow spy, helping to plan the invasion of the island. It seems
@@ -4109,11 +4109,11 @@ Back at the inn, Skeeve studies the orb and learns the following:
 ![](images/orb_g2.gif)
 
 That afternoon, the party members are summoned back to the
-Magistrate's office to attend a town council that has been called.
+magistrate's office to attend a town council that has been called.
 Many of the town leaders have gathered here, and Stonefist wants
 everyone to hear what Eomer told him earlier.
 
-K'dar does not trust the cleric magic and zone of truth. Noreeno used
+K'dar does not trust the cleric magic and Zone of Truth. Noreeno used
 it often and it seemed to be a tool to mislead. K'dar prefers they
 speak plainly of their business. He will trust the words of another
 dwarf.
@@ -4134,7 +4134,7 @@ secure, and the soldiers he had amassed were guarding the city and not
 searching the countryside for Lormanites.
 
 Noreeno has been moving troops around in odd ways. He sends back some
-divisions saying they "lack discipline". The men are fine and fit.
+divisions saying they "lack discipline." The men are fine and fit.
 K'dar suspects their loyalties are not as flexible enough to suit
 Noreeno.
 
@@ -4143,7 +4143,7 @@ Stonefist is not surprised and mentions that same night his four gate
 soldiers left.
 
 At this point a town guard steps into the room and informs the
-Magistrate that a set of four new elite solders have just arrived and
+magistrate that a set of four new elite solders have just arrived and
 are now guarding the gates of the city.
 
 Eomer immediately leaves.
@@ -4208,7 +4208,7 @@ The day passes and evening comes Just as the sun is setting K'dar
 marches out to Endo and tells him to go look for another creature like
 last night. He marches northward at a steady pace.
 
-Beck, Thu'fir, Eomer, and Thordek follow at a discrete distance. They
+Beck, Thu'fir, Eomer, and Thordek follow at a discreet distance. They
 follow him into the dark woods north of town. Once clear of the ears
 of outlying farms, Eomer attempts to sneak up behind him and knock him
 out. Endo turns and attacks. His movements seem stiff and slow. He's
@@ -4222,10 +4222,10 @@ He wakes, panicked that he can't see.
 
 Eomer comforts him, "It's night Endo, give your eyes time to adjust."
 
-"No. I cannot see.", Endo insists.
+"No. I cannot see," Endo insists.
 
 Enoch brings his glowing mace near. Endo lifts his head to reveal that
-his eyes have been sewn shut. "Where is the prince?", Endo demands.
+his eyes have been sewn shut. Endo demands, "Where is the prince?"
 
 Despite his blindness, he doesn't seem to have lost his dedication to
 whatever task he was on. He then says he feels sick and starts
@@ -4246,10 +4246,10 @@ have to wait until morning.
 
 # Session 7
 
-## 12th of Last Summer, 1501dy (Late evening) {.date}
+## 12th of Last Summer, 1501dy (late evening) {.date}
 
-Pat was late due to work. So his character (Eomer) isn't going to do
-or say much for the first half of the session.
+> Pat was late due to work. So his character (Eomer) isn't going to do
+> or say much for the first half of the session.
 
 Endo asks what has happened to them. He thought his friends had died
 in the shipwreck. He is also shocked that they went to so much trouble
@@ -4471,7 +4471,7 @@ the orb again, and unlocks the final secret:
 
 ![](images/orb_k4.gif)
 
-He can now study the orb without revealing his position to the Lich.
+He can now study the orb without revealing his position to the lich.
 However, since this was the last secret, he no longer needs to study
 it. Still this explains how the undead monsters have found them each
 night: For the last several days they have been keeping the orb in
@@ -4482,16 +4482,16 @@ where they were. They were actually helping him.
 >
 > * He was once the most feared and terrible rulers of this island.
 >   This is a big deal, since there have been a lot of rotten tyrants
->   here over the centuries. He was a wizard (Lich) of such vast power
+>   here over the centuries. He was a wizard (lich) of such vast power
 >   that he could take on armies.
 >
 > * It took several of the most powerful heroes in the world to defeat
 >   him last time around, and even then they only managed to imprison
 >   him, not destroy him.
 >
-> * He's a Lich, so if he's defeated he will simply rise again the
+> * He's a lich, so if he's defeated he will simply rise again the
 >   next day, at the location of his phylactery. (the Orb Skeeve has)
->   The only way to keep a Lich from rising again is to destroy his
+>   The only way to keep a lich from rising again is to destroy his
 >   Phylactery, but this one is trapped in such a way that it will
 >   kill almost everyone within 100 miles if it's destroyed.
 >
@@ -4565,7 +4565,7 @@ for thirty years.
 They have breakfast and prepare their horses for travel. As the sun
 comes up, they see a crowd has gathered at the northern gate. Some
 people are weeping and there seems to be some trouble. Thordek heads
-over and speaks to the Magistrate, who is waiting at the gate, looking
+over and speaks to the magistrate, who is waiting at the gate, looking
 tense.
 
 Magistrate Stonefist explains that two strange creatures attacked
@@ -4580,7 +4580,7 @@ The magistrate described the creature as a gaunt humanoid with massive
 claws. Thordek recalls the creatures they fought in Dockhouse days
 earlier.
 
-Thordek offers assistance, but the Magistrate declines. There is
+Thordek offers assistance, but the magistrate declines. There is
 nothing more to be done at this point. After saying their goodbyes
 they set out, heading south. They have seven party members, yet only
 three horses. They leave town with people taking turns walking and
@@ -4598,7 +4598,7 @@ watching him.
 
 The night passes without incident.
 
-## 15th of Last Summer, 1501dy (Morning) {.date}
+## 15th of Last Summer, 1501dy (morning) {.date}
 
 Skeeve wakes in the morning, sweaty and full of dread. He dreamed that
 some black-cloaked being was standing watching, beckoning him to
@@ -4658,7 +4658,7 @@ Skeeve asks if there are have been any attacks on the town by undead.
 Whitman is amused by this, and makes it plain that this town sees
 little in the way of excitement. Skeeve also tries to see if perhaps
 Garret came through here. He asks carefully if a lone human, a young
-adult male, has passed this way. The Magistrate hasn't seen anyone
+adult male, has passed this way. The magistrate hasn't seen anyone
 like that lately. Lone travelers are rare these days, and a young
 human passing through would certainly have caught his notice.
 
@@ -4912,7 +4912,7 @@ They wish the man well and get ready to leave. They intend to head
 west, for the capital city of Fol Thron. They gather the horses and
 prepare for the day's journey.
 
-## 17th of Last Summer (Morning) {.date}
+## 17th of Last Summer (morning) {.date}
 
 The party sets out, heading for the capital city of Fol Thron to the
 west. The road between Fol Thron and Della Minera is very busy. They
@@ -5164,7 +5164,7 @@ cup for us."
 Enoch strides out of the room as the council again breaks into
 laughter.
 
-## 7th of Last Summer (Evening) {.date}
+## 7th of Last Summer (evening) {.date}
 
 Enoch retires to his room for the evening and sets to work translating
 the book. With the aid of the reference books on loan from the
@@ -5264,7 +5264,7 @@ Forwinol knew Mordan was undefeatable as a lich. If slain, his form
 would re-appear at the next sundown. The only hope was to find and
 destroy Mordan's Phylactery, the container of his life-force.
 
-Most Lich would hide such an item, but Mordan was proud and cunning,
+Most lich would hide such an item, but Mordan was proud and cunning,
 and his Phylactery was on display at the Citadel. And then Forwinol at
 last saw why Mordan was so fearless: The Phylactery was trapped with
 many spells so that none would dare destroy it.
@@ -5296,7 +5296,7 @@ Warnings were engraved in many languages and placed about the entrance
 to his tomb, and a great stone slab was placed over it.
 
 Mordan was forever trapped, and none would dare to free him. At last
-the mighty Lich was defeated.
+the mighty lich was defeated.
 </div>
 
 <div class="document">
@@ -5349,7 +5349,7 @@ rules to this day.
 
 Having completed this work, Enoch goes to sleep for the night...
 
-## 17th of Last Summer (Evening) {.date}
+## 17th of Last Summer (evening) {.date}
 
 At the same time Enoch is visiting the Archives, Skeeve visits the
 Mage's Guild.
@@ -5504,7 +5504,7 @@ have to end this misery.*
 
 With the book complete, Enoch returns to the Archives for his reward.
 
-## 18th of Last Summer (Morning) {.date}
+## 18th of Last Summer (morning) {.date}
 
 While Enoch works to translate the remainder of the book, Skeeve
 returns to the Mage's Guild to see if he can learn more.
@@ -5607,7 +5607,7 @@ suggests a forest fire. That idea is dismissed: Smoke would be rising
 up and dissipating, not gathering like a lot storm clouds over a single
 location.
 
-## 18th of Last Summer (Morning) {.date}
+## 18th of Last Summer (morning) {.date}
 
 While Skeeve is at the Mage's Guild, Enoch visits the Archives to show
 them the completed book.
@@ -5705,7 +5705,7 @@ Skeeve protests, "I think someone might be trying to kill the Queen!"
 > The officials come back, and decide they want to question the entire
 > party. They were then dragged though the levels of city officials.
 > In the end, the party gave an account of their work for Noreeno and
-> how the Lich got free. They show the phylactery (the orb). One city
+> how the lich got free. They show the phylactery (the orb). One city
 > official decides he needs to call in some of the Mages the city
 > keeps on retainer, so the orb can be destroyed. Then the party has
 > to spend a bunch of time explaining why this is a Really Bad Idea.
@@ -5717,7 +5717,7 @@ As evening falls, the Office of City Affairs closes for the evening,
 and the party is released. However, their travel papers are taken away
 and they are told not to leave the city.
 
-## 18th of Last Summer (Late Afternoon) {.date}
+## 18th of Last Summer (late afternoon) {.date}
 
 The party has spent most of the day dealing with various city
 officials, trying to get someone to hear their case and alert the
@@ -5772,7 +5772,7 @@ Tarvin assures him, "All will become clear when we meet there."
 The party discusses this and, with some hesitation, agrees to meet
 with the general.
 
-## 18th of Last Summer (Night) {.date}
+## 18th of Last Summer (night) {.date}
 
 The address given by general Tarvin is well on the south side of Fol
 Thron. It is after dark as the party navigates the increasingly narrow
@@ -5934,7 +5934,7 @@ town. With the general unable to give his side of the story, the
 guards are more than happy to let them return to the inn while the
 city watch launches an investigation.
 
-## 19th of Last Summer (Morning) {.date}
+## 19th of Last Summer (morning) {.date}
 
 In the morning, Skeeve wakes up and heads over to the observatory at
 the top of the Mage's Guild. The black cloud still clings to the
@@ -6065,7 +6065,7 @@ alarmed when his eyes fall on Eomer. He eyes dart around, looking for
 weapons within arms' reach. He grabs a bread knife and holds it
 between them, "Stand back!"
 
-## 19th of Last Summer (Morning) {.date}
+## 19th of Last Summer (morning) {.date}
 
 Chronicler Norvus is a human, fiftyish, with a neatly trimmed
 mustache and a full head of short brown hair. He is tall and narrow,
@@ -6250,7 +6250,7 @@ pack."
 
 # Session 9
 
-## 19th of Last Summer (Afternoon) {.date}
+## 19th of Last Summer (afternoon) {.date}
 
 They stand outside of the gates of the Citadel. They are in the
 central square, which is ringed with shops, city buildings, and
@@ -6349,7 +6349,7 @@ not going in together.
 They argue on this point, but Fulan seems to have little choice. They
 may either accept these terms, or leave.
 
-## 19th of Last Summer (Afternoon) {.date}
+## 19th of Last Summer (afternoon) {.date}
 
 They stand in the open hallway for some time. The Citadel is silent.
 The only sounds come from the open market outside.
@@ -6541,7 +6541,7 @@ Their curiosity thus quenched, the Queen concludes the meeting with
 Thu'fir and Eomer. They bow and are led out by another of the Queen's
 veiled servants.
 
-## 19th of Last Summer (Afternoon) {.date}
+## 19th of Last Summer (afternoon) {.date}
 
 Eomer and Thu'fir arrive back at the entry hall where the others are
 waiting. Once their eyes adjust to normal light they begin to relay
@@ -6602,7 +6602,7 @@ confusion for a moment. Is that it?
 When it is clear she has no more words for him, he takes his hammer
 and leaves.
 
-## 19th of Last Summer (Late afternoon) {.date}
+## 19th of Last Summer (late afternoon) {.date}
 
 Back in the main hall, the other members of the party are surprised to
 see Thordek return so soon. In fact, Eomer has not yet finished giving
@@ -6754,7 +6754,7 @@ gift. When worn, it will shield your mind from the influence of
 Mordan. It will not keep him at bay forever, but it may delay madness
 if you wear it in your travels."
 
-## 19th of Last Summer (Evening) {.date}
+## 19th of Last Summer (evening) {.date}
 
 Once Skeeve and Enoch emerge from the meeting with the Queen, Fulan
 meets them in the main hall. Their travel papers are returned. Fulan
@@ -6794,7 +6794,7 @@ before he dies.
 >   motives? Is the cleric himself evil?
 > * Skeeve missed this conversation: Dan was out picking up the Pizza.
 
-## 20th of Last Summer (Morning) {.date}
+## 20th of Last Summer (morning) {.date}
 
 At dawn the party leaves town. With fresh supplies and Alidian horses
 they ride swiftly east. Hours pass. They turn north and ride past
@@ -6906,7 +6906,7 @@ ring and Thu'fir buries it nearby. Then they wake him up.
 > meddling, it's just that they overestimated how much Noreeno knew.
 > He didn't have any idea where the Magus Archives were, which Eomer
 > suspected was the base of operations for the Children of The
-> Cathedral. (This was the Lich-worshiping cult which Noreeno led) If
+> Cathedral. (This was the lich-worshiping cult which Noreeno led) If
 > he didn't know, none of them did.
 
 They learn that Mordan's followers have been meeting in various
@@ -7809,7 +7809,7 @@ gets what news he can of the state of the island before their arrival.
 Thordek then reveals that Mordan is free. Thordek does not tell of the
 secret chamber of Fiore, now (hopefully) to be Mordan's prison. (The
 party has already agreed that they will never tell this secret, lest
-some idiot followers of the Lich try to free him again.)
+some idiot followers of the lich try to free him again.)
 
 The dwarves did not know he was free again. They have struck now
 simply because they expected that the Queen would be weak after her
@@ -7920,7 +7920,7 @@ bits. Skeeve has them clear out and goes to work.
 > They found a rather difficult book by Songmage Forwinol. It details
 > the magic he added to Mordan's Phylactery in order to trap him. It
 > details the steps needed to place the orb onto a container in order
-> to turn it into a trap for the Lich. The orb magic is quite beyond
+> to turn it into a trap for the lich. The orb magic is quite beyond
 > Skeeve, but the trapping procedure is easily understood. Using the
 > book as a guide, they could return to Mordan's tomb and (assuming
 > they could get in and reach his original prison) affix it to his
