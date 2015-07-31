@@ -1358,7 +1358,7 @@ tale. It is recorded here for archival and reference, not for any
 supposed historical value. Indeed, many portions of the following are
 highly unlikely and should be viewed with utmost skepticism.*
 
-- Chronicler Norvus
+-- Chronicler Norvus
 
 In the earliest days of Mar Tesaro, the southern lands were inhabited
 by a peaceful clan of mountain elves. They were gentle and kind, slow
@@ -2744,7 +2744,7 @@ to translate the next section.
  tale are plainly ridiculous, while others simply stretch the
  imagination. It is, however, a fascinating piece of folklore.*
 
-* Chronicler Norvus
+-- Chronicler Norvus
 
 Dwarven King Thul Marblade returned from Mt. Fiore and came again to
 Ellas Morad, leader of the mountain elves. This time asked for leave
@@ -3153,7 +3153,7 @@ punishment and curse is present in all variants of the tale.*
 *It is recorded here for those curious about ancient myths and
 folklore. The reader should not view this as a work of history.*
 
-- Chronicler Norvus
+-- Chronicler Norvus
 
 Thul Marblade took the elven lands of Mt. Fiore, destroyed the elves
 that dwelt therein, and renamed it Khelberg. Once all was under his
@@ -3305,7 +3305,7 @@ following is very probably a true account. The events outlined here
 are supported by various other trustworthy documents. (See also:
 "Reign of King Oemar Vol III" and "The First Uprising of Khelberg")*
 
-- Chronicler Norvus
+-- Chronicler Norvus
 
 The Dwarven King Marblade began a great dig within the gem-filled
 mountain of Khelberg. Several shafts were dug and many heaps of
@@ -4347,7 +4347,7 @@ In the meantime, Enoch has translated another chapter of the book:
 between the rule of King Lorman and the rise of the second Dwarven
 King.*
 
-- Chronicler Norvus
+-- Chronicler Norvus
 
 King Lorman ruled and mined Khelberg for twenty years, when he was
 assassinated by one of his own lieutenants, a human foreman named
@@ -4447,7 +4447,7 @@ city of Fol Thron many times, it has never been renamed. It has been
 the capital city of many empires, yet still bears its original dwarven
 name.*
 
-- Chronicler Norvus
+-- Chronicler Norvus
 </div>
 
 The party reads over this latest section of the book. It is not as
@@ -4517,7 +4517,7 @@ be aware that this list is very brief and leaves out many important
 figures and events. True students of history should consult other
 volumes to learn about these events in detail.*
 
-- Chronicler Norvus
+-- Chronicler Norvus
 
 The dwarves held the mines for fifty years, enduring two sieges and
 many orcish raids from out of the north before finally falling to the
@@ -5180,7 +5180,7 @@ beyond the reach of any historian. The reader should be aware that I
 stand by all of the following as being as accurate as possible, yet
 incomplete.*
 
-- Chronicler Norvus
+-- Chronicler Norvus
 
 The reign of Archmage Mordan reached its hundredth year. At length
 people began to wonder if he had died, and his assistants only
