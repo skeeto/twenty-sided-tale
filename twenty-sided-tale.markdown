@@ -3821,7 +3821,7 @@ and his men. They cannot linger here or they will have to face the
 lich. Angry and beaten, they agree to leave in peace. Before they go,
 Eomer makes Noreeno a promise, "Someday, I **will** kill you."
 
-"Fair enough", Noreeno smiles, "But not today."
+"Fair enough," Noreeno smiles, "But not today."
 
 They take the horses and flee. As they ride away from the crypt, Enoch
 can see a dark aura of evil engulfing the site. They head south, back
@@ -4349,8 +4349,8 @@ In the meantime, Enoch has translated another chapter of the book:
 **Part V: The Building of Fol Thron**
 
 *The following is a much reduced version of the history of Mar Tesaro
-between the rule of King Lorman and the rise of the second Dwarven
-King.*
+between the rule of King Lorman and the rise of the second dwarven
+king.*
 
 -- Chronicler Norvus
 
@@ -4380,7 +4380,7 @@ harsh camps at the foot of Khelberg.
 
 Although they were invaded twice, the dwarves held the mines for fifty
 years. Even when not facing full-scale invasion from humans or elves,
-they were regularly harassed by bands of orcs from out of the North,
+they were regularly harassed by bands of orcs from out of the north,
 who came often to raid shipments of food and gold.
 </div>
 
@@ -4432,7 +4432,7 @@ dropped once it ceased being green. As the valley turned gray and
 filled with gravel and brackish water, the city was largely abandoned
 and became little more than mining camps. At one time the elves (when
 they had control of Khelberg) gave the camps the name Della Minera
-("The Mining Valley", in Common) and the name remained, although the
+("The Mining Valley," in Common) and the name remained, although the
 elves did not.*
 
 *Other notable names on the island include Tal Podere, (in elven, "the
@@ -4440,8 +4440,8 @@ Farmlands"), Tal Lengo (in elven, "the woods"), Valle Calma (in elven
 "Silent Valley"), and Fol Thron (in dwarven "Strong Throne").*
 
 *The island itself is still called by its original name Mar Tesaro,
-which means (very roughly) "Treasures Island", or perhaps "Island of
-great value". Is it possible that the elves were aware of the gold and
+which means (very roughly) "Treasures Island," or perhaps "Island of
+great value." Is it possible that the elves were aware of the gold and
 gems in the mountain, yet chose to leave them be? Or is the name
 speaking of the value of the island as a place to live, and not of the
 riches it contained? It is impossible to know, as the legends from
@@ -4464,7 +4464,7 @@ keep the orb in daylight so as to keep Mordan in a weakened state.
 ![](images/orb_o4.gif)
 
 While they wait, they have a long debate on the rules of Mordan's
-Phylactery. They discuss various plans, such as dropping it into the
+phylactery. They discuss various plans, such as dropping it into the
 ocean, having the owner commit suicide, burying it, and various other
 things that could be done (not that any of them is seriously
 contemplating suicide) to defeat Mordan forever. They examine the
@@ -4497,7 +4497,7 @@ where they were. They were actually helping him.
 > * He's a lich, so if he's defeated he will simply rise again the
 >   next day, at the location of his phylactery. (the Orb Skeeve has)
 >   The only way to keep a lich from rising again is to destroy his
->   Phylactery, but this one is trapped in such a way that it will
+>   phylactery, but this one is trapped in such a way that it will
 >   kill almost everyone within 100 miles if it's destroyed.
 >
 > * He's lost an undetermined portion of his former power. He needs to
@@ -4543,7 +4543,7 @@ than once there were multiple factions mining from from different
 sides of Khelberg.
 
 After a decade of fighting, a human female named Rhone gained the
-mastery in the conflict, aided by a large group of Wizards. They drove
+mastery in the conflict, aided by a large group of wizards. They drove
 the other forces from the mountain, captured Fol Thron, and set up a
 Mageocracy. This was the most diverse and stable government the land
 had known since the fall of Ellas Morad and the original
@@ -4623,14 +4623,14 @@ They review the map:
 
 ![](images/map_mar_tesaro.gif)
 
-They determine they are probably halfway from Tal Podere to Hillstead.
-They proceed south.
+They determine they are probably halfway from Tal Podere to Hillstead
+and proceed south.
 
-They head south. The hills roll by at a steady pace as the day slips
-by. To the east is the great expanse of evergreens known as Pinestaff.
-To the southeast they can see the foreboding peaks of Khelberg
-reaching up beyond the rolling blue-green of Pinestaff. To the south
-they can see the woods eventually give way to smooth green fields.
+The hills roll by at a steady pace as the day slips by. To the east is
+the great expanse of evergreens known as Pinestaff. To the southeast
+they can see the foreboding peaks of Khelberg reaching up beyond the
+rolling blue-green of Pinestaff. To the south they can see the woods
+eventually give way to smooth green fields.
 
 After a few hours they come to a fork in the road. They consult the
 map and head toward Hillstead. At about mid-afternoon they crest a
@@ -4732,7 +4732,7 @@ the eastern side of town is inhabited by slaves who work the mines.
 
 They decide to stay at the inn. Thu'fir goes to the blacksmith and
 asks about a grappling hook. He's been trying to get his hands on one
-since they faced the trap doors in the Wizard's lair outside of Joland
+since they faced the trap doors in the wizard's lair outside of Joland
 Village. He hasn't been able to find one for sale until now. When he
 finds they are for sale here, he buys two -- along with a good supply
 of rope. He won't be caught unprepared again.
@@ -4841,7 +4841,7 @@ on a moment before, except we'd be exhausted."
 At this point Beck sets is mug down and asks, "Okay, fair enough. But
 what happened to your leg?"
 
-The man draws a deep breath, "Oh, THAT day. Well, we're used finding
+The man draws a deep breath, "Oh, *that* day. Well, we're used finding
 ourselves at the end of the day with lots of cuts or bruises. Of
 course, we didn't feel it until we took the helmet off. So, every day
 when I dropped the helmet on my head in the morning, I'd wonder what
@@ -4850,7 +4850,7 @@ meself outside with a bad gash, and found I'd I bled all over myself
 while I worked. Some times I'd have a big scrape or bruise or
 maybe..."
 
-"Or a leg missing?", Thu'fir added, now that they had joined the two
+"Or a leg missing," Thu'fir added, now that they had joined the two
 men at the table.
 
 "Yeah. I took the helmet off and almost passed out from the pain. I
@@ -4873,7 +4873,7 @@ Thu'fir then asks, "So are these the same sort of helmets that are
 worn by the Queen's special guards?"
 
 The man shrugs, "I wouldn't know, I've never tried one of those on.
-They LOOK different, though. Our mining caps just cover the tops of
+They *look* different, though. Our mining caps just cover the tops of
 our heads and come down to our cheekbones. They look more or less like
 regular mining caps except they are too long, and cover the eyes. Most
 of use like it because you do a full days work without having to do
@@ -4881,7 +4881,7 @@ the work, if you take my meaning. We just put on the hats, and at the
 end of the day they come off and we're just tired and hungry."
 
 He takes another drink and continues, "Of course, it wasn't all good.
-sometimes we'd get to the end of the day and find we'd lost somebody.
+Sometimes we'd get to the end of the day and find we'd lost somebody.
 We'd have no idea how or where, or what happened to them. They were
 just gone. Probably trapped in the mines someplace or killed. For all
 we know, we could be marching over them every day while we work."
@@ -4891,10 +4891,11 @@ what?"
 
 He shrugs again, "I don't know. By the time we remove the helmets,
 someone has come and emptied the carts. We can see we dug up
-SOMETHING. The carts have bits or rock and dust in them, but whatever
-we were mining has been taken away by the time the helmets come off."
+*something*. The carts have bits or rock and dust in them, but
+whatever we were mining has been taken away by the time the helmets
+come off."
 
-"Where are you from?" Thu'fir asks.
+Thu'fir asks, "Where are you from?"
 
 "I'm from Woodhurst, to the north. We got conquered about nine months
 ago. Since I was a soldier, they carted me off, and put me here. I
@@ -4902,7 +4903,7 @@ should be grateful, though. Most times, when you get conquered, you
 get killed. But they let me live. Then I got a lucky break. My leg got
 broken and then got all nasty and infected and had to get cut off."
 
-"Oh yes. Very lucky.", Thordek adds wryly.
+"Oh yes. Very lucky," Thordek adds wryly.
 
 "Well, I fared a lot better than some..."
 
@@ -4945,7 +4946,7 @@ Once inside, they stable their horses. The party intends to head for
 the central district and see what use they can make of the few hours
 of daylight they have left.
 
-Beck bids them good-night. There are shabby (but affordable) lodgings
+Beck bids them goodnight. There are shabby (but affordable) lodgings
 available here near the gates of the city. Despite the generous
 donations the others have given him, he still prefers to live
 meagerly, hoping to save as much as possible. His mind is still on
@@ -5022,8 +5023,8 @@ The keeper chuckles, thinking Enoch is speaking in jest, "Oh indeed. I
 suppose if I were after Mordan I might need some help as well. But
 come, what is it that you truly need?"
 
-Enoch insists, "I really do need books on Mordan", and then after a
-moment's reflection, ""For a... project I'm researching."
+Enoch insists, "I really do need books on Mordan," and then after a
+moment's reflection, "For a... project I'm researching."
 
 The keeper is a bit alarmed at this, but nevertheless he leads Enoch
 back into the maze of towering shelves. After a polite moment he
@@ -5037,7 +5038,7 @@ The keeper is intrigued by this, "Oh indeed? What sort of book?"
 Enoch produces the Book of Norvus and shows it to him.
 
 When his eyes fall on the book, the keeper is delighted, "The
-mysterious book! You've managed to make some headway!", he thumbs
+mysterious book! You've managed to make some headway!" He thumbs
 though the translated pages, "More than half of it, by the looks of
 things. This is quite exciting. Councilman Relnar will be delighted."
 
@@ -5155,9 +5156,9 @@ heard from him since."
 barbarians. He's still a learned man, I'm sure he's made use of
 himself somewhere..."
 
-"Telling fairy tales!", interrupts another keeper.
+"Telling fairy tales!" interrupts another keeper.
 
-"Writing children's stories!", cries another.
+"Writing children's stories!" cries another.
 
 The room dissolves into derisive laughter.
 
@@ -5267,24 +5268,24 @@ lives -- the once-great Citadel.
 
 Forwinol knew Mordan was undefeatable as a lich. If slain, his form
 would re-appear at the next sundown. The only hope was to find and
-destroy Mordan's Phylactery, the container of his life-force.
+destroy Mordan's phylactery, the container of his life-force.
 
 Most lich would hide such an item, but Mordan was proud and cunning,
-and his Phylactery was on display at the Citadel. And then Forwinol at
-last saw why Mordan was so fearless: The Phylactery was trapped with
+and his phylactery was on display at the Citadel. And then Forwinol at
+last saw why Mordan was so fearless: The phylactery was trapped with
 many spells so that none would dare destroy it.
 
 Forwinol was wise and learned in magic, and saw a way to defeat the
-Dread Lich without breaking the Phylactery. Instead he added to the
-spells of the Phylactery, making a new binding spell that would hold
+Dread Lich without breaking the phylactery. Instead he added to the
+spells of the phylactery, making a new binding spell that would hold
 Mordan when he re-appeared after a defeat.
 
 A tomb was built in an empty valley north of the mountain. The
-Phylactery was then used to seal his prison. When all was ready, the
+phylactery was then used to seal his prison. When all was ready, the
 armies met and defeated Mordan himself, at the cost of many lives.
 When he rose again, his form took shape within the tomb sealed with
-his own Phylactery. He was trapped, and could not escape without
-destroying his own Phylactery, and thus himself. He had been
+his own phylactery. He was trapped, and could not escape without
+destroying his own phylactery, and thus himself. He had been
 outsmarted.
 
 But Lucan Forwinol knew this was not enough. Someday one of the many
@@ -5309,7 +5310,7 @@ the mighty lich was defeated.
 
 While Lucan Forwinol brought Mordan to his final defeat in the north,
 his allies in war had secured the great city of Fol Thron. Forwinol
-had taken no plunder, save for the Phylactery of the Lich King. No
+had taken no plunder, save for the phylactery of the Lich King. No
 other treasure touched his hands.
 
 Yet so great was the rumor of treasure in the Citadel that many heroes
@@ -5364,10 +5365,10 @@ stone, crowned with what looks like an observatory. In any other
 setting it would look tall and impressively, although it looks
 diminutive in the presence of the great Citadel.
 
-The building is closed to all non-members, save for a few runners,
-(young boys who loiter in the vestibule and wait for the chance to
+The building is closed to all non-members, save for a few runners --
+young boys who loiter in the vestibule and wait for the chance to
 deliver messages or goods around the city in exchange for a few
-coppers) so Skeeve's membership is examined carefully before he is
+coppers -- so Skeeve's membership is examined carefully before he is
 allowed to enter.
 
 The interior is ornate and comfortable. The floor is covered in fine
@@ -5409,9 +5410,9 @@ work of the final two chapters:
 Mistress Myran Alidia was the sole ruler of Khelberg. With the other
 members of the triumvirate defeated, she now became Queen Alidia. Her
 blindness made her fearful and filled her with a lust for vengeance.
-Her injury pained her at all times, no no healer could undo the damage
-she had suffered. She came to hate and despise all humans for Lorman's
-betrayal.
+Her injury pained her at all times, and no healer could undo the
+damage she had suffered. She came to hate and despise all humans for
+Lorman's betrayal.
 
 The injury dealt her by Lorman had both stolen her sight and
 disfigured her. She became reclusive, and ordered that the windows of
@@ -5479,7 +5480,7 @@ books existed with the answers long ago, but if so they were lost or
 destroyed during the rule of the Lich King. There may be some hope,
 though. To the southeast of the mountains was once the Magus Archives.
 Many books were kept there and many secrets hidden from the eyes of
-Mordan. The Wizards that kept the place were slain in the battle
+Mordan. The wizards that kept the place were slain in the battle
 against the Lich King, and the location of the archives are now lost.
 But there is a slim hope that if they could be found again, perhaps
 some hint of the dwarven spell could be learned.*
@@ -5489,9 +5490,9 @@ Mages itself. I have sent secret messengers to Dunlock to speak with
 the Council of Masters, and although their books do record that the
 Archives on Mar Tesaro existed, they do not have the location.*
 
-*Since the Archives were constructed by Wizards, it would be foolish to
+*Since the Archives were constructed by wizards, it would be foolish to
 go charging blindly into the wilderness in search of the site. The
-Wizards doubtless concealed the site, or at the very least sealed it
+wizards doubtless concealed the site, or at the very least sealed it
 with magic. It has never been their way to leave knowledge unguarded.*
 
 *I have done what I am able, but I am no hero. In translating this long
@@ -5536,7 +5537,7 @@ Forwinol. At the mention of this name Skeeve chimes in, "I completely
 agree! You know, it's funny you should bring him up. I'm doing some
 historical research and... well... is he still around?"
 
-They are amused by the question, "Of course not", says one, "he died
+They are amused by the question, "Of course not," says one, "he died
 over a century ago."
 
 Another adds, "Yes. Over a hundred years since he died, and his son
@@ -5551,7 +5552,7 @@ the Lich King the way his father did?"
 This question is considered carefully. The conversation takes off on a
 tangent as they debate about the sorts of magic Teerin has studied and
 the sorts that were required to defeat Mordan. Unlike the people to
-the north, these man have not confused or forgotten the old stories,
+the north, these men have not confused or forgotten the old stories,
 and are well aware of the threat that Mordan once possessed. The
 conversation circles around until they come back to the main point.
 The consensus is that it is unlikely Teerin would be capable of
@@ -5572,11 +5573,11 @@ for himself.
 
 Skeeve circles around as he ascends the spiral stairs. With each
 revolution he passes another doorway leading to the next floor of the
-building. He sees a room willed with mirrors, tinted glass, bent glass
-lenses, and freestanding prisms the size of a man. For just an
-instant as he passes the doorway he can see morning sunlight warped
-and and scatted about the room. The next floor is a library. Another
-orbit and he passes a doorway into some sort of packed storage area.
+building. He sees a room filled with mirrors, tinted glass, bent glass
+lenses, and freestanding prisms the size of a man. For just an instant
+as he passes the doorway he can see morning sunlight warped and and
+scattered about the room. The next floor is a library. Another orbit
+and he passes a doorway into some sort of packed storage area.
 
 Skeeve at last finds himself at the top of the stairway and in the
 observatory. It is a circular room with open windows on all sides that
@@ -5640,7 +5641,7 @@ needs to be custom-crafted. They agree on a price, and Thordek is told
 his weapon will be done by tomorrow afternoon.
 
 While this is going on, Thu'fir goes shopping and purchases a few
-healing potions, and a net
+healing potions, and a net.
 
 * * *
 
@@ -5692,7 +5693,7 @@ Skeeve protests, "I think someone might be trying to kill the Queen!"
 > bit long. Here is the short version:
 >
 > When Skeeve mentions killing the queen, it was sort of the
-> equivalent of saying, "Hijack a bomb", to airport security. People
+> equivalent of saying, "Hijack a bomb," to airport security. People
 > around him gasp. Guards show up. He is dragged off. He knew this and
 > anticipated this result, but figured it was the fastest way to get
 > his story to the right people.
@@ -5711,7 +5712,7 @@ Skeeve protests, "I think someone might be trying to kill the Queen!"
 > party. They were then dragged though the levels of city officials.
 > In the end, the party gave an account of their work for Noreeno and
 > how the lich got free. They show the phylactery (the orb). One city
-> official decides he needs to call in some of the Mages the city
+> official decides he needs to call in some of the mages the city
 > keeps on retainer, so the orb can be destroyed. Then the party has
 > to spend a bunch of time explaining why this is a Really Bad Idea.
 >
@@ -5726,7 +5727,7 @@ and they are told not to leave the city.
 
 The party has spent most of the day dealing with various city
 officials, trying to get someone to hear their case and alert the
-queen to the danger in the north. Thordek seeks out the Embassy and
+Queen to the danger in the north. Thordek seeks out the Embassy and
 meets with the dwarven diplomat. Perhaps his kin have some sway here.
 
 He is welcomed as a brother, and they spend some time talking about
@@ -5741,7 +5742,7 @@ about this."
 
 "So no news?"
 
-"No news", Thordek informs him.
+"No news," Thordek informs him.
 
 He is exasperated, "I thought for sure, with the war! It seemed like
 the ideal time to strike. Her forces were to the north, fighting the
@@ -5751,7 +5752,7 @@ Thordek concludes there is no help to be had here, and returns to the
 inn, where he finds a detachment of soldiers and a robed man in the
 lobby, waiting to speak to the party. Once they are all assembled, the
 robed man introduces himself as General Tarvin, one of only a a small
-handful of people who get direct orders from the queen.
+handful of people who get direct orders from the Queen.
 
 The party is encouraged that they are finally getting to talk to
 someone of importance. They had given up at the public affairs office
@@ -5759,7 +5760,7 @@ for the day, concluding the entire matter to be a dead end and a waste
 of time. They were at a loss as to how to proceed from here, and now
 one of her generals has come to see them.
 
-The General is a severe human with long dark hair, a deeply creased
+The general is a severe human with long dark hair, a deeply creased
 face, and an aloof manner. He is dressed in red robes and carries a
 long staff.
 
@@ -5824,14 +5825,14 @@ treatment given to you by our city today. I would like to make things
 right. I would also like to see the orb in safer hands. There is no
 need for you to face the armies of Mordan, and we are eager to see the
 orb in a more secure location. All you need to do is give me the orb,
-and you can go on your way", he holds out his hand to receive the orb
+and you can go on your way," he holds out his hand to receive the orb
 as he says this.
 
 The party is a bit shocked at this. They have been looking for a way
 to unload the orb, but now that they are faced with someone who wants
 it, they are suspicious.
 
-"Come now, give it here", Tarvis says when they fail to respond.
+"Come now, give it here," Tarvis says when they fail to respond.
 
 The party gathers together and begins whispering among themselves.
 They obviously don't trust this guy. They don't know what his angle
@@ -5968,7 +5969,7 @@ be granted entry. Once there, they will be instructed further.
 > were revealed. In the end, the conversation just didn't move the
 > story forward, so I just distilled the entire conversation into the
 > one-paragraph summary you see above.
-
+>
 > It does make the story seem a bit flat when I do this, but when
 > turning a five-hour session into a narrative, you have to take
 > whatever shortcuts you can find.
@@ -6004,7 +6005,7 @@ through at this point, "Excuse me ma'am... is Levim here?"
 
 She nods wearily, as if expecting this. She draws in a deep breath and
 then lets loose with an unexpected cry that shakes the tiny house,
-"LEVIM!"
+"Levim!"
 
 A young boy, barefoot and shirtless, dashes into the room. Before he
 can say anything his mother explains, "You've a guest. But don't be
@@ -6053,11 +6054,11 @@ clean and tidy. A single thread of smoke rises from the chimney.
 
 Eomer and Levim stroll up to the door way and knock.
 
-"Mister Norvus?", Levim calls out.
+Levim calls out, "Mister Norvus?"
 
 A voice from inside answers, "Ah yes. Come in boy!"
 
-"Um. Okay", the kid looks at Eomer and then back at the door. He can
+"Um. Okay," the kid looks at Eomer and then back at the door. He can
 sense that he's missing some element of protocol by taking a stranger
 into someone else's house uninvited, but he doesn't really know how
 this should be done. With a shrug he pushes the door open and enters.
@@ -6078,7 +6079,7 @@ and dressed in expensive robes that look odd in this rustic setting.
 It looks even more odd because he's waving a bread knife around,
 trying to look threatening.
 
-Eomer is unfazed by the haphazard threat, "I read your book", he says,
+Eomer is unfazed by the haphazard threat, "I read your book," he says,
 matter-of-factly.
 
 The look on Norvus' face shifts from alarm to confusion, "You
@@ -6106,7 +6107,7 @@ book for you?"
 
 Eomer shakes his head, "You made reference to the Mage's Archives..."
 
-"Ah! So that's what you're after. Well, come in here", and with that
+"Ah! So that's what you're after. Well, come in here," and with that
 he takes his bread and moves into the dinning room to enjoy his meal.
 "So you're looking for the Mage's Archives? You don't look like a
 wizard. You a wizard hunter so something?"
@@ -6152,7 +6153,7 @@ entire Lorman family was wiped out when Fort Bolland fell."
 Eomer nods without commenting on the prince. "Would Sagemaster Teerin
 know where to find the Mage's Archives?"
 
-"Oooh. Interesting", Norvus says thoughtfully.
+"Oooh. Interesting," Norvus says thoughtfully.
 
 > Yeah. Good question. As the DM, I hadn't considered this. Took me a
 > few seconds to decide if he would or not.
@@ -6180,7 +6181,7 @@ book is true."
 Norvus looks sly, "Because I'm a harmless old man and because I
 recanted."
 
-"That doesn't sound like Queen Alidia, though", Eomer observes.
+"That doesn't sound like Queen Alidia, though," Eomer observes.
 
 Norvus sighs, "She's not completely heartless, you know."
 
@@ -6228,7 +6229,7 @@ mountain, right? We know this to be true. We also know that they hate
 and distrust others that try to do the same. This breeds conflict and
 war, which is the whole point of the curse."
 
-"Okay", says Eomer, nodding carefully.
+"Okay," says Eomer, nodding carefully.
 
 "So, their own actions seem perfectly reasonable to themselves, but an
 outsider can see they are being irrational, or at least taking their
@@ -6360,7 +6361,7 @@ They stand in the open hallway for some time. The Citadel is silent.
 The only sounds come from the open market outside.
 
 At last, a young woman with a dark veil over her eyes enters the room
-and rings a small handbell. "Eomer and Thu'fir", she announces.
+and rings a small handbell. "Eomer and Thu'fir," she announces.
 
 Eomer and Thu'fir step forward. A heavy iron door opens on its own,
 and they enter.
@@ -6394,7 +6395,7 @@ stings the eyes when looked at directly.
 
 ![](images/queen.jpg)
 
-"Welcome", her voice is otherworldly. It seems to come from the walls,
+"Welcome," her voice is otherworldly. It seems to come from the walls,
 echoing throughout the massive throne room. "Welcome, liberators of
 Mordan."
 
@@ -6490,14 +6491,14 @@ Eomer again, "So you know who Endo is?"
 
 "Is that your companion's name?"
 
-"He served you at one point", Eomer points out.
+"He served you at one point," Eomer points out.
 
 "Yes. And you snatched him away. That doesn't happen very often. But I
 never learned his name. His mind was too strong to penetrate. His will
 is great, and I could never learn anything of use from him, even when
 he wore the helmet."
 
-"I have a request", Eomer adds, "I wish for Beck and Endo to be
+"I have a request," Eomer adds, "I wish for Beck and Endo to be
 allowed to leave the island."
 
 "What you ask is not mine to give." She explains, "Yesternight one of
@@ -7165,7 +7166,7 @@ of this island. Dravis started the war, and if the rumors are true he
 died in the battle of Fort Boland. According to Endo, Garret cares
 nothing for the throne, his former kingdom, or his place as heir. He
 has been schooled abroad, and his only goal now seems to be getting
-"home", which is back to wherever he was attending school. Somewhere
+"home," which is back to wherever he was attending school. Somewhere
 off this island, anyway.
 
 Endo doesn't know where Garret is. The two of them were fleeing south
@@ -7215,7 +7216,7 @@ Garret is a young man, not yet twenty. He's young, eager, and naive.
 His head is all stubble right now. Apparently he shaved his head
 recently, probably before he was thrown into jail. Everyone notes
 Endo's baldness and sees that the kid is emulating his reluctant
-"master".
+"master."
 
 They grill Garret about the location of the Magus Archives. As they
 guessed, he does know where to find it. It is in the far southeast of
@@ -7923,7 +7924,7 @@ bits. Skeeve has them clear out and goes to work.
 > the mages archives.
 >
 > They found a rather difficult book by Songmage Forwinol. It details
-> the magic he added to Mordan's Phylactery in order to trap him. It
+> the magic he added to Mordan's phylactery in order to trap him. It
 > details the steps needed to place the orb onto a container in order
 > to turn it into a trap for the lich. The orb magic is quite beyond
 > Skeeve, but the trapping procedure is easily understood. Using the
@@ -8182,7 +8183,7 @@ and moves his mouth, but they can hear no sound. The undead are driven
 to a frenzy. The battle intensifies. The heroes rush forward to face
 him.
 
-> Yes, a "Boss Fight". They don't know it, but sealing the Orb within
+> Yes, a "Boss Fight." They don't know it, but sealing the Orb within
 > the box cut off a majority of Mordan's power and weakened him even
 > more. This reduced him (as luck would have it!) to a "wizard" strong
 > enough to give a decent battle to a group of level 5-6 characters.
@@ -8527,7 +8528,7 @@ front of them that will turn them the way I want them to go. The first
 four sessions had a lot of steering in them.
 
 This isn't railroading in the sense of telling players "You can't do
-that", but putting them into situations where there are only one or
+that," but putting them into situations where there are only one or
 two reasonable choices could still be considered a form of subtle
 railroading. I leave it for the reader to decide.
 
@@ -8607,7 +8608,7 @@ faking dice rolls. If I had to cheat, it would have been better to let
 Vormoth bust out his lightning but then make sure his damage roll was
 low enough that it wouldn't kill the target. That would have been a
 better choice than what I did. It would have driven home the point to
-the players, "this could have killed you".
+the players, "this could have killed you."
 
 This subject almost needs a post of its own. The object of the game is
 to have fun. The players won't have fun today if they all die. But
