@@ -3848,11 +3848,12 @@ Skeeve studies the Orb some more. He learns:
 
 ![](images/orb_k1.gif)
 
+![](images/orb_k2.gif)
+
+![](images/orb_k3.gif)
+
 This doesn't help him very much, but he does gain some knowledge
 that will help him in future study attempts.
-
-> I won't get into all of the rules of this little mini-game. This
-> basically means all future study rolls get +1.
 
 They arrive in Crossway. It is well past dark now. They ride to the
 south gate to find the special guards, but find only evidence of
@@ -4106,6 +4107,8 @@ before K'dar turns the conversation to business.
 
 Back at the inn, Skeeve studies the orb and learns the following:
 
+![](images/orb_g1.gif)
+
 ![](images/orb_g2.gif)
 
 That afternoon, the party members are summoned back to the
@@ -4180,6 +4183,8 @@ things and sees that all is well.
 
 Skeeve and Enoch continue to study. Skeeve learns what happens when
 the sphere is destroyed.
+
+![](images/orb_e1.gif)
 
 ![](images/orb_e2.gif)
 
