@@ -82,7 +82,7 @@ in the first session.
 | Name: Endo
 | Race: Human
 | Class: Monk
-| Played By: Shamus (Endo is an NPC when I'm the DM)
+| Played By: Shamus (Endo is an NPC when I'm the dungeon master)
 
 Endo is a follower of the Ki-Tan fighting style. He lived in Highstone
 Monastery, a large stone structure overlooking the town of Bridgehold
@@ -441,9 +441,10 @@ He had a number of adventures before coming to Golgotha in northern
 Dunlock.
 
 > Thordek was an NPC in our second campaign. As the campaign drew to a
-> close, Joe (the DM) decided he'd rather try a different character,
-> as opposed to playing Yoeg again. He wanted to play a dwarf, so
-> using the already-established character Thordek made sense.
+> close, Joe (the dungeon master) decided he'd rather try a different
+> character, as opposed to playing Yoeg again. He wanted to play a
+> dwarf, so using the already-established character Thordek made
+> sense.
 
 ## Thu'fir
 
@@ -527,29 +528,29 @@ Magical properties of the sword (select one each level):
 
 Bogan wrote a great backstory for this character way back during out
 first campaign. Since then I've managed to misplace it. I'll update
-this once I find his story. It's somewhere in my DM notes.
+this once I find his story. It's somewhere in my dungeon master notes.
 
 Bogan is quiet, and so Enoch ends up being pretty quiet in-game as
 well. He's actually one of the most observant characters, and uses his
 spells wisely. He's caught me off guard a few times with suddenly
 casting a lesser-known (read: non-combat) spell like "zone of truth"
-when I wasn't expecting it. As a DM, I always find it rewarding when
-players come up with solutions I hadn't thought of.
+when I wasn't expecting it. As a dungone master, I always find it
+rewarding when players come up with solutions I hadn't thought of.
 
 ## The Setting
 
-Before I became DM, the players were in a campaign run by a guy named
-Josh, whom I've never met. They parted ways with him and I ended up
-running the campaign. Josh was very much a freestyle DM, with no real
-shape to the game world. It was just town, woods, town, woods, in some
-non-specific country.
+Before I became dungeon master, the players were in a campaign run by
+a guy named Josh, whom I've never met. They parted ways with him and I
+ended up running the campaign. Josh was very much a freestyle dungeon
+master, with no real shape to the game world. It was just town, woods,
+town, woods, in some non-specific country.
 
 When I took over I wanted to keep a bit of continuity, but at the same
 time I needed to place them in some sort of structured world. I came
 up with the map you see below. I decided that they all came from
 "Dunlock," and they were in the coastal town of Djoshport (named after
-their hapless former DM). In our first session I stuck them on a boat
-for Grey Moor, the site of our first campaign.
+their hapless former dungeon master). In our first session I stuck
+them on a boat for Grey Moor, the site of our first campaign.
 
 ![](images/world_map.gif)
 
@@ -572,13 +573,14 @@ and Endo and attained level 3. The elves of Mar Talos joined in the
 battle to keep the island free. This brought our first campaign to an
 end.
 
-At this point one of the players (Joe) became the DM, and I joined the
-game as a normal player using Endo. Joe's character stayed on Grey
-Moor, and the rest of us sailed to Golgotha in northern Dunlock. The
-party battled an army of the undead, saved the land, and made level 5.
-I became the DM again, keeping Endo as an NPC that traveled with the
-party. The party sailed for Mar Talos, but got shipwrecked on Mar
-Tesaro, which our third campaign is now taking place.
+At this point one of the players (Joe) became the dungeon master, and
+I joined the game as a normal player using Endo. Joe's character
+stayed on Grey Moor, and the rest of us sailed to Golgotha in northern
+Dunlock. The party battled an army of the undead, saved the land, and
+made level 5. I became the dungeon master again, keeping Endo as an
+NPC that traveled with the party. The party sailed for Mar Talos, but
+got shipwrecked on Mar Tesaro, which our third campaign is now taking
+place.
 
 # Session 1
 
@@ -1019,8 +1021,8 @@ the entire ship by trying to come about? Cutting across the wind will
 be very dangerous.
 
 > Yes, Eomer is mysteriously on deck again, even though he went in.
-> This is one of those moments where the DM lost track and slipped up.
-> I guess he came back outside for some reason?
+> This is one of those moments where the dungeon master lost track and
+> slipped up. I guess he came back outside for some reason?
 
 They choose to go back for the captain and begin trying to turn about.
 As the ship turns across the wind, they loose control of the wheel
@@ -1480,12 +1482,12 @@ circle of tents in front of the house, and a number of guards are
 gathered there, talking. He sneaks up to the back of the house and
 peeks through the rear window with his mirror.
 
-> DM mistake. Looking back, would Eomer still have his mirror? They
-> lost their backpacks in the shipwreck, and spent an awful night
-> being beaten against the rocks off the coast. Assuming he even had
-> it with him (and not in his pack) would the mirror have survived the
-> harsh treatment? Since I didn't challenge him on this, then I guess
-> so...
+> Dungeon master mistake. Looking back, would Eomer still have his
+> mirror? They lost their backpacks in the shipwreck, and spent an
+> awful night being beaten against the rocks off the coast. Assuming
+> he even had it with him (and not in his pack) would the mirror have
+> survived the harsh treatment? Since I didn't challenge him on this,
+> then I guess so...
 
 A soldier is inside, working on something. Eomer can hear the banging
 of pots. This room is clearly the kitchen. After watching the place a
@@ -1540,7 +1542,7 @@ move goods from the house into the woods, just on the edge of the
 zone. There are seven crates, a sack, a book, a lantern, and a
 longbow.
 
-> Can you spot the DM mistake?
+> Can you spot the dungeon master mistake?
 >
 > It's nighttime. Dark. They are in a basement. How can they see what
 > they are doing? Eomer, Enoch, and Thu'fir are all human, and should
@@ -1768,9 +1770,9 @@ they can recall.
 The party walks to the fields in the north and looks for clues. They
 find nothing. They go to the hardberry bushes and look for clues.
 
-![This is the special "DM" map I made for this quest. The players did
- not see it of course, but this will help readers to follow along. I
- hope.](images/map_tracking.gif)
+![This is the special "dungeon master" map I made for this quest. The
+ players did not see it of course, but this will help readers to
+ follow along. I hope.](images/map_tracking.gif)
 
 They are at the base of a hill, facing west. The bushes are at the
 foot of the hill. Assuming the kidnapper went west, he must have gone
@@ -4983,7 +4985,7 @@ spire of brown stone, crowned with what looks like an observatory. In
 any other setting it would have looked tall and impressively, although
 it looks diminutive in the presence of the Citadel.
 
-Elsewhere they see the Archives; the city library, a church of
+Elsewhere they see the archives, the city library, a church of
 impressive proportions, a sprawling inn with many wings, and a number
 of unidentified government buildings. Around the edges of the square
 are several specialty shops and booths.
@@ -4992,9 +4994,9 @@ Eomer and Endo check into the Inn. Endo in particular looks tired and
 in need of rest.
 
 Skeeve heads for the Mage's guild. Thu'fir and Thordek look for a
-blacksmith. Enoch visits the Archives.
+blacksmith. Enoch visits the archives.
 
-The city Archives is a simple building of smooth gray stone positioned
+The city archives is a simple building of smooth gray stone positioned
 opposite the Citadel. It is easily the largest library on the island.
 Inside, the gloomy light of late afternoon drifts in through the many
 tall narrow windows, forming fingers of light through the dusty air.
@@ -5174,7 +5176,7 @@ laughter.
 
 Enoch retires to his room for the evening and sets to work translating
 the book. With the aid of the reference books on loan from the
-Archives, he is able to make amazing progress. Over the next few hours
+archives, he is able to make amazing progress. Over the next few hours
 he manages to translate three new chapters of the book:
 
 <div class="document">
@@ -5357,7 +5359,7 @@ Having completed this work, Enoch goes to sleep for the night...
 
 ## 17th of Last Summer (evening) {.date}
 
-At the same time Enoch is visiting the Archives, Skeeve visits the
+At the same time Enoch is visiting the archives, Skeeve visits the
 Mage's Guild.
 
 The Fol Thron branch of the Mage's Guild is a simple spire of brown
@@ -5373,7 +5375,7 @@ allowed to enter.
 
 The interior is ornate and comfortable. The floor is covered in fine
 red carpet, and there are many expertly crafted chairs arranged in the
-lobby area. As in the Archives, there is an impressive arc of windows
+lobby area. As in the archives, there is an impressive arc of windows
 along one wall, filling the room with daylight. This main room seems
 to be a place for reading and quiet conversation. A spiral stairway
 leads up from this room as well, although Skeeve does not see where it
@@ -5401,7 +5403,7 @@ translated, which they ponder for a while before going to bed.
 ## 18th of Last Summer {.date}
 
 Enoch begins the day by finishing work on the Book of Norvus. With the
-aid of the books on load from the Archives, he is able to make short
+aid of the books on load from the archives, he is able to make short
 work of the final two chapters:
 
 <div class="document">
@@ -5508,7 +5510,7 @@ have to end this misery.*
 *Chronicler Norvus*
 </div>
 
-With the book complete, Enoch returns to the Archives for his reward.
+With the book complete, Enoch returns to the archives for his reward.
 
 ## 18th of Last Summer (morning) {.date}
 
@@ -5615,7 +5617,7 @@ location.
 
 ## 18th of Last Summer (morning) {.date}
 
-While Skeeve is at the Mage's Guild, Enoch visits the Archives to show
+While Skeeve is at the Mage's Guild, Enoch visits the archives to show
 them the completed book.
 
 Councilman Relnar looks over the completed work. Clearly disappointed
@@ -5628,7 +5630,7 @@ it. You may keep it."
 
 * * *
 
-While Enoch is at the Archives, Thordek finds a blacksmith that deals
+While Enoch is at the archives, Thordek finds a blacksmith that deals
 in custom-crafted weapons. He negotiates for a new hammer, one with
 his family crest on the face. The blacksmith tries to up-sell him with
 a number of useless options like silver trim, gold inlay, fancy types
@@ -6105,11 +6107,11 @@ track him down if he doesn't have anything to say? He frowns, "So
 you've come here to make fun of me? Perhaps you want me to sign the
 book for you?"
 
-Eomer shakes his head, "You made reference to the Mage's Archives..."
+Eomer shakes his head, "You made reference to the Magus Archives..."
 
 "Ah! So that's what you're after. Well, come in here," and with that
 he takes his bread and moves into the dinning room to enjoy his meal.
-"So you're looking for the Mage's Archives? You don't look like a
+"So you're looking for the Magus Archives? You don't look like a
 wizard. You a wizard hunter so something?"
 
 "No."
@@ -6130,7 +6132,7 @@ and they let me into the library. I was granted entry under the
 pretense of gathering folklore, but when I got the chance I snuck into
 their private library, which is closed to outsiders. I didn't get a
 lot of time in there, just a glimpse. There were indeed references to
-the Mage's Archives. I planned on going back at a later time, and
+the Magus Archives. I planned on going back at a later time, and
 seeing if I could learn more, but then the war came. It was a safe bet
 that the Lormanite army wouldn't welcome a fussy old man visiting
 their capital city just so he can read their books. After the city
@@ -6151,12 +6153,12 @@ Norvus shrugs, "I suppose he might have. Of course, I've heard the
 entire Lorman family was wiped out when Fort Bolland fell."
 
 Eomer nods without commenting on the prince. "Would Sagemaster Teerin
-know where to find the Mage's Archives?"
+know where to find the Magus Archives?"
 
 "Oooh. Interesting," Norvus says thoughtfully.
 
-> Yeah. Good question. As the DM, I hadn't considered this. Took me a
-> few seconds to decide if he would or not.
+> Yeah. Good question. As the dungeon master, I hadn't considered
+> this. Took me a few seconds to decide if he would or not.
 >
 > In fact, a lot of this conversation was unexpected. I thought that
 > Enoch, who translated the book, was the most likely party member to
@@ -6293,9 +6295,9 @@ They present themselves to the commander at the gates and identify
 themselves. He blows a horn and the massive wooden gate is pulled up,
 opening the way to the stone bridge that connects the Citadel with the
 rest of the city. They cross, and are met on the opposite side by the
-Gatemaster.
+gatemaster.
 
-The Gatemaster is a large man. His long dark hair, streaked with gray,
+The gatemaster is a large man. His long dark hair, streaked with gray,
 is pulled back into a thick ponytail. Beefy arms extend from the
 embossed plate mail covering his chest, like the limbs of a mighty
 tree. His beard is well-trimmed, and his face bears the lines of many
@@ -6406,13 +6408,13 @@ Eomer does not reply.
 
 Her voice rises once again, "Gentlemen, I have a task for you. Mordan
 gathers power to the north. His power is diminished since last he
-walked the earth. If it were not so, we would be under siege by now."
+walked the earth. If it were not so, we would be under siege by now.
 
 "Through my many spies I can see he is sending a servant to parlay
 with me who, even now, is riding south to this city. He will bring
 demands from the Dark Lord. I do not wish to hear them. It is
-forbidden to strike at one who comes as an emissary. All but the dark
-lord himself honor such etiquette. I will not move against him myself.
+forbidden to strike at one who comes as an emissary. All but the Dark
+Lord himself honor such etiquette. I will not move against him myself.
 However, you can. You do not serve me and are not under my rule."
 
 She pauses. Eomer and Thu'fir are both confused by this, but do not
@@ -6432,13 +6434,13 @@ Thu'fir asks, "This emissary... is it Noreeno?"
 
 The Queen seems to approve. "You are very wise. It is your old
 employer, and my former servant, the traitorous Noreeno. He failed his
-master when he did not have the wit to take the orb from you. He
+master when he did not have the wit to take the orb from you. His
 reward is that he must now ride south and act as the mouthpiece for
 his master."
 
 Thu'fir dares another question, "I expect you know about the general?"
 
-She nods. The word "Yes" fills the chamber. "I was also aware that
+She nods. The word "yes" fills the chamber. "I was also aware that
 Noreeno was not loyal to me as well, but I never guessed that he was a
 Child of the Citadel. Even the Mighty Lucan Forwinol believed them to
 be extinct at the end of the dark war against Mordan. Both Lucan and I
@@ -6530,12 +6532,12 @@ written by a man named Norvus."
 
 "Yes. The Exile."
 
-Well, the book mentions a place called the Mage's Archives. We were
+Well, the book mentions a place called the Magus Archives. We were
 hoping to learn where that is.
 
 > Out of character, Pat (Eomer) suggested that perhaps these Children
 > of the Cathedral (this secret society of Mordan-worshipers or
-> whatever they are) are hiding at the Mage's Archives.
+> whatever they are) are hiding at the Magus Archives.
 
 "I was hoping to wrest those secrets from King Dravis Lorman when we
 took fort Bolland. At the time, then-Commander Noreeno said that
@@ -6584,19 +6586,18 @@ The agents here have waited in vain for an order that never came."
 
 > When I did these meetings between the Queen and some of the
 > characters, I asked everyone else to leave the room. (I think they
-> were in the living room playing Mario Kart) This means it was just
+> were in the living room playing Mario Kart.) This means it was just
 > me, the players (in this case just Joe) and Heather. This changes
 > the feel of interactions a lot.
 >
 > The interesting thing here is that Thordek the dwarf would betray
-> the trust of his brethren to an oppressive Elven Queen.
+> the trust of his brethren to an oppressive elven queen.
 >
-> Some DM's might protest when players do stuff like this, but I have
-> no problem with it as long as the player feels they are being
-> internally consistent. Joe thought about this answer for a while,
-> and chose it carefully.
->
-> Now he has to wonder what the consequences (if any) will be...
+> Some dungeon masters might protest when players do stuff like this,
+> but I have no problem with it as long as the player feels they are
+> being internally consistent. Joe thought about this answer for a
+> while, and chose it carefully. Now he has to wonder what the
+> consequences (if any) will be...
 
 She replies, "I will remember the words you have spoken to me today.
 Leave me."
@@ -6620,7 +6621,7 @@ from General Tarvis. He suspects this ring is exactly the sort of
 thing she was talking about, and he has hurried off to find a suitable
 place to bury it.
 
-Before the others can Question Thordek about his short interview, a
+Before the others can question Thordek about his short interview, a
 bell rings and a female voice announces, "Enoch and Skeeve."
 
 The iron door opens, and Enoch and Skeeve enter the darkness. They
@@ -6674,8 +6675,8 @@ again be imprisoned."
 This sounds a little unlikely to Enoch and Skeeve. Enoch presents
 another carefully worded question, "I have read some of the folklore
 of your land, and read of some of the legends of the mountain. In
-particular... Um. It seems like they are, I mean..." He falters, wary
-of offending her.
+particular... um... it seems like they are, I mean..." He falters,
+wary of offending her.
 
 "You speak of the legends of the Spirit of Fiore?"
 
@@ -6708,7 +6709,7 @@ true?"
 At this, she steps back and sits on the great dark throne. She begins
 her tale, "You have read the history of these lands. You know that
 none have passed on their power to their own, as is the custom of
-Kings and Queens. The history of Mar Tesaro is a history of war,
+kings and queens. The history of Mar Tesaro is a history of war,
 murder, betrayal, and revolution as one power supplants another. Power
 is never passed on; it has always been taken. Most rulers here have
 made the mistake of being too weak and allowing their enemies to
@@ -6718,14 +6719,14 @@ Ingol: too cruel. Rhone: not nearly cruel enough. And so it goes.
 "The secret of ruling Khelberg is keeping the right balance of
 control. This is why I have ruled longer than any other. So to answer
 your question, if I were to allow that the teachings were true, it
-would cause my foes among my own people to multiply. To question my
+would cause my foes among my own people to multiply -- to question my
 strength and my right to rule.
 
 Skeeve and Enoch are not really persuaded by this answer, although
 they don't dare question it. She seems to sense it, so she adds,
 "Perhaps it would help to know that I have not had more than two
 visitors in over a century. Long ago, Pallas Lorman came to me as a
-friend, after the war against Mordan. He came and offered me a gift: A
+friend, after the war against Mordan. He came and offered me a gift: a
 spell of magical regeneration. It would heal my wounds, no matter how
 terrible, as long as I could still draw breath. The spell would
 preserve me and keep me whole for many long years if I accepted it. He
@@ -6798,7 +6799,7 @@ before he dies.
 > * They wonder about the cleric that served Noreeno back in Crossway.
 >   Will they have to face him? Is he aware of his master's true
 >   motives? Is the cleric himself evil?
-> * Skeeve missed this conversation: Dan was out picking up the Pizza.
+> * Skeeve missed this conversation: Dan was out picking up the pizza.
 
 ## 20th of Last Summer (morning) {.date}
 
@@ -6812,7 +6813,7 @@ turn west.
 As the sun sets they top the hill and ride into the small halfling
 village of Hillstead. This is obviously a farming community, with many
 farms dotting the surrounding countryside. There is a standard
-detachment of Alidian guards at the entrance to the city: A group of
+detachment of Alidian guards at the entrance to the city: a group of
 bored Alidian soldiers, and four elite guards. After their papers are
 checked, they are granted entry into the village proper. The "streets"
 of the city are simple dirt paths that wind around the clusters of
@@ -6850,9 +6851,9 @@ tomorrow. They have a full day to formulate their plan, whatever it
 is.
 
 They conclude that Noreeno will certainly come to this town, unless he
-plans to sleep in the wilderness -which doesn't sound likely. He will
-doubtless have a number of men with him, as well as his cleric friend.
-This inn is the only one in town.
+plans to sleep in the wilderness -- which doesn't sound likely. He
+will doubtless have a number of men with him, as well as his cleric
+friend. This inn is the only one in town.
 
 So they can be reasonably sure that Noreeno will be staying in one of
 these five rooms tomorrow night. By reserving rooms themselves, they
@@ -6883,9 +6884,9 @@ out the window and they drag him out into the woods north of town.
 They manage to pull all of this off without rousing the town watch.
 
 > I thought they would waylay him on the road, but instead they bust
-> in on him at night. I'm not the sort of DM to punish players for
-> being clever or for finding holes in my plans, so this was easier
-> than I anticipated.
+> in on him at night. I'm not the sort of dungeon master to punish
+> players for being clever or for finding holes in my plans, so this
+> was easier than I anticipated.
 
 They drag Noreeno out of town and tie him to a tree. They remove his
 ring and Thu'fir buries it nearby. Then they wake him up.
@@ -6908,11 +6909,11 @@ ring and Thu'fir buries it nearby. Then they wake him up.
 > pretty proud of this, since I think it simulated what was taking
 > place and randomized what questions would get answered.
 >
-> Their most important questions went unanswered. This wasn't DM
-> meddling, it's just that they overestimated how much Noreeno knew.
-> He didn't have any idea where the Magus Archives were, which Eomer
-> suspected was the base of operations for the Children of The
-> Cathedral. (This was the lich-worshiping cult which Noreeno led) If
+> Their most important questions went unanswered. This wasn't dungeon
+> master meddling, it's just that they overestimated how much Noreeno
+> knew. He didn't have any idea where the Magus Archives were, which
+> Eomer suspected was the base of operations for the Children of The
+> Cathedral. (This was the lich-worshiping cult which Noreeno led.) If
 > he didn't know, none of them did.
 
 They learn that Mordan's followers have been meeting in various
@@ -6942,8 +6943,8 @@ woods and heads south on foot.
 
 # Session 10
 
-> For this session, let's look at the proceedings from the DM's point
-> of view.
+> For this session, let's look at the proceedings from the dungeon
+> master's point of view.
 >
 > Each week I try to throw some challenge their way and see how they
 > handle it. Ideally, the challenge should arise from the ongoing
@@ -7911,7 +7912,7 @@ bits. Skeeve has them clear out and goes to work.
 > A secret chamber here in the guildhall really doesn't make a lot of
 > sense, but this was a book I intended for them to find if they
 > reached the Archives. They earned it, and I wanted them to have the
-> chance to cure the queen if they chose to do so.
+> chance to cure the Queen if they chose to do so.
 >
 > The cure would take away her near-immortality, but would end her
 > blindness and her suffering. She could go back to living a
@@ -8320,8 +8321,8 @@ Moor on his way home. He is at last going to get home and marry Talla.
 I want to say that I'm very happy to see the D&D campaign record
 completed. Recording the campaign was the original purpose of this
 blog. If you look at the URL you'll see this site was originally
-called Twenty-Sided Tale. Before DM of the Rings, before the stuff on
-video games, before all the stuff about geek culture, the intent of
+called Twenty-Sided Tale. Before *DM of the Rings*, before the stuff
+on video games, before all the stuff about geek culture, the intent of
 this site from the start was to record the events of the campaign as
 it unfolded.
 
@@ -8516,12 +8517,12 @@ they will react to a situation before I introduce it. The freeing of
 Mordan was one such case.
 
 I knew they probably wouldn't abandon Endo. (But just to be clear:
-Endo is my character when I'm not the DM, and I was fully prepared to
-lose him if they didn't. I would never have forced them to rescue
-him.) Once they rescued him he gave them the quest hook of looking for
-the prince, and I suspected they would bite. It took them a while, but
-they did. I gave them the book of Norvus, knowing Enoch would
-translate the sucker.
+Endo is my character when I'm not the dungeon master, and I was fully
+prepared to lose him if they didn't. I would never have forced them to
+rescue him.) Once they rescued him he gave them the quest hook of
+looking for the prince, and I suspected they would bite. It took them
+a while, but they did. I gave them the book of Norvus, knowing Enoch
+would translate the sucker.
 
 So I'm a little guilty of "steering" them by putting situations in
 front of them that will turn them the way I want them to go. The first
@@ -8545,13 +8546,13 @@ stop. My bad.
 Well, I don't have a group right now. Even if I did, I'm not sure I
 would try this again. It was too hard to prepare for the next game and
 log the last one. I certainly couldn't pull it off while putting out
-DM of the Rings.
+*DM of the Rings*.
 
 One solution might be to record all of the sessions and transcribe
 them once the game ends. Actually, that is probably the only way to do
 it. I could even edit out the useless stuff and turn it into one of
-those podcast thingies, which wouldn't have the DM notes but wouldn't
-require a lot of work, either.
+those podcast thingies, which wouldn't have the dungeon master notes
+but wouldn't require a lot of work, either.
 
 In any case, next time I play I plan to take better care of the audio
 recordings. I can't believe I lost them.
@@ -8562,18 +8563,18 @@ Still, step 1 is getting the band back together.
 players?**
 
 I don't roll the dice, get a 1, but then just pretend I got a 15.
-Still, there are all sorts of ways the DM can nudge things without
-faking dice rolls. If someone is on a narrow ledge on a cliff-side and
-they fail a climbing roll (or whatever) I won't just let them fall to
-their death. I'll give them a (reflex) saving throw to see if they can
-grab the ledge. Missed? Then I'll give the guy behind him a similar
-roll to see if he can catch him. Missed again? I'll give him one last
-throw to see if he can grab that sticking-out branch on the way down,
-Wile E. Coyote style.
+Still, there are all sorts of ways the dungeon master can nudge things
+without faking dice rolls. If someone is on a narrow ledge on a
+cliff-side and they fail a climbing roll (or whatever) I won't just
+let them fall to their death. I'll give them a (reflex) saving throw
+to see if they can grab the ledge. Missed? Then I'll give the guy
+behind him a similar roll to see if he can catch him. Missed again?
+I'll give him one last throw to see if he can grab that sticking-out
+branch on the way down, Wile E. Coyote style.
 
 If they miss that then I'll let it happen, but it's obvious that the
-DM can do all sorts of stuff without needing to pretend the dice
-rolled something they didn't.
+dungeon master can do all sorts of stuff without needing to pretend
+the dice rolled something they didn't.
 
 Another way to tweak things is to change the enemy strategy so that it
 sucks.
