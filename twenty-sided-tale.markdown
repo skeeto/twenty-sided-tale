@@ -7010,7 +7010,7 @@ woods and heads south on foot.
 > they were any good they would be taking part in the war, not stuck
 > in the mining camp, whipping slaves) and so they don't have the guts
 > to face the problem themselves, even if they had the manpower.
->
+
 > **The Hook**
 >
 > A sidequest is no good if the players don't get involved. I never
@@ -7021,15 +7021,15 @@ woods and heads south on foot.
 > The players are on their way back to Fol Thron and stay at Della
 > Minera for the night. In the morning they hear the rioting, which
 > gets their attention. They come downstairs and run into one-leg, who
-> fills them in with the basic facts: Miners disappearing, the riots.
+> fills them in with the basic facts: miners disappearing, the riots.
 > Once they have this conversation, they have a good idea of the setup
 > and can go about trying to solve the problem, if they choose.
->
+
 > **The Challenge**
 >
 > So what should the players do? It goes without saying that they
 > really, really hate the idea of a slave camp. The slaves are mostly
-> Northerners (the Lormanites, who started the war) who were captured
+> northerners (the Lormanites, who started the war) who were captured
 > and sent here to work. So, this is also a sort of POW camp. That's
 > not quite as bad as more general enslavement of civilians, but it's
 > still slavery and they still don't like it, even if the slaves are
