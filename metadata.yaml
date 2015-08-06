@@ -1,0 +1,17 @@
+---
+title: Twenty-Sided Tale
+creator:
+- role: author
+  text: Shamus Young
+- role: author
+  text: Heather Young
+contributor:
+- role: compiler
+  text: Christopher Wellons
+identifier:
+- scheme: URN
+  text: urn:uuid:a84149c7-e9a8-3301-0d40-b35b2e225067
+language: en-US
+cover-image: cover.png
+stylesheet: epub.css
+---

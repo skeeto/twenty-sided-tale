@@ -1,4 +1,4 @@
-% Twenty Sided Tale
+% Twenty-Sided Tale
 % Shamus Young; Heather Young
 
 This is a running narrative of our Dungeons & Dragons campaign. This
