@@ -7143,7 +7143,7 @@ can't get anything out of the mines at this point.
 > they had gone in and hacked their way through the grave walkers. The
 > name of the game is being clever and thinking in-character, and that
 > is just what they did here.
-
+>
 > From here on, the campaign is going to be very, very sketchy. The
 > audio recordings are lost, so all I have to go on are the notes my
 > wife took and my own fading memory. All I can do now is try to sum
@@ -7152,13 +7152,13 @@ can't get anything out of the mines at this point.
 
 The party leaves Della Minera and heads for Fol Thron. They pick up
 Endo, who has been hanging around town and keeping a low profile.
-There are conversations at the Mages Guild and elsewhere.
+There are conversations at the Mage's Guild and elsewhere.
 
-> There were long conversations at the Mages Guild and at the Citadel,
-> but I have no recollection of what was said. They didn't go in to
-> see the Queen.
+> There were long conversations at the Mage's Guild and at the
+> Citadel, but I have no recollection of what was said. They didn't go
+> in to see the Queen.
 
-They discuss their next move. They want to find the Mages Archives.
+They discuss their next move. They want to find the Mage's Archives.
 They think (hope) it will have some clue as to what to do with Mordan.
 They have no idea where to look for it. Their only lead is that Prince
 Garret Lorman, who traveled with Endo for a while, might know where it
@@ -7199,13 +7199,13 @@ the town he smells the ocean and perks up. He leaves them and heads to
 the docks to find work. It appears as though a ship is currently under
 construction.
 
-They mill around town and look for Garret. (Prince Lorman) There they
-find that Garret is in jail. Apparently he was in the tavern when
-someone spoke ill of Dravis Lorman. He unwisely defended his father's
-honor (at least he had the wit to leave out the fact that Dravis was
-his father) and lost badly. The man he attacked was a nobleman, and so
-Garret was tossed into jail for one month, or until he could come up
-with the unlikely sum of 15 gold.
+They mill around town and look for Garret. There they find that Garret
+is in jail. Apparently he was in the tavern when someone spoke ill of
+Dravis Lorman. He unwisely defended his father's honor (at least he
+had the wit to leave out the fact that Dravis was his father) and lost
+badly. The man he attacked was a nobleman, and so Garret was tossed
+into jail for one month, or until he could come up with the unlikely
+sum of 15 gold.
 
 The players bail him out. As he sees Endo, he cries out, "Sensei!" and
 hugs him. Endo stands with his hands at his sides, embarrassed. This is
@@ -7242,7 +7242,7 @@ The party loads up on supplies and then heads east from the town of
 Washport. The terrain ahead looks uneven and rocky, so they head out
 on foot, leaving their horses behind.
 
-They are looking for the Mages Archives. They are taking young Garret
+They are looking for the Magus Archives. They are taking young Garret
 Lorman with them. As the last prince of the Lorman line, he's the only
 person who still knows how to find it. The building is obscured by
 unknown magic, and a full search of the barren wastes of the south
@@ -7332,14 +7332,14 @@ the wrong end. They have written Garret off as an idiot by this point,
 so they let it slide without comment. Eventually this gets on Eomer's
 nerves and he tries to show Garret how to use a spyglass.
 
-Garret explains that this is how the Mages Archives can be seen. Up
+Garret explains that this is how the Magus Archives can be seen. Up
 close (within a hundred or so paces) it can be plainly seen, but at a
 distance it can only be spotted by looking through the wrong end of a
 spyglass.
 
 Eomer gently relieves him of the Spyglass and begins using it himself.
 
-They locate the Mages Archives. The building is a modest tower -- more
+They locate the Magus Archives. The building is a modest tower -- more
 of a "lighthouse" style tower than the classic "wizard" spire. The
 tower is joined to a squat, round building made from the dusty gray
 stones of this region. The building is perched atop a small cliff that
@@ -7488,7 +7488,7 @@ floor.
 > hours, and the notes I have cover less than a paragraph. Sigh. I
 > REALLY wish I had the audio of these sessions.
 
-The party awakens in the Mages archives. They spend some time going
+The party awakens in the Magus Archives. They spend some time going
 through the library, and find some books of use. They learn the
 location of the shaft dug by the dwarves who imprisoned Fiore. They
 decide this is an interesting find. The site is less than a day from
@@ -7698,7 +7698,7 @@ the cloud. They have been awake and on the move for over twenty-four
 hours by now. They are coated in ash, bruised, and weary.
 
 Summoning the last of their strength, they press on until they reach
-the Mages Archives. Once there, they collapse and sleep for the next
+the Magus Archives. Once there, they collapse and sleep for the next
 two days. Endo and Garret prepare them a cooked meal in the kitchen.
 Once they have cleaned up and eaten, they meet in the library to plan
 their next move.
@@ -7722,12 +7722,12 @@ answers. First things first. They rest.
 
 # Session 13
 
-The party spends four days in the Mages Archives. They take a generous
+The party spends four days in the Magus Archives. They take a generous
 and well-deserved rest. There are many challenges ahead, but they
 sense the tide has turned.
 
 At last they depart, heading west towards Washport. They re-seal the
-Mages Archives before they leave. As far as Eomer is concerned they
+Magus Archives before they leave. As far as Eomer is concerned they
 own the place now, so they may as well start taking care of it.
 
 The great cloud of ash has dissipated and been blown out to sea, but
@@ -7753,7 +7753,7 @@ continues until shortly before dawn.
 
 > Geeze. Let's have another look at the map, shall we?
 >
-> The players just left the Mages Archives, which was on the far
+> The players just left the Magus Archives, which was on the far
 > south-east tip of the island. Then they returned west to Washport.
 >
 > Mordan has been in the town of Crossway, building his power.
@@ -7857,7 +7857,7 @@ army are here, defending the bridge nightly against attack.
 
 They rest here for the night and then head to Fol Thron.
 
-They head for the Citadel, but as they pass by the Mages Guild they
+They head for the Citadel, but as they pass by the Mage's Guild they
 see the place is surrounded by a crowd. Skeeve stops to see what is
 going on. The place is surrounded by town guards, who are keeping
 everyone at a distance.
@@ -7871,7 +7871,7 @@ window.
 Enoch heals the still-smoldering guard, while Skeeve has the nearby
 captain explain.
 
-It seems that they located a secret chamber within the Mages Guild
+It seems that they located a secret chamber within the Mage's Guild
 tower which was being used as a meeting place for some of Mordan's
 followers, or the members of his cult, or whatever they are. They
 arrested these members, (who were mostly wizards) and are questioning
@@ -7898,7 +7898,7 @@ bits. Skeeve has them clear out and goes to work.
 > having him around would really mess up the meeting they were about
 > to have with the Queen.
 >
-> Skeeve stopped at the Mages Guild and got dragged into a situation
+> Skeeve stopped at the Mage's Guild and got dragged into a situation
 > where someone had found a secret chamber in the guildhall. It was
 > filled with magical traps of various kinds. Skeeve went in, dealt
 > with the problem, solved some puzzles, and in return got a load of
@@ -7908,7 +7908,7 @@ bits. Skeeve has them clear out and goes to work.
 > BLINDNESS OF THE QUEEN.
 >
 > Now, all of this was due to a screw-up on my part. This book should
-> have been at the Mages Archives on the southeast tip of the island.
+> have been at the Magus Archives on the southeast tip of the island.
 > A secret chamber here in the guildhall really doesn't make a lot of
 > sense, but this was a book I intended for them to find if they
 > reached the Archives. They earned it, and I wanted them to have the
@@ -7934,7 +7934,7 @@ bits. Skeeve has them clear out and goes to work.
 > coffin once more. This book is no longer needed (since they used
 > Fiore's prison instead) so I neglected to mention it in Session 12.
 >
-> So, in the Mages Archives they found:
+> So, in the Magus Archives they found:
 >
 > * Directions on how to re-set the trap in Mordan's tomb. (Assuming
 >   they could ever reach it, and it hasn't been destroyed.)
@@ -7971,7 +7971,7 @@ to meet with the Queen this time.
 
 # Session 14
 
-Having sorted out the problems at the Mages Guild and recovered some
+Having sorted out the problems at the Mage's Guild and recovered some
 interesting books, they proceed to the Citadel. Endo takes Garret to
 an inn, where the boy can hopefully keep a low profile. It is unlikely
 that anyone will recognize him, but the Queen has many powers of
