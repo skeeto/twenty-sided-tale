@@ -2405,7 +2405,7 @@ their silver and gold trim. The silver & gold are in a separate pile,
 along with bits removed from jewelry and teeth. Thordek takes these
 items to sell and divide the proceeds later.
 
-Skeeve finds a mage's guild certificate of membership made out to
+Skeeve finds a Mage's Guild certificate of membership made out to
 "Conjurer Vormoth," good until 1505dy. Skeeve takes this. Being a
 self-taught wizard, he has never heard of the guild, but figures that
 being able to pass himself off as a member may come in handy.
@@ -2812,7 +2812,7 @@ gossip, telling Skeeve all sorts of gossip about people in the bazaar,
 but not relating anything interesting or useful to their quest.
 
 The shopkeeper tells him that a 10% discount is available for members
-of the mage's guild. Skeeve produces the membership they recovered
+of the Mage's Guild. Skeeve produces the membership they recovered
 from Vormoth.
 
 The tailor is very receptive but is disconcerted by the name on the
@@ -2886,7 +2886,7 @@ The magistrate rolls his eyes, "I just had a terrified shopkeeper in
 here telling me stories about how he'd just seen Vormoth here in
 town."
 
-"Yes, I used his mage's guild membership. To get a discount."
+"Yes, I used his Mage's Guild membership. To get a discount."
 
 "How did you come by the guild membership for Conjurer Vormoth?"
 
@@ -3281,7 +3281,7 @@ They finish their drinks and head off for bed at the Inn.
 ## 8th of Last Summer, 1501dy {.date}
 
 They party begins the day by getting ready for their trip tomorrow.
-Skeeve now has a membership to the mage's guild, which means he can
+Skeeve now has a membership to the Mage's Guild, which means he can
 shop at some of the more exclusive places in town. He buys some
 potions. He purchases a potion of healing, which he presents to
 Thordek as thanks for saving his life a few days earlier. Thordek is
@@ -5037,7 +5037,7 @@ been working on translating a book."
 
 The keeper is intrigued by this, "Oh indeed? What sort of book?"
 
-Enoch produces the Book of Norvus and shows it to him.
+Enoch produces the *Book of Norvus* and shows it to him.
 
 When his eyes fall on the book, the keeper is delighted, "The
 mysterious book! You've managed to make some headway!" He thumbs
@@ -5203,7 +5203,7 @@ was now the unliving master of Khelberg: Mordan the dread Lich King.
 He appeared amidst the fleeing slaves and slew them with a single
 word. They gave up their spirits and fell at his feet. Within the hour
 their bodies had risen again to become the first of his most fearsome
-servants. They were the Grave Walkers, the terrible footsoldiers of
+servants. They were the grave walkers, the terrible footsoldiers of
 his lifeless army. He slew many in this way, both foe and servant
 alike, and their ranks grew.
 
@@ -5212,7 +5212,7 @@ stronger and more viscous they were in unlife. He took many elves and
 humans and tormented them for years before allowing them to die. He
 invented many new spells and potions to aid him in extending the lives
 of his victims and intensifying their agony. So it was that each
-generation of Grave Walkers was more fearsome than the one before.
+generation of grave walkers was more fearsome than the one before.
 
 He took all of the people of the north and brought them south as
 slaves. The men were sent to work in the mines, while the women were
@@ -5241,7 +5241,7 @@ Citadel, where none could reach them or put them to use. He proclaimed
 loudly that the riches of the world were hidden within his Citadel for
 any that had the courage to face him. Heroes emerged at the rumor of
 treasure, and many adventurers traveled to Mar Tesaro to attempt to
-unseat him. All were slain and added to his army of Grave Walkers. He
+unseat him. All were slain and added to his army of grave walkers. He
 feared no foe in all the Earth.
 
 As the power of the Lich King continued to grow beyond measure, the
@@ -5258,7 +5258,7 @@ oppose.
 The armies of Dunlock, from the greatest to the least of its kingdoms,
 gathered together to give one final challenge to Mordan the Dread
 Lich. Elf and dwarf, human and halfling, all met the armies of Mordan
-at the foot of the cursed mountain. The Grave Walkers marched into
+at the foot of the cursed mountain. The grave walkers marched into
 battle along with many slaves and fell beasts under the control of of
 Mordan. The battle lasted many weeks, and unspeakable magic was
 unleashed on both sides.
@@ -5402,9 +5402,9 @@ translated, which they ponder for a while before going to bed.
 
 ## 18th of Last Summer {.date}
 
-Enoch begins the day by finishing work on the Book of Norvus. With the
-aid of the books on load from the archives, he is able to make short
-work of the final two chapters:
+Enoch begins the day by finishing work on the *Book of Norvus*. With
+the aid of the books on load from the archives, he is able to make
+short work of the final two chapters:
 
 <div class="document">
 **Part XII: The Fall of Myran Alidia**
@@ -5657,7 +5657,7 @@ daytime horizon, it seems safe to conclude that the group of wizards
 in this room are the only people in town who know of this.
 
 Skeeve suspects the cloud is Mordan's doing. He feels he must speak to
-the queen. Below, he can see the bridge to the citadel is guarded and
+the Queen. Below, he can see the bridge to the citadel is guarded and
 the gates are closed. He turns to the young elf, "How would someone go
 about talking to the Queen?"
 
@@ -5683,7 +5683,7 @@ he can find, and gets in the appropriate line.
 
 Skeeve stands there for a while. He gathers some gossip on how the
 city works, but can't figure out who to see about getting a meeting
-with the queen. Finally he gets bored and frustrated. He walks to the
+with the Queen. Finally he gets bored and frustrated. He walks to the
 front of the line and says to someone, "Can I cut in? It's very
 important!"
 
@@ -5694,7 +5694,7 @@ Skeeve protests, "I think someone might be trying to kill the Queen!"
 > Let's skip ahead here. This was very humorous, but pointless and a
 > bit long. Here is the short version:
 >
-> When Skeeve mentions killing the queen, it was sort of the
+> When Skeeve mentions killing the Queen, it was sort of the
 > equivalent of saying, "Hijack a bomb," to airport security. People
 > around him gasp. Guards show up. He is dragged off. He knew this and
 > anticipated this result, but figured it was the fastest way to get
@@ -5816,7 +5816,7 @@ Thu'fir rolls open the heavy black-iron gate and they enter. On the
 way here they have been talking about what an odd and unlikely meeting
 place this is. Perhaps the general believes the city to be so infested
 with spies that they must meet in this remote part of the city.
-Perhaps he is hiding is business from the queen. Perhaps he just wants
+Perhaps he is hiding is business from the Queen. Perhaps he just wants
 a quiet place to dispatch them.
 
 They cross the field and greet him. Tarvis smiles thinly in the dim
@@ -6392,7 +6392,7 @@ black mask that covers her eyes. Like the helmets of her soldiers, it
 bears the symbol of a single pierced eye in the center.
 
 The room is bathed in steady red light, which comes from a point just
-above the queen. It is difficult to see the source of this light; it
+above the Queen. It is difficult to see the source of this light; it
 stings the eyes when looked at directly.
 
 ![](images/queen.jpg)
@@ -7337,7 +7337,7 @@ close (within a hundred or so paces) it can be plainly seen, but at a
 distance it can only be spotted by looking through the wrong end of a
 spyglass.
 
-Eomer gently relieves him of the Spyglass and begins using it himself.
+Eomer gently relieves him of the spyglass and begins using it himself.
 
 They locate the Magus Archives. The building is a modest tower -- more
 of a "lighthouse" style tower than the classic "wizard" spire. The
@@ -7486,7 +7486,7 @@ floor.
 
 > Here we are at a pivotal session in the campaign. We played for five
 > hours, and the notes I have cover less than a paragraph. Sigh. I
-> REALLY wish I had the audio of these sessions.
+> *really* wish I had the audio of these sessions.
 
 The party awakens in the Magus Archives. They spend some time going
 through the library, and find some books of use. They learn the
@@ -7592,13 +7592,13 @@ Eomer warns everyone not to touch the treasure.
 > people who also have taken from the mountain. It makes you jealous
 > and distrusting of them. In time this leads to hatred and paranoia.
 > Now, I can't impose that sort of business onto the characters. If
-> they had lifted the treasure, I couldn't MAKE them hate each other
+> they had lifted the treasure, I couldn't *make* them hate each other
 > or the various NPCs in the game. The players understood that the
 > curse bred conflict between people who took the riches of the
 > mountain, but they also understood in a metagame sense that this
 > sort of thing couldn't apply to them.
 >
-> One of my brothers asked me point-blank at one point, "so what would
+> One of my brothers asked me point-blank at one point, "So what would
 > happen if we took some of it?" Of course, I couldn't give that away
 > just yet, but I can explain it now:
 >
@@ -7741,7 +7741,7 @@ guards are jumpy. At first they assume that this is due to the
 mountain exploding. Then they learn that things have changed in the
 two weeks they were wandering in the East. The Black Army of Mordan
 swept south some days ago. Here in Washport there are many halfling
-farmers from Hillstead. They fled the city as the Grave Walkers
+farmers from Hillstead. They fled the city as the grave walkers
 descended on them in the night. To their knowledge, everything north of
 the river is lost.
 
@@ -7801,7 +7801,7 @@ the party for the purpose of the conversation. They are less likely to
 get perforated by dwarven crossbows if everyone thinks the party is
 under the leadership of a dwarf.
 
-While not given audience with the General (who is very busy right now)
+While not given audience with the general (who is very busy right now)
 Thordek is given an audience with his second in command. He is taken
 alone to the commander's tent while the rest of the party waits at the
 edge of the dwarven encampment.
@@ -7863,7 +7863,7 @@ going on. The place is surrounded by town guards, who are keeping
 everyone at a distance.
 
 Skeeve asks a nearby guard what is going on. The guard begins to
-explain, but is cut off by a thunderous BOOM from the tower above.
+explain, but is cut off by a thunderous *BOOM* from the tower above.
 Another town guard comes sailing out of one of the second-story
 windows and lands with a thud nearby. Black smoke pours from the
 window.
@@ -7874,12 +7874,12 @@ captain explain.
 It seems that they located a secret chamber within the Mage's Guild
 tower which was being used as a meeting place for some of Mordan's
 followers, or the members of his cult, or whatever they are. They
-arrested these members, (who were mostly wizards) and are questioning
-the other guild members, trying to get a feel for how big this secret
-group is, who the members are, and how they remained hidden for so
-long. This has put the guild out of business for a couple of days, and
-has only added to the chaos of the two-headed invasion they are
-facing.
+arrested these members -- who were mostly wizards -- and are
+questioning the other guild members, trying to get a feel for how big
+this secret group is, who the members are, and how they remained
+hidden for so long. This has put the guild out of business for a
+couple of days, and has only added to the chaos of the two-headed
+invasion they are facing.
 
 His men are now trying to search the place, which tough going because
 the place is filled with traps. Without the help of a trusted wizard
@@ -7909,10 +7909,10 @@ bits. Skeeve has them clear out and goes to work.
 >
 > Now, all of this was due to a screw-up on my part. This book should
 > have been at the Magus Archives on the southeast tip of the island.
-> A secret chamber here in the guildhall really doesn't make a lot of
+> A secret chamber here in the guild hall really doesn't make a lot of
 > sense, but this was a book I intended for them to find if they
-> reached the Archives. They earned it, and I wanted them to have the
-> chance to cure the Queen if they chose to do so.
+> reached the Magus Archives. They earned it, and I wanted them to
+> have the chance to cure the Queen if they chose to do so.
 >
 > The cure would take away her near-immortality, but would end her
 > blindness and her suffering. She could go back to living a
@@ -7922,17 +7922,17 @@ bits. Skeeve has them clear out and goes to work.
 > Sigh. It happens. I patched over it.
 >
 > Also, I neglected to detail some of the other books they found at
-> the mages archives.
+> the Magus Archives.
 >
 > They found a rather difficult book by Songmage Forwinol. It details
 > the magic he added to Mordan's phylactery in order to trap him. It
 > details the steps needed to place the orb onto a container in order
 > to turn it into a trap for the lich. The orb magic is quite beyond
 > Skeeve, but the trapping procedure is easily understood. Using the
-> book as a guide, they could return to Mordan's tomb and (assuming
-> they could get in and reach his original prison) affix it to his
-> coffin once more. This book is no longer needed (since they used
-> Fiore's prison instead) so I neglected to mention it in Session 12.
+> book as a guide, they could return to Mordan's tomb and, assuming
+> they could get in and reach his original prison, affix it to his
+> coffin once more. This book is no longer needed, since they used
+> Fiore's prison instead, so I neglected to mention it in Session 12.
 >
 > So, in the Magus Archives they found:
 >
@@ -7943,14 +7943,14 @@ bits. Skeeve has them clear out and goes to work.
 >
 > * A couple of spells for Skeeve.
 >
-> * If Enoch hadn't finished the Book of Norvus by now (or if he had
->   skipped that sidequest altogether) then the key history they needed
->   would have been provided here. The only thing is that he wouldn't
->   have gotten the fun of decoding it himself, not to mention the XP.
->   The history was available at the archives, although they already
->   knew it.
+> * If Enoch hadn't finished the *Book of Norvus* by now (or if he had
+>   skipped that sidequest altogether) then the key history they
+>   needed would have been provided here. The only thing is that he
+>   wouldn't have gotten the fun of decoding it himself, not to
+>   mention the XP. The history was available at the Magus Archives,
+>   although they already knew it.
 >
-> * ~~The cure for the queen's blindness.~~ Oops.
+> * ~~The cure for the Queen's blindness.~~ Oops.
 >
 > So, they went all that way and found books they didn't need, books
 > they never used, spells that were useless to everyone but Skeeve,
@@ -7958,12 +7958,12 @@ bits. Skeeve has them clear out and goes to work.
 > cheated when they finally found the place and all it really had that
 > interested them was a HINT of how to find Fiore. Ah well.
 
-Skeeve takes Eomer (who is an NPC right now, remember) into the tower
-and they puzzle their way through the various traps. Once complete,
-they search the place. They are supposed to tell the guards when they
-are done, but Skeeve wants a look at the spoils first. He finds a book
-which details the cure to the Queen's curse. This is too valuable to
-pass up, so he grabs it.
+Skeeve takes Eomer (who is an NPC right now) into the tower and they
+puzzle their way through the various traps. Once complete, they search
+the place. They are supposed to tell the guards when they are done,
+but Skeeve wants a look at the spoils first. He finds a book which
+details the cure to the Queen's curse. This is too valuable to pass
+up, so he grabs it.
 
 They then head downstairs and report that their work is complete. They
 are paid for their trouble, and then head for the Citadel. They plan
@@ -7989,18 +7989,18 @@ Fiore is free and the curse is lifted, but it is obvious she had
 figured this out. The mountain blew its top a week ago, and nobody
 could have missed that. If it weren't for the two-headed invasion of
 the city this event would be the talk of the town. They do not tell
-her where the Archives are, or where the Orb is buried.
+her where the Magus Archives are, or where the Orb of Mordan is
+buried.
 
 She explains that her mines collapsed and an avalanche covered many of
 the old ways in. The mountain is sealed now, and nobody will dare to
 set foot on it.
 
-She offers them a new task: To go to the dwarves and offer them a
-truce. She is prepared to offer them control of the mountain in
-exchange for their aid in repelling Mordan. The mountain, being pissed
-off and erupting, is not the prize it was just a few weeks before.
-But the dwarves came to claim it, and it's all she has to bargain
-with.
+She offers them a new task: Go to the dwarves and offer them a truce.
+She is prepared to offer them control of the mountain in exchange for
+their aid in repelling Mordan. The mountain, being pissed off and
+erupting, is not the prize it was just a few weeks before. But the
+dwarves came to claim it, and it's all she has to bargain with.
 
 They reveal to the Queen the dwarven food shortage. This might be an
 even better bargaining chip than the mountain. She could probably
@@ -8011,7 +8011,7 @@ provisions they need if they aid her.
 
 They agree to this task and depart. A detachment of soldiers is sent
 along with the party, under their command. There are enough men to
-demonstrated that they come in the name of the Queen, but few enough
+demonstrate that they come in the name of the Queen, but few enough
 that the dwarves won't mistake the group for a halfhearted
 counterattack.
 
@@ -8025,8 +8025,8 @@ negotiation.
 >
 >
 > Thordek did well here. He's a fighter and it's not like he has much
-> in the way of Charisma or diplomacy, but this was more about
-> roleplaying than roleplaying so that didn't hurt him.
+> in the way of charisma or diplomacy, but this was more about
+> roleplaying than rollplaying so that didn't hurt him.
 >
 > This dwarven general was a funny (odd) fellow and we had a lot of
 > fun with this conversation as two dwarves hammering out the details
@@ -8046,7 +8046,7 @@ crumbling forces holding that last choke-point between Mordan and the
 lands of the south.
 
 > This was a great battle. The players were backed by Alidian soldiers
-> and catapults, and I was going to throw handfuls of Grave Walkers at
+> and catapults, and I was going to throw handfuls of grave walkers at
 > them until everyone had gotten their fill of combat. It had been a
 > long stretch since we'd had a battle and we were due.
 >
@@ -8151,11 +8151,11 @@ comes down on the rear of the undead mass, acting as the hammer to the
 city's anvil. At last they get a look at the forces that have been
 troubling Mordan's rear flank. They are elves! It's Sagemaster!
 
-> This is a nice tie-in to out first campaign. In the climax of that
+> This is a nice tie-in to our first campaign. In the climax of that
 > story, the players sabotaged the defenses of a city so that
 > Sagemaster Teerin could land his ships. Teerin bailed them out at
 > the end of that campaign, and they made friends with him. At the
-> start of THIS campaign they were traveling to see him before they
+> start of *this* campaign they were traveling to see him before they
 > got shipwrecked on this island.
 >
 > It's hard to convey what a big moment this was. Throughout this
@@ -8184,12 +8184,12 @@ and moves his mouth, but they can hear no sound. The undead are driven
 to a frenzy. The battle intensifies. The heroes rush forward to face
 him.
 
-> Yes, a "Boss Fight." They don't know it, but sealing the Orb within
-> the box cut off a majority of Mordan's power and weakened him even
-> more. This reduced him (as luck would have it!) to a "wizard" strong
-> enough to give a decent battle to a group of level 5-6 characters.
-> He still had his undead army to command, but the moment the orb was
-> sealed he was unable to make more.
+> Yes, a "Boss Fight." They don't know it, but sealing the Orb of
+> Mordan within the box cut off a majority of Mordan's power and
+> weakened him even more. This reduced him (as luck would have it!) to
+> a "wizard" strong enough to give a decent battle to a group of level
+> 5-6 characters. He still had his undead army to command, but the
+> moment the orb was sealed he was unable to make more.
 
 Fireballs fly and the players surround Mordan. The soldiers in their
 company make short work of the various undead, leaving this battle
@@ -8217,7 +8217,7 @@ Moor and Eomer gets some news of his homeland.
 >
 > One detail that might be of interest here is the message they were
 > sent way back in Session 1. At the start of the campaign, they got
-> two letters: One from the Council of Grey Moor and another letter
+> two letters: one from the Council of Grey Moor and another letter
 > from Teerin. The council asked them to come home at once. (That is,
 > return to Grey Moor.) Teerin's letter asked them to stop by his
 > island and talk to him first, before they got involved. Everyone has
@@ -8318,28 +8318,13 @@ Moor on his way home. He is at last going to get home and marry Talla.
 
 # End of the Tale
 
-I want to say that I'm very happy to see the D&D campaign record
-completed. Recording the campaign was the original purpose of this
-blog. If you look at the URL you'll see this site was originally
-called Twenty-Sided Tale. Before *DM of the Rings*, before the stuff
-on video games, before all the stuff about geek culture, the intent of
-this site from the start was to record the events of the campaign as
-it unfolded.
-
 ![Here you can see the path they followed from the start of the
  campaign. Arrows are colored according to session
  number.](images/map_campaign_path.jpg)
 
 That campaign was begun in September of 2005, and ran for fifteen
 weekly sessions. (With the occasional week off for holidays and such.)
-The whole thing lasted about five months. So, the game ended about a
-year ago. I haven't rolled the dice since, which is kind of sad.
-
-I'll probably do one more post where I detail the various alternate
-solutions to some of the puzzles and challenges the players faced, and
-talk about some of the stuff they missed. If you have any other
-questions, please drop them in the comments below and I'll cover them
-in the wrap-up post.
+The whole thing lasted about five months.
 
 Thanks again for reading.
 
@@ -8380,7 +8365,7 @@ players stumbled on it or tracked it down they could clean the place
 out for a little payback.
 
 I thought I'd devised the map so that they would have to journey
-through Upper Bolwood OR the goblin territory, forgetting that with
+through Upper Bolwood *or* the goblin territory, forgetting that with
 Enoch's help they could walk on water. They skipped Upper Bolwood,
 then crossed the river and dodged the Weather Hills.
 
@@ -8404,34 +8389,33 @@ explore.
 
 ## The Gibbet
 
-In my original plans, the road into Fol Thron was lined with gibbets
-like the one you see on the right. The men in the gibbets were
-Lormanite officers. They were once strong, cruel leaders who had been
-captured in the war and were now withering in their cages. These
-really were bad guys, although there was no way for the players to
-tell at this point. They were dressed in rags and many were dead. As
-the players approached the city for the first time, I had planned to
-have one of the men beg to be released. Right over his cage was a
-warning not to take pity on these men, without further detail. The guy
-in the cage wasn't about to explain the slaughter and torture he'd
-brought to the war, or the zeal with which he pursued it. He was going
-to play the victim.
+In my original plans, the road into Fol Thron was lined with gibbets.
+The men in the gibbets were Lormanite officers. They were once strong,
+cruel leaders who had been captured in the war and were now withering
+in their cages. These really were bad guys, although there was no way
+for the players to tell at this point. They were dressed in rags and
+many were dead. As the players approached the city for the first time,
+I had planned to have one of the men beg to be released. Right over
+his cage was a warning not to take pity on these men, without further
+detail. The guy in the cage wasn't about to explain the slaughter and
+torture he'd brought to the war, or the zeal with which he pursued it.
+He was going to play the victim.
 
 The players would be faced with this pitiful guy, who was asking for
 help.
 
-If they freed him, the queen would know. If they were stupid and
+If they freed him, the Queen would know. If they were stupid and
 obvious about it (like if they tried to take gibbet-boy into town with
 them without cleaning him up and giving him clothes first) then the
 guards would catch them and question them, and they would have wound
-up in front of the queen that much sooner. If they got away with it,
-the queen would still know, and when they met with her she would bring
+up in front of the Queen that much sooner. If they got away with it,
+the Queen would still know, and when they met with her she would bring
 it up. In any case she would simply point out what an awful guy he
 was, and list some of his more horrid crimes. Crimes bad enough that
 the players would probably really regret freeing him.
 
 It was a good chance to demonstrate that the "good guys" in this war
-were only just a little better than the bad guys. The queen would have
+were only just a little better than the bad guys. The Queen would have
 waived their punishment in any case, in exchange for them hearing her
 out on the quest to kill Noreeno. So, the quest was harmless either
 way. I would have given an XP bonus if they had wrung the truth out of
@@ -8521,7 +8505,7 @@ Endo is my character when I'm not the dungeon master, and I was fully
 prepared to lose him if they didn't. I would never have forced them to
 rescue him.) Once they rescued him he gave them the quest hook of
 looking for the prince, and I suspected they would bite. It took them
-a while, but they did. I gave them the book of Norvus, knowing Enoch
+a while, but they did. I gave them the *Book of Norvus*, knowing Enoch
 would translate the sucker.
 
 So I'm a little guilty of "steering" them by putting situations in
@@ -8585,7 +8569,7 @@ low on magic, low on healing, with no coherent plan, and then fought
 like a bunch of numbskulls. They made so much noise that the enemy
 knew they were coming and when. I'd planned on blasting them with a
 little lightning, but I realized that I could very easily kill one or
-two of them that way, which could end up in a TPK.
+two of them that way, which could end up in a total party kill.
 
 So I had Vormoth stick to his lower-level spells. I justified this by
 saying (to myself) "Vormoth wouldn't want to risk hitting the kids."
@@ -8614,6 +8598,6 @@ the players, "this could have killed you."
 This subject almost needs a post of its own. The object of the game is
 to have fun. The players won't have fun today if they all die. But
 they also won't have fun ever if their actions don't have
-consequences. To paraphrase a friend: When it comes to RPG's, it's
+consequences. To paraphrase a friend: When it comes to RPGs, it's
 better to live a short and exciting life than a long dull one. In
 fact, that's the whole point.
