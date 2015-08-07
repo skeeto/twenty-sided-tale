@@ -167,16 +167,16 @@ with the party as a guide through the mountains.
 > some backstory without introducing "random nameless peasant #5" to
 > do the talking for me.
 
-## Eomer
+## Eomier
 
 ![](images/pc_eomer.jpg)
 
-| Name: Eomer
+| Name: Eomier
 | Race: Human
 | Class: Rogue
 | Played By: Pat
 
-Eomer Abrin DeCauste was born to a soldier, Claudius. While he was
+Eomier Abrin DeCauste was born to a soldier, Claudius. While he was
 not afforded luxury, he was not deprived either. By means of his
 father he was taught at the only established school on the island,
 which in those times was almost always a church, and this school was
@@ -194,7 +194,7 @@ wine. Idolization of Ubrin and his friends was assured.
 tribe of orc on the island. Afterwards he declared Grey Moor a free
 island, that no man should ever rule it. None but those who sought to
 take from others should be turned away from its shores. Like everyone
-else, Eomer was astounded that one could be so selfless as to give up
+else, Eomier was astounded that one could be so selfless as to give up
 an entire island after conquering it almost single-handedly. While
 many stories circulated as to why Ubrin had such an acute distaste for
 monarchies or established governments, none were ever proven, and no
@@ -247,32 +247,32 @@ other ports, this was the first time that such a thing had been done
 on Greymoor. Without knowledge or intent, Aaron created a government.
 The office of the protector passed to his son, Reginald."
 
-During childhood the fact did not escape Eomer that while there were
+During childhood the fact did not escape Eomier that while there were
 more than a few thousand families in Bayhaven, there were less than a
 hundred students. This troubled him greatly, and he sought answers.
 The head master (and head priest as it was) Tenril at first seemed
 annoyed that a boy would question such things, and took it as an
-accusation. He rebuked Eomer, and his father was less than pleased.
+accusation. He rebuked Eomier, and his father was less than pleased.
 For 7 years he kept his silence.
 
 By age 11 he was the top student, and his father had advanced to rank
 of Lieutenant and personal advisor to Reginald the Protector. One day,
 while walking home from school, as he passed the keep he saw his
 father and his men taking a young man, not many years older than
-Eomer, up to the keep. He looked like he had been roughed up quite a
+Eomier, up to the keep. He looked like he had been roughed up quite a
 bit, and the number of guards escorting him suggested whatever his
-offense had been, this was a very dangerous man. Eomer asked his
+offense had been, this was a very dangerous man. Eomier asked his
 father what the man had done. The man had been caught stealing, and
 his punishment would be imprisonment for 2 years, or banishment to the
 north. This was basically a death sentence, since no one had come back
 from the north in 20 years. He was told of how there would ALWAYS be
 people who will take advantage of others if not kept at bay. And that
-is what the office of the protector, and in turn Eomer's father, did.
+is what the office of the protector, and in turn Eomier's father, did.
 There were always thieves who would pray on the innocent if not dealt
 with, and dealt with harshly. This is what Ubrin did, and what he had
-envisioned for Grey Moor. Eomer accepted this.
+envisioned for Grey Moor. Eomier accepted this.
 
-Days later while again walking home from school Eomer was accosted by
+Days later while again walking home from school Eomier was accosted by
 several older boys. He did not recognize them and they were much
 bigger than him. He did what most boys would do, he ran. Fleeing
 through the streets he turned a corner, ducked into a shop and
@@ -287,7 +287,7 @@ seem. He stood there, frozen, scared and out of breath.
 
 "You don't even know why they're chasing you, do you?"
 
-Eomer shook his head, he had no idea. Eldon informed him that his
+Eomier shook his head, he had no idea. Eldon informed him that his
 father had become quite well known as Reginald's lap dog, making more
 than a few enemies. It was the first time he first heard the other
 side life on Grey Moor, away from the keep and the school. He heard of
@@ -296,7 +296,7 @@ few things off a ship without paying the tariff first. He had always
 paid before; he simply needed to sell the goods first to pay the tax.
 Instead he was beaten, jailed, and his goods claimed. The story of an
 entire ships crew banished to the North for a mere casket of wine.
-Eomer refused to believe it, and left the shop and ran home.
+Eomier refused to believe it, and left the shop and ran home.
 
 By age 14 he was done with school, and it was time to do what was
 expected of him and follow in his fathers footsteps. His first
@@ -322,7 +322,7 @@ be more thoughtful of his duty. Troubled by what had happened, he
 sought advice from an unlikely source: The shopkeeper.
 
 Eldon was all too eager to fill his ears with stories such as the one
-he had seen. And soon Eomer was starting to question exactly who was
+he had seen. And soon Eomier was starting to question exactly who was
 oppressing who? Who was the thief? Was he really defending the people?
 He struggled with his own ideals and began to see not just the world
 he had been shown, but what was hidden behind strong doors and clean
@@ -344,7 +344,7 @@ found work smuggling goods from the north to escape what was now a
 ridiculous tax. With every trip back to Bayhaven, a new wing had been
 added to the keep. It resembled a castle more than anything, and the
 flags of "The Office of the Protector" flew as a King's would.
-Eomer's contempt grew every trip.
+Eomier's contempt grew every trip.
 
 ## Lucian
 
@@ -568,7 +568,7 @@ Our "world map" consists of the following:
 In our first campaign the players went to Grey Moor and broke an evil
 curse that was killing the crops and draining the land of life, and
 then joined in a battle to prevent a single greedy nobleman for
-seizing control of the Island. Along the way they teamed up with Eomer
+seizing control of the Island. Along the way they teamed up with Eomier
 and Endo and attained level 3. The elves of Mar Talos joined in the
 battle to keep the island free. This brought our first campaign to an
 end.
@@ -602,15 +602,15 @@ ship, rickety and hardly sail worthy, looking to be on its last sails,
 is in the dock being stocked full of boxes from the blacksmith shop
 down the road.
 
-A young boy runs in the door asking if an Eomer or an Enoch is at the
+A young boy runs in the door asking if an Eomier or an Enoch is at the
 inn. Endo points toward their rooms. The boy nods and runs off,
 disappearing into the depths of the inn.
 
-Moments later the others join Endo in the lobby. Eomer has been given
+Moments later the others join Endo in the lobby. Eomier has been given
 the following letter:
 
 <div class="document">
-Eomer son of Claudius,
+Eomier son of Claudius,
 
 We hope you have enjoyed your travels, but the council bids you to
 come home and lend aid to our country. We are beset and in need of the
@@ -652,12 +652,12 @@ Sagemaster Teerin Forwinol
 
 The party discusses their plans, considering whether to go straight to
 Greymoor or to stop at Mar Talos on the way back. Lucian decides to
-stay and help the people rebuild their town. Eomer looks sternly at
+stay and help the people rebuild their town. Eomier looks sternly at
 Lucian and just as sternly says, "Stay away from my girlfriend."
 
 Lucian, known to be a bit of a cad, just grins.
 
-Eomer wanders off to the docks to speak to the boat-masters. After
+Eomier wanders off to the docks to speak to the boat-masters. After
 speaking to several he finds that the only one heading that way is the
 Ocean's Majesty, the same decrepit ship Endo had seen being loaded
 down with cargo. The captain, Captain Purlof, a rather fat, optimistic
@@ -666,11 +666,11 @@ back and forth. Behind him stands the XO, First Mate Inorem. He's a
 rather sour looking elf, who shows great disdain for everyone,
 including the only elf in the party, Skeeve.
 
-Eomer leads the negotiations with the Captain, throughout which Inorem
+Eomier leads the negotiations with the Captain, throughout which Inorem
 contends with whatever the Captain says.
 
 Purlof plans to head for Fort Boland on Mar Tesaro, then proceed to
-Bayhaven on Grey Moor, and finally to Talosport on Mar Talos. Eomer
+Bayhaven on Grey Moor, and finally to Talosport on Mar Talos. Eomier
 asks how much he would make per trip, hoping to be able to pay extra
 to get him to go to Mar Talos first. The elf cuts in, refusing to
 divert the course, whereas the Captain insists they will gladly divert
@@ -700,7 +700,7 @@ the furious smith standing at the docks glaring.
 
 > This was the introduction of Eric's new character. He and I had
 > agreed on this little scene beforehand. What makes it funny was that
-> earlier (back at the inn), Eomer had told Lucian, Eric's OLD
+> earlier (back at the inn), Eomier had told Lucian, Eric's OLD
 > character, to stay away from her.
 
 As soon as all are settled the ship sets sail. Eventually they make
@@ -960,16 +960,16 @@ stuff hours ago, made better time, and saved themselves a lot of
 trouble during the storm. Inorem's greed has put them in greater
 danger.
 
-Sailors (along with Eomer) work furiously to haul the heavy cargo out
+Sailors (along with Eomier) work furiously to haul the heavy cargo out
 of the hold and get it overboard. Then, one of them loses his footing
 on the slick steps. The crate hits the deck and burst open, releasing
 an avalanche of broadswords down the steps. The hapless sailor is
 caught in the flow and sliced up as he falls downstairs in the pile of
-weapons. Eomer is right behind him, but quick enough to leap up and
+weapons. Eomier is right behind him, but quick enough to leap up and
 place his feet on the railings, holding himself above the steps as the
 swords and victim slid by beneath him.
 
-> As a rogue, Eomer's reflex saving throws are through the roof, so he
+> As a rogue, Eomier's reflex saving throws are through the roof, so he
 > always gets to make cool saves like this.
 
 The steps are now coated with seawater, blood, and swords. Enoch is
@@ -980,21 +980,21 @@ as all of this happens.
 
 Above deck there is a horrific crack as the mainsail rips free,
 unfurls and catches the wind. The loose ropes whip about violently in
-the wind. Beck is sent out with Eomer to secure the sail (if they can)
+the wind. Beck is sent out with Eomier to secure the sail (if they can)
 or cut it loose (if they have to) lest the mast be broken.
 
-Eomer and Beck struggle to secure the sail. They have to climb the
-rope netting and recover the sail. Eomer is blown off as he reaches
+Eomier and Beck struggle to secure the sail. They have to climb the
+rope netting and recover the sail. Eomier is blown off as he reaches
 and misses. He falls into a wet coil of ropes on the deck.
 
 > Although, even the most nimble of characters can still have a bad
 > roll once (or twice) in a while...
 
-Eomer is still conscious after the fall but is hurt. He gets back to
+Eomier is still conscious after the fall but is hurt. He gets back to
 his feet and attempts to climb back up. He climbs back up but nearly
 falls off again, managing only to catch hold. The mast creaks loudly.
 The ship is listing heavily as the wind shoves the vessel around. Not
-wanting to waste any more time, Eomer and Beck draw their swords and
+wanting to waste any more time, Eomier and Beck draw their swords and
 cut the sail free.
 
 They climb down and get below-decks again. Inorem stands by, furious
@@ -1015,18 +1015,18 @@ When all recover, they see that the captain is gone.
 | Beck, "Leaving him is suicidal for you!"
 
 They draw their swords and start to fight as they fall down to the
-quarterdeck. With them gone, Thordek, Thu'fir, and Eomer are free to
+quarterdeck. With them gone, Thordek, Thu'fir, and Eomier are free to
 choose who they will obey. Should they abandon the captain, or risk
 the entire ship by trying to come about? Cutting across the wind will
 be very dangerous.
 
-> Yes, Eomer is mysteriously on deck again, even though he went in.
+> Yes, Eomier is mysteriously on deck again, even though he went in.
 > This is one of those moments where the dungeon master lost track and
 > slipped up. I guess he came back outside for some reason?
 
 They choose to go back for the captain and begin trying to turn about.
 As the ship turns across the wind, they loose control of the wheel
-and the ship turns sideways. Eomer and Thu'fir try to regain course.
+and the ship turns sideways. Eomier and Thu'fir try to regain course.
 Waves wash over the deck. Thordek looses his footing and slides away,
 ramming into the railing.
 
@@ -1063,7 +1063,7 @@ lock arms over the captain's barrel. They do so, and jump in, using
 the barrel as a raft. Skeeve uses his arcane magic and takes to the
 air. He lights his staff and provides light over a rock jutting from
 the water. He acts as a beacon to the others. Enoch calls on his holy
-powers and walks on water with Eomer and 3 other of the crew he grabs.
+powers and walks on water with Eomier and 3 other of the crew he grabs.
 Together they head toward the rock where Skeeve hovers.
 
 The ship slides beneath the waves, and they are left among the
@@ -1098,11 +1098,11 @@ It is drizzling and cold. Everyone is exhausted and has been without
 food and fresh water for about 10 hours. Nobody has slept in over 24
 hours.
 
-Eomer goes off looking for Endo. Enoch casts helping hand (a mystical
+Eomier goes off looking for Endo. Enoch casts helping hand (a mystical
 floating hand that searches a 5 mile radius) The magical hand drifts
 away in search of Endo.
 
-Thu'fir and Eomer search for roots etc to eat in the woods. Beck gives
+Thu'fir and Eomier search for roots etc to eat in the woods. Beck gives
 them the gist of the island by drawing in the sand (what he has seen
 on a map.) Obviously they are near Stonehelm and the river. They are
 not sure however, if the Alidians have taken Breakshore and decide to
@@ -1122,7 +1122,7 @@ moving on.
 
 After a rest, they head for the road, which should be somewhere south.
 
-Thu'fir goes first, then Eomer, Enoch, Beck, Skeeve, then Thordek.
+Thu'fir goes first, then Eomier, Enoch, Beck, Skeeve, then Thordek.
 
 The party encounters a group of soldiers coming from the underbrush
 ahead of them. They are scratched up and covered in leaves from
@@ -1151,7 +1151,7 @@ sphere to travel around him in a tight circle, setting the brush on
 fire. Thus surrounded, the sphere rolls onto the wizard and he
 perished in flames.
 
-As the last soldier fell, Eomer cries out, "Isn't anyone ever glad to
+As the last soldier fell, Eomier cries out, "Isn't anyone ever glad to
 see us?!?!?!"
 
 The party retreats for a few minutes, as the fire spreads. Eventually
@@ -1160,21 +1160,21 @@ hole in the woods. The smell of burning skin and hair surrounds them.
 The party scavenges for usable items amongst the dead.
 
 Beck points out that these soldiers were without supplies, so
-therefore they must have had a base or camp nearby. Eomer changes into
+therefore they must have had a base or camp nearby. Eomier changes into
 the guard's uniform he scavenged from the least damaged soldier,
 disguising himself as one of the guards, telling his party to stay
 about 200 hundred yards from him. He follows the way the soldiers had
 come and finds a clearing with the remains of a fire and camp. While
-searching the area Eomer finds a cut length of rope, the cloth
+searching the area Eomier finds a cut length of rope, the cloth
 wrappings from iron rations, a dead soldier, obviously the captain of
 the band they saw, who was wearing a scale mail and has a horn. His
 neck has been snapped.
 
-Eomer calls the rest of the party and they join him. Thordek searches
+Eomier calls the rest of the party and they join him. Thordek searches
 and finds four backpacks with bed rolls and three iron rations. He
 also finds Endo's staff.
 
-Eomer is concerned at this. He knows Endo would not have left this
+Eomier is concerned at this. He knows Endo would not have left this
 behind on purpose. He searches as well, and using his knowledge of the
 wild he determines that a horse had been tied here, then was ridden
 east, towards Breakshore. Other horses were here and have gone west.
@@ -1213,7 +1213,7 @@ might also be able to buy forged papers.
 He also tells them he has seen Endo and that he had quickly left town
 with a friend.
 
-The rest of the party goes to the inn while Eomer goes to the priest
+The rest of the party goes to the inn while Eomier goes to the priest
 and tries get an explanation of whom Endo was traveling with.
 
 The rest of the party goes to the tavern / inn. The bartender welcomes
@@ -1230,7 +1230,7 @@ claims to be a soldier for a free meal.
 > the town a couple of weeks ago.
 >
 > I got confused at how to play this, though. Next door at the church,
-> Eomer was telling the priest he'd been a member of a ship bringing
+> Eomier was telling the priest he'd been a member of a ship bringing
 > them supplies for war. At the same time, Thu'fir was claiming to be
 > one of the Alidians. Everyone in town would have seen the party
 > march into town together just a few minutes ago.
@@ -1415,7 +1415,7 @@ Thron once he completes the task.
 > hand out this text (which is printed in a nice faux-medieval style
 > of calligraphy) and they players can read it at their leisure.
 
-While Enoch translates the text at the library, the Eomer and Thu'fir
+While Enoch translates the text at the library, the Eomier and Thu'fir
 gather at the blacksmith's shop. Upon learning that the party had lost
 many of their basic supplies in the shipwreck, he suggests they help
 him with a problem he's having.
@@ -1434,7 +1434,7 @@ themselves. The only requirement is that they not kill any guards. If
 they do, the soldiers will simply retaliate by coming into town and
 killing people in order to exact revenge.
 
-Eomer asks about what uniforms the northerners used. It turns out they
+Eomier asks about what uniforms the northerners used. It turns out they
 didn't have proper fancy uniforms like the Alidians, but instead wore
 simple black sashes around their waist or arms.
 
@@ -1447,7 +1447,7 @@ is the great great great (etc) grandson of the first foreman of the
 miners. He dug the first shafts and the land should be his. This is
 why they attacked the Alidians.
 
-Finally Eomer get back to the subject of the supplies they need to
+Finally Eomier get back to the subject of the supplies they need to
 steal.
 
 Gereg draws a quick map of his house.
@@ -1472,24 +1472,24 @@ Right behind the house, about ten feet from the rear door, is the
 woods. Gereg suggests leaving the heavy items there in the woods where
 he can recover them later.
 
-By this time the sun is going down. Eomer goes east through the woods
+By this time the sun is going down. Eomier goes east through the woods
 to the blacksmith's shop, which is a ten-minute walk. Everyone else
 gathers at the tavern and waits with a glass of ale. (Skeeve has Tea,
 Enoch abstains.)
 
-Eomer watches the building as the sun sets. It looks like there is a
+Eomier watches the building as the sun sets. It looks like there is a
 circle of tents in front of the house, and a number of guards are
 gathered there, talking. He sneaks up to the back of the house and
 peeks through the rear window with his mirror.
 
-> Dungeon master mistake. Looking back, would Eomer still have his
+> Dungeon master mistake. Looking back, would Eomier still have his
 > mirror? They lost their backpacks in the shipwreck, and spent an
 > awful night being beaten against the rocks off the coast. Assuming
 > he even had it with him (and not in his pack) would the mirror have
 > survived the harsh treatment? Since I didn't challenge him on this,
 > then I guess so...
 
-A soldier is inside, working on something. Eomer can hear the banging
+A soldier is inside, working on something. Eomier can hear the banging
 of pots. This room is clearly the kitchen. After watching the place a
 bit longer, he returns to town.
 
@@ -1516,19 +1516,19 @@ ale.
 > hadn't really taken time to deal with this yet. A good evening
 > drinking goodbye to his lost mates was probably about right for him.
 
-Eomer, Thu'fir, Enoch, and Thordek sneak through the woods to Gereg's
+Eomier, Thu'fir, Enoch, and Thordek sneak through the woods to Gereg's
 house. Enoch and Thordek stop well short of the house, not wanting to
-make a lot of noise in their heavy armor. Eomer moves forward silently
+make a lot of noise in their heavy armor. Eomier moves forward silently
 and looks around.
 
 Jutting from the light, there is a campfire in front of the house. He
 listens carefully and determines that two guards are having a
 conversation. Using the mirror, he peeks in the window, but it is dark
 and quiet inside. He gives the signal, and Enoch casts silence on the
-door. Eomer takes the hinges off and Thu'fir takes the beam off. The
+door. Eomier takes the hinges off and Thu'fir takes the beam off. The
 beam falls soundlessly down the steps within the zone of silence.
 
-Eomer sneaks in and goes to the secret door, which is a pegboard of
+Eomier sneaks in and goes to the secret door, which is a pegboard of
 tools. He moves one of the tools and finds it makes a very slight
 sound. The door is just outside of the silenced area! So, he needs to
 open a door which is covered in hanging metal tools, and he must do so
@@ -1545,23 +1545,23 @@ longbow.
 > Can you spot the dungeon master mistake?
 >
 > It's nighttime. Dark. They are in a basement. How can they see what
-> they are doing? Eomer, Enoch, and Thu'fir are all human, and should
+> they are doing? Eomier, Enoch, and Thu'fir are all human, and should
 > be feeling around in the dark at this point. I never noticed these
 > sort of errors until I went back and reviewed our sessions.
 
-The goods unloaded, they realize that Eomer needs to stay inside when
+The goods unloaded, they realize that Eomier needs to stay inside when
 they put the door back on. If they want to hide all traces of their
 work, then he needs to place the bar on the door again, which can only
 be done once it's in place and closed.
 
 Enoch casts silence again, since he guesses that the five-minute
 duration is nearly up. They replace the door, attach the hinges, and
-Eomer places the bar on the door again. While this is happening, the
+Eomier places the bar on the door again. While this is happening, the
 members outside see a group of five guards head off towards town,
 carrying a torch. They conclude they can't do anything about this now.
-They have to wait for Eomer.
+They have to wait for Eomier.
 
-Eomer, still inside, must sneak upstairs, out the front door, around
+Eomier, still inside, must sneak upstairs, out the front door, around
 the house, and meet them in back. He makes it upstairs and to the
 front door without difficulty.
 
@@ -1601,7 +1601,7 @@ they take the horn. They leave everything else hidden in the bushes.
 The party sneaks back into town, on the way seeing a number of
 soldiers leaving, heading back towards the house. They are rolling a
 large barrel. They crouch down and consider taking these guys out.
-Eomer points out they could kill these guys and hide the bodies in the
+Eomier points out they could kill these guys and hide the bodies in the
 woods or dump them in the ocean. Enoch responds that even if the
 bodies are never recovered, the Alidians will still assume the townies
 are responsible, and take revenge on them anyway.
@@ -1659,7 +1659,7 @@ At dawn they set out. Beck awakens but doesn't seem to be too hung
 over. He doesn't say anything about the night before.
 
 They move south, passing several small farms and into the open
-grasslands. Eomer leads them at a strenuous pace. As the day wears on,
+grasslands. Eomier leads them at a strenuous pace. As the day wears on,
 Thu'fir notices that several black birds have been circling them for
 most of the day. The birds are too distant to be identified, but their
 dark outlines can be seen clearly against the blue sky of late summer.
@@ -1669,7 +1669,7 @@ passes as the hills to the south draw near.
 
 As the sun drops low they see the outline of Joland Village ahead.
 They wonder what to do about this. Is the town occupied? Certainly
-they shouldn't just march into town together. Eomer puts on the "good"
+they shouldn't just march into town together. Eomier puts on the "good"
 Alidian uniform they own (the other one is bloody and slashed) and
 walks into town alone, while the others hide in the grass outside of
 town.
@@ -1680,23 +1680,23 @@ man is sitting on the stoop in front of the blacksmith shop. He's
 rocking back on his chair, looking thoughtful. He has a hard, creased
 face and a bushy white mustache.
 
-At last he looks at the uniform and greats Eomer, "You lost, friend?"
+At last he looks at the uniform and greats Eomier, "You lost, friend?"
 
-Eomer is evasive, but as they talk his ruse about being in the army
+Eomier is evasive, but as they talk his ruse about being in the army
 wears thin. He is alone and speaking with the wrong accent to be an
 Alidian.
 
 Finally the man asks him, "You're not an Alidian, are you?"
 
-Eomer doesn't need the disguise anymore, "No, I'm not."
+Eomier doesn't need the disguise anymore, "No, I'm not."
 
 The man cheers up at this and introduces himself as Polan. He is the
 closest thing the town has to a leader. He asks how the towns to the
 north are doing. It's clear he doesn't have any idea the north has
-lost. When Eomer tells him that Fort Bolland and Breakshore are taken,
+lost. When Eomier tells him that Fort Bolland and Breakshore are taken,
 the man concludes that the war is over. He looks sad.
 
-He asks if Eomer knows anything about missing children. He doesn't.
+He asks if Eomier knows anything about missing children. He doesn't.
 Polan tells his story:
 
 "About four days ago one of the little ones, a kid about seven years
@@ -1709,17 +1709,17 @@ don't matter much 'cuz they also took all the young men and women
 capable of using weapons. All we have left are the sick, the old, and
 the children."
 
-Eomer asks where the parents are. Polan explains that the mothers are
+Eomier asks where the parents are. Polan explains that the mothers are
 here in town, but the fathers were taken south weeks ago.
 
-Eomer gets up and calls the other party members into town. It's
+Eomier gets up and calls the other party members into town. It's
 obvious the enemy soldiers left this town to its fate ages ago and
 aren't likely to come back any time soon.
 
 He explains the situation as the evening closes in. By the time he's
 finished the tale, it's dark out.
 
-Thordek and Eomer want to go right now and look for the kids.
+Thordek and Eomier want to go right now and look for the kids.
 
 Skeeve is not so sure, "Look, we don't even know if the children are
 still alive."
@@ -1743,7 +1743,7 @@ it alone.
 Thus overruled and outnumbered, Skeeve agrees to go along, but
 suggests they wait until morning.
 
-Eomer and others protest, wanting to begin now. Polan suggests that
+Eomier and others protest, wanting to begin now. Polan suggests that
 trying to track someone in the dark, even with the aid of magical
 light, is foolish.
 
@@ -1810,7 +1810,7 @@ and filled with reeds. Insects drone nearby in the early morning sun.
 If someone passed through the water they would be hard to follow. The
 party decides to go around the glade to the south.
 
-Eomer does a careful search and finds a hardberry along the way
+Eomier does a careful search and finds a hardberry along the way
 leading southwest. It sits alone in the grass. They do not grow
 anywhere near wet areas, so this berry must have come from elsewhere.
 This is the first clue they have seen in some time that suggests they
@@ -1852,13 +1852,13 @@ huge boulders about 20ft high. There is no longer any path visible,
 but from here they can go north or south along the cliff wall, or
 climb it.
 
-Eomer searches and notices some moss has been disturbed on the rocky
+Eomier searches and notices some moss has been disturbed on the rocky
 ground to the south. A small patch has been scraped away, which may
 indicate someone has walked here in the last few days. They decide to
 go south.
 
 Suddenly Thordek bids the party to halt. He has spotted a tripwire
-across the path. Eomer examines it, finding that it leads to a pile of
+across the path. Eomier examines it, finding that it leads to a pile of
 large rocks that look out-of-place atop the cliff-like slope. It's
 easy for them to figure out that the wire probably causes a torrent of
 falling rocks to spill across the path. Instead of disabling it, they
@@ -1890,7 +1890,7 @@ players stepped off the boat in the city of Bayhaven. By the time they
 were done they had walked all over the island many times, broken an
 evil curse that was killing the crops and draining the land of life,
 and then joined in a battle to prevent a single greedy nobleman for
-seizing control of the Island. Along the way they teamed up with Eomer
+seizing control of the Island. Along the way they teamed up with Eomier
 and Endo and attained level 3.
 
 Grey Moor is about 90% human, 5% halfling, and 5% "everyone else."
@@ -1940,20 +1940,20 @@ year, although it's dry right now. At random, they choose the southern
 set of stairs to investigate.
 
 Thu'fir listens carefully at the top of the stairs. Nothing. They head
-down. Eomer stays behind to guard the entrance.
+down. Eomier stays behind to guard the entrance.
 
 > Pat missed the first couple of hours of this session, so aside from
-> dealing with some locked doors, his character (Eomer) remained
+> dealing with some locked doors, his character (Eomier) remained
 > behind. This really hurt the group, since a rogue would have made a
 > lot of the challenges they faced much easier.
 
 ![](images/uc_map1.gif)
 
 The room is empty aside from the door leading north. It is locked.
-Skeeve goes upstairs and gets Eomer so he can unlock the door for
+Skeeve goes upstairs and gets Eomier so he can unlock the door for
 them.
 
-The keyhole is rusty. Eomer attempts to pick it but can not open it.
+The keyhole is rusty. Eomier attempts to pick it but can not open it.
 He manages to jam the lock in the attempt. Since they can't enter this
 way unless they force the door, the party decides to try the other
 entrance.
@@ -1966,12 +1966,12 @@ upstairs) The top of the block is stained with old blood. An axe rests
 on the stone. There is a small pile of chopped firewood here, beside
 the chopping block. There is a locked door leading south.
 
-Skeeve calls Eomer to help him try this door. Eomer fails again. Once
+Skeeve calls Eomier to help him try this door. Eomier fails again. Once
 again, the lock is jammed. They have now jammed both entrances. They
 talk about what to do next. The doors are old rotting wood, but the
 wood is quite thick and framed in iron.
 
-> Eomer made four lock-pick attempts this session. The first two were
+> Eomier made four lock-pick attempts this session. The first two were
 > rolled by me and the latter were rolled by Pat once he joined the
 > game later in the evening. In order, the rolls were 2, 2, 1, and 1.
 > I don't usually record dice rolls, but these were so unlikely I
@@ -2160,7 +2160,7 @@ difficult to climb through, and Beck believes it would be better if a
 foe had to emerge from the hole to reach them. Also, he didn't want
 everyone to have to struggle through the gap if they needed to escape.
 
-The others ignore him and they bed down in the hallway. Eomer keeps
+The others ignore him and they bed down in the hallway. Eomier keeps
 watch.
 
 As they rest, Thordek and Enoch ponder the trap doors. Why did they go
@@ -2177,7 +2177,7 @@ time someone puts his weight on them.
 
 ## 5th of Last Summer, 1501dy {.date}
 
-Four hours after the party began their rest, Eomer rouses the them
+Four hours after the party began their rest, Eomier rouses the them
 with a yell, "Hey, I heard something!"
 
 Before they can act, another centipede is on them. They leap to their
@@ -2213,11 +2213,11 @@ They go to the next room. Thordek goes first and a trap door over the
 entrance to this room drops a pile of stone blocks on him. He is
 pummeled.
 
-Eomer, sick of waiting outside, decides to join the party. Beck goes
+Eomier, sick of waiting outside, decides to join the party. Beck goes
 outside, since this place seems too crowded for six people.
 
 > Pat joined the game at this point. Up until this point in the
-> session, Eomer has been an NPC.
+> session, Eomier has been an NPC.
 
 ![](images/uc_map11.gif)
 
@@ -2228,7 +2228,7 @@ room. Thordek manages to hold his breath, thus saving him from
 breathing in any of the foul gray dust. He dashes from the room
 looking like a floured dumpling.
 
-Eomer rebukes him for being so reckless.
+Eomier rebukes him for being so reckless.
 
 They wait twenty minutes or so for the dust to settle out of the air
 in the room so that it will be safe to enter. Thordek goes back in and
@@ -2248,13 +2248,13 @@ Before attempting to unlock it, they decide to deal with the trap to
 the north, since it is pointing right at them and probably tied to the
 door in some way.
 
-Thordek wants to smash it, but Eomer has him back off so he can try to
+Thordek wants to smash it, but Eomier has him back off so he can try to
 disable it. He fails and sets it off. He tells Thordek to smash the
 trap. Thordek walks over and whacks into the center of the mechanism
-with his hammer. Bam! Four arrows shoot out over Eomer's head and into
+with his hammer. Bam! Four arrows shoot out over Eomier's head and into
 the opposite wall. Thordek tries again and breaks the mechanism.
 
-Eomer now moves onto the door. He tries to pick the lock but manages
+Eomier now moves onto the door. He tries to pick the lock but manages
 to fail again. It is jammed.
 
 Skeeve tells everyone to stand back, and then uses flaming sphere to
@@ -2269,7 +2269,7 @@ there but the wood inside the frame is burnt away. Thordek is chosen
 to go in because he is smallest. He peaks in. He sees no one but sees
 another set of doors. This is a small vestibule. This area looks
 well-traveled. There is a series of switches on the north wall. Skeeve
-and Thordek flip a few switches out of curiosity. Eomer is irritated,
+and Thordek flip a few switches out of curiosity. Eomier is irritated,
 but says nothing.
 
 ![](images/uc_map13.gif)
@@ -2288,11 +2288,11 @@ children be! You can't help them now. Go back to the town."
 At the front of the room is a table with jars and evil books and other
 nasty stuff. There is also a large spellbook.
 
-The children seem to be under a spell of dreamless sleep. Eomer moves
+The children seem to be under a spell of dreamless sleep. Eomier moves
 closer to the children.
 
 "Leave them be, none of you have the power to help them now," the
-voice says as Eomer leans closer to see if they yet live. He can feel
+voice says as Eomier leans closer to see if they yet live. He can feel
 no pulse. He places his mirror in front of the mouth of the boy, and
 confirms that he is breathing very slightly. The children look deathly
 pale.
@@ -2313,16 +2313,16 @@ death here will be quick, painless, and nothing like the horrors they
 would suffer at the hands of the Alidians. If you want to help win
 this war, go and bring me one last child. "
 
-Eomer figures out pretty much where the wizard is. He nonchalantly
+Eomier figures out pretty much where the wizard is. He nonchalantly
 chats to the wizard, wanders over to the workbench, and starts tossing
-and knocking over the stuff on the table. Eomer pulls the leg out from
-the table and knocks it all over. The wizard appears near Eomer and
+and knocking over the stuff on the table. Eomier pulls the leg out from
+the table and knocks it all over. The wizard appears near Eomier and
 Enoch suddenly can't move. Enoch held, Thordek trying to figure out
 what is wrong with him, starts shaking him trying to get him to wake
 up.
 
 The battle with the wizard begins. The wizard casts magic missile at
-the them. Eomer and Skeeve fight him. Thu'fir picks up one of the kids
+the them. Eomier and Skeeve fight him. Thu'fir picks up one of the kids
 and runs from the room with him. Skeeve has been seriously wounded by
 the magic missiles, but summons his strength and casts lightning on the
 wizard. The wizard is thrown back, badly injured. He responds by
@@ -2335,36 +2335,36 @@ something he might throw at the wizard.
 ![](images/uc_map15.gif)
 
 A quick glance around the room reveals this to be a workshop of some
-sort. He grabs a hammer, and heads out of the room. Eomer attempts to
+sort. He grabs a hammer, and heads out of the room. Eomier attempts to
 grab the mage but slides right off. Thordek sees that Skeeve is down,
 drops the hammer, and tries to pick up both the kid and Skeeve. He
 can't, so he just takes Skeeve. He realizes that Skeeve has acid
 burning him and throws off the acid-soaked cloak. Thu'fir continues to
 try to save the children. The wizard yells as they take the kids. He
 looks and sees that the battle is against him. He casts another spell
-and vanishes. Thordek screams for Beck to come help. Eomer uses Endo's
+and vanishes. Thordek screams for Beck to come help. Eomier uses Endo's
 staff to swing in the area that he heard the wizard's footsteps (who
 is now invisible) and hits, bringing forth many yells of pain and
 frustration from the location of the wizard. Thu'fir blows his horn
-and affects both Eomer and the wizard. They are stunned.
+and affects both Eomier and the wizard. They are stunned.
 
 Thordek takes Skeeve out of the room and sets him carefully in the
 rubbish room. Skeeve stabilizes. Thu'fir drops the kid gently outside
 of the room and pulls the doors shut, hopefully trapping with wizard
 inside with the party, and away from the kids. Thordek stays with
 Skeeve, trying to heal him. The others listen for the invisible
-wizard, trying to keep track of him. The wizard kicks at Eomer when he
+wizard, trying to keep track of him. The wizard kicks at Eomier when he
 tries to grapple him and loses his invisibility. He slips away and
 shuts himself in the little workshop.
 
-Eomer begins chatting at him through the door. Beck comes in yelling,
+Eomier begins chatting at him through the door. Beck comes in yelling,
 "What the heck is going on in here?"
 
 Finally Thu'fir kicks the door in and slays the Wizard with his
 massive blade.
 
 > This was the most confusing battle I've ever seen. The party was
-> caught off balance and didn't really know what to do. Pat (Eomer)
+> caught off balance and didn't really know what to do. Pat (Eomier)
 > was the only player to have faced a wizard before. Making things
 > worse was the fact that they entered the battle injured and low on
 > magic. Enoch had no healing power left, and Skeeve was nearly spent
@@ -2437,7 +2437,7 @@ everyone, and they decide to return to town.
 ## 5th of Last Summer, 1501dy {.date}
 
 It is early morning. The group is ready to leave the dungeon and is
-debating whether to wake the kids now or in town. Eomer doesn't want
+debating whether to wake the kids now or in town. Eomier doesn't want
 to carry the children, but Skeeve doesn't want to deal with
 frightened, crying children. They decide to take them back to town
 first, then wake them. Thordek considers taking the powder in a skull
@@ -2473,7 +2473,7 @@ They head back to town, with Beck and Thordek carrying the kids.
 As they go they are especially careful of the traps on the way back.
 There is discussion on the way back about how everyone dealt with the
 situation. Skeeve is irritated that so much valuable stuff was broken,
-especially by Eomer. Skeeve thinks they should have let the wizard
+especially by Eomier. Skeeve thinks they should have let the wizard
 live long enough to gather more information from him. They also
 discuss the disorganized mayhem of the last battle, and agree they
 need to use more teamwork in the future. The walk only takes about a
@@ -2487,7 +2487,7 @@ comes over to talk to them. He thanks them for saving the kids. Skeeve
 explains about Vormoth being the one who took them. Polan seems to
 recognize the name, but says nothing.
 
-Eomer presses him on this point, trying to find out more about
+Eomier presses him on this point, trying to find out more about
 Vormoth. Polan eventually confides that Vormoth was their mayor before
 the invasion. When the town was conquered, he disappeared, and they
 assumed he'd been killed or taken prisoner. He asks the party to keep
@@ -2535,7 +2535,7 @@ landscape. They make excellent time as they get out of the valley.
 
 They are not really sure where they are. From here they can climb a
 large steep hill directly south, or they can continue southeast and go
-around the hill. It is nearly 5:00 PM. Eomer requests that Skeeve fly
+around the hill. It is nearly 5:00 PM. Eomier requests that Skeeve fly
 up in order to look ahead and see which direction they should go.
 Skeeve levitates and can now see where they are. They have covered
 less than half the distance through Lower Bolwood. Their detour around
@@ -2565,7 +2565,7 @@ Thu'fir stays awake to keep watch.
 The night passes, Thu'fir doesn't notice anything. Skeeve wakes and
 Thu'fir goes to sleep. In the late morning Skeeve hears some noise
 around them, to the northeast. The sound comes closer then stops. He
-suggests to Eomer when he wakes that they might be being followed.
+suggests to Eomier when he wakes that they might be being followed.
 
 Morning comes, they eat quickly and set out early. They head southwest
 and come upon a pond. It is directly in their line of travel but is
@@ -2632,17 +2632,17 @@ They know they must not attract attention. With their backpacks, they
 will stick out quite a bit in the crowd. Their armor and weapons will
 make them even more conspicuous.
 
-Eomer plans to go into town to test things out. He wants to wait until
+Eomier plans to go into town to test things out. He wants to wait until
 dark and hide in the shadows, but the others think they have a better
 chance if they just hide in the crowd during the day. They debate for
 a while on the merits of each plan. Finally they decide to separate
 and slip in among the crowd, since traveling in a group would
-certainly attract attention. Eomer points out a large tower on the
+certainly attract attention. Eomier points out a large tower on the
 south side of the city. They agree to meet in front of the tower if
 all goes well.
 
 Enoch and Thordek enter together. They develop a cover story where
-Enoch is a traveling healer and Thordek is his bodyguard. Eomer and
+Enoch is a traveling healer and Thordek is his bodyguard. Eomier and
 Beck will also enter together. The other two will follow separately.
 
 This city is a hub of activity. The north side of the city is the
@@ -2657,10 +2657,10 @@ at the southern gate.
 They melt into the crowd easily as they slip into town one at a time.
 Nobody gives them any trouble.
 
-Eomer and Beck work their way through the masses, which, as they get
+Eomier and Beck work their way through the masses, which, as they get
 closer to the square, seem to be pushing away from the market toward
 the outlying houses. The market is beginning to empty as the people
-start heading towards home. Eomer finds that the keep where they are
+start heading towards home. Eomier finds that the keep where they are
 all heading to is covered with Alidian soldiers. This is their base of
 power in the city, and the party has agreed to make it their meeting
 point! He waits for the rest outside the market rather than head to
@@ -2675,11 +2675,11 @@ way to the keep which is crawling with soldiers. They decide to head
 over to the church nearby. Enoch does his cleric thing, praying to
 Pelor.
 
-Eomer spots them as they enter the church and decides this is the new
+Eomier spots them as they enter the church and decides this is the new
 meeting point. As the other members of the party approach, he silently
 indicates they should head there.
 
-Eomer and Beck watch the soldiers at the gate as they wait for the
+Eomier and Beck watch the soldiers at the gate as they wait for the
 rest. One group of soldiers marches out from the gate and relieves the
 group there. They note six scattered soldiers different from the rest,
 not being relieved from duty, wearing plain heavy armor. These
@@ -2694,7 +2694,7 @@ groups of 7. They do not spend time chatting or sitting around. They
 walk the streets alert and ready for action. People seem to give the
 soldiers a lot of room.
 
-Once the rest of the party has assembled in the church, Eomer and Beck
+Once the rest of the party has assembled in the church, Eomier and Beck
 join them. They share their observations about the city and discuss
 their next move. Skeeve notes that one of the guards in any group
 always has a magical aura around him.
@@ -2799,7 +2799,7 @@ treasures.
 ## 7th of Last Summer, 1501dy {.date}
 
 It's morning. All were up late and trickle into the tavern around
-nine. Beck is very hung over. Eomer explains what he saw. He wants
+nine. Beck is very hung over. Eomier explains what he saw. He wants
 them to split up, try to get papers, try to find out about Endo. He
 explains about the soldiers with the helmets and asks the cleric to
 see what he can discover about them.
@@ -2988,21 +2988,21 @@ set for him. It will be done in two days.
 As he looks around the shops, he sees a great number of soldiers
 assemble and lead Skeeve away, into the Keep.
 
-Eomer goes shopping for the things he lost, including a lockpick set
+Eomier goes shopping for the things he lost, including a lockpick set
 and a compass. He starts trying to gather information, specifically
 about traveling papers.
 
-Eomer ends up talking to a rough-looking guy at a "pawn" shop, who
+Eomier ends up talking to a rough-looking guy at a "pawn" shop, who
 also sells "used" (probably stolen) items along with handy "locksmith
 tools." This guy is obviously connected to the criminal side of the
-city. Eomer drops some coin and gets some information.
+city. Eomier drops some coin and gets some information.
 
 He learns that travel papers were instituted when northerners started
 "leaking" in. Ever since Fort Bolland fell, people have been showing
 up, telling various stories in an attempt to gain travel papers and go
 south where they might cause trouble or simply flee the island. The
 pawn shop owner "knows some guy" who can forge membership papers for
-the Mage's Guild. This, Eomer gathers, is very difficult. Despite this
+the Mage's Guild. This, Eomier gathers, is very difficult. Despite this
 he's never made a counterfeit set of travel papers that worked.
 Somehow the soldiers always spot the fakes, and nobody can figure out
 how.
@@ -3017,7 +3017,7 @@ the only major port still in operation. The other major port was Fort
 Boland, which was recently conquered and isn't in any shape to engage
 in any sort of commerce just yet.
 
-Finally, Eomer learns the address of a contact on the northern side of
+Finally, Eomier learns the address of a contact on the northern side of
 the city who is somehow connected with what is left of the resistance.
 
 Once Skeeve emerges from the keep, the party (minus Beck) meets out
@@ -3035,7 +3035,7 @@ for the Lormanites, and gets some background.
 Finally he offers them a chance to ask him some questions, under the
 zone of truth.
 
-Eomer asks Noreeno about his position as magistrate. The party has
+Eomier asks Noreeno about his position as magistrate. The party has
 sort of sensed that Noreeno's loyalties are a bit out of alignment
 with the Alidians, and he seems to be willing to work against them.
 Noreeno explains that he was appointed magistrate by the Queen when
@@ -3050,7 +3050,7 @@ lie not with the Alidians or the Lormanites, but elsewhere. I have my
 own goals, which is why I'm asking for the services of outsiders like
 yourselves."
 
-Eomer asks about Endo. Noreeno hasn't heard the name, but when Eomer
+Eomier asks about Endo. Noreeno hasn't heard the name, but when Eomier
 describes a large bald monk with tattoos on his chest Noreeno's eyes
 light up. "So! You know him?"
 
@@ -3070,20 +3070,20 @@ exchange for this job, he offers them six sets of travel papers, a
 membership to the Mage's Guild for Skeeve, and information on where
 they can find Endo.
 
-Eomer asks what Endo was trying to do. Noreen explains that he doesn't
+Eomier asks what Endo was trying to do. Noreen explains that he doesn't
 know. He'd wanted to interrogate Endo himself, but the Alidian
 soldiers took him south directly without giving Noreeno a chance to
 intervene.
 
-They talk a bit more. Eomer and Noreeno make another side deal: If
-Eomer can find out who Endo's companion is, Noreeno will reveal how
+They talk a bit more. Eomier and Noreeno make another side deal: If
+Eomier can find out who Endo's companion is, Noreeno will reveal how
 they spot fake travel papers.
 
 Noreeno reveals that he can't describe more about the job while in
 town. He points out Vale Calma on their map, and gives them a location
 where they should meet him, at dawn, in two days.
 
-Eomer asks about the soldiers in masks. Noreeno replies that they are
+Eomier asks about the soldiers in masks. Noreeno replies that they are
 the Queen's elite guard. They take orders from her only and he has no
 idea how.
 
@@ -3105,16 +3105,16 @@ Thordek returns to the smith and asks if he could have the armor done
 tomorrow. He drops in an extra 46 gold and the smith promises it by
 tomorrow noon.
 
-As evening approaches, Eomer heads to the north side of town,
+As evening approaches, Eomier heads to the north side of town,
 stealthily, to someone who is a member of the Lormanite resistance.
 The place is in a shabby house, around the back, past the pigs, and
 down the steps to the root cellar. A kid in his 20's seems to run the
 place. He is scarred and shifty. He seems to be running a safe-house
-of some sort, where fugitives from the north might hide. Eomer begins
+of some sort, where fugitives from the north might hide. Eomier begins
 bribing information out of him.
 
 The kid talks a lot, lies a lot, is distrusting and untrustworthy.
-Nevertheless, Eomer manages to drag a good deal of information from
+Nevertheless, Eomier manages to drag a good deal of information from
 him. He learns the following:
 
 * The Monk (presumably Endo, although he never gave his name) was here
@@ -3126,7 +3126,7 @@ him. He learns the following:
 * The location where they will meet Noreeno is known to have a lot of
   ruins.
 
-Eomer returns to the inn. They have a free day to spend in town, and
+Eomier returns to the inn. They have a free day to spend in town, and
 then they must head off to Vale Calma to meet with Magistrate Noreeno
 and find out what job he has for them...
 
@@ -3209,13 +3209,13 @@ of it.
 </div>
 
 While Enoch is doing this, the rest of the party heads for the tavern.
-Eomer spends the evening chatting with the locals. He wants to know
+Eomier spends the evening chatting with the locals. He wants to know
 what they will find at Vale Calma. His skill at adopting accents and
 his general charm gets people to drop their guard and reveal a bit
 more than the average outsider might glean, although he still doesn't
 learn a great deal. It seems this area is covered in old ruins and is
 the site of many old battles. The townies are a bit superstitious and
-don't like talking about the dead. However, Eomer does learn that
+don't like talking about the dead. However, Eomier does learn that
 probably heroes or champions from old wars are buried there. Perhaps a
 destroyed town? Stories conflict. It seems that the island of Mar
 Tesaro has seen a great deal of war over the centuries and the map has
@@ -3242,7 +3242,7 @@ bit hard for me. But if you fellas would like to donate a few coins to
 help out I'd appreciate it. I'm not asking' for me, I'm asking' for
 Talla and the baby."
 
-Skeeve and Eomer make no comment, but Thordek drops 150 gold into
+Skeeve and Eomier make no comment, but Thordek drops 150 gold into
 Beck's hat. Thu'fir gives 200 gold, and finally Enoch the Cleric gives
 an astounding 700 gold to him. Beck is moved by this. He thanks them.
 He tells them his plan is to get some conventional job in town and see
@@ -3288,7 +3288,7 @@ Thordek as thanks for saving his life a few days earlier. Thordek is
 grateful, although Skeeve's begrudging manner does little to improve
 elven / dwarven relations.
 
-Thordek picks up his new banded mail and sells off the old. Eomer gets
+Thordek picks up his new banded mail and sells off the old. Eomier gets
 himself some various useful tools.
 
 Skeeve find a place with various maps for sale, and buys a map of the
@@ -3365,7 +3365,7 @@ translated. Then they discuss their plans for the upcoming job. None
 of them really trust Noreeno. They were instructed to meet Noreeno at
 dawn tomorrow. They would like a bit more information going in.
 
-Vale Calma is about three hours away on foot. They decide that Eomer
+Vale Calma is about three hours away on foot. They decide that Eomier
 will leave at midnight, which will bring him to the valley at around
 3:00 AM. He will go and spy out the meeting site ahead of time to see
 if Noreeno is planning some sort of ambush. The others will leave
@@ -3376,7 +3376,7 @@ get what rest they can.
 
 ## 9th of Last Summer, 1501dy {.date}
 
-In the early hours of the morning Eomer arrives at the field where
+In the early hours of the morning Eomier arrives at the field where
 they are to meet Noreeno at dawn. It is empty. He conceals himself in
 the bushes at the edge of the field and waits.
 
@@ -3386,9 +3386,9 @@ voices. He moves on carefully, proceeding further into the valley.
 Just over a small hill he sees men working. They have a team of four
 horses and are pulling a massive stone slab. There is shouting and
 cursing as they struggle with the horses and the ropes that tie them
-to the stone. As the slab moves, Eomer can see that it is really a
+to the stone. As the slab moves, Eomier can see that it is really a
 lid, covering a long-sealed tomb. Noreeno stands by, overseeing the
-operation. Eomer remains well hidden beyond the reach of their
+operation. Eomier remains well hidden beyond the reach of their
 torchlight.
 
 At last the lid is removed, and some of the men set to taking care of
@@ -3397,11 +3397,11 @@ riding. Other men descend the steps. The sounds of metal striking
 stone can be heard. It is unclear what they might be doing.
 
 The soldiers regroup. All of this has taken a couple of hours, and now
-dawn is near. The men ride out, past Eomer (who is still hiding)
+dawn is near. The men ride out, past Eomier (who is still hiding)
 towards the meeting field.
 
 As dawn comes the other members of the party arrive in the field to
-meet Noreeno and his men. Eomer sneaks up behind him and then joins
+meet Noreeno and his men. Eomier sneaks up behind him and then joins
 his friends.
 
 ## 9th of Last Summer, 1501dy (early morning) {.date}
@@ -3484,10 +3484,10 @@ an ornate fixture in the center of this door. It is made from finely
 crafted metal, and surrounds a round hole about the width of a hand.
 This seems to be some sort of keyhole.
 
-After Eomer attempts to pick the lock a handle suddenly comes out of
+After Eomier attempts to pick the lock a handle suddenly comes out of
 the wall. The handle is very ornate. It is made from finely crafted
 metal, laced with intricate patterns of gold and silver. A lone
-gemstone is inset into one end. Eomer pulls the handle and the 15 foot
+gemstone is inset into one end. Eomier pulls the handle and the 15 foot
 door suddenly drops into the floor with a giant "Boom!" The way is now
 open.
 
@@ -3498,9 +3498,9 @@ is open.
 
 Stale air flows from the dark chamber beyond. It is obvious the party
 will be the first to venture inside since it was sealed. They decide
-to hold onto the elaborately ornate handle. Eomer turns to everyone
+to hold onto the elaborately ornate handle. Eomier turns to everyone
 and reminds them, "Don't touch nothing!" Thordek says he is not
-leaving here with nothing so Eomer gives him the handle.
+leaving here with nothing so Eomier gives him the handle.
 
 Before them is an open stone room. Even the slightest footstep seems
 to travel down the corridors and come back to them as a dreary echo.
@@ -3560,7 +3560,7 @@ Several trays of gold coins are arranged around the dias. A few gems
 are scattered in with them as well. Thordek dumps these items into his
 pack.
 
-Skeeve and Eomer approach the coffin. Everyone else stands back.
+Skeeve and Eomier approach the coffin. Everyone else stands back.
 Skeeve explains that he suspects that the magical sphere probably
 keeps the chains locked. They all suspect that taking the sphere will
 open all of the coffins they have passed. They talk about what kind of
@@ -3632,20 +3632,20 @@ heals their injuries.
 Evening is coming. Noreeno will probably arrive in an hour or so,
 assuming he keeps his end of the deal.
 
-Eomer is concerned that Noreeno will betray them. Now that they have
+Eomier is concerned that Noreeno will betray them. Now that they have
 the sphere, Noreeno could simply have his soldiers kill the party and
-take it. Eomer suggests that they claim they don't yet have the item.
+take it. Eomier suggests that they claim they don't yet have the item.
 Once Noreeno leaves, they can slip into town and meet him in public
 the next day, where they can be sure he won't try to double-cross
 them.
 
 Enoch points out that his cleric may use Zone of Truth again. This
 would prevent them from lying about recovering the sphere. They
-discuss this at length. Eventually, Eomer devises the following:
+discuss this at length. Eventually, Eomier devises the following:
 
 *Skeeve and Thordek will go back inside with the sphere and stand in
 one of the outer chambers. When Noreeno asks where the sphere is,
-Eomer will be able to (truthfully) reply that it is still inside. He
+Eomier will be able to (truthfully) reply that it is still inside. He
 will also be able to say that the others are inside. Since he won't
 know what chamber they are in, he can also say he doesn't know **where
 they are**. This will hopefully be misleading enough to satisfy
@@ -3737,7 +3737,7 @@ They get into their agreed positions, and wait.
 At last, as the sun drops to the horizon and sunset approaches,
 Noreeno arrives. He and a force of ten soldiers arrive at the opposite
 side of the field. The soldiers stop and dismount. Noreeno and his
-cleric ride out alone to meet Eomer, Enoch, and Thu'fir.
+cleric ride out alone to meet Eomier, Enoch, and Thu'fir.
 
 As they feared, Galman the cleric casts Zone of Truth over the meeting
 place. None of them may speak any lies now. There is a pause as
@@ -3754,9 +3754,9 @@ was buried here, being in a place of power close to Mordan's prison,
 and the right group of outsiders who were willing to do this. Many
 long years of careful planning have led to this moment."
 
-Eomer informs him they they will not give him the Orb. Noreeno laughs,
+Eomier informs him they they will not give him the Orb. Noreeno laughs,
 "Oh! I don't want it. All I wanted was for you to free Mordan. You can
-deal with the orb yourself." He smiles. Eomer is boiling with rage.
+deal with the orb yourself." He smiles. Eomier is boiling with rage.
 
 The party is enraged and horrified as this. Noreeno is calm, and
 continues, "I realize you are upset. I want to warn you: At sundown
@@ -3779,7 +3779,7 @@ Mordan emerges. You don't want that."
 > more or less screwed at this point and couldn't do anything but let
 > Noreeno have his way.
 
-They are silent for several moments. Eomer demands, "What about Endo?"
+They are silent for several moments. Eomier demands, "What about Endo?"
 
 Noreeno nods, "Your companion, as I said, was captured and taken
 south. However, my spies report that he was not sent to work in the
@@ -3795,7 +3795,7 @@ below the bottom edge of the helmet, just under the chin, is a leather
 strap holding the helmet in place. Cut it and pull off the helmet, and
 your friend will be freed."
 
-The sun is setting soon, but Eomer can't resist one more question,
+The sun is setting soon, but Eomier can't resist one more question,
 "What about the travel papers? How do the soldiers always know they
 are fake?"
 
@@ -3821,7 +3821,7 @@ What do you say?"
 They cannot lie in the zone of truth. They cannot hope to beat Noreeno
 and his men. They cannot linger here or they will have to face the
 lich. Angry and beaten, they agree to leave in peace. Before they go,
-Eomer makes Noreeno a promise, "Someday, I **will** kill you."
+Eomier makes Noreeno a promise, "Someday, I **will** kill you."
 
 "Fair enough," Noreeno smiles, "But not today."
 
@@ -3829,7 +3829,7 @@ They take the horses and flee. As they ride away from the crypt, Enoch
 can see a dark aura of evil engulfing the site. They head south, back
 to Crossway. As they ride they discuss their next move. They don't
 want to to linger in Crossway. They have no idea what Mordan the Lich
-will do when he comes out, or what Noreeno is really doing. Eomer
+will do when he comes out, or what Noreeno is really doing. Eomier
 suggests that perhaps this third force is the cause of the mountain
 itself? Of Fiore? They have only just read the account of the conquest
 of the mountain the day before. The book warned that the tale was
@@ -3838,9 +3838,9 @@ legend.
 
 They want to ask help of Sagemaster, but they can't reach him.
 
-Eomer points out that Noreeno is obviously an enemy of Queen Alidia.
+Eomier points out that Noreeno is obviously an enemy of Queen Alidia.
 They have heard that she is cold and ruthless, but she might still be
-an ally against the lich. Eomer proposes they head to town and find
+an ally against the lich. Eomier proposes they head to town and find
 one of her special guards and tell him what has happened. Since she
 seems to connect with them through magic, she ought to know quickly.
 
@@ -3888,11 +3888,11 @@ rest.
 
 ## 9th of Last Summer, 1501dy (night) {.date}
 
-Everyone is very tired. Eomer most of all. They left the city of
+Everyone is very tired. Eomier most of all. They left the city of
 Crossway about a half an hour ago and have been riding south at a
 steady pace since then. At last they halt and discuss their next move.
 
-Eomer wants to split the party up, sending Enoch and Skeeve back north
+Eomier wants to split the party up, sending Enoch and Skeeve back north
 to the library in Breakshore while the rest of them head south and
 locate Endo. Beck doesn't like this plan. There is a heated debate.
 
@@ -3952,7 +3952,7 @@ They sleep all night and well into the morning. By noon they are up
 and wondering what to do next. They elect to spend the day here so
 that Enoch and Skeeve can study some more. The others spend the day
 outside. They feel safe in this quiet, out-of-the-way little town.
-Eomer suggests that they make an effort to move around in secret,
+Eomier suggests that they make an effort to move around in secret,
 traveling by night and sleeping by day. The others agree. In the
 meantime, Skeeve has some more success with his studies:
 
@@ -3967,7 +3967,7 @@ inhuman speed and grace. The eyes give off a dim red light. It is
 dressed in flowing black rags. The body is dried out and wiry, but
 isn't falling apart. It looks tough and hard. As the run from the
 basement into the moonlight, they see the beast is throttling the
-guard. Eomer concludes that it is after Skeeve. He orders that Enoch
+guard. Eomier concludes that it is after Skeeve. He orders that Enoch
 and Skeeve make for the stables and try to escape while the rest of
 the party deals with it. It is fast, but they doubt it can keep up
 with a horse.
@@ -4033,14 +4033,14 @@ them? Telepathy? Mind control? That have no idea. However, there does
 seem to be some connection. Perhaps they can use these soldiers to
 communicate with the Queen and let her know about Mordan.
 
-Eomer yells at them to stop. They ignore him. He gets down from his
+Eomier yells at them to stop. They ignore him. He gets down from his
 horse and stands in their path as they march. The leader reaches for
-his sword. Eomer holds up his hands in a peaceful gesture, which is
+his sword. Eomier holds up his hands in a peaceful gesture, which is
 ignored. He holds his ground and tries to engage the soldier in
-conversation. The sword is drawn. Eomer backs out of its way. The
+conversation. The sword is drawn. Eomier backs out of its way. The
 sword returns to his side.
 
-Eomer gives up and simply jogs alongside them (they march very fast)
+Eomier gives up and simply jogs alongside them (they march very fast)
 as he talks. He tells them that Mordan is free and that Noreeno seems
 to be some sort of betrayer. He relates the important points of the
 last few days. The solders never acknowledge him in any way.
@@ -4071,12 +4071,12 @@ and that they should be killed on sight.
 The party is furious. There seems to be no end to Noreeno's treachery.
 
 Stonefist seems unsurprised. He then demands they give an account of
-themselves. Eomer relates the events of the past few days. The
+themselves. Eomier relates the events of the past few days. The
 magistrate doesn't seem to doubt his story at all. Once complete,
 Stonefist reveals that Noreeno has been distrusted for a long time
 among the other town leaders.
 
-Eomer asks him about the soldiers they found traveling north.
+Eomier asks him about the soldiers they found traveling north.
 Stonefist explains that they left here yesterday. He doesn't control
 them directly, of course. They obey the mysterious will of the Queen
 from afar. As the magistrate, he can sometimes get the elite guards to
@@ -4116,7 +4116,7 @@ Back at the inn, Skeeve studies the orb and learns the following:
 That afternoon, the party members are summoned back to the
 magistrate's office to attend a town council that has been called.
 Many of the town leaders have gathered here, and Stonefist wants
-everyone to hear what Eomer told him earlier.
+everyone to hear what Eomier told him earlier.
 
 K'dar does not trust the cleric magic and Zone of Truth. Noreeno used
 it often and it seemed to be a tool to mislead. K'dar prefers they
@@ -4143,7 +4143,7 @@ divisions saying they "lack discipline." The men are fine and fit.
 K'dar suspects their loyalties are not as flexible enough to suit
 Noreeno.
 
-Eomer tells him that Noreeno killed their four elite soldiers.
+Eomier tells him that Noreeno killed their four elite soldiers.
 Stonefist is not surprised and mentions that same night his four gate
 soldiers left.
 
@@ -4151,19 +4151,19 @@ At this point a town guard steps into the room and informs the
 magistrate that a set of four new elite solders have just arrived and
 are now guarding the gates of the city.
 
-Eomer immediately leaves.
+Eomier immediately leaves.
 
 Outside, it is sunset. The four new royal soldiers have taken their
 place at the north side of town. The uniform of the elite soldiers is
 simple: They wear the metal helmets and black pants. They are
-bare-chested and carry a single broadsword at their side. Eomer draws
+bare-chested and carry a single broadsword at their side. Eomier draws
 near to the guards and sees that one of them has tattoos on his chest.
 It is Endo.
 
-Eomer waves at him but gets no response.
+Eomier waves at him but gets no response.
 
 He goes back into the meeting, where the town members are still
-arguing about the veracity of the various legends of Mordan. Eomer
+arguing about the veracity of the various legends of Mordan. Eomier
 whispers to the group that he has found Endo.
 
 They decide to talk to the magistrate after everyone leaves. Thordek
@@ -4179,7 +4179,7 @@ can do as you will then. I doubt he will be missed in the confusion
 with Noreeno. Don't tell me anymore about it. Agreed?"
 
 They retire to the inn. The casters go study. Fifteen minutes later
-there is much yelling and shouting. Eomer sees the guards attacking a
+there is much yelling and shouting. Eomier sees the guards attacking a
 creature trying to slink into town. K'dar comes out and checks on
 things and sees that all is well.
 
@@ -4215,9 +4215,9 @@ The day passes and evening comes Just as the sun is setting K'dar
 marches out to Endo and tells him to go look for another creature like
 last night. He marches northward at a steady pace.
 
-Beck, Thu'fir, Eomer, and Thordek follow at a discreet distance. They
+Beck, Thu'fir, Eomier, and Thordek follow at a discreet distance. They
 follow him into the dark woods north of town. Once clear of the ears
-of outlying farms, Eomer attempts to sneak up behind him and knock him
+of outlying farms, Eomier attempts to sneak up behind him and knock him
 out. Endo turns and attacks. His movements seem stiff and slow. He's
 using the sword and not his hands. Apparently he is just a simple
 puppet when under the control of the Queen and not able to make use of
@@ -4227,7 +4227,7 @@ off the helmet and Endo instantly falls limp. They wake him.
 
 He wakes, panicked that he can't see.
 
-Eomer comforts him, "It's night Endo, give your eyes time to adjust."
+Eomier comforts him, "It's night Endo, give your eyes time to adjust."
 
 "No. I cannot see," Endo insists.
 
@@ -4236,8 +4236,8 @@ his eyes have been sewn shut. Endo demands, "Where is the prince?"
 
 Despite his blindness, he doesn't seem to have lost his dedication to
 whatever task he was on. He then says he feels sick and starts
-throwing up. Eomer gives him his fighting staff. Endo attempts to put
-it on his back, but his things are all gone. Eomer takes the knee pads
+throwing up. Eomier gives him his fighting staff. Endo attempts to put
+it on his back, but his things are all gone. Eomier takes the knee pads
 and elbow parts of the armor and puts them in his pack. They lead Endo
 back into town with Thu'fir's cloak over him.
 
@@ -4255,7 +4255,7 @@ have to wait until morning.
 
 ## 12th of Last Summer, 1501dy (late evening) {.date}
 
-> Pat was late due to work. So his character (Eomer) isn't going to do
+> Pat was late due to work. So his character (Eomier) isn't going to do
 > or say much for the first half of the session.
 
 Endo asks what has happened to them. He thought his friends had died
@@ -4938,7 +4938,7 @@ dark Citadel on the northern edge of town, along the river. Most of
 the major streets converge on a central district just in front of the
 Citadel.
 
-Eomer the Rogue, Thordek the Fighter, Enoch the Cleric, Thu'fir the
+Eomier the Rogue, Thordek the Fighter, Enoch the Cleric, Thu'fir the
 Blade Lord, Endo the Monk, and Beck the (former) first mate of Ocean's
 Majesty, all enter the town on horseback. As they enter, their papers
 are examined and they are questioned thoroughly by the gate guards. At
@@ -4990,7 +4990,7 @@ impressive proportions, a sprawling inn with many wings, and a number
 of unidentified government buildings. Around the edges of the square
 are several specialty shops and booths.
 
-Eomer and Endo check into the Inn. Endo in particular looks tired and
+Eomier and Endo check into the Inn. Endo in particular looks tired and
 in need of rest.
 
 Skeeve heads for the Mage's guild. Thu'fir and Thordek look for a
@@ -5805,10 +5805,10 @@ the surrounding stone wall is only five feet high, which is climbable
 to all but the short and encumbered Thordek (who could be pulled over
 by taller folks in a pinch). So they won't be trapped, although
 scaling the wall in a fight might be tricky. They lament one more time
-that Eomer could not come with them.
+that Eomier could not come with them.
 
 > Pat had to work late, and thus missed the first half of this
-> session. Instead of Eomer simply hanging around the inn or tavern
+> session. Instead of Eomier simply hanging around the inn or tavern
 > for no reason, I had him go into the city on business of his own and
 > not come back.
 
@@ -5950,10 +5950,10 @@ northern horizon. It is a bit larger today, and can be seen by the
 humans without the aid of the telescope. The town is buzzing with news
 of this. Commoners look nervously into the sky.
 
-Back at the inn, the others are surprised to see Eomer is back. He was
+Back at the inn, the others are surprised to see Eomier is back. He was
 nowhere to be found yesterday, and they spend some time telling him
 about the black cloud and the fight with the general the night before.
-Eomer reveals that he spent all of the previous day looking for
+Eomier reveals that he spent all of the previous day looking for
 Norvus.
 
 A group of officials arrives at the inn to meet with the party. The
@@ -5979,7 +5979,7 @@ be granted entry. Once there, they will be instructed further.
 They decide to tie up some other loose ends before heading for the
 Citadel.
 
-Eomer wants to see if he can find Chronicler Norvus. Yesterday, while
+Eomier wants to see if he can find Chronicler Norvus. Yesterday, while
 his companions were busy getting arrested and getting into a fight
 with General Tarvis, he was working his way through the underside of
 the city, looking for traces of the exile. After a lot of
@@ -5996,13 +5996,13 @@ how anyone in this part of town could have the slightest idea of where
 to find someone like Norvus, who was a wealthy nobleman until a few
 months ago. It's hard to imagine he'd be living here.
 
-Eomer knocks on the door. After a few moments, a barrel-shaped woman
+Eomier knocks on the door. After a few moments, a barrel-shaped woman
 pulls the door open and eyes him with suspicion. Her proportions are
 such that if she were just a bit shorter she could be mistaken for a
 dwarf. She's wearing tattered apron and seems to be dusted with a coat
 of flour.
 
-This place is seeming less and less likely, but Eomer has to follow
+This place is seeming less and less likely, but Eomier has to follow
 through at this point, "Excuse me ma'am... is Levim here?"
 
 She nods wearily, as if expecting this. She draws in a deep breath and
@@ -6015,23 +6015,23 @@ takin' all day. You've got a delivery te make." With she she waddles
 back into the kitchen. The smell of freshly baked bread covers the
 more pungent odors for a few moments.
 
-The boy turns his gaze over to Eomer, "Sir?"
+The boy turns his gaze over to Eomier, "Sir?"
 
 "I'm looking for a man named Norvus."
 
 The boy scratches his nose and looks at him warily, "Are you a guard?"
 
-Eomer raises an eyebrow. He looks about as much like a guard as he
+Eomier raises an eyebrow. He looks about as much like a guard as he
 does an orc, "Do I look like a guard to you?"
 
 "I'm not supposed to take you there if you're a guard."
 
-Eomer nods, "I'm not a guard."
+Eomier nods, "I'm not a guard."
 
 The boy grins, "Okay. I'll take you there." With that, he takes a
 basket of bread from the table and hangs it over one arm, "Let's go."
 
-He leads Eomer further south, closer to the city walls. The boy takes
+He leads Eomier further south, closer to the city walls. The boy takes
 every conceivable shortcut, crawling over fences and cutting through
 yards in a way that only a child can do without embarrassment. They cut
 through a small pig farm and find themselves back on the street
@@ -6044,8 +6044,8 @@ the gate still sees some use somehow.
 The boy pushes on the bottom of the door. The huge timbers that make
 up the door have come loose and can swing forward a bit, creating a
 gap that is easily usable by a ten-year-old, but is a bit tight for
-Eomer. By the time Eomer has wiggled through, he can see the boy is
-following a well-traveled dirt path up the side of a hill. Eomer jogs
+Eomier. By the time Eomier has wiggled through, he can see the boy is
+following a well-traveled dirt path up the side of a hill. Eomier jogs
 after him.
 
 A twenty minute walk takes him to the top of the hill where a modest
@@ -6054,22 +6054,22 @@ farm in days past, the fields have been fallow for many years. The
 barn stands empty. There is no livestock to be seen. The house is
 clean and tidy. A single thread of smoke rises from the chimney.
 
-Eomer and Levim stroll up to the door way and knock.
+Eomier and Levim stroll up to the door way and knock.
 
 Levim calls out, "Mister Norvus?"
 
 A voice from inside answers, "Ah yes. Come in boy!"
 
-"Um. Okay," the kid looks at Eomer and then back at the door. He can
+"Um. Okay," the kid looks at Eomier and then back at the door. He can
 sense that he's missing some element of protocol by taking a stranger
 into someone else's house uninvited, but he doesn't really know how
 this should be done. With a shrug he pushes the door open and enters.
-Eomer follows.
+Eomier follows.
 
 The inside is just as neat as the exterior. The two of them pass
 through the entry room and into the kitchen where a man in a white
 robe is looking out the window. He turns to greet Levim, and is
-alarmed when his eyes fall on Eomer. He eyes dart around, looking for
+alarmed when his eyes fall on Eomier. He eyes dart around, looking for
 weapons within arms' reach. He grabs a bread knife and holds it
 between them, "Stand back!"
 
@@ -6081,7 +6081,7 @@ and dressed in expensive robes that look odd in this rustic setting.
 It looks even more odd because he's waving a bread knife around,
 trying to look threatening.
 
-Eomer is unfazed by the haphazard threat, "I read your book," he says,
+Eomier is unfazed by the haphazard threat, "I read your book," he says,
 matter-of-factly.
 
 The look on Norvus' face shifts from alarm to confusion, "You
@@ -6107,7 +6107,7 @@ track him down if he doesn't have anything to say? He frowns, "So
 you've come here to make fun of me? Perhaps you want me to sign the
 book for you?"
 
-Eomer shakes his head, "You made reference to the Magus Archives..."
+Eomier shakes his head, "You made reference to the Magus Archives..."
 
 "Ah! So that's what you're after. Well, come in here," and with that
 he takes his bread and moves into the dinning room to enjoy his meal.
@@ -6147,12 +6147,12 @@ still have access to it. Perhaps that is why their magic is so
 strong." He reflects for a moment, "Although... it wasn't very strong
 this time around. Perhaps it isn't on their side of the island."
 
-Eomer asks, "Would the prince know?"
+Eomier asks, "Would the prince know?"
 
 Norvus shrugs, "I suppose he might have. Of course, I've heard the
 entire Lorman family was wiped out when Fort Bolland fell."
 
-Eomer nods without commenting on the prince. "Would Sagemaster Teerin
+Eomier nods without commenting on the prince. "Would Sagemaster Teerin
 know where to find the Magus Archives?"
 
 "Oooh. Interesting," Norvus says thoughtfully.
@@ -6163,7 +6163,7 @@ know where to find the Magus Archives?"
 > In fact, a lot of this conversation was unexpected. I thought that
 > Enoch, who translated the book, was the most likely party member to
 > talk to Norvus if any of them did. I thought perhaps they would all
-> come and see him. I never guessed Eomer would go alone.
+> come and see him. I never guessed Eomier would go alone.
 
 Norvus continues, "It's hard to say. His relationship with the guild
 has always been a bit strained. He's never approved of their
@@ -6173,7 +6173,7 @@ would they tell him the location of their secret library on Mar
 Tesaro? Would he be able to divine the location on his own? I don't
 know."
 
-Then Eomer changes the subject, "Why were you exiled?"
+Then Eomier changes the subject, "Why were you exiled?"
 
 "Well, at the time I advocated the position that the folklore in my
 book is true."
@@ -6183,7 +6183,7 @@ book is true."
 Norvus looks sly, "Because I'm a harmless old man and because I
 recanted."
 
-"That doesn't sound like Queen Alidia, though," Eomer observes.
+"That doesn't sound like Queen Alidia, though," Eomier observes.
 
 Norvus sighs, "She's not completely heartless, you know."
 
@@ -6198,21 +6198,21 @@ wrote the book. I was hoping someone outside of the Alidians would see
 the story. I think the story speaks for itself for those not clouded
 by the curse."
 
-Eomer asks, "This curse... thing. With the mountain. Why do you
+Eomier asks, "This curse... thing. With the mountain. Why do you
 believe it, when nobody else does?"
 
 "It's pure conjecture, but I would guess that it's because I've never
 taken any of the riches of Khelberg. I've never profited from the
 mining here. So, I don't think the curse is affecting my judgment."
 
-Eomer raises an eyebrow. This seems strange that Norvus could live
+Eomier raises an eyebrow. This seems strange that Norvus could live
 here all these years and not take any money.
 
 Norvus explains, "My family is quite wealthy. I have lived on my own
 reserves since arriving, so I've never taken part in the curse. Once
 someone takes the riches of the mountain, the curse is on them."
 
-Eomer ponders this, "Even second hand? Like if some farmer sells his
+Eomier ponders this, "Even second hand? Like if some farmer sells his
 food to someone who has gold or whatever from the mountain..."
 
 Norvus looks grim, "I don't know how it works. Some people -- like the
@@ -6221,7 +6221,7 @@ become enraged if you even suggest that the legends are true. Others
 are annoyed at the stories. Others simply laugh. I don't understand it
 myself."
 
-Eomer thinks about this for a moment, "So you're saying that the
+Eomier thinks about this for a moment, "So you're saying that the
 people under the curse don't believe it, but people not under the
 curse do?"
 
@@ -6231,7 +6231,7 @@ mountain, right? We know this to be true. We also know that they hate
 and distrust others that try to do the same. This breeds conflict and
 war, which is the whole point of the curse."
 
-"Okay," says Eomer, nodding carefully.
+"Okay," says Eomier, nodding carefully.
 
 "So, their own actions seem perfectly reasonable to themselves, but an
 outsider can see they are being irrational, or at least taking their
@@ -6239,14 +6239,14 @@ greed to an extreme. Someone under the curse won't believe in it,
 because it doesn't make sense to them. They don't feel like they are
 being unreasonable. They don't feel cursed."
 
-Eomer nods, "I think I get it." Then he changes the subject again,
+Eomier nods, "I think I get it." Then he changes the subject again,
 "Have you seen the sky?"
 
 "What? Yes. Why?"
 
 It turns out that years of sitting in the dark writing books have
 taken their toll on Norvus' eyesight. He can't see the dark cloud to
-the north, so Eomer describes it. He tells Norvus that Mordan is free.
+the north, so Eomier describes it. He tells Norvus that Mordan is free.
 
 There is a long silence. Sun streams in through the small windows of
 the farmhouse. The morning is slipping away. It will be midday soon.
@@ -6271,7 +6271,7 @@ This is no small thing they are about to do. From what they have
 gathered, the Queen rarely has visitors. She lives a reclusive life
 inside the lightless Citadel, commanding her minions through unknown
 (probably magical) means. Now she has agreed to meet with them. All
-five of them. Eomer, Skeeve, Thordek, Enoch and Thu'fir stand together
+five of them. Eomier, Skeeve, Thordek, Enoch and Thu'fir stand together
 and discuss the coming meeting.
 
 None of them knows what to expect. She rules this land ruthlessly, and
@@ -6282,7 +6282,7 @@ Was he working for her? For someone else? Why would she summon them to
 the Citadel? Does she know about Mordan? Is she bringing them here for
 revenge? To take the orb? To extract information?
 
-At length Eomer points out that they should all go in armed. If they
+At length Eomier points out that they should all go in armed. If they
 are not allowed to take their weapons in with them, then they should
 leave. Some agree. Others disagree. Skeeve points out that her power
 is such that their weapons offer them no real comfort: She could kill
@@ -6363,9 +6363,9 @@ They stand in the open hallway for some time. The Citadel is silent.
 The only sounds come from the open market outside.
 
 At last, a young woman with a dark veil over her eyes enters the room
-and rings a small handbell. "Eomer and Thu'fir," she announces.
+and rings a small handbell. "Eomier and Thu'fir," she announces.
 
-Eomer and Thu'fir step forward. A heavy iron door opens on its own,
+Eomier and Thu'fir step forward. A heavy iron door opens on its own,
 and they enter.
 
 They proceed through through a large black door at the far side of the
@@ -6404,7 +6404,7 @@ Mordan."
 There is a long pause. She seems to be waiting for them to reply.
 Thu'fir nods respectfully, "A pleasure, majesty."
 
-Eomer does not reply.
+Eomier does not reply.
 
 Her voice rises once again, "Gentlemen, I have a task for you. Mordan
 gathers power to the north. His power is diminished since last he
@@ -6417,7 +6417,7 @@ forbidden to strike at one who comes as an emissary. All but the Dark
 Lord himself honor such etiquette. I will not move against him myself.
 However, you can. You do not serve me and are not under my rule."
 
-She pauses. Eomer and Thu'fir are both confused by this, but do not
+She pauses. Eomier and Thu'fir are both confused by this, but do not
 reply.
 
 She continues, "I suggest that you ride north at once and slay him
@@ -6454,7 +6454,7 @@ of schemes and foolishness, but useful at times. If I had even
 suspected that he was a servant of Mordan I would have slain him at
 once. The general was of the same kind: another Child of the Citadel."
 
-Finally Eomer speaks up, "How were they able to hide from you?"
+Finally Eomier speaks up, "How were they able to hide from you?"
 
 Her reply comes, "This is a question I have asked myself many times
 since Mordan arose. Do not mistake my blindness. I see everything. All
@@ -6466,11 +6466,11 @@ attempt to overthrow me. But now I see much has been hidden from me.
 The children have made themselves part of my kingdom, as my servants,
 my generals and magistrates."
 
-Eomer offers, "Noreeno had a faithful cleric with him."
+Eomier offers, "Noreeno had a faithful cleric with him."
 
 "Yes this one is known to me as well."
 
-Eomer asks, "Majesty, if I may: Why would Mordan send a messenger at
+Eomier asks, "Majesty, if I may: Why would Mordan send a messenger at
 all? And why would he send this traitor?"
 
 "He means to taunt me, by flaunting this traitor in front of me.
@@ -6478,29 +6478,29 @@ Believing that I will not move against one who comes to parlay, that I
 would not dare kill an emissary. Mordan remembers me from long ago,
 but my nature has changed since last we faced one another."
 
-Eomer smiles, "Well, I kinda already promised to kill him a while
+Eomier smiles, "Well, I kinda already promised to kill him a while
 ago."
 
 She nods. Perhaps she already knew this?
 
-Thu'fir asks, "Now, do you want just Eomer and I to do this or..."
+Thu'fir asks, "Now, do you want just Eomier and I to do this or..."
 
 "I would suggest you take such friends as you have. Noreeno will not
 be easy prey. He may dress and speak like a bureaucrat, but he wields
 a deadly magic that you should fear."
 
-Eomer again, "So you know who Endo is?"
+Eomier again, "So you know who Endo is?"
 
 "Is that your companion's name?"
 
-"He served you at one point," Eomer points out.
+"He served you at one point," Eomier points out.
 
 "Yes. And you snatched him away. That doesn't happen very often. But I
 never learned his name. His mind was too strong to penetrate. His will
 is great, and I could never learn anything of use from him, even when
 he wore the helmet."
 
-"I have a request," Eomer adds, "I wish for Beck and Endo to be
+"I have a request," Eomier adds, "I wish for Beck and Endo to be
 allowed to leave the island."
 
 "What you ask is not mine to give." She explains, "Yesternight one of
@@ -6516,7 +6516,7 @@ escape from the island. He is able to block my powers. I can no longer
 see my lands to the north. Everything from Crossway to Fort Bolwood is
 dark to me. "
 
-Eomer is getting bold by now, and decides to question her. He does so
+Eomier is getting bold by now, and decides to question her. He does so
 very politely, "Your majesty, I do not mean to question your motives,
 but I am curious as to why you have asked us to come in small groups
 like this instead of allowing all of us to enter..."
@@ -6526,8 +6526,8 @@ since I had more than two visitors. In this very room, long ago, I had
 three visitors, who I believed to be friends. And I have never seen
 the sun since that day."
 
-Eomer and Thu'fir sense that this might not be the safest topic of
-conversation, so Eomer changes the subject, "We read a book. It was
+Eomier and Thu'fir sense that this might not be the safest topic of
+conversation, so Eomier changes the subject, "We read a book. It was
 written by a man named Norvus."
 
 "Yes. The Exile."
@@ -6535,7 +6535,7 @@ written by a man named Norvus."
 Well, the book mentions a place called the Magus Archives. We were
 hoping to learn where that is.
 
-> Out of character, Pat (Eomer) suggested that perhaps these Children
+> Out of character, Pat (Eomier) suggested that perhaps these Children
 > of the Cathedral (this secret society of Mordan-worshipers or
 > whatever they are) are hiding at the Magus Archives.
 
@@ -6546,19 +6546,19 @@ Dravis didn't surrender as I expected, but was slain anyway by
 Noreeno."
 
 Their curiosity thus quenched, the Queen concludes the meeting with
-Thu'fir and Eomer. They bow and are led out by another of the Queen's
+Thu'fir and Eomier. They bow and are led out by another of the Queen's
 veiled servants.
 
 ## 19th of Last Summer (afternoon) {.date}
 
-Eomer and Thu'fir arrive back at the entry hall where the others are
+Eomier and Thu'fir arrive back at the entry hall where the others are
 waiting. Once their eyes adjust to normal light they begin to relay
 the details of their meeting with the Queen.
 
 While they are still talking, another servant comes out and rings her
 bell. She speaks a single name, "Thordek Earthguard."
 
-Thordek follows the same path of darkness that Eomer and Thu'fir
+Thordek follows the same path of darkness that Eomier and Thu'fir
 traveled. His keen dwarven eyes allow him to navigate more easily than
 they did in the darkness. At last he arrives alone at the throne room
 of Queen Alidia.
@@ -6612,7 +6612,7 @@ and leaves.
 ## 19th of Last Summer (late afternoon) {.date}
 
 Back in the main hall, the other members of the party are surprised to
-see Thordek return so soon. In fact, Eomer has not yet finished giving
+see Thordek return so soon. In fact, Eomier has not yet finished giving
 an account of his meeting with the Queen when Thordek arrives.
 
 Thu'fir has left the Citadel on an errand. Upon hearing that they
@@ -6771,7 +6771,7 @@ to share. This will speed travel for all of them.
 The entire party returns to the inn. There is much to discuss. Endo
 and Beck join them. They debate at length on the job the Queen has
 given them. She has asked them to kill Noreeno. Now, they are happy to
-do this job. In fact, Eomer promised Noreeno that he would kill him.
+do this job. In fact, Eomier promised Noreeno that he would kill him.
 However, they have noticed that everyone seems to have secret motives
 and agendas. They are wary of being used again.
 
@@ -6784,7 +6784,7 @@ before he dies.
 > The debate took place out-of-character, which is how all long
 > conversations end up. Let's sum up the important points:
 >
-> * Eomer thinks her reasoning for sending them to kill Noreeno doesn't
+> * Eomier thinks her reasoning for sending them to kill Noreeno doesn't
 >   make sense. They spend some time trying to figure out what her true
 >   motive is.
 > * Everyone agrees that killing Noreeno is a good move.
@@ -6912,7 +6912,7 @@ ring and Thu'fir buries it nearby. Then they wake him up.
 > Their most important questions went unanswered. This wasn't dungeon
 > master meddling, it's just that they overestimated how much Noreeno
 > knew. He didn't have any idea where the Magus Archives were, which
-> Eomer suspected was the base of operations for the Children of The
+> Eomier suspected was the base of operations for the Children of The
 > Cathedral. (This was the lich-worshiping cult which Noreeno led.) If
 > he didn't know, none of them did.
 
@@ -7065,7 +7065,7 @@ woods and heads south on foot.
 >
 > But as usual, they didn't do any of the things I expected.
 
-Eomer talks to the captain in charge of this mining camp. Eomer bluffs
+Eomier talks to the captain in charge of this mining camp. Eomier bluffs
 his way though this, making the captain think that the players were
 sent from Fol Thron to deal with the rioting and work stoppage. This
 is made easier by the fact that they do have papers proclaiming them
@@ -7101,12 +7101,12 @@ their findings to the others.
 
 They come up with a plan.
 
-Eomer gathers up a group of twelve slaves, which they learn is the
+Eomier gathers up a group of twelve slaves, which they learn is the
 size of a normal shift of workers. They lead these slaves up the
 mountain to the mine entrance. The guards stay at the camp. They trust
-Eomer to handle the slaves without allowing any of them to escape.
+Eomier to handle the slaves without allowing any of them to escape.
 
-At the entrance, the slaves flat-out refuse to go inside. Eomer
+At the entrance, the slaves flat-out refuse to go inside. Eomier
 explains that they don't have to. The party then hands over all of
 their food. The slaves take a few pickaxes from the tools nearby,
 which seems better than leaving empty-handed. The slaves have no
@@ -7126,7 +7126,7 @@ crime. They take the remaining tools, drop them into the mining carts,
 and roll them down into the mines. Then they wait for twelve hours,
 and head back down to the mining camp.
 
-Eomer explains to the captain that the slaves went in and never came
+Eomier explains to the captain that the slaves went in and never came
 back out. He reports that their cleric has sensed some sort of evil
 creatures inside. The guards can only conclude that the creatures
 killed all the slaves.
@@ -7267,7 +7267,7 @@ After a few hours Skeeve awakens from a nightmare.
 > dice and give Dan (in private) the details of the nightmares, which
 > were used to confuse and misdirect more than enlighten. Sadly, I no
 > longer have the descriptions of any of the nightmares. I do remember
-> one of them was about Eomer sneaking in, murdering Skeeve in his
+> one of them was about Eomier sneaking in, murdering Skeeve in his
 > sleep, and taking the Orb for himself.
 >
 > I don't know what nightmare he had at this point in the game, but it
@@ -7323,13 +7323,13 @@ tries to use martial arts, kicking and flailing his arms in a sad
 imitation of Endo. He mostly ends up just thrashing around and making
 a fool of himself. He's like a kid who has just walked out of his
 first martial art movie and has decided he's Bruce Lee. He spends most
-of the fight on his butt. Eomer instructs him to keep out of the fight
+of the fight on his butt. Eomier instructs him to keep out of the fight
 next time.
 
 The party continues east. Several times throughout the trip they see
 Garret scanning the horizon through a spyglass, looking at it through
 the wrong end. They have written Garret off as an idiot by this point,
-so they let it slide without comment. Eventually this gets on Eomer's
+so they let it slide without comment. Eventually this gets on Eomier's
 nerves and he tries to show Garret how to use a spyglass.
 
 Garret explains that this is how the Magus Archives can be seen. Up
@@ -7337,7 +7337,7 @@ close (within a hundred or so paces) it can be plainly seen, but at a
 distance it can only be spotted by looking through the wrong end of a
 spyglass.
 
-Eomer gently relieves him of the spyglass and begins using it himself.
+Eomier gently relieves him of the spyglass and begins using it himself.
 
 They locate the Magus Archives. The building is a modest tower -- more
 of a "lighthouse" style tower than the classic "wizard" spire. The
@@ -7372,9 +7372,9 @@ Finally Skeeve uses his magic to fly onto the flat roof of this lower
 section. A hatch is here, which appears to lead down into the
 building. The hatch is locked.
 
-Eomer tosses him a rope. Skeeve ties one end to the iron handle of the
-hatch, and throws the rest back down so the others can climb up. Eomer
-and Thu'fir come up, and Eomer picks the lock.
+Eomier tosses him a rope. Skeeve ties one end to the iron handle of the
+hatch, and throws the rest back down so the others can climb up. Eomier
+and Thu'fir come up, and Eomier picks the lock.
 
 All of this is a bit confusing. It seems like there is a lot of
 security here, all of which can be easily circumvented with a bit of
@@ -7387,7 +7387,7 @@ enter through a mundane, non-magical hatch in the roof?
 > attackers. This place was easy to break into, but would have been
 > very hard to take by force when it was staffed by magic-users.
 
-Eomer slips in through the hatch. As expected, it is quite dark inside
+Eomier slips in through the hatch. As expected, it is quite dark inside
 with no windows. The air is stagnant. This place was well-sealed, and
 perhaps very near airtight. From what little daylight makes it in
 through the hatch, he can see that he is at the top of a rickety
@@ -7412,7 +7412,7 @@ before exploring the rest of the building.
 There is a small, narrow entryway on the north wall that leads to the
 other side of the smooth front door. He sneaks over, checks for traps,
 and then examines the door itself. It turns out the door is smooth on
-this side as well. Eomer can see no way of opening it. The only clue
+this side as well. Eomier can see no way of opening it. The only clue
 is that there is a fine red pull rope here, which leads up into a hole
 in the ceiling.
 
@@ -7423,7 +7423,7 @@ keep their hands off the statue.
 The rest of the party enters except for Garret, who lacks the upper
 body strength to climb the rope, and for Endo, who stays with him.
 Everyone else comes in and begins rummaging around carelessly in a way
-that makes the stealthy and cautious Eomer crazy.
+that makes the stealthy and cautious Eomier crazy.
 
 Skeeve looks at the front door. He looks at the fancy red rope.
 Pondering this, he figures that if he pulls down on the rope it will
@@ -7431,12 +7431,12 @@ open the door, and let Garret and Endo in.
 
 > Dan (Skeeve): I'm going to pull the rope.
 >
-> Pat (Eomer): No you're not.
+> Pat (Eomier): No you're not.
 >
 > Dan: No, I'm tired of this sneaking around. It's obvious this rope
 > opens the door.
 >
-> Pat (Eomer): Don't!
+> Pat (Eomier): Don't!
 >
 > Dan: What's the worst that can happen? I pull the rope.
 
@@ -7583,7 +7583,7 @@ riches, would then leave so much behind.
 >
 > Obviously that didn't work.
 
-Eomer warns everyone not to touch the treasure.
+Eomier warns everyone not to touch the treasure.
 
 > They played this through in-character. It was funny to dangle all
 > this loot in front of them and to see if they would bite.
@@ -7652,7 +7652,7 @@ also potent. It is a cold, feminine voice.
 >
 > Finally, Fiore asks if they have come to free her. The players were
 > just looking for answers, really. They are not sure what to do. Then
-> one of them (Eomer or Skeeve) asks if the box could contain the
+> one of them (Eomier or Skeeve) asks if the box could contain the
 > spirit of Mordan.
 >
 > Fiore thinks it can. The players never question this, which I would
@@ -7667,7 +7667,7 @@ She thanks them. However, she warns them that they should be quick.
 Once she is out she is going to kick everyone off of the mountain.
 Once she is released, they should run. For their lives.
 
-They agree. Eomer picks the locks. The lid is pulled back, and a
+They agree. Eomier picks the locks. The lid is pulled back, and a
 brilliant light floods out. The ground begins to shake.
 
 Skeeve pitches the Orb of Mordan into the box and they quickly lock it
@@ -7727,7 +7727,7 @@ and well-deserved rest. There are many challenges ahead, but they
 sense the tide has turned.
 
 At last they depart, heading west towards Washport. They re-seal the
-Magus Archives before they leave. As far as Eomer is concerned they
+Magus Archives before they leave. As far as Eomier is concerned they
 own the place now, so they may as well start taking care of it.
 
 The great cloud of ash has dissipated and been blown out to sea, but
@@ -7894,7 +7894,7 @@ the room without getting crushed, incinerated, poisoned, or blown to
 bits. Skeeve has them clear out and goes to work.
 
 > This was a slapdash sidequest I came up with on the spot. Pat (who
-> plays Eomer, the party spokesman) was absent, and it seemed like not
+> plays Eomier, the party spokesman) was absent, and it seemed like not
 > having him around would really mess up the meeting they were about
 > to have with the Queen.
 >
@@ -7958,7 +7958,7 @@ bits. Skeeve has them clear out and goes to work.
 > cheated when they finally found the place and all it really had that
 > interested them was a HINT of how to find Fiore. Ah well.
 
-Skeeve takes Eomer (who is an NPC right now) into the tower and they
+Skeeve takes Eomier (who is an NPC right now) into the tower and they
 puzzle their way through the various traps. Once complete, they search
 the place. They are supposed to tell the guards when they are done,
 but Skeeve wants a look at the spoils first. He finds a book which
@@ -8112,10 +8112,10 @@ the city is smoking. Did Mordan put his own city to the torch? Did the
 Lormanites suddenly produce an army and assault him? Is this a trick?
 What is going on?
 
-Eomer goes ahead and scouts out the town. It is, as they suspected, a
+Eomier goes ahead and scouts out the town. It is, as they suspected, a
 smoking ruin. Stone buildings are toppled as if pummeled by siege
 weapons. Everything burnable has done do. A few grave walkers scamper
-about. Eomer evades their notice and returns to the others.
+about. Eomier evades their notice and returns to the others.
 
 They deliberate. There is not much choice. Trick or not, they don't
 have any option but to march into the city and see what happens.
@@ -8208,7 +8208,7 @@ He's finished.
 Teerin strides out of the city to meet them. He helps tend the wounded
 and then meets with the party in the remains of Lorman's castle, which
 he's been using as his base since he arrived. They talk about Grey
-Moor and Eomer gets some news of his homeland.
+Moor and Eomier gets some news of his homeland.
 
 > The chat with Teerin mostly dealt with what was going on back in
 > Grey Moor, the site of the first campaign. This was a long
@@ -8519,11 +8519,6 @@ railroading. I leave it for the reader to decide.
 
 I certainly never would have told them, "You can't do that, I don't
 allow."
-
-**Isn't his name supposed to be Eomeir?**
-
-Yeah. Once I got into the habit of spelling it wrong it was hard to
-stop. My bad.
 
 **Any plans for another campaign?**
 
