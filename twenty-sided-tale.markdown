@@ -1,8 +1,8 @@
 % Twenty-Sided Tale
 % Shamus Young; Heather Young
 
-This is a running narrative of our Dungeons & Dragons campaign. This
-is a custom campaign written by me, using the 3.5 edition rules. Our
+This is a complete narrative of our Dungeons & Dragons campaign. It's
+a custom campaign written by me, using the 3.5 edition rules. Our
 group meets at my house Sunday evenings and usually plays for about 5
 hours. I run the session while my wife transcribes events as they
 unfold. After the session I go over our notes (both her live notes and
