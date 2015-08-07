@@ -17,8 +17,8 @@ interesting narrative.
 This is our third campaign together. The other two campaigns are not
 on-line, although if there is some demand I may post them. All of the
 characters are currently level 5 at the start of this campaign. The
-current active players are Skeeve the Wizard, Eomer the Rogue, Thordek
-the Fighter, Thu'fir the Blade Lord, and Enoch the Cleric.
+current active players are Skeeve the Wizard, Eomier the Rogue,
+Thordek the Fighter, Thu'fir the Blade Lord, and Enoch the Cleric.
 
 > In most entries, the main text is the "story" that Heather recorded,
 > and boxed off text like this is notes from me about out-of-game
@@ -70,7 +70,7 @@ campaign. The battle ended three days ago and they have been resting
 since then. The battle destroyed and burned down a good bit of the
 town, which is now being rebuilt.
 
-The current party is Skeeve the Wizard, Eomer the Rogue, Thordek the
+The current party is Skeeve the Wizard, Eomier the Rogue, Thordek the
 Fighter, and Enoch the Cleric. Lucian the ranger is still part of the
 group, but that character is being retired (replaced) with another one
 in the first session.
