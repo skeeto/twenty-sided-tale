@@ -3,8 +3,8 @@ PANDOC_FLAGS = --self-contained --smart
 
 all : twenty-sided-tale.html twenty-sided-tale.epub
 
-twenty-sided-tale.html : twenty-sided-tale.markdown twenty-sided-tale.css
-	$(PANDOC) -t html5 -o $@ \
+twenty-sided-tale.html : twenty-sided-tale.markdown metadata.markdown twenty-sided-tale.css
+	$(PANDOC) -t html5 -o $@ metadata.markdown \
 	          -c reset.css -c twenty-sided-tale.css \
 	          $(PANDOC_FLAGS) $<
 

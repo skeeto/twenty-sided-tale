@@ -1,6 +1,3 @@
-% Twenty-Sided Tale
-% Shamus Young; Heather Young
-
 This is a complete narrative of our Dungeons & Dragons campaign. It's
 a custom campaign written by me, using the 3.5 edition rules. Our
 group meets at my house Sunday evenings and usually plays for about 5
