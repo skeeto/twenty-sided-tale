@@ -1,17 +1,17 @@
-# Twenty Sided Tale E-book
+# Twenty-Sided Tale E-book
 
 http://www.shamusyoung.com/twentysidedtale/?cat=1
 
-The intention is to capture Shamus and Heather Young's *Twenty Sided
-Tale* in conventional e-book formats comfortable for reading as a
-novel. The original publication was in serial form on Shamus's blog,
+The intention is to capture Shamus and Heather Young's *Twenty-Sided
+Tale* in a conventional e-book format comfortable for reading as a
+novel. The original publication is in serial form on Shamus's blog,
 including re-caps, session parts, and schedule information. Read as a
-whole years after the campaign was completed, neither of those are
-relavent and are omitted from the e-book version.
+whole years after the campaign was completed, none of those are
+relevant and are omitted from the e-book version.
 
-The source text has been converted to Markdown, to be used as input to
+The source text has been converted to Markdown, used as input to
 Pandoc to output into various formats. The primary targets are ePub
-and HTML. A PDF version should be produced using the browser print
+and HTML. A PDF version could be produced using the browser print
 feature on the HTML version.
 
 ## Markdown Conventions
@@ -30,5 +30,5 @@ For now, in-game documents are wrapped in a `.document` div. I'd like
 to find something better. Normally a blockquote might be used here,
 but that's reserved for DM notes.
 
-Session parts are combined under a single second level session
-heading, like a chapter. Dates are level 3 headings.
+Session parts are combined under a first level session heading, like a
+chapter. Dates are level 3 headings and tagged a `.date`.
