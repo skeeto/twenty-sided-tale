@@ -314,9 +314,9 @@ three were chased down and cut to pieces by other guards on horseback.
 Shocked at what had just happened, he said nothing as the Captain
 rebuked him for not paying attention. When he returned home, he asked
 his father of what had happened, and of his thoughts. Again his father
-to reprimanded him for questioning the way of things, and told him to
-be more thoughtful of his duty. Troubled by what had happened, he
-sought advice from an unlikely source: The shopkeeper.
+reprimanded him for questioning the way of things, and told him to be
+more thoughtful of his duty. Troubled by what had happened, he sought
+advice from an unlikely source: The shopkeeper.
 
 Eldon was all too eager to fill his ears with stories such as the one
 he had seen. And soon Eomier was starting to question exactly who was
