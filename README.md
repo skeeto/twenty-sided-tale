@@ -40,3 +40,9 @@ chapter. Dates are level 3 headings and tagged a `.date`.
 
 
 [download]: http://nullprogram.s3.amazonaws.com/tst/twenty-sided-tale.epub
+
+## Copyright Status
+
+The book is copyright by its various authors without any sort of
+permissive license. The specific changes tracked by this repository
+are to be considered public domain.
