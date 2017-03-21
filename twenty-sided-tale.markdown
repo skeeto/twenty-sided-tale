@@ -1336,7 +1336,7 @@ floated from place to place for some time. Various scholars have taken
 a crack at the old text, but none of them have been able to
 successfully translate it. He adds that Chronicler Rhillos in the city
 of Fol Thron (somewhere south, he doesn't explain further) has offered
-a reward -- a bounty, if you will -- for anyone who can figure out
+a reward — a bounty, if you will — for anyone who can figure out
 what the book is all about.
 
 Enoch notices that some of the old text seems to be an old form of
@@ -3590,8 +3590,8 @@ They pass many coffins on their way out. As they feared, the locks
 have fallen off, and the chains now hang freely from the walls. The
 coffins remain closed, but they are no longer locked shut.
 
-They reach the outer chamber and -- after some messing around with
-switches -- manage to close the door again. Before they leave, they
+They reach the outer chamber and — after some messing around with
+switches — manage to close the door again. Before they leave, they
 visit the side chamber and examine the three remaining coffins.
 
 The chains have indeed fallen off. They take positions around the
@@ -4596,7 +4596,7 @@ They have traveled at walking speed heading toward Hillstead. It is
 getting dark and they decide they need to make camp. Skeeve suggests
 they have a full camp with a campfire, and that two people stand watch
 instead of just one. Enoch consecrates the ground and a fire is built.
-Throughout the night, Skeeve has a creepy feeling -- as if someone is
+Throughout the night, Skeeve has a creepy feeling — as if someone is
 watching him.
 
 The night passes without incident.
@@ -4732,7 +4732,7 @@ They decide to stay at the inn. Thu'fir goes to the blacksmith and
 asks about a grappling hook. He's been trying to get his hands on one
 since they faced the trap doors in the wizard's lair outside of Joland
 Village. He hasn't been able to find one for sale until now. When he
-finds they are for sale here, he buys two -- along with a good supply
+finds they are for sale here, he buys two — along with a good supply
 of rope. He won't be caught unprepared again.
 
 During the night, Skeeve has another nightmare in which Mordan asks him
@@ -5026,7 +5026,7 @@ moment's reflection, "For a… project I'm researching."
 
 The keeper is a bit alarmed at this, but nevertheless he leads Enoch
 back into the maze of towering shelves. After a polite moment he
-finally asks, "If I may sir -- Why are you researching… him?"
+finally asks, "If I may sir — Why are you researching… him?"
 
 Enoch follows as they wind their way, deeper into the library, "I've
 been working on translating a book."
@@ -5261,8 +5261,8 @@ unleashed on both sides.
 
 The Dunlock forces, led by the Elven Songmage Lucan Forwinol, at last
 had the mastery. Mordan's forces were pushed back and then
-annihilated. Forwinol advanced and captured -- at the expense of many
-lives -- the once-great Citadel.
+annihilated. Forwinol advanced and captured — at the expense of many
+lives — the once-great Citadel.
 
 Forwinol knew Mordan was undefeatable as a lich. If slain, his form
 would re-appear at the next sundown. The only hope was to find and
@@ -5363,10 +5363,10 @@ stone, crowned with what looks like an observatory. In any other
 setting it would look tall and impressively, although it looks
 diminutive in the presence of the great Citadel.
 
-The building is closed to all non-members, save for a few runners --
+The building is closed to all non-members, save for a few runners —
 young boys who loiter in the vestibule and wait for the chance to
 deliver messages or goods around the city in exchange for a few
-coppers -- so Skeeve's membership is examined carefully before he is
+coppers — so Skeeve's membership is examined carefully before he is
 allowed to enter.
 
 The interior is ornate and comfortable. The floor is covered in fine
@@ -6132,7 +6132,7 @@ the Magus Archives. I planned on going back at a later time, and
 seeing if I could learn more, but then the war came. It was a safe bet
 that the Lormanite army wouldn't welcome a fussy old man visiting
 their capital city just so he can read their books. After the city
-fell, I returned to see that the building -- the library I mean -- had
+fell, I returned to see that the building — the library I mean — had
 been burned to the ground. I can only assume those books are lost
 forever. Nevertheless, I believe the Lormanites may still know where
 the Archives can be found."
@@ -6211,8 +6211,8 @@ someone takes the riches of the mountain, the curse is on them."
 Eomier ponders this, "Even second hand? Like if some farmer sells his
 food to someone who has gold or whatever from the mountain…"
 
-Norvus looks grim, "I don't know how it works. Some people -- like the
-leaders, for example -- are obsessed, greedy, and often paranoid. They
+Norvus looks grim, "I don't know how it works. Some people — like the
+leaders, for example — are obsessed, greedy, and often paranoid. They
 become enraged if you even suggest that the legends are true. Others
 are annoyed at the stories. Others simply laugh. I don't understand it
 myself."
@@ -6312,7 +6312,7 @@ He takes their names, and checks each of them off of his list as they
 introduce themselves.
 
 Finally he begins, "Welcome gentlemen. I assume you are aware of just
-how rare it is that visitors -- particularly foreigners -- are given
+how rare it is that visitors — particularly foreigners — are given
 an audience with Queen Alidia."
 
 They nod. Of course they realize this.
@@ -6715,7 +6715,7 @@ Ingol: too cruel. Rhone: not nearly cruel enough. And so it goes.
 "The secret of ruling Khelberg is keeping the right balance of
 control. This is why I have ruled longer than any other. So to answer
 your question, if I were to allow that the teachings were true, it
-would cause my foes among my own people to multiply -- to question my
+would cause my foes among my own people to multiply — to question my
 strength and my right to rule.
 
 Skeeve and Enoch are not really persuaded by this answer, although
@@ -6847,7 +6847,7 @@ tomorrow. They have a full day to formulate their plan, whatever it
 is.
 
 They conclude that Noreeno will certainly come to this town, unless he
-plans to sleep in the wilderness -- which doesn't sound likely. He
+plans to sleep in the wilderness — which doesn't sound likely. He
 will doubtless have a number of men with him, as well as his cleric
 friend. This inn is the only one in town.
 
@@ -7307,7 +7307,7 @@ mean.
 > Someone eventually figured out (Bogan, I bet, but my notes don't
 > say) that the ghosts were looking up the slope where the mountain
 > elves had been thrown down by the dwarves. They were in Bohrung Khel
-> Toten -- The Chasm of the Dead.
+> Toten — The Chasm of the Dead.
 
 The next day they continue their journey east. On the way they intrude
 on the territory of an ettin and are obliged to kill it. It is a quick
@@ -7335,7 +7335,7 @@ spyglass.
 
 Eomier gently relieves him of the spyglass and begins using it himself.
 
-They locate the Magus Archives. The building is a modest tower -- more
+They locate the Magus Archives. The building is a modest tower — more
 of a "lighthouse" style tower than the classic "wizard" spire. The
 tower is joined to a squat, round building made from the dusty gray
 stones of this region. The building is perched atop a small cliff that
@@ -7395,7 +7395,7 @@ made by wizards, and there is no telling what sorts of surprises they
 left for intruders.
 
 In the middle of the room is a statue with a couple of valuables
-(gear) placed upon it. He doesn't even bother checking for traps --
+(gear) placed upon it. He doesn't even bother checking for traps —
 this is exactly the sort of thing a wizard would put there to lure a
 thief. He gives the statue a lot of room. He's not here to rob the
 place.
@@ -7503,8 +7503,8 @@ in the dark.
 
 Morning comes and they begin again. At mid-day Thordek finds some
 subtle hints, some indications of long-past excavations. Moving on, he
-spots more such signs, which leads them to a heap of loose rocks --
-nearly gravel -- piled against the side of the mountain. Into the cliff
+spots more such signs, which leads them to a heap of loose rocks —
+nearly gravel — piled against the side of the mountain. Into the cliff
 face they can see the faded carving of a number of dwarven runes.
 Thordek can't make any sense of them, until Skeeve points out that
 they are only seeing half of the runes, the bottom half of the letters
@@ -7870,7 +7870,7 @@ captain explain.
 It seems that they located a secret chamber within the Mage's Guild
 tower which was being used as a meeting place for some of Mordan's
 followers, or the members of his cult, or whatever they are. They
-arrested these members -- who were mostly wizards -- and are
+arrested these members — who were mostly wizards — and are
 questioning the other guild members, trying to get a feel for how big
 this secret group is, who the members are, and how they remained
 hidden for so long. This has put the guild out of business for a
@@ -8093,7 +8093,7 @@ action is a good idea, then it is going to happen that way.
 The army passes Hillstead, which is a smoking ruin. A few grave
 walkers are prowling around, gnawing on bones. They are overwhelmed
 and exterminated by the army without difficulty. They ride further
-north without contest. Mordan didn't just pull back a little -- he has
+north without contest. Mordan didn't just pull back a little — he has
 evidently withdrawn all the way to Crossway.
 
 The army moves slowly. The players are on horseback, but the army is
@@ -8263,7 +8263,7 @@ had a big part in rallying the city defense. He's glad to see everyone
 pulled through.
 
 In the end, the dwarves do claim the mountain. However, since they
-can't set foot on it, they build a city at the foot of the mountain --
+can't set foot on it, they build a city at the foot of the mountain —
 which they now properly call Fiore. They take control of the city of
 Della Minera (peacefully, although with some minor political haggling)
 and expand the town at a rapid pace.
@@ -8299,8 +8299,8 @@ Teerin's forces. It is likely to remain a ruin for a long time to
 come.
 
 They learn that some of the smaller northern cities escaped Mordan's
-wrath. Joland Village and Breakshore were spared. Woodhurst -- a small
-town between Fort Boland and Crossway -- was put to the torch, but
+wrath. Joland Village and Breakshore were spared. Woodhurst — a small
+town between Fort Boland and Crossway — was put to the torch, but
 many of the inhabitants fled to the wilderness and survived.
 
 Garret decides he wants to continue traveling. The players give him a
