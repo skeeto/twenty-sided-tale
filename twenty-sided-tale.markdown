@@ -277,7 +277,7 @@ vanished from his pursuers. As his breath returned, peering out the
 window as his attackers passed by, he was startled from a gruff voice
 from behind:
 
-"Get used to it kid..."
+"Get used to it kid…"
 
 He turned around to see a man not as old as his voice would make him
 seem. He stood there, frozen, scared and out of breath.
@@ -763,7 +763,7 @@ loser will get all the money and go back to Bayhaven to marry Talla.
 
 Inorem quickly steps in trying to settle it, pointing out that "This
 is most certainly not how civilized people settle arguments and
-certainly not on my... erm... this ship."
+certainly not on my… erm… this ship."
 
 The captain however waves him aside with a brisk, "Go ahead, go ahead,
 lets see the outcome. This should be a good show."
@@ -828,15 +828,14 @@ Each has his own opinion about Crolman's odd sayings that day. Enoch
 goes below deck to see what is going on.
 
 In the infirmary he finds Crolman and his helper, Crolman going on,
-mostly about food but quite happily tossing in random, cryptic
-comments regarding the weather, and in all appearances quite
-disturbed. The sailor attending him is listening carefully to each
-word he says, attempting to get a straightforward answer out of him,
-so intently that he rather absentmindedly gets his food and drink and
-sets them down before him. Crolman, in his own little world, is quite
-oblivious to him. Crolman sits in his usual spot feeling around on the
-table before him obviously looking for his food, "Hungry!?
-...Thirsty?!"
+mostly about food but quite happily tossing in random, cryptic comments
+regarding the weather, and in all appearances quite disturbed. The
+sailor attending him is listening carefully to each word he says,
+attempting to get a straightforward answer out of him, so intently that
+he rather absentmindedly gets his food and drink and sets them down
+before him. Crolman, in his own little world, is quite oblivious to him.
+Crolman sits in his usual spot feeling around on the table before him
+obviously looking for his food, "Hungry!? … Thirsty?!"
 
 Crolman mumbles, "They won't like us. Not gonna be happy. Not our
 friends."
@@ -985,7 +984,7 @@ rope netting and recover the sail. Eomier is blown off as he reaches
 and misses. He falls into a wet coil of ropes on the deck.
 
 > Although, even the most nimble of characters can still have a bad
-> roll once (or twice) in a while...
+> roll once (or twice) in a while…
 
 Eomier is still conscious after the fall but is hurt. He gets back to
 his feet and attempts to climb back up. He climbs back up but nearly
@@ -1484,7 +1483,7 @@ peeks through the rear window with his mirror.
 > awful night being beaten against the rocks off the coast. Assuming
 > he even had it with him (and not in his pack) would the mirror have
 > survived the harsh treatment? Since I didn't challenge him on this,
-> then I guess so...
+> then I guess so…
 
 A soldier is inside, working on something. Eomier can hear the banging
 of pots. This room is clearly the kitchen. After watching the place a
@@ -1529,9 +1528,9 @@ Eomier sneaks in and goes to the secret door, which is a pegboard of
 tools. He moves one of the tools and finds it makes a very slight
 sound. The door is just outside of the silenced area! So, he needs to
 open a door which is covered in hanging metal tools, and he must do so
-without making any noise. He takes a deep breath...
+without making any noise. He takes a deep breath…
 
-...the door opens silently. He signals to Thu'fir, who is at the
+…the door opens silently. He signals to Thu'fir, who is at the
 bottom of the steps looking in, letting him know where the edge of the
 zone is. They begin moving boxes. There are seven boxes of varying
 sizes, plus a sack and some other loose goods. Thordek and Enoch help
@@ -2856,7 +2855,7 @@ start trouble here with all of these people about. Be reasonable and
 come along with us."
 
 Skeeve waves his arm saying, "No, no, no. You misunderstand. I am
-not..."
+not…"
 
 As he waved his arm, the men flinch, as if expecting a blow. He can
 see there is really no good way out of this, so he agrees to go with
@@ -2918,7 +2917,7 @@ Mercenary? Spy?"
 "No."
 
 "I didn't think so. I just had to ask, you understand. Just routine.
-Next question..."
+Next question…"
 
 "Okay."
 
@@ -3125,7 +3124,7 @@ him. He learns the following:
 
 Eomier returns to the inn. They have a free day to spend in town, and
 then they must head off to Vale Calma to meet with Magistrate Noreeno
-and find out what job he has for them...
+and find out what job he has for them…
 
 # Session 5
 
@@ -3869,7 +3868,7 @@ to leave.
 
 He shakes his head, "No more adventures, boys. I got myself a job
 hauling goods around for a shop and I start tomorrow, I need some
-sleep..."
+sleep…"
 
 Skeeve cuts him off and explains that he has to leave, and the city is
 no longer safe for him. They relate a few of the events that have
@@ -3908,11 +3907,11 @@ They decide to stay together for now and ride south to the next town.
 They recall that Noreeno said they would find Endo in one of the towns
 between the rivers. This means there are four towns where he may be
 found. Perhaps they can learn a bit more and then have a better idea
-of what they should do next. They review the map...
+of what they should do next. They review the map…
 
 ![](images/map_mar_tesaro.gif)
 
-...and decide to head for the town marked "Dockhouse." A little after
+…and decide to head for the town marked "Dockhouse." A little after
 midnight they have to ride over an arching bridge, taking them into
 central Mar Tesaro.
 
@@ -4005,7 +4004,7 @@ They understand why their friend was killed, but there seem to be some
 hard feelings that would be best healed by distance.
 
 They head north, out of town. Tal Podere seems to be the next closest
-town, so they head in that direction...
+town, so they head in that direction…
 
 ## 11th of Last Summer, 1501dy (midnight) {.date}
 
@@ -4269,7 +4268,7 @@ He looks weak and pale. His eyes show that he is still in some pain,
 although he is too stoic to mention it. Whatever has happened to him,
 it is clear the events of the past few weeks have taken their toll on
 him. After a few minutes of quiet reflection, Endo begins his tale in
-his deep, raspy voice...
+his deep, raspy voice…
 
 <div class="document">
 I washed ashore before dawn. I didn't know if anyone else had
@@ -4819,9 +4818,9 @@ having an animated conversation with a one-legged man. The man looks
 hard and shabby, and is dressed like the slaves that inhabit the
 eastern side of town. Beck has evidently bought this man a beer and is
 questioning him. As the rest of the party comes downstairs, they can
-hear the man telling Beck a story...
+hear the man telling Beck a story…
 
-As he leans in his chair he rambles on, "...day I wanted to see what it
+As he leans in his chair he rambles on, "…day I wanted to see what it
 would be like if I left the helmet off. I wanted to see what the place
 looked like, and what went on while we were wearing the helmets. So I
 didn't put my mining helmet on all the way. I sort of held it over my
@@ -4847,7 +4846,7 @@ when I dropped the helmet on my head in the morning, I'd wonder what
 I'd find when it comes off again in the evening. Sometimes I'd find
 meself outside with a bad gash, and found I'd I bled all over myself
 while I worked. Some times I'd have a big scrape or bruise or
-maybe..."
+maybe…"
 
 "Or a leg missing," Thu'fir added, now that they had joined the two
 men at the table.
@@ -4904,7 +4903,7 @@ broken and then got all nasty and infected and had to get cut off."
 
 "Oh yes. Very lucky," Thordek adds wryly.
 
-"Well, I fared a lot better than some..."
+"Well, I fared a lot better than some…"
 
 Thu'fir agrees, "I'd rather sit in town weaving rope than spend twelve
 hours a day being mindless."
@@ -5023,11 +5022,11 @@ suppose if I were after Mordan I might need some help as well. But
 come, what is it that you truly need?"
 
 Enoch insists, "I really do need books on Mordan," and then after a
-moment's reflection, "For a... project I'm researching."
+moment's reflection, "For a… project I'm researching."
 
 The keeper is a bit alarmed at this, but nevertheless he leads Enoch
 back into the maze of towering shelves. After a polite moment he
-finally asks, "If I may sir -- Why are you researching... him?"
+finally asks, "If I may sir -- Why are you researching… him?"
 
 Enoch follows as they wind their way, deeper into the library, "I've
 been working on translating a book."
@@ -5079,9 +5078,9 @@ Relnar waves his question aside and asks, "Very well. So what is the
 book about?"
 
 Enoch looks down at the book, "Well, it looks like the history of your
-island..."
+island…"
 
-One of the other keepers interjects, "Let me guess... a collection of
+One of the other keepers interjects, "Let me guess… a collection of
 folklore?" The others begin laughing.
 
 Enoch isn't quite sure what to make of this. Finally Relnar exclaims,
@@ -5149,11 +5148,11 @@ Enoch then asks where Norvus might be.
 Relnar shrugs, "I'm sure I have no idea. We threw him out. Haven't
 heard from him since."
 
-"Is he still around here? I mean..."
+"Is he still around here? I mean…"
 
 "Heavens, we threw him out of the room, not the country! We're not
 barbarians. He's still a learned man, I'm sure he's made use of
-himself somewhere..."
+himself somewhere…"
 
 "Telling fairy tales!" interrupts another keeper.
 
@@ -5352,7 +5351,7 @@ defeated and fled north with his followers, where his family still
 rules to this day.
 </div>
 
-Having completed this work, Enoch goes to sleep for the night...
+Having completed this work, Enoch goes to sleep for the night…
 
 ## 17th of Last Summer (evening) {.date}
 
@@ -5534,7 +5533,7 @@ At last the debate resumes. Many names are put fourth and mentally
 pitted against each other, until at last someone suggests Lucan
 Forwinol. At the mention of this name Skeeve chimes in, "I completely
 agree! You know, it's funny you should bring him up. I'm doing some
-historical research and... well... is he still around?"
+historical research and… well… is he still around?"
 
 They are amused by the question, "Of course not," says one, "he died
 over a century ago."
@@ -5597,7 +5596,7 @@ It's daytime."
 The young elf gestures with exasperation out this window, "I wasn't
 using the telescope. I was just looking out the window!"
 
-The old man squints unhappily, "Well I don't see anything..."
+The old man squints unhappily, "Well I don't see anything…"
 
 To which the elf cries, "Look through the telescope!"
 
@@ -5838,7 +5837,7 @@ They obviously don't trust this guy. They don't know what his angle
 is, but they don't want to go along with him, for no other reason than
 this whole setup feels fishy. Skeeve at last stammers, "I understand
 that you feel that this orb is not safe with me, but I assure you that
-Mordan will not find us for the time being. I have..."
+Mordan will not find us for the time being. I have…"
 
 Tarvis cuts him off, "What do you care what happens to the orb? This
 island is not your concern. Just surrender the orb and I will give you
@@ -5850,7 +5849,7 @@ rather we gave it directly to the Queen?"
 
 Skeeve can see this last question has angered Tarvis, so he tries to
 smooth it out, "It's not that we don't trust you, it's that we don't
-know you. And it seems it would be wiser that we should..."
+know you. And it seems it would be wiser that we should…"
 
 Tarvis extends his arm further and speaks menacingly, "Give. Me. The.
 Orb."
@@ -5871,7 +5870,7 @@ entire island at risk with this nonsense. This will be the last time
 that I ask."
 
 Skeeve argues, "By giving you the orb we would be placing the island
-at even greater risk. You are not of..."
+at even greater risk. You are not of…"
 
 Tarvis is unable to hide his rage. His businesslike demeanor has been
 eroding as they spoke, and he is now openly threatening, "You are
@@ -6000,7 +5999,7 @@ dwarf. She's wearing tattered apron and seems to be dusted with a coat
 of flour.
 
 This place is seeming less and less likely, but Eomier has to follow
-through at this point, "Excuse me ma'am... is Levim here?"
+through at this point, "Excuse me ma'am… is Levim here?"
 
 She nods wearily, as if expecting this. She draws in a deep breath and
 then lets loose with an unexpected cry that shakes the tiny house,
@@ -6095,7 +6094,7 @@ them the book at the archives."
 "I will."
 
 Norvus is a bit more cautious now, "Good, good. I hope you enjoyed
-the... stories."
+the… stories."
 
 "Yeah."
 
@@ -6104,7 +6103,7 @@ track him down if he doesn't have anything to say? He frowns, "So
 you've come here to make fun of me? Perhaps you want me to sign the
 book for you?"
 
-Eomier shakes his head, "You made reference to the Magus Archives..."
+Eomier shakes his head, "You made reference to the Magus Archives…"
 
 "Ah! So that's what you're after. Well, come in here," and with that
 he takes his bread and moves into the dinning room to enjoy his meal.
@@ -6115,7 +6114,7 @@ wizard. You a wizard hunter so something?"
 
 Norvus looks dismayed, "Then what are you doing here young man?"
 
-"Like I said, I'm looking for the Mage..."
+"Like I said, I'm looking for the Mage…"
 
 "Yes. Well, I have no idea where it is. In my studies I tried to
 locate it, but I was unsuccessful. "
@@ -6123,7 +6122,7 @@ locate it, but I was unsuccessful. "
 "What did you find?"
 
 Norvus takes another bite of buttered bread, "Some interesting things,
-actually. While I was traveling in the north, gathering... folklore
+actually. While I was traveling in the north, gathering… folklore
 for my book, I was in Fort Bolland (this was before the war of course)
 and they let me into the library. I was granted entry under the
 pretense of gathering folklore, but when I got the chance I snuck into
@@ -6141,7 +6140,7 @@ the Archives can be found."
 He pauses to butter another slab of freshly-baked bread before he
 continues, "It may have been on their half of the island. Perhaps they
 still have access to it. Perhaps that is why their magic is so
-strong." He reflects for a moment, "Although... it wasn't very strong
+strong." He reflects for a moment, "Although… it wasn't very strong
 this time around. Perhaps it isn't on their side of the island."
 
 Eomier asks, "Would the prince know?"
@@ -6195,7 +6194,7 @@ wrote the book. I was hoping someone outside of the Alidians would see
 the story. I think the story speaks for itself for those not clouded
 by the curse."
 
-Eomier asks, "This curse... thing. With the mountain. Why do you
+Eomier asks, "This curse… thing. With the mountain. Why do you
 believe it, when nobody else does?"
 
 "It's pure conjecture, but I would guess that it's because I've never
@@ -6210,7 +6209,7 @@ reserves since arriving, so I've never taken part in the curse. Once
 someone takes the riches of the mountain, the curse is on them."
 
 Eomier ponders this, "Even second hand? Like if some farmer sells his
-food to someone who has gold or whatever from the mountain..."
+food to someone who has gold or whatever from the mountain…"
 
 Norvus looks grim, "I don't know how it works. Some people -- like the
 leaders, for example -- are obsessed, greedy, and often paranoid. They
@@ -6327,7 +6326,7 @@ you like. If you haven't come 'round to collect them by the end of
 three days, the staff will dispose of it as suits them. That usually
 means incineration. Now, just mind your manners and I doubt we'll have
 any problems along these lines. The only other thing is that you'd
-probably ought not bring up her..." He points to his eyes
+probably ought not bring up her…" He points to his eyes
 significantly, indicating the Queen's blindness.
 
 Skeeve nods, "Right. We won't mention that. Will we be allowed
@@ -6427,7 +6426,7 @@ done. Anything else you find you may keep or leave as you wish. Beware
 of Mordan. His power is growing. His grave walkers are abroad, hiding,
 throughout my lands. They are becoming stronger. "
 
-Thu'fir asks, "This emissary... is it Noreeno?"
+Thu'fir asks, "This emissary… is it Noreeno?"
 
 The Queen seems to approve. "You are very wise. It is your old
 employer, and my former servant, the traitorous Noreeno. He failed his
@@ -6480,7 +6479,7 @@ ago."
 
 She nods. Perhaps she already knew this?
 
-Thu'fir asks, "Now, do you want just Eomier and I to do this or..."
+Thu'fir asks, "Now, do you want just Eomier and I to do this or…"
 
 "I would suggest you take such friends as you have. Noreeno will not
 be easy prey. He may dress and speak like a bureaucrat, but he wields
@@ -6501,7 +6500,7 @@ he wore the helmet."
 allowed to leave the island."
 
 "What you ask is not mine to give." She explains, "Yesternight one of
-my ships arrived in Telwin port... burning. He has done this in the
+my ships arrived in Telwin port… burning. He has done this in the
 past, during our last struggle against him. Foul black birds will fly
 out from land and cover the ship from stem to stern. They sit on the
 railings, the yardarm, the mast, on every rope and on every place a
@@ -6516,7 +6515,7 @@ dark to me. "
 Eomier is getting bold by now, and decides to question her. He does so
 very politely, "Your majesty, I do not mean to question your motives,
 but I am curious as to why you have asked us to come in small groups
-like this instead of allowing all of us to enter..."
+like this instead of allowing all of us to enter…"
 
 She holds up a single silencing hand, "It has been over a century
 since I had more than two visitors. In this very room, long ago, I had
@@ -6594,7 +6593,7 @@ The agents here have waited in vain for an order that never came."
 > but I have no problem with it as long as the player feels they are
 > being internally consistent. Joe thought about this answer for a
 > while, and chose it carefully. Now he has to wonder what the
-> consequences (if any) will be...
+> consequences (if any) will be…
 
 She replies, "I will remember the words you have spoken to me today.
 Leave me."
@@ -6672,7 +6671,7 @@ again be imprisoned."
 This sounds a little unlikely to Enoch and Skeeve. Enoch presents
 another carefully worded question, "I have read some of the folklore
 of your land, and read of some of the legends of the mountain. In
-particular... um... it seems like they are, I mean..." He falters,
+particular… um… it seems like they are, I mean…" He falters,
 wary of offending her.
 
 "You speak of the legends of the Spirit of Fiore?"
@@ -6690,7 +6689,7 @@ Enoch is shocked, "You believe it's true?"
 She insists, "I know it's true."
 
 He is encouraged by this, so he pushes on, "What if that curse is
-lifted? Would that weaken Mordan or...?"
+lifted? Would that weaken Mordan or…?"
 
 She looks amused, "Lift the curse? You may try if you think you know
 how. But to answer your question: No, lifting the curse of Fiore would
@@ -6975,7 +6974,7 @@ and heads south on foot.
 > along the road to their destination. I'm pretty sure they will stop
 > there, and I have an NPC that will gently steer them in that
 > direction. They might skip the town and stick to the main campaign,
-> but probably not. So, I have a little sidequest waiting for them...
+> but probably not. So, I have a little sidequest waiting for them…
 
 > **The Setup**
 >
@@ -7269,7 +7268,7 @@ After a few hours Skeeve awakens from a nightmare.
 >
 > I don't know what nightmare he had at this point in the game, but it
 > served to make the next section a little more unnerving and
-> confusing for him...
+> confusing for him…
 
 He decides to stand watch and lets Thordek sleep. Thordek warns Skeeve
 about the non-specific movement in the distance, and then goes to
@@ -7768,7 +7767,7 @@ continues until shortly before dawn.
 > The Queen herself is in Fol Thron, just north of Lake Emlin.
 >
 > But wait! There's more! See Lake Emlin? That open area just west of
-> the lake is where...
+> the lake is where…
 
 The dwarves of Dunlock arrived! At first the people saw the army and
 thought reinforcements had arrived to aid in the battle against
