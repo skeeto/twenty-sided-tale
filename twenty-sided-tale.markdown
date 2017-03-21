@@ -27,16 +27,16 @@ Thordek the Fighter, Thu'fir the Blade Lord, and Enoch the Cleric.
 
 The campaigns I run are usually a bit more low-key and realistic than
 your average D&D story. So, likely as not you'll see orcs, goblins,
-and Zombies, but I doubt we'll have stuff like gelatinous cubes,
+and zombies, but I doubt we'll have stuff like gelatinous cubes,
 mimics, or dimensional grabbers. Towns are filled with commoners, not
-extraplaner travelers. You won't see any talking swords in my world,
+extraplanar travelers. You won't see any talking swords in my world,
 and dragons are very, very rare. True magic users are about as rare as
 celebrities or pro athletes in our world. Commoners are aware of
 magic and deal with it from time to time, but they don't see it every
 day. This is just a style thing. I find the world easier to visualize
 if it looks a bit more like our world. I have a hard time imagining
 how warfare and commerce would work if a good portion of the populace
-could teleport or fly around on pet hippogryphs.
+could teleport or fly around on pet hippogriffs.
 
 I'm writing this campaign because I'd like to see other people doing
 this sort of thing. Perhaps it will catch on? I'd love to read the
@@ -459,7 +459,7 @@ named Fai.
 
 Special Characteristics of a Blade Lord:
 
-* The Blade Lord training is kept within a family. outsiders are
+* The Blade Lord training is kept within a family. Outsiders are
   never trained.
 
 * As part of their training, students must learn to sprint, jump, and
@@ -531,7 +531,7 @@ Bogan is quiet, and so Enoch ends up being pretty quiet in-game as
 well. He's actually one of the most observant characters, and uses his
 spells wisely. He's caught me off guard a few times with suddenly
 casting a lesser-known (read: non-combat) spell like "zone of truth"
-when I wasn't expecting it. As a dungone master, I always find it
+when I wasn't expecting it. As a dungeon master, I always find it
 rewarding when players come up with solutions I hadn't thought of.
 
 ## The Setting
@@ -656,11 +656,11 @@ Lucian, known to be a bit of a cad, just grins.
 
 Eomier wanders off to the docks to speak to the boat-masters. After
 speaking to several he finds that the only one heading that way is the
-Ocean's Majesty, the same decrepit ship Endo had seen being loaded
-down with cargo. The captain, Captain Purlof, a rather fat, optimistic
-old soul, is on the deck seated upon a large barrel, rocking slowly
-back and forth. Behind him stands the XO, First Mate Inorem. He's a
-rather sour looking elf, who shows great disdain for everyone,
+Ocean's Majesty, the same decrepit ship Endo had seen being loaded down
+with cargo. The captain, Captain Purlof, a rather fat, optimistic old
+soul, is on the deck seated upon a large barrel, rocking slowly back and
+forth. Behind him stands the executive officer, First Mate Inorem. He's
+a rather sour looking elf, who shows great disdain for everyone,
 including the only elf in the party, Skeeve.
 
 Eomier leads the negotiations with the Captain, throughout which Inorem
@@ -998,8 +998,8 @@ They climb down and get below-decks again. Inorem stands by, furious
 that the sail has been cut.
 
 A wave wash over the ship. Thordek losses his grip and is knocked over
-while sliding across the deck, getting caught in the the ropes.
-Thu'fir holds on to the wheel.
+while sliding across the deck, getting caught in the ropes. Thu'fir
+holds on to the wheel.
 
 When all recover, they see that the captain is gone.
 
@@ -1099,14 +1099,14 @@ Eomier goes off looking for Endo. Enoch casts helping hand (a mystical
 floating hand that searches a 5 mile radius) The magical hand drifts
 away in search of Endo.
 
-Thu'fir and Eomier search for roots etc to eat in the woods. Beck gives
-them the gist of the island by drawing in the sand (what he has seen
-on a map.) Obviously they are near Stonehelm and the river. They are
-not sure however, if the Alidians have taken Breakshore and decide to
-try to avoid them. Skeeve levitates and finds the river 3/4 of a mile
+Thu'fir and Eomier search for roots, etc., to eat in the woods. Beck
+gives them the gist of the island by drawing in the sand (what he has
+seen on a map.) Obviously they are near Stonehelm and the river. They
+are not sure however, if the Alidians have taken Breakshore and decide
+to try to avoid them. Skeeve levitates and finds the river 3/4 of a mile
 west. Everyone heads to the river except Enoch who decides to stay at
-the beach in case Endo comes. The dwarf rinses off in the river.
-Thu'fir cleans up as well.
+the beach in case Endo comes. The dwarf rinses off in the river. Thu'fir
+cleans up as well.
 
 After some time, the hand returns without Endo, and then disappears.
 
@@ -1440,7 +1440,7 @@ explains that the war was over territory. Apparently there is a
 valuable mountain here called Mount Khelberg. It seems to be a rich
 source of both gems and gold. The blacksmith explains that the
 mountain is the birthright of his people: King Lorman (their leader)
-is the great great great (etc) grandson of the first foreman of the
+is the great great great (etc.) grandson of the first foreman of the
 miners. He dug the first shafts and the land should be his. This is
 why they attacked the Alidians.
 
@@ -3105,7 +3105,7 @@ tomorrow noon.
 As evening approaches, Eomier heads to the north side of town,
 stealthily, to someone who is a member of the Lormanite resistance.
 The place is in a shabby house, around the back, past the pigs, and
-down the steps to the root cellar. A kid in his 20's seems to run the
+down the steps to the root cellar. A kid in his 20s seems to run the
 place. He is scarred and shifty. He seems to be running a safe-house
 of some sort, where fugitives from the north might hide. Eomier begins
 bribing information out of him.
@@ -3980,7 +3980,7 @@ again. Enoch decides to check on the guard and see if there is any way
 to help him. To his surprise, the guard is on his feet, walking
 towards him.
 
-Enoch asks, "Need help? You ok?"
+Enoch asks, "Need help? You okay?"
 
 The guard doesn't respond. He is pale and silent as he makes his way
 over to Enoch.
@@ -5520,10 +5520,10 @@ place among them and slowly joins the conversation. When the time
 seems right, he off-handedly poses the question, "Gentlemen, whom do
 you believe to be the greatest of all wizards?"
 
-A few of the older fellows roll their eyes and move on. Apparently
-they see this an a subject good only for endless idle debate. A few of
-the younger ones get into the spirit of the thing, and toss out a few
-quick suggestions. One of the youngest, more likely an apprentice than
+A few of the older fellows roll their eyes and move on. Apparently they
+see this a subject good only for endless idle debate. A few of the
+younger ones get into the spirit of the thing, and toss out a few quick
+suggestions. One of the youngest, more likely an apprentice than
 practicing wizard, suggests, "Dravis Lorman!"
 
 Since their country just annihilated the Lormanites and killed King
@@ -5574,7 +5574,7 @@ Skeeve circles around as he ascends the spiral stairs. With each
 revolution he passes another doorway leading to the next floor of the
 building. He sees a room filled with mirrors, tinted glass, bent glass
 lenses, and freestanding prisms the size of a man. For just an instant
-as he passes the doorway he can see morning sunlight warped and and
+as he passes the doorway he can see morning sunlight warped and
 scattered about the room. The next floor is a library. Another orbit
 and he passes a doorway into some sort of packed storage area.
 
@@ -5750,7 +5750,7 @@ Lormanites. It was the time to make our move. Why did we not act?"
 Thordek concludes there is no help to be had here, and returns to the
 inn, where he finds a detachment of soldiers and a robed man in the
 lobby, waiting to speak to the party. Once they are all assembled, the
-robed man introduces himself as General Tarvin, one of only a a small
+robed man introduces himself as General Tarvin, one of only a small
 handful of people who get direct orders from the Queen.
 
 The party is encouraged that they are finally getting to talk to
@@ -5882,7 +5882,7 @@ want to give the general the chance to strike first. He blows his horn
 at the general and his men. They are all knocked back a step and
 slightly stunned. The others surround the general and unleash their
 weapons on him. Thordek, seeing that the general is surrounded, leaps
-over to the the row of soldiers and attacks the one in the middle. He
+over to the row of soldiers and attacks the one in the middle. He
 lets out a battle-cry and swings his mighty hammer. Perhaps his palms
 are sweaty, or perhaps the weight of the new hammer is unfamiliar to
 him. At any rate, he loses his balance and his grip on the handle, and
@@ -6152,7 +6152,7 @@ entire Lorman family was wiped out when Fort Bolland fell."
 Eomier nods without commenting on the prince. "Would Sagemaster Teerin
 know where to find the Magus Archives?"
 
-"Oooh. Interesting," Norvus says thoughtfully.
+"Ooh. Interesting," Norvus says thoughtfully.
 
 > Yeah. Good question. As the dungeon master, I hadn't considered
 > this. Took me a few seconds to decide if he would or not.
@@ -6935,8 +6935,8 @@ daylight to recover them. They can't afford to hang around until
 nightfall, or they will end up fighting with the town watch or the
 local soldiers who are now looking for the magistrate.
 
-As the the soldiers draw near, the party silently retreats into the
-woods and heads south on foot.
+As the soldiers draw near, the party silently retreats into the woods
+and heads south on foot.
 
 # Session 10
 
@@ -8346,7 +8346,7 @@ slow (like a valley which gets thick with vegetation once they enter)
 and some can have encounters.
 
 Upper Bolwood was one such maze, with ettins at a few of the map
-points. I'd googled around and had pictures for every map point. They
+points. I'd Googled around and had pictures for every map point. They
 managed to route around all of this.
 
 ## Goblin Hills
