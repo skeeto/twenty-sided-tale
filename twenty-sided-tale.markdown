@@ -583,12 +583,12 @@ place.
 
 ## 22nd of Suncrest, 1501dy {.date}
 
-The unlikely band of heroes waits impatiently at the inn, for what
-they do not know. The town, Golgotha, is swarming with mercenaries but
-as heroes the party finds that they do not need to pay for anything.
-All they want and more is at their fingertips, yet they itch to be
-gone. It has been months since they left Greymoor and some have
-unfinished business there awaiting their return.
+The unlikely band of heroes waits impatiently at the inn, for what they
+do not know. The town, Golgotha, is swarming with mercenaries but, as
+heroes, the party finds that they do not need to pay for anything. All
+they want and more is at their fingertips, yet they itch to be gone. It
+has been months since they left Grey Moor, and some have unfinished
+business there awaiting their return.
 
 The inn is nothing more than an abandoned house in view of the docks,
 the old inn having been destroyed in the battle three days earlier.
@@ -681,7 +681,7 @@ they spend their time. The Captain gladly welcomes each upon their
 acceptance of the offer, happily contradicting whatever comment First
 Mate Inorem makes regarding their uselessness as crew.
 
-A sailor with an air of authority walks, by giving a tour to the other
+A sailor with an air of authority walks by giving a tour to the other
 passengers. Meanwhile the other sailors are hard at work loading the
 ship with more cargo. The party all begins to help with the loading as
 Enoch goes below decks to pray for a safe journey. With the weight of
