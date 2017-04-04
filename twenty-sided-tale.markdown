@@ -184,7 +184,7 @@ crusades of Ubrin Lorich. Three generations had passed since Ubrin and
 his companions freed the isle of Grey Moor from its natural occupants;
 the orcs. These stories were grand, elaborate and verbose. I will not
 burden your ear with the stories in full Elvish song, but know that to
-the children of Greymoor these songs were as intoxicating as fine
+the children of Grey Moor these songs were as intoxicating as fine
 wine. Idolization of Ubrin and his friends was assured.
 
 "Ubrin had, with the aid of his friends, hunted down and killed every
@@ -207,7 +207,7 @@ no man should have dominion over another. Aaron lived many years and
 saw Bayhaven grow from fledgling town to a city that drew trade ships.
 It was during this time that so many races came to settle in Grey
 Moor. Despite the usual tensions that exist whenever dwarf, human and
-halfling live in such close proximity, Greymoor and its (lack of)
+halfling live in such close proximity, Grey Moor and its (lack of)
 politics kept these disagreements to a minimum.
 
 It is during Aaron's tenure that the first mention of the Monks of the
@@ -241,7 +241,7 @@ peaceful tenure, he made one error that would eventually engulf the
 island in civil war: He levied a tax on ships stopping in port, simply
 for upkeep of the docks themselves. While this is customary in all
 other ports, this was the first time that such a thing had been done
-on Greymoor. Without knowledge or intent, Aaron created a government.
+on Grey Moor. Without knowledge or intent, Aaron created a government.
 The office of the protector passed to his son, Reginald."
 
 During childhood the fact did not escape Eomier that while there were
@@ -648,7 +648,7 @@ Sagemaster Teerin Forwinol
 > deal.
 
 The party discusses their plans, considering whether to go straight to
-Greymoor or to stop at Mar Talos on the way back. Lucian decides to
+Grey Moor or to stop at Mar Talos on the way back. Lucian decides to
 stay and help the people rebuild their town. Eomier looks sternly at
 Lucian and just as sternly says, "Stay away from my girlfriend."
 
